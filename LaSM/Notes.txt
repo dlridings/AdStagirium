@@ -1,2 +1,2 @@
 LaSM 1.29-30 is difficult, particularly the beginning of 1.29. Look at the film.
-
+Fix captial letters when they weren't in the manuscript (beginning of sentences)
