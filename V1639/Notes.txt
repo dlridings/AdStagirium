@@ -3,4 +3,6 @@ The <ab> nrs skipped a number around 1.1.8 and forward.
 1.2.6 is a good candidate to compare
 1.2.12 first token ? line 23 column 2
 2.39 is a good candidate. variants of ἀποικίσαι ἀποκλεῖσαι
+3.64 - re-read
+Chapter 4 267v18
 
