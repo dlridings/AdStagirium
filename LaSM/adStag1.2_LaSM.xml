@@ -14,7 +14,7 @@
 <p>Temporary sourceDesc for validation</p>
 </sourceDesc>
 </fileDesc>
-</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.2"><ab n="adStag1.2.1"><w>Ἐπειδὴ</w><w>οὖν</w><w>ταῦτα</w><w>ἀπήγγειλεν</w>
+</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.2"><ab n="adStag1.2.1"><w>ἐπειδὴ</w><w>οὖν</w><w>ταῦτα</w><w>ἀπήγγειλεν</w>
 <lb n="PCL-LaSM"/><w>ἐκεῖνος</w><w>τοσαύτην</w><w>ἡμῖν</w><w>κατέ
 <lb n="PCL-LaSM" break="no"/>χεε</w><w>τὴν</w><w>ἀχλὺν</w><w>ὅσην</w><w>ὁ</w><w>δαί
 <lb n="PCL-LaSM" break="no"/>μων</w><w>οὗτος</w><w>τῇ</w><w>ἀγάπῃ</w><w>τῇ</w><w>σῇ</w>
@@ -82,75 +82,75 @@
 <lb n="P3brC2L-LaSM"/><w>καὶ</w><w>ἀφόρητα</w><w>πρὶν</w><w>ἐξετα
 <lb n="P3brC2L-LaSM" break="no"/>σθῆναι</w><w>καλῶς</w></ab><ab n="adStag1.2.12"><w>εἰ</w><w>δέ</w><w>τις</w><w>αὐ
 <lb n="P3brC2L-LaSM" break="no"/>τὰ</w><w>τῷ</w><w>λογισμῷ</w><w>διασκέψηται</w>
-<pb n="4%CE%B1v" type="folio" xml:id="P4%CE%B1v-LaSM"/>
-<cb n="P4%CE%B1vC1-LaSM"/>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>εὑρήσει</w><w>πολλῷ</w><w>τῆς</w><w>ὑπονοί
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>ας</w><w>ὄντα</w><w>καταδεέστερα</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>ὅπερ</w><w>καὶ</w><w>νῦν</w><w>ἐλπίζω</w><w>γε
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>νήσεσθαι</w></ab><ab n="adStag1.2.13"><w>ἀλλὰ</w><w>διανάστη
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>σον</w><w>σαυτὸν</w><w>καὶ</w><w>μὴ</w><w>τῇ</w><w>μα
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>ταίᾳ</w><w>καὶ</w><w>ἀλόγῳ</w><w>τῶν</w><w>πολ
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>λῶν</w><w>ἑπόμενος</w><w>δόξῃ</w><w>σφο
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>δρότερον</w><w>ἐργάσῃ</w><w>καθ’</w><w>ἡ
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>μῶν</w><w>τὸν</w><w>ἐχθρόν</w></ab><ab n="adStag1.2.14"><w>εἰ</w><w>μὲν</w><w>οὖν</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>πρός</w><w>τινά</w><w>μοι</w><w>τῶν</w><w>ἀπίστων</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>ὁ</w><w>λόγος</w><w>ἦν</w><w>ἢ</w><w>τῶν</w><w>αὐτομά
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>τως</w><w>ἅπαντα</w><w>φέρεσθαι</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>νομιζόντων</w><w>ἢ</w><w>τῶν</w><w>πονη
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>ροῖς</w><w>δαιμονίοις</w><w>τοῦ</w><w>κόσ
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>μου</w><w>τὴν</w><w>πρόνοιαν</w><w>ἀνατι
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>θέντων</w><w>πολλῆς</w><w>ἄν</w><w>μοι</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>πραγματείας</w><w>ἐδέησεν</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>ἵνα</w><w>πρῶτον</w><w>τὴν</w><w>πεπλανη
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>μένην</w><w>δόξαν</w><w>ἐκβαλὼν</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>καὶ</w><w>πείσας</w><w>εἰδέναι</w><w>τὴν</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>ἀληθῆ</w><w>τοῦ</w><w>παντὸς</w><w>πρό
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>νοιαν</w><w>οὕτως</w><w>ἐπὶ</w><w>τὸ</w><w>πα
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>ρακαλεῖν</w><w>τρέψω</w><w>τὸν</w><w>λόγον</w>
-<lb n="P4%CE%B1vC1L-LaSM"/></ab><ab n="adStag1.2.15"><w>ἐπειδὴ</w><w>δὲ</w><w>τῇ</w><w>τοῦ</w><w>Θεοῦ</w><w>χάριτι</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>ἀπὸ</w><w>βρέφους</w><w>τὰ</w><w>ἱερὰ</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>γράμματα</w><w>οἶδας</w><w>καὶ</w><w>τὰ</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>ἀληθῆ</w><w>καὶ</w><w>σωτήρια</w><w>δόγματα</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>διαδεξάμενος</w><w>ἐκ</w><w>προγό
-<lb n="P4%CE%B1vC1L-LaSM" break="no"/>νων</w><w>πιστεύεις</w><w>ἀκριβῶς</w>
-<lb n="P4%CE%B1vC1L-LaSM"/><w>ὅτι</w><w>μέλει</w><w>περὶ</w><w>πάντων</w>
-<cb n="P4%CE%B1vC2-LaSM"/>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>τῷ</w><w>Θεῷ</w><w>καὶ</w><w>μάλιστα</w><w>τῶν</w><w>πι
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>στευόντων</w><w>αὐτῷ</w><w>τοῦτο</w><w>ἀφέν
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>τες</w><w>τὸ</w><w>μέρος</w><w>ἑτέρωθεν</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>ποιησώμεθα</w><w>τὴν</w><w>ἀρχήν</w>
-<lb n="P4%CE%B1vC2L-LaSM"/></ab><ab n="adStag1.2.16"><w>Ἐπειδὴ</w><w>τοὺς</w><w>ἀγγέλους</w><w>ἐποίη
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>σεν</w><w>ὁ</w><w>Θεός</w><w>μᾶλλον</w><w>δὲ</w><w>ἀνωτέ
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>ρω</w><w>τὸν</w><w>λόγον</w><w>ἀγάγωμεν</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>πρὶν</w><w>τοὺς</w><w>ἀγγέλους</w><w>γενέ
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>σθαι</w><w>καὶ</w><w>τὰς</w><w>ἄλλας</w><w>δυνά
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>μεις</w><w>τὰς</w><w>ἐν</w><w>τοῖς</w><w>οὐρανοῖς</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>ἦν</w><w>ὁ</w><w>Θεὸς</w><w>ἀρχὴν</w><w>οὐδέποτε</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>τοῦ</w><w>εἶναι</w><w>λαβών</w></ab><ab n="adStag1.2.17"><w>ἀνενδε
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>ὴς</w><w>δὲ</w><w>ὢν</w><w>ἀεὶ</w><w>τοιοῦτον</w><w>γὰρ</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>τὸ</w><w>Θεῖον</w><w>ἐποίησεν</w><w>ἀγγέ
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>λους</w><w>ἀρχαγγέλους</w><w>καὶ</w><w>τὰς</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>ἄλλας</w><w>τῶν</w><w>ἀσωμάτων</w><w>οὐ
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>σίας</w><w>ἐποίησεν</w><w>δὲ</w><w>δι’</w><w>ἕτερον</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>μὲν</w><w>οὐδὲν</w><w>δι’</w><w>ἀγαθότητα</w><w>δὲ</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>μόνην</w></ab><ab n="adStag1.2.18"><w>ὧν</w><w>γὰρ</w><w>τῆς</w><w>θερα
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>πείας</w><w>οὐκ</w><w>ἔχρῃζεν</w><w>τού
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>των</w><w>οὐδ’</w><w>ἂν</w><w>δημιουργὸς</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>ἐγένετο</w><w>μὴ</w><w>σφόδρα</w><w>ὦν</w><w>ἀγα
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>θός</w></ab><ab n="adStag1.2.19"><w>μετὰ</w><w>δὲ</w><w>τὴν</w><w>τού
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>των</w><w>δημιουργίαν</w><w>ποιεῖ</w><w>καὶ</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>τὸν</w><w>ἄνθρωπον</w><w>διὰ</w><w>τὴν</w><w>αὐτὴν</w><w>ταύ
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>την</w><w>πάλιν</w><w>αἰτίαν</w><w>καὶ</w><w>τὸν</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>κόσμον</w><w>ἅπαντα</w><w>τοῦτον</w>
-<lb n="P4%CE%B1vC2L-LaSM"/></ab><ab n="adStag1.2.20"><w>Καὶ</w><w>μυρίων</w><w>αὐτὸν</w><w>ἐμπλήσας</w>
-<lb n="P4%CE%B1vC2L-LaSM"/><w>ἀγαθῶν</w><w>τὸν</w><w>μικρὸν</w><w>ἐκεῖ
-<lb n="P4%CE%B1vC2L-LaSM" break="no"/>νον</w><w>καὶ</w><w>εὐτελῆ</w><w>τοῖς</w><w>τοσούτοις</w>
+<pb n="4av" type="folio" xml:id="P4av-LaSM"/>
+<cb n="P4avC1-LaSM"/>
+<lb n="P4avC1L-LaSM"/><w>εὑρήσει</w><w>πολλῷ</w><w>τῆς</w><w>ὑπονοί
+<lb n="P4avC1L-LaSM" break="no"/>ας</w><w>ὄντα</w><w>καταδεέστερα</w>
+<lb n="P4avC1L-LaSM"/><w>ὅπερ</w><w>καὶ</w><w>νῦν</w><w>ἐλπίζω</w><w>γε
+<lb n="P4avC1L-LaSM" break="no"/>νήσεσθαι</w></ab><ab n="adStag1.2.13"><w>ἀλλὰ</w><w>διανάστη
+<lb n="P4avC1L-LaSM" break="no"/>σον</w><w>σαυτὸν</w><w>καὶ</w><w>μὴ</w><w>τῇ</w><w>μα
+<lb n="P4avC1L-LaSM" break="no"/>ταίᾳ</w><w>καὶ</w><w>ἀλόγῳ</w><w>τῶν</w><w>πολ
+<lb n="P4avC1L-LaSM" break="no"/>λῶν</w><w>ἑπόμενος</w><w>δόξῃ</w><w>σφο
+<lb n="P4avC1L-LaSM" break="no"/>δρότερον</w><w>ἐργάσῃ</w><w>καθ’</w><w>ἡ
+<lb n="P4avC1L-LaSM" break="no"/>μῶν</w><w>τὸν</w><w>ἐχθρόν</w></ab><ab n="adStag1.2.14"><w>εἰ</w><w>μὲν</w><w>οὖν</w>
+<lb n="P4avC1L-LaSM"/><w>πρός</w><w>τινά</w><w>μοι</w><w>τῶν</w><w>ἀπίστων</w>
+<lb n="P4avC1L-LaSM"/><w>ὁ</w><w>λόγος</w><w>ἦν</w><w>ἢ</w><w>τῶν</w><w>αὐτομά
+<lb n="P4avC1L-LaSM" break="no"/>τως</w><w>ἅπαντα</w><w>φέρεσθαι</w>
+<lb n="P4avC1L-LaSM"/><w>νομιζόντων</w><w>ἢ</w><w>τῶν</w><w>πονη
+<lb n="P4avC1L-LaSM" break="no"/>ροῖς</w><w>δαιμονίοις</w><w>τοῦ</w><w>κόσ
+<lb n="P4avC1L-LaSM" break="no"/>μου</w><w>τὴν</w><w>πρόνοιαν</w><w>ἀνατι
+<lb n="P4avC1L-LaSM" break="no"/>θέντων</w><w>πολλῆς</w><w>ἄν</w><w>μοι</w>
+<lb n="P4avC1L-LaSM"/><w>πραγματείας</w><w>ἐδέησεν</w>
+<lb n="P4avC1L-LaSM"/><w>ἵνα</w><w>πρῶτον</w><w>τὴν</w><w>πεπλανη
+<lb n="P4avC1L-LaSM" break="no"/>μένην</w><w>δόξαν</w><w>ἐκβαλὼν</w>
+<lb n="P4avC1L-LaSM"/><w>καὶ</w><w>πείσας</w><w>εἰδέναι</w><w>τὴν</w>
+<lb n="P4avC1L-LaSM"/><w>ἀληθῆ</w><w>τοῦ</w><w>παντὸς</w><w>πρό
+<lb n="P4avC1L-LaSM" break="no"/>νοιαν</w><w>οὕτως</w><w>ἐπὶ</w><w>τὸ</w><w>πα
+<lb n="P4avC1L-LaSM" break="no"/>ρακαλεῖν</w><w>τρέψω</w><w>τὸν</w><w>λόγον</w>
+<lb n="P4avC1L-LaSM"/></ab><ab n="adStag1.2.15"><w>ἐπειδὴ</w><w>δὲ</w><w>τῇ</w><w>τοῦ</w><w>Θεοῦ</w><w>χάριτι</w>
+<lb n="P4avC1L-LaSM"/><w>ἀπὸ</w><w>βρέφους</w><w>τὰ</w><w>ἱερὰ</w>
+<lb n="P4avC1L-LaSM"/><w>γράμματα</w><w>οἶδας</w><w>καὶ</w><w>τὰ</w>
+<lb n="P4avC1L-LaSM"/><w>ἀληθῆ</w><w>καὶ</w><w>σωτήρια</w><w>δόγματα</w>
+<lb n="P4avC1L-LaSM"/><w>διαδεξάμενος</w><w>ἐκ</w><w>προγό
+<lb n="P4avC1L-LaSM" break="no"/>νων</w><w>πιστεύεις</w><w>ἀκριβῶς</w>
+<lb n="P4avC1L-LaSM"/><w>ὅτι</w><w>μέλει</w><w>περὶ</w><w>πάντων</w>
+<cb n="P4avC2-LaSM"/>
+<lb n="P4avC2L-LaSM"/><w>τῷ</w><w>Θεῷ</w><w>καὶ</w><w>μάλιστα</w><w>τῶν</w><w>πι
+<lb n="P4avC2L-LaSM" break="no"/>στευόντων</w><w>αὐτῷ</w><w>τοῦτο</w><w>ἀφέν
+<lb n="P4avC2L-LaSM" break="no"/>τες</w><w>τὸ</w><w>μέρος</w><w>ἑτέρωθεν</w>
+<lb n="P4avC2L-LaSM"/><w>ποιησώμεθα</w><w>τὴν</w><w>ἀρχήν</w>
+<lb n="P4avC2L-LaSM"/></ab><ab n="adStag1.2.16"><w>ἐπειδὴ</w><w>τοὺς</w><w>ἀγγέλους</w><w>ἐποίη
+<lb n="P4avC2L-LaSM" break="no"/>σεν</w><w>ὁ</w><w>Θεός</w><w>μᾶλλον</w><w>δὲ</w><w>ἀνωτέ
+<lb n="P4avC2L-LaSM" break="no"/>ρω</w><w>τὸν</w><w>λόγον</w><w>ἀγάγωμεν</w>
+<lb n="P4avC2L-LaSM"/><w>πρὶν</w><w>τοὺς</w><w>ἀγγέλους</w><w>γενέ
+<lb n="P4avC2L-LaSM" break="no"/>σθαι</w><w>καὶ</w><w>τὰς</w><w>ἄλλας</w><w>δυνά
+<lb n="P4avC2L-LaSM" break="no"/>μεις</w><w>τὰς</w><w>ἐν</w><w>τοῖς</w><w>οὐρανοῖς</w>
+<lb n="P4avC2L-LaSM"/><w>ἦν</w><w>ὁ</w><w>Θεὸς</w><w>ἀρχὴν</w><w>οὐδέποτε</w>
+<lb n="P4avC2L-LaSM"/><w>τοῦ</w><w>εἶναι</w><w>λαβών</w></ab><ab n="adStag1.2.17"><w>ἀνενδε
+<lb n="P4avC2L-LaSM" break="no"/>ὴς</w><w>δὲ</w><w>ὢν</w><w>ἀεὶ</w><w>τοιοῦτον</w><w>γὰρ</w>
+<lb n="P4avC2L-LaSM"/><w>τὸ</w><w>Θεῖον</w><w>ἐποίησεν</w><w>ἀγγέ
+<lb n="P4avC2L-LaSM" break="no"/>λους</w><w>ἀρχαγγέλους</w><w>καὶ</w><w>τὰς</w>
+<lb n="P4avC2L-LaSM"/><w>ἄλλας</w><w>τῶν</w><w>ἀσωμάτων</w><w>οὐ
+<lb n="P4avC2L-LaSM" break="no"/>σίας</w><w>ἐποίησεν</w><w>δὲ</w><w>δι’</w><w>ἕτερον</w>
+<lb n="P4avC2L-LaSM"/><w>μὲν</w><w>οὐδὲν</w><w>δι’</w><w>ἀγαθότητα</w><w>δὲ</w>
+<lb n="P4avC2L-LaSM"/><w>μόνην</w></ab><ab n="adStag1.2.18"><w>ὧν</w><w>γὰρ</w><w>τῆς</w><w>θερα
+<lb n="P4avC2L-LaSM" break="no"/>πείας</w><w>οὐκ</w><w>ἔχρῃζεν</w><w>τού
+<lb n="P4avC2L-LaSM" break="no"/>των</w><w>οὐδ’</w><w>ἂν</w><w>δημιουργὸς</w>
+<lb n="P4avC2L-LaSM"/><w>ἐγένετο</w><w>μὴ</w><w>σφόδρα</w><w>ὦν</w><w>ἀγα
+<lb n="P4avC2L-LaSM" break="no"/>θός</w></ab><ab n="adStag1.2.19"><w>μετὰ</w><w>δὲ</w><w>τὴν</w><w>τού
+<lb n="P4avC2L-LaSM" break="no"/>των</w><w>δημιουργίαν</w><w>ποιεῖ</w><w>καὶ</w>
+<lb n="P4avC2L-LaSM"/><w>τὸν</w><w>ἄνθρωπον</w><w>διὰ</w><w>τὴν</w><w>αὐτὴν</w><w>ταύ
+<lb n="P4avC2L-LaSM" break="no"/>την</w><w>πάλιν</w><w>αἰτίαν</w><w>καὶ</w><w>τὸν</w>
+<lb n="P4avC2L-LaSM"/><w>κόσμον</w><w>ἅπαντα</w><w>τοῦτον</w>
+<lb n="P4avC2L-LaSM"/></ab><ab n="adStag1.2.20"><w>Καὶ</w><w>μυρίων</w><w>αὐτὸν</w><w>ἐμπλήσας</w>
+<lb n="P4avC2L-LaSM"/><w>ἀγαθῶν</w><w>τὸν</w><w>μικρὸν</w><w>ἐκεῖ
+<lb n="P4avC2L-LaSM" break="no"/>νον</w><w>καὶ</w><w>εὐτελῆ</w><w>τοῖς</w><w>τοσούτοις</w>
 <pb n="4br" type="folio" xml:id="P4br-LaSM"/>
 <cb n="P4brC1-LaSM"/>
 <lb n="P4brC1L-LaSM"/><w>ἔργοις</w><w>ἐπέστησεν</w><w>τοῦτο</w><w>αὐ
 <lb n="P4brC1L-LaSM" break="no"/>τὸν</w><w>ἀποφήνας</w><w>ἐπὶ</w><w>τῆς</w><w>γῆς</w>
 <lb n="P4brC1L-LaSM"/><w>ὅπερ</w><w>ἐστὶν</w><w>αὐτὸς</w><w>ἐν</w><w>τοῖς</w>
-<lb n="P4brC1L-LaSM"/><w>οὐρανοῖς</w></ab><ab n="adStag1.2.21"><w>Τὸ</w><w>γὰρ</w><w>ποιήσωμεν</w>
+<lb n="P4brC1L-LaSM"/><w>οὐρανοῖς</w></ab><ab n="adStag1.2.21"><w>τὸ</w><w>γὰρ</w><w>ποιήσωμεν</w>
 <lb n="P4brC1L-LaSM"/><w>ἄνθρωπον</w><w>κατ’</w><w>εἰκόνα</w><w>ἡμετέραν</w>
 <lb n="P4brC1L-LaSM"/><w>καὶ</w><w>καθ’</w><w>ὁμοίωσιν</w><w>οὐδὲν</w>
 <lb n="P4brC1L-LaSM"/><w>ἕτερόν</w><w>ἐστιν</w><w>ἢ</w><w>τὸ</w><w>καὶ</w><w>αὐτὸν</w>
@@ -185,7 +185,7 @@
 <lb n="P4brC2L-LaSM"/><w>παῦλός</w><w>φησιν</w></ab><ab n="adStag1.2.27"><w>οὐ</w><w>γὰρ</w><w>ἐ
 <lb n="P4brC2L-LaSM" break="no"/>κτίσθη</w><w>ἀνὴρ</w><w>διὰ</w><w>τὴν</w><w>γυναῖ
 <lb n="P4brC2L-LaSM" break="no"/>κα</w><w>ἀλλὰ</w><w>γυνὴ</w><w>διὰ</w><w>τὸν</w><w>ἄνδρα</w>
-<lb n="P4brC2L-LaSM"/></ab><ab n="adStag1.2.28"><w>Οὐ</w><w>τούτοις</w><w>δὲ</w><w>μόνοις</w><w>αὐτὸν</w>
+<lb n="P4brC2L-LaSM"/></ab><ab n="adStag1.2.28"><w>οὐ</w><w>τούτοις</w><w>δὲ</w><w>μόνοις</w><w>αὐτὸν</w>
 <lb n="P4brC2L-LaSM"/><w>ἀπεσέμνυνεν</w><w>ἀλλὰ</w><w>καὶ</w>
 <lb n="P4brC2L-LaSM"/><w>λόγον</w><w>μόνῳ</w><w>τῶν</w><w>πάντων</w>
 <lb n="P4brC2L-LaSM"/><w>ἐχαρίσατο</w><w>καὶ</w><w>τῆς</w><w>αὐτοῦ</w>
@@ -201,7 +201,7 @@
 <lb n="P4brC2L-LaSM"/></ab><ab n="adStag1.2.29"><w>καὶ</w><w>ταῦτα</w><w>πάντα</w><w>ἐδωρή
 <lb n="P4brC2L-LaSM" break="no"/>σατο</w><w>οὐδενὸς</w><w>προϋπηργ
 <lb n="P4brC2L-LaSM" break="no"/>μένου</w><w>κατορθώματος</w>
-<lb n="P4brC2L-LaSM"/><w>παρ’</w><w>αὐτοῦ</w></ab><ab n="adStag1.2.30"><w>Τί</w><w>οὖν</w><w>μετὰ</w>
+<lb n="P4brC2L-LaSM"/><w>παρ’</w><w>αὐτοῦ</w></ab><ab n="adStag1.2.30"><w>τί</w><w>οὖν</w><w>μετὰ</w>
 <lb n="P4brC2L-LaSM"/><w>τοσαῦτα</w><w>καὶ</w><w>τηλικαῦτα</w>
 <lb n="P4brC2L-LaSM"/><w>ἀγαθά</w></ab><ab n="adStag1.2.31"><w>πιστότερον</w><w>τοῦ</w><w>ταῦ
 <lb n="P4brC2L-LaSM" break="no"/>τα</w><w>δωρησαμένου</w><w>τὸν</w><w>ἐ
@@ -220,7 +220,7 @@
 <lb n="P5avC1L-LaSM" break="no"/>δειξαμένου</w><w>πρὸς</w><w>αὐτὸν</w>
 <lb n="P5avC1L-LaSM"/><w>ἐκείνου</w><w>ἀλλὰ</w><w>ῥήματα</w><w>προ
 <lb n="P5avC1L-LaSM" break="no"/>σενέγκαντος</w><w>μόνον</w><w>αὐτῷ</w>
-<lb n="P5avC1L-LaSM"/></ab><ab n="adStag1.2.33"><w>Ἆρ’οὖν</w><w>ἐξήλειψεν</w><w>αὐτὸν</w><w>ὁ</w><w>Θεὸς</w>
+<lb n="P5avC1L-LaSM"/></ab><ab n="adStag1.2.33"><w>ἆρ’οὖν</w><w>ἐξήλειψεν</w><w>αὐτὸν</w><w>ὁ</w><w>Θεὸς</w>
 <lb n="P5avC1L-LaSM"/><w>τοσαύτην</w><w>ἀγνωμοσύνην</w>
 <lb n="P5avC1L-LaSM"/><w>ἐξ</w><w>ἀρχῆς</w><w>καὶ</w><w>ἀπ’</w><w>αὐτῆς</w><w>ὡς</w>
 <lb n="P5avC1L-LaSM"/><w>εἰπεῖν</w><w>γραμμῆς</w><w>ἐπιδειξά
@@ -271,10 +271,10 @@
 <lb n="P5avC2L-LaSM"/><w>ἐξ</w><w>ἐκείνων</w><w>καὶ</w><w>τὰ</w><w>ἐκ</w><w>τού
 <lb n="P5avC2L-LaSM" break="no"/>των</w><w>ὑπὲρ</w><w>τῆς</w><w>τούτου</w><w>σωτηρίας</w>
 <lb n="P5avC2L-LaSM"/><w>ἐγένετο</w><w>καὶ</w><w>τιμῆς</w><w>καὶ</w><w>ὑπὲρ</w>
-<pb n="5bv" type="folio" xml:id="P5bv-LaSM"/>
-<cb n="P5bvC1-LaSM"/>
-<lb n="P5bvC1L-LaSM"/><w>μὲν</w><w>τῶν</w><w>προτέρων</w><w>οὐδὲν</w>
-<lb n="P5bvC1L-LaSM"/><w>ἂν</w><w>εἴποιμι</w><w>παντὶ</w><w>γὰρ</w><w>δῆ
-<lb n="P5bvC1L-LaSM" break="no"/>λόν</w><w>ἐστι</w><w>δεῖ</w><w>δὲ</w><app><rdg type="orig" hand="firsthand"><w>τῶν</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P5bvC1L-LaSM"><w>τὸν</w></seg></rdg></app><w>ὑπὲρ</w>
-<lb n="P5bvC1L-LaSM"/><w>τῶν</w><w>μετὰ</w><w>ταῦτα</w><w>δοῦναι</w><w>λόγον</w>
-<lb n="P5bvC1L-LaSM"/></ab></div></div></body></text></TEI>
+<pb n="5br" type="folio" xml:id="P5br-LaSM"/>
+<cb n="P5brC1-LaSM"/>
+<lb n="P5brC1L-LaSM"/><w>μὲν</w><w>τῶν</w><w>προτέρων</w><w>οὐδὲν</w>
+<lb n="P5brC1L-LaSM"/><w>ἂν</w><w>εἴποιμι</w><w>παντὶ</w><w>γὰρ</w><w>δῆ
+<lb n="P5brC1L-LaSM" break="no"/>λόν</w><w>ἐστι</w><w>δεῖ</w><w>δὲ</w><app><rdg type="orig" hand="firsthand"><w>τῶν</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P5brC1L-LaSM"><w>τὸν</w></seg></rdg></app><w>ὑπὲρ</w>
+<lb n="P5brC1L-LaSM"/><w>τῶν</w><w>μετὰ</w><w>ταῦτα</w><w>δοῦναι</w><w>λόγον</w>
+<lb n="P5brC1L-LaSM"/></ab></div></div></body></text></TEI>
