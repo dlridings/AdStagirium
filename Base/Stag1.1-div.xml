@@ -1,3 +1,22 @@
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A transcription of in Base</title>
+<title type="document" n="Base">Base</title>
+</titleStmt>
+<publicationStmt>
+<p>Temporary PublicationStmt for validation</p>
+</publicationStmt>
+<sourceDesc>
+<p>Temporary sourceDesc for validation</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="book" n="adStag1">
 <div type="chapter" n="adStag1.1">
 <w>αʹ</w>
 <ab/>
@@ -916,3 +935,7 @@
 <w>εὑρεῖν</w>
 </ab>
 </div>
+</div>
+</body>
+</text>
+</TEI>
