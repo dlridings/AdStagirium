@@ -2,6 +2,18 @@
 
 ## Manuscripts
 
-Manuscript | Logos 1 | Logos 2 | Logos 3 |
-|----------| --------| --------| --------|
-
+| Manuscript | Pages | Date | Extent | Signum | Logos 1 | Logos 2 | Logos 3 |
+|------------| ------ |----- | ----- | ------ | ------- | ------- | ------- |
+| B II 15 | 39v-90v | End of 9th Dumortier | Whole text | Bas | 1.1-4 | | |
+| Athous Stavronikita 25 | 237-300 | 930-980 Dumortier | Whole text | A25 | 1.1-4 | | |
+| Laurentianus (plut.) 9, (cod.) 22 | 119-180v | a. 974 | Whole text | La22 | 1.1-4 | | |
+| Vaticanus gr. 560 | 23-80v | 10th c | Whole text | Vat560 | missing film | | |
+| Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | | | |
+| Patmiacus 183 | 291v-334v | 11th c | Logos 1, part of Logos 2 (-461,55) | Patm | 1.1-2 | | |
+| Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | | | |
+| Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | |
+| Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-3 | | |
+| Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-3 | | |
+| Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-4 | | |
+| Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-3 | | |
+| Vaticanus gr. 1920 | 19r-81r | 976-1025 | Whole text?| V1920 | 1.1-3 | | |
