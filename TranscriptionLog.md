@@ -12,7 +12,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Vaticanus gr. 560 | 23-80v | 10th c | Whole text | Vat560 | missing film | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | | | | |
 | Patmiacus 183 | 291v-334v | 11th c | Logos 1, part of Logos 2 (-461,55) | Patm | 1.1-4 | | | |
-| Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-3 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
+| Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-4 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-3 | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-3 | | | |
