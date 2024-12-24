@@ -17,5 +17,5 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
 | Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-4 | | | |
-| Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-3 | | | |
+| Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-4 | | | |
 | Vaticanus gr. 1920 | 19r-81r | 976-1025 | Whole text?| V1920 | 1.1-3 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1920 |
