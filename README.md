@@ -20,14 +20,19 @@ That idea has been discarded.
 In the unsorted papers Cajus Fabricius left, I found an order for a manuscript
 made by the university library of Lund University dated 1966.
 
-This is a collection of transcriptions (Greek) to John Chrysostom's Ad Stagirium
+This is a collection of transcriptions (Greek) to John Chrysostom's Ad Stagirium.
+The work was taken over by Ridings in the mid-1990's but got sidetracked by an
+EU project (PAROLE LE2017) that was crashing in Gothenburg and he was asked to
+take over. Ridings had funding and used it to support a graduate student, Ingela
+Nilsson, presently professor in Uppsala. When she moved on to Uppsala, the Department
+of Classics (Greek) evidently cleaned her room out and trashed all transcriptions and
+copies of manuscripts she left behind. That put a big dent in the work.
+
+Ridings had been moving the transcriptions over to a form that Collate, by Peter
+Robinson, could use and presented the status at Oxford.
+
+https://pinakes.irht.cnrs.fr/notices/bibliographie/7ZT3UC43/
 
 2024-11-29
-Two manuscripts for Ad Stagirium book one have been set up, Vat1639 and LaSM.
 
-The first page of each have been transcribed using OTE, the Online Transcription editor
-at Birmingham https://itsee-wce.birmingham.ac.uk/ote/transcriptiontool
-
-The work was exported and id's in the xml were adjusted so that the exported files
-match the names of files in git. They can just be copied over the old file.
-
+I, Ridings, brought it back to life.
