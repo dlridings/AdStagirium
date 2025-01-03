@@ -23,7 +23,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
-| Palatinus gr. 228 | 116-201 | 13th-14th c | Whole text | Pal | In progress | | | https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_228/0243/image,info |
+| Palatinus gr. 228 | 116-201 | 13th-14th c | Whole text | Pal | 1.1-4 | | | https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_228/0243/image,info |
 | Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-4 | | | |
 | Patmiacus 183 | 291v-334v | 11th c | Logos 1, part of Logos 2 (-461,55) | Patm | 1.1-4 | | | |
 | Sinaiticus gr. 1607 | 124-179v | a. 1431 | Whole text | Sin | Prepared | | | https://www.loc.gov/item/00271070172-ms, https://www.loc.gov/manuscripts/?fa=segmentof:amedmonastery.00271070172-ms/&q=1607&st=gallery |
