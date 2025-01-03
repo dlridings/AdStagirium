@@ -1,10 +1,17 @@
 # Transcriptions
 
+Use the Online Transcription Editor at Birmingham to edit transcriptions. No exceptions.
+
+
+https://itsee-wce.birmingham.ac.uk/ote/transcriptiontool
+
+(Unless you really, really know what you are doing and make minor adjustments to the XML by hand. Murphy's Law reigns.)
+
 ## Manuscripts
 
 https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51e378e0759
 
-| Manuscript | Pages | Date | Extent | Signum | Logos 1 | Logos 2 | Logos 3 | Notes |
+| Manuscript | Pages | Date | Extent | Siglum | Logos 1 | Logos 2 | Logos 3 | Notes |
 |------------| ------ |----- | ----- | ------ | ------- | ------- | ------- | ----- |
 | B II 15 | 39v-90v | End of 9th Dumortier | Whole text | Bas | 1.1-4 | | | |
 | Athous Stavronikita 25 | 237-300 | 930-980 Dumortier | Whole text | A25 | 1.1-4 | | | |
