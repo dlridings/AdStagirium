@@ -1,4 +1,3 @@
-
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -14,7 +13,7 @@
 <p>Temporary sourceDesc for validation</p>
 </sourceDesc>
 </fileDesc>
-</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.1"><ab/><ab n="adStag1.1.1"><w>ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλτατε</w>
+</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.1"><ab n="adStag1.1.1"><w>ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλτατε</w>
 <lb n="PCL-LaSM"/><w>πάντων</w><w>ἐμοὶ</w><w>σταγείριε</w>
 <lb n="PCL-LaSM"/><w>καὶ</w><w>παρεῖναί</w><w>σοι</w><w>νῦν</w><w>καὶ</w>
 <lb n="PCL-LaSM"/><w>συνδιαταλαιπωρεῖσθαι</w>
@@ -23,7 +22,7 @@
 <lb n="PCL-LaSM"/><w>καὶ</w><w>ἄλλα</w><w>πάντα</w><w>συλ
 <lb n="PCL-LaSM" break="no"/>λαμβάνοντα</w><w>μέρος</w><w>τί</w>
 <lb n="PCL-LaSM"/><w>τῆς</w><w>ἀθυμίας</w><w>ἐπικουφίζειν</w>
-<lb n="PCL-LaSM"/></ab><ab/><ab n="adStag1.1.2"><w>ὅσον</w><w>ἡμῖν</w><w>δυνατὸν</w><w>ἦν</w><space unit="char" extent="2"/>
+<lb n="PCL-LaSM"/></ab><ab n="adStag1.1.2"><w>ὅσον</w><w>ἡμῖν</w><w>δυνατὸν</w><w>ἦν</w><space unit="char" extent="2"/>
 <lb n="PCL-LaSM"/></ab><ab n="adStag1.1.3"><w>ἐπειδὴ</w><w>δὲ</w><w>ἡ</w><w>τοῦ</w><w>σώματος</w>
 <lb n="PCL-LaSM"/><w>ἀσθένεια</w><w>καὶ</w><w>τὸ</w><w>κατασκῆ
 <lb n="PCL-LaSM" break="no"/>ψαν</w><w>τῇ</w><w>κεφαλῇ</w><w>κακὸν</w><w>οἴ
