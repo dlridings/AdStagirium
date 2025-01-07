@@ -23,7 +23,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
-| Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | prepared | | | |
+| Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-2 in progress  | | | |
 | Palatinus gr. 228 | 116-201 | 13th-14th c | Whole text | Pal | 1.1-4 | | | https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_228/0243/image,info |
 | Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-4 | | | |
 | Parisinus gr. 818 (Colbertinus 3145) | 16-40 | 12th c | Whole text, minus pages | P18 | 1.1, on hold, many gaps | | | https://portail.biblissima.fr/fr/ark:/43093/mdatab9e5acd79e31d36c96adf3c939d53b6f1d66db8f |

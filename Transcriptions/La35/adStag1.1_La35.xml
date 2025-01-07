@@ -1,4 +1,3 @@
-
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -14,7 +13,7 @@
 <p>Temporary sourceDesc for validation</p>
 </sourceDesc>
 </fileDesc>
-</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.1"><ab/><ab n="adStag1.1.1"><w>ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλτατε</w>
+</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.1"><ab n="adStag1.1.1"><w>ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλτατε</w>
 <lb n="PCL-La35"/><w>πάντων</w><w>ἐμοὶ</w><w>sταγείριε</w><w>καὶ</w>
 <lb n="PCL-La35"/><w>παρεῖναί</w><w>σοι</w><w>νῦν</w><w>καὶ</w><w>συν
 <lb n="PCL-La35" break="no"/>διαταλαιπωρεῖσθαι</w><w>καὶ</w>
@@ -22,7 +21,7 @@
 <lb n="PCL-La35"/><w>ἔργῳ</w><w>διακονούμενον</w><w>καὶ</w>
 <lb n="PCL-La35"/><w>τὰ</w><w>ἄλλα</w><w>πάντα</w><w>συλλαμ
 <lb n="PCL-La35" break="no"/>βάνοντα</w><w>μέρος</w><w>τι</w><w>τῆς</w><w>ἀ
-<lb n="PCL-La35" break="no"/>θυμίας</w><w>ἐπικουφίζειν</w></ab><ab/><ab n="adStag1.1.2"><w>ὅ
+<lb n="PCL-La35" break="no"/>θυμίας</w><w>ἐπικουφίζειν</w></ab><ab n="adStag1.1.2"><w>ὅ
 <lb n="PCL-La35" break="no"/>σον</w><w>ἡμῖν</w><w>δυνατὸν</w><w>ἦν</w></ab><ab n="adStag1.1.3"><w>ἐπει
 <lb n="PCL-La35" break="no"/>δὴ</w><w>δὲ</w><w>ἡ</w><w>τοῦ</w><w>σώματος</w><w>ἀσθέ
 <lb n="PCL-La35" break="no"/>νεια</w><w>καὶ</w><w>τὸ</w><w>κατασκῆ

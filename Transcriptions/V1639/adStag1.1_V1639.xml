@@ -1,4 +1,3 @@
-
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -14,14 +13,14 @@
 <p>Temporary sourceDesc for validation</p>
 </sourceDesc>
 </fileDesc>
-</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.1"><ab/><ab n="adStag1.1.1"><w>Ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλτατε</w><w>πάν
+</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.1"><ab n="adStag1.1.1"><w>Ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλτατε</w><w>πάν
 <lb n="PCL-V1639" break="no"/>των</w><w>ἐμοὶ</w><w>σταγείριε</w><w>καὶ</w><w>παρεῖ
 <lb n="PCL-V1639" break="no"/>ναί</w><w>σοι</w><w>νῦν</w><w>καὶ</w><w>συνδιαταλαι
 <lb n="PCL-V1639" break="no"/>πωρεῖσθαι</w><w>καὶ</w><w>λόγῳ</w><w>παρακα
 <lb n="PCL-V1639" break="no"/>λοῦντας</w><w>καὶ</w><w>ἔργῳ</w><w>διακονούμε
 <lb n="PCL-V1639" break="no"/>νους</w><w>καὶ</w><w>τὰ</w><w>ἄλλα</w><w>πάντα</w><w>συλ
 <lb n="PCL-V1639" break="no"/>λαμβάνοντας</w><space unit="char" extent="2"/><w>μέρος</w><w>τι</w><w>τῆς</w>
-<lb n="PCL-V1639"/><w>ἀθυμίας</w><w>ἐπικουφίζειν</w></ab><ab/><ab n="adStag1.1.2"><w>ὅσον</w>
+<lb n="PCL-V1639"/><w>ἀθυμίας</w><w>ἐπικουφίζειν</w></ab><ab n="adStag1.1.2"><w>ὅσον</w>
 <lb n="PCL-V1639"/><w>ἡμῖν</w><w>δυνατὸν</w><w>ἦν</w><space unit="char" extent="2"/></ab><ab n="adStag1.1.3"><w>ἐπει
 <lb n="PCL-V1639" break="no"/>δὴ</w><w>δὲ</w><w>ἡ</w><w>τοῦ</w><w>σώματος</w><w>ἀσθένεια</w>
 <lb n="PCL-V1639"/><w>καὶ</w><w>τὸ</w><w>κατασκῆψαν</w><w>τῇ</w><w>κεφα
