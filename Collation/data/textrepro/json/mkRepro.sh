@@ -18,7 +18,7 @@ do
 	export ID="${ID}_B01"
 	cat >$DocDir/metadata.json <<EOF
 {
-	"_id" : "$ID"
+	"_id" : "$ID",
 	"siglum" : "$MS"
 }
 EOF
