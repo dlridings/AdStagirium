@@ -17,13 +17,15 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Athous Stavronikita 25 | 237-300 | 930-980 Dumortier | Whole text | A25 | 1.1-4 | | | |
 | Athous Vatopedinus 116 | 314-344 | 14th c | Logos 1-2 | A116 | 1.1-4 | | | |
 | Athous Vatopedinus 336 | 187v-237 | 14th c | Whole text | A336 | 1.1-4 | | | |
+| Hierosolymitanus Sabbaiticus 32 | 3-6 | 1000/1100 | Whole text | S32 | Prepared | | | |
 | Laurentianus (plut.) 9, (cod.) 22 | 119-180v | a. 974 | Whole text | La22 | 1.1-4 | | | |
 | Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-4 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
-| Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 in | | | |
+| Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
+| Neapolitanus gr. 31 (11 A 31) | 123v-210v | 1400- | Whole text | Neap | Prepared | | | |
 | Palatinus gr. 228 | 116-201 | 13th-14th c | Whole text | Pal | 1.1-4 | | | https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_228/0243/image,info |
 | Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-4 | | | |
 | Parisinus gr. 818 (Colbertinus 3145) | 16-40 | 12th c | Whole text, minus pages | P18 | 1.1, on hold, many gaps | | | https://portail.biblissima.fr/fr/ark:/43093/mdatab9e5acd79e31d36c96adf3c939d53b6f1d66db8f |
