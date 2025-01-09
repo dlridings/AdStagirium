@@ -1,0 +1,15 @@
+{
+	"id": "AdStagirium",
+	"name": "Ad Stagirium a daemone vexatum",
+	"book_name": "Ad Stagirium",
+	"language": "grc",
+	"book": 1,
+	"base_text": "TLG_2062_006_Base_B01",
+	"managing_ditor": "default",
+	"editors":	"default",
+	"witnesses":	[
+		"TLG_2062_006_Base_B01",
+		"TLG_2062_006_A25_B01",
+		"TLG_2062_006_A116_B01"
+	]
+}
