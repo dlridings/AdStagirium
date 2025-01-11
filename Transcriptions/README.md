@@ -17,7 +17,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Athous Stavronikita 25 | 237-300 | 930-980 Dumortier | Whole text | A25 | 1.1-4 | | | |
 | Athous Vatopedinus 116 | 314-344 | 14th c | Logos 1-2 | A116 | 1.1-4 | | | |
 | Athous Vatopedinus 336 | 187v-237 | 14th c | Whole text | A336 | 1.1-4 | | | |
-| Hierosolymitanus Sabbaiticus 32 | 3-6 | 1000/1100 | Whole text | S32 | Prepared | | | |
+| Hierosolymitanus Sabbaiticus 32 | 3-76 | 1000/1100 | Whole text | S32 | 1.1 In progress | | | |
 | Laurentianus (plut.) 9, (cod.) 22 | 119-180v | a. 974 | Whole text | La22 | 1.1-4 | | | |
 | Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-4 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
