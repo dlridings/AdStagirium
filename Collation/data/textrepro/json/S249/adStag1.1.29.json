@@ -1,0 +1,146 @@
+{
+    "id": "S249_adStag1.1.29",
+    "transcription": "S249",
+    "transcription_siglum": "S249",
+    "siglum": "S249",
+    "context": "adStag1.1.29",
+    "n": "adStag1.1.29",
+    "plain_text": "ἄγριον γάρ τινα σῦν βορβόρῳ μολυνθέντα πολλῷ συνεχῶς ἐπιπηδᾷν σοι καὶ προσπαλαίειν ἔφη",
+    "witnesses": [
+        {
+            "id": "S249",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἄγριον",
+                    "rule_match": [
+                        "ἄγριον"
+                    ],
+                    "t": "ἄγριον"
+                },
+                {
+                    "index": "4",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "γάρ",
+                    "rule_match": [
+                        "γάρ"
+                    ],
+                    "t": "γάρ"
+                },
+                {
+                    "index": "6",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τινα",
+                    "rule_match": [
+                        "τινα"
+                    ],
+                    "t": "τινα"
+                },
+                {
+                    "index": "8",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "σῦν",
+                    "rule_match": [
+                        "σῦν"
+                    ],
+                    "t": "σῦν"
+                },
+                {
+                    "index": "10",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "βορβόρῳ",
+                    "rule_match": [
+                        "βορβόρῳ"
+                    ],
+                    "t": "βορβόρῳ"
+                },
+                {
+                    "index": "12",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "μολυνθέντα",
+                    "rule_match": [
+                        "μολυνθέντα"
+                    ],
+                    "t": "μολυνθέντα"
+                },
+                {
+                    "index": "14",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "πολλῷ",
+                    "rule_match": [
+                        "πολλῷ"
+                    ],
+                    "t": "πολλῷ"
+                },
+                {
+                    "index": "16",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "συνεχῶς",
+                    "rule_match": [
+                        "συνεχῶς"
+                    ],
+                    "t": "συνεχῶς"
+                },
+                {
+                    "index": "18",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἐπιπηδᾷν",
+                    "rule_match": [
+                        "ἐπιπηδᾷν"
+                    ],
+                    "t": "ἐπιπηδᾷν"
+                },
+                {
+                    "index": "20",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "σοι",
+                    "rule_match": [
+                        "σοι"
+                    ],
+                    "t": "σοι"
+                },
+                {
+                    "index": "22",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "24",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "προσπαλαίειν",
+                    "rule_match": [
+                        "προσπαλαίειν"
+                    ],
+                    "t": "προσπαλαίειν"
+                },
+                {
+                    "index": "26",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἔφη",
+                    "rule_match": [
+                        "ἔφη"
+                    ],
+                    "t": "ἔφη"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "id": "S249_adStag1.1.23",
+    "transcription": "S249",
+    "transcription_siglum": "S249",
+    "siglum": "S249",
+    "context": "adStag1.1.23",
+    "n": "adStag1.1.23",
+    "plain_text": "ἱκανὰ γοῦν ταῦτα θορυβῆσαι ψυχὴν καὶ πολλῆς ἐμπλῆσαι ταραχῆς ἀλλὰ ψυχὴν τὴν παρειμένην καὶ ἀπαίδευτον καὶ νωθράν",
+    "witnesses": [
+        {
+            "id": "S249",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἱκανὰ",
+                    "rule_match": [
+                        "ἱκανὰ"
+                    ],
+                    "t": "ἱκανὰ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "γοῦν",
+                    "rule_match": [
+                        "γοῦν"
+                    ],
+                    "t": "γοῦν"
+                },
+                {
+                    "index": "6",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ταῦτα",
+                    "rule_match": [
+                        "ταῦτα"
+                    ],
+                    "t": "ταῦτα"
+                },
+                {
+                    "index": "8",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "θορυβῆσαι",
+                    "rule_match": [
+                        "θορυβῆσαι"
+                    ],
+                    "t": "θορυβῆσαι"
+                },
+                {
+                    "index": "10",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ψυχὴν",
+                    "rule_match": [
+                        "ψυχὴν"
+                    ],
+                    "t": "ψυχὴν"
+                },
+                {
+                    "index": "12",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "14",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "πολλῆς",
+                    "rule_match": [
+                        "πολλῆς"
+                    ],
+                    "t": "πολλῆς"
+                },
+                {
+                    "index": "16",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἐμπλῆσαι",
+                    "rule_match": [
+                        "ἐμπλῆσαι"
+                    ],
+                    "t": "ἐμπλῆσαι"
+                },
+                {
+                    "index": "18",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ταραχῆς",
+                    "rule_match": [
+                        "ταραχῆς"
+                    ],
+                    "t": "ταραχῆς"
+                },
+                {
+                    "index": "20",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἀλλὰ",
+                    "rule_match": [
+                        "ἀλλὰ"
+                    ],
+                    "t": "ἀλλὰ"
+                },
+                {
+                    "index": "22",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ψυχὴν",
+                    "rule_match": [
+                        "ψυχὴν"
+                    ],
+                    "t": "ψυχὴν"
+                },
+                {
+                    "index": "24",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τὴν",
+                    "rule_match": [
+                        "τὴν"
+                    ],
+                    "t": "τὴν"
+                },
+                {
+                    "index": "26",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "παρειμένην",
+                    "rule_match": [
+                        "παρειμένην"
+                    ],
+                    "t": "παρειμένην"
+                },
+                {
+                    "index": "28",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "30",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἀπαίδευτον",
+                    "rule_match": [
+                        "ἀπαίδευτον"
+                    ],
+                    "t": "ἀπαίδευτον"
+                },
+                {
+                    "index": "32",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "34",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "νωθράν",
+                    "rule_match": [
+                        "νωθράν"
+                    ],
+                    "t": "νωθράν"
+                }
+            ]
+        }
+    ]
+}

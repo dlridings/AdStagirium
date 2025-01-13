@@ -1,0 +1,186 @@
+{
+    "id": "S249_adStag1.1.30",
+    "transcription": "S249",
+    "transcription_siglum": "S249",
+    "siglum": "S249",
+    "context": "adStag1.1.30",
+    "n": "adStag1.1.30",
+    "plain_text": "εἶτα τὸν παρακαθεύδοντα ὑπὸ τῆς ὄψεως ταραχθέντα διεγερθῆναί τε καὶ πάλιν σε κινούμενον ὑπὸ τοῦ δαίμονος εὑρεῖν",
+    "witnesses": [
+        {
+            "id": "S249",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "εἶτα",
+                    "rule_match": [
+                        "εἶτα"
+                    ],
+                    "t": "εἶτα"
+                },
+                {
+                    "index": "4",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τὸν",
+                    "rule_match": [
+                        "τὸν"
+                    ],
+                    "t": "τὸν"
+                },
+                {
+                    "index": "6",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "παρακαθεύδοντα",
+                    "rule_match": [
+                        "παρακαθεύδοντα"
+                    ],
+                    "t": "παρακαθεύδοντα"
+                },
+                {
+                    "index": "8",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ὑπὸ",
+                    "rule_match": [
+                        "ὑπὸ"
+                    ],
+                    "t": "ὑπὸ"
+                },
+                {
+                    "index": "10",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "12",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ὄψεως",
+                    "rule_match": [
+                        "ὄψεως"
+                    ],
+                    "t": "ὄψεως"
+                },
+                {
+                    "index": "14",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ταραχθέντα",
+                    "rule_match": [
+                        "ταραχθέντα"
+                    ],
+                    "t": "ταραχθέντα"
+                },
+                {
+                    "index": "16",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "διεγερθῆναί",
+                    "rule_match": [
+                        "διεγερθῆναί"
+                    ],
+                    "t": "διεγερθῆναί"
+                },
+                {
+                    "index": "18",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τε",
+                    "rule_match": [
+                        "τε"
+                    ],
+                    "t": "τε"
+                },
+                {
+                    "index": "20",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "22",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "πάλιν",
+                    "rule_match": [
+                        "πάλιν"
+                    ],
+                    "t": "πάλιν"
+                },
+                {
+                    "index": "24",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "σε",
+                    "rule_match": [
+                        "σε"
+                    ],
+                    "t": "σε"
+                },
+                {
+                    "index": "26",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "κινούμενον",
+                    "rule_match": [
+                        "κινούμενον"
+                    ],
+                    "t": "κινούμενον"
+                },
+                {
+                    "index": "28",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ὑπὸ",
+                    "rule_match": [
+                        "ὑπὸ"
+                    ],
+                    "t": "ὑπὸ"
+                },
+                {
+                    "index": "30",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τοῦ",
+                    "rule_match": [
+                        "τοῦ"
+                    ],
+                    "t": "τοῦ"
+                },
+                {
+                    "index": "32",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "δαίμονος",
+                    "rule_match": [
+                        "δαίμονος"
+                    ],
+                    "t": "δαίμονος"
+                },
+                {
+                    "index": "34",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "εὑρεῖν",
+                    "rule_match": [
+                        "εὑρεῖν"
+                    ],
+                    "t": "εὑρεῖν"
+                }
+            ]
+        }
+    ]
+}
