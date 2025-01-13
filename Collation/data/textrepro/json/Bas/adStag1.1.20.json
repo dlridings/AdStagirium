@@ -1,0 +1,196 @@
+{
+    "id": "Bas_adStag1.1.20",
+    "transcription": "Bas",
+    "transcription_siglum": "Bas",
+    "siglum": "Bas",
+    "context": "adStag1.1.20",
+    "n": "adStag1.1.20",
+    "plain_text": "καὶ μέχρι μὲν τοῦ παρόντος δυνηθῆναι τὴν μητέρα καὶ συγκαλύψαι τὸ γεγονὸς καὶ ἐπιζητοῦντά σε παρακρούσασθαι πολλάκις αὐτόν",
+    "witnesses": [
+        {
+            "id": "Bas",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μέχρι",
+                    "rule_match": [
+                        "μέχρι"
+                    ],
+                    "t": "μέχρι"
+                },
+                {
+                    "index": "6",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μὲν",
+                    "rule_match": [
+                        "μὲν"
+                    ],
+                    "t": "μὲν"
+                },
+                {
+                    "index": "8",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τοῦ",
+                    "rule_match": [
+                        "τοῦ"
+                    ],
+                    "t": "τοῦ"
+                },
+                {
+                    "index": "10",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παρόντος",
+                    "rule_match": [
+                        "παρόντος"
+                    ],
+                    "t": "παρόντος"
+                },
+                {
+                    "index": "12",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "δυνηθῆναι",
+                    "rule_match": [
+                        "δυνηθῆναι"
+                    ],
+                    "t": "δυνηθῆναι"
+                },
+                {
+                    "index": "14",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τὴν",
+                    "rule_match": [
+                        "τὴν"
+                    ],
+                    "t": "τὴν"
+                },
+                {
+                    "index": "16",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μητέρα",
+                    "rule_match": [
+                        "μητέρα"
+                    ],
+                    "t": "μητέρα"
+                },
+                {
+                    "index": "18",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "20",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "συγκαλύψαι",
+                    "rule_match": [
+                        "συγκαλύψαι"
+                    ],
+                    "t": "συγκαλύψαι"
+                },
+                {
+                    "index": "22",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τὸ",
+                    "rule_match": [
+                        "τὸ"
+                    ],
+                    "t": "τὸ"
+                },
+                {
+                    "index": "24",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "γεγονὸς",
+                    "rule_match": [
+                        "γεγονὸς"
+                    ],
+                    "t": "γεγονὸς"
+                },
+                {
+                    "index": "26",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἐπιζητοῦντά",
+                    "rule_match": [
+                        "ἐπιζητοῦντά"
+                    ],
+                    "t": "ἐπιζητοῦντά"
+                },
+                {
+                    "index": "30",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "σε",
+                    "rule_match": [
+                        "σε"
+                    ],
+                    "t": "σε"
+                },
+                {
+                    "index": "32",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παρακρούσασθαι",
+                    "rule_match": [
+                        "παρακρούσασθαι"
+                    ],
+                    "t": "παρακρούσασθαι"
+                },
+                {
+                    "index": "34",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πολλάκις",
+                    "rule_match": [
+                        "πολλάκις"
+                    ],
+                    "t": "πολλάκις"
+                },
+                {
+                    "index": "36",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "αὐτόν",
+                    "rule_match": [
+                        "αὐτόν"
+                    ],
+                    "t": "αὐτόν"
+                }
+            ]
+        }
+    ]
+}

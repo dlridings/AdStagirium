@@ -1,0 +1,176 @@
+{
+    "id": "A25_adStag1.1.23",
+    "transcription": "A25",
+    "transcription_siglum": "A25",
+    "siglum": "A25",
+    "context": "adStag1.1.23",
+    "n": "adStag1.1.23",
+    "plain_text": "ἱκανὰ ταῦτα θορυβῆσαι ψυχὴν καὶ πολλῆς ἐμπλῆσαι ταραχῆς ἀλλὰ ψυχὴν τὴν παρειμένην καὶ ἀπαίδευτον καὶ νωθράν",
+    "witnesses": [
+        {
+            "id": "A25",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἱκανὰ",
+                    "rule_match": [
+                        "ἱκανὰ"
+                    ],
+                    "t": "ἱκανὰ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ταῦτα",
+                    "rule_match": [
+                        "ταῦτα"
+                    ],
+                    "t": "ταῦτα"
+                },
+                {
+                    "index": "6",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "θορυβῆσαι",
+                    "rule_match": [
+                        "θορυβῆσαι"
+                    ],
+                    "t": "θορυβῆσαι"
+                },
+                {
+                    "index": "8",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ψυχὴν",
+                    "rule_match": [
+                        "ψυχὴν"
+                    ],
+                    "t": "ψυχὴν"
+                },
+                {
+                    "index": "10",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "12",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "πολλῆς",
+                    "rule_match": [
+                        "πολλῆς"
+                    ],
+                    "t": "πολλῆς"
+                },
+                {
+                    "index": "14",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἐμπλῆσαι",
+                    "rule_match": [
+                        "ἐμπλῆσαι"
+                    ],
+                    "t": "ἐμπλῆσαι"
+                },
+                {
+                    "index": "16",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ταραχῆς",
+                    "rule_match": [
+                        "ταραχῆς"
+                    ],
+                    "t": "ταραχῆς"
+                },
+                {
+                    "index": "18",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἀλλὰ",
+                    "rule_match": [
+                        "ἀλλὰ"
+                    ],
+                    "t": "ἀλλὰ"
+                },
+                {
+                    "index": "20",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ψυχὴν",
+                    "rule_match": [
+                        "ψυχὴν"
+                    ],
+                    "t": "ψυχὴν"
+                },
+                {
+                    "index": "22",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "τὴν",
+                    "rule_match": [
+                        "τὴν"
+                    ],
+                    "t": "τὴν"
+                },
+                {
+                    "index": "24",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "παρειμένην",
+                    "rule_match": [
+                        "παρειμένην"
+                    ],
+                    "t": "παρειμένην"
+                },
+                {
+                    "index": "26",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἀπαίδευτον",
+                    "rule_match": [
+                        "ἀπαίδευτον"
+                    ],
+                    "t": "ἀπαίδευτον"
+                },
+                {
+                    "index": "30",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "32",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "νωθράν",
+                    "rule_match": [
+                        "νωθράν"
+                    ],
+                    "t": "νωθράν"
+                }
+            ]
+        }
+    ]
+}

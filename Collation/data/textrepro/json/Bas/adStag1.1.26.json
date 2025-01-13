@@ -1,0 +1,216 @@
+{
+    "id": "Bas_adStag1.1.26",
+    "transcription": "Bas",
+    "transcription_siglum": "Bas",
+    "siglum": "Bas",
+    "context": "adStag1.1.26",
+    "n": "adStag1.1.26",
+    "plain_text": "εἰ γὰρ καὶ ἄπιστα δόξω λέγειν τισὶν ἀλλ’ ὅμως ἐρῶ οὐ γὰρ δὴ μετὰ τῶν ἄλλων καὶ αὐτὸς ἀπιστήσεις ἡμῖν",
+    "witnesses": [
+        {
+            "id": "Bas",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "εἰ",
+                    "rule_match": [
+                        "εἰ"
+                    ],
+                    "t": "εἰ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "γὰρ",
+                    "rule_match": [
+                        "γὰρ"
+                    ],
+                    "t": "γὰρ"
+                },
+                {
+                    "index": "6",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "8",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἄπιστα",
+                    "rule_match": [
+                        "ἄπιστα"
+                    ],
+                    "t": "ἄπιστα"
+                },
+                {
+                    "index": "10",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "δόξω",
+                    "rule_match": [
+                        "δόξω"
+                    ],
+                    "t": "δόξω"
+                },
+                {
+                    "index": "12",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "λέγειν",
+                    "rule_match": [
+                        "λέγειν"
+                    ],
+                    "t": "λέγειν"
+                },
+                {
+                    "index": "14",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τισὶν",
+                    "rule_match": [
+                        "τισὶν"
+                    ],
+                    "t": "τισὶν"
+                },
+                {
+                    "index": "16",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἀλλ’",
+                    "rule_match": [
+                        "ἀλλ’"
+                    ],
+                    "t": "ἀλλ’"
+                },
+                {
+                    "index": "18",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὅμως",
+                    "rule_match": [
+                        "ὅμως"
+                    ],
+                    "t": "ὅμως"
+                },
+                {
+                    "index": "20",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἐρῶ",
+                    "rule_match": [
+                        "ἐρῶ"
+                    ],
+                    "t": "ἐρῶ"
+                },
+                {
+                    "index": "22",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "οὐ",
+                    "rule_match": [
+                        "οὐ"
+                    ],
+                    "t": "οὐ"
+                },
+                {
+                    "index": "24",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "γὰρ",
+                    "rule_match": [
+                        "γὰρ"
+                    ],
+                    "t": "γὰρ"
+                },
+                {
+                    "index": "26",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "δὴ",
+                    "rule_match": [
+                        "δὴ"
+                    ],
+                    "t": "δὴ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μετὰ",
+                    "rule_match": [
+                        "μετὰ"
+                    ],
+                    "t": "μετὰ"
+                },
+                {
+                    "index": "30",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τῶν",
+                    "rule_match": [
+                        "τῶν"
+                    ],
+                    "t": "τῶν"
+                },
+                {
+                    "index": "32",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἄλλων",
+                    "rule_match": [
+                        "ἄλλων"
+                    ],
+                    "t": "ἄλλων"
+                },
+                {
+                    "index": "34",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "36",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "αὐτὸς",
+                    "rule_match": [
+                        "αὐτὸς"
+                    ],
+                    "t": "αὐτὸς"
+                },
+                {
+                    "index": "38",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἀπιστήσεις",
+                    "rule_match": [
+                        "ἀπιστήσεις"
+                    ],
+                    "t": "ἀπιστήσεις"
+                },
+                {
+                    "index": "40",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἡμῖν",
+                    "rule_match": [
+                        "ἡμῖν"
+                    ],
+                    "t": "ἡμῖν"
+                }
+            ]
+        }
+    ]
+}

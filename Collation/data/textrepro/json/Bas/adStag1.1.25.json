@@ -1,0 +1,226 @@
+{
+    "id": "Bas_adStag1.1.25",
+    "transcription": "Bas",
+    "transcription_siglum": "Bas",
+    "siglum": "Bas",
+    "context": "adStag1.1.25",
+    "n": "adStag1.1.25",
+    "plain_text": "καίτοι μή με νομίσῃς διὰ τὸ ἔξω τοῦ πόνου καὶ τῆς ζάλης ταύτης ἑστάναι ταῦτα ἐπαγγέλ λεσθαί σοι μετ’ εὐκολίας νῦν",
+    "witnesses": [
+        {
+            "id": "Bas",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καίτοι",
+                    "rule_match": [
+                        "καίτοι"
+                    ],
+                    "t": "καίτοι"
+                },
+                {
+                    "index": "4",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μή",
+                    "rule_match": [
+                        "μή"
+                    ],
+                    "t": "μή"
+                },
+                {
+                    "index": "6",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "με",
+                    "rule_match": [
+                        "με"
+                    ],
+                    "t": "με"
+                },
+                {
+                    "index": "8",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "νομίσῃς",
+                    "rule_match": [
+                        "νομίσῃς"
+                    ],
+                    "t": "νομίσῃς"
+                },
+                {
+                    "index": "10",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "διὰ",
+                    "rule_match": [
+                        "διὰ"
+                    ],
+                    "t": "διὰ"
+                },
+                {
+                    "index": "12",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τὸ",
+                    "rule_match": [
+                        "τὸ"
+                    ],
+                    "t": "τὸ"
+                },
+                {
+                    "index": "14",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἔξω",
+                    "rule_match": [
+                        "ἔξω"
+                    ],
+                    "t": "ἔξω"
+                },
+                {
+                    "index": "16",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τοῦ",
+                    "rule_match": [
+                        "τοῦ"
+                    ],
+                    "t": "τοῦ"
+                },
+                {
+                    "index": "18",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πόνου",
+                    "rule_match": [
+                        "πόνου"
+                    ],
+                    "t": "πόνου"
+                },
+                {
+                    "index": "20",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "22",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "24",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ζάλης",
+                    "rule_match": [
+                        "ζάλης"
+                    ],
+                    "t": "ζάλης"
+                },
+                {
+                    "index": "26",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ταύτης",
+                    "rule_match": [
+                        "ταύτης"
+                    ],
+                    "t": "ταύτης"
+                },
+                {
+                    "index": "28",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἑστάναι",
+                    "rule_match": [
+                        "ἑστάναι"
+                    ],
+                    "t": "ἑστάναι"
+                },
+                {
+                    "index": "30",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ταῦτα",
+                    "rule_match": [
+                        "ταῦτα"
+                    ],
+                    "t": "ταῦτα"
+                },
+                {
+                    "index": "32",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἐπαγγέλ",
+                    "rule_match": [
+                        "ἐπαγγέλ"
+                    ],
+                    "t": "ἐπαγγέλ"
+                },
+                {
+                    "index": "34",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "λεσθαί",
+                    "rule_match": [
+                        "λεσθαί"
+                    ],
+                    "t": "λεσθαί"
+                },
+                {
+                    "index": "36",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "σοι",
+                    "rule_match": [
+                        "σοι"
+                    ],
+                    "t": "σοι"
+                },
+                {
+                    "index": "38",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μετ’",
+                    "rule_match": [
+                        "μετ’"
+                    ],
+                    "t": "μετ’"
+                },
+                {
+                    "index": "40",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "εὐκολίας",
+                    "rule_match": [
+                        "εὐκολίας"
+                    ],
+                    "t": "εὐκολίας"
+                },
+                {
+                    "index": "42",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "νῦν",
+                    "rule_match": [
+                        "νῦν"
+                    ],
+                    "t": "νῦν"
+                }
+            ]
+        }
+    ]
+}

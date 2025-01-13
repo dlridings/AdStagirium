@@ -1,0 +1,316 @@
+{
+    "id": "Bas_adStag1.1.1",
+    "transcription": "Bas",
+    "transcription_siglum": "Bas",
+    "siglum": "Bas",
+    "context": "adStag1.1.1",
+    "n": "adStag1.1.1",
+    "plain_text": "ἔδει μὲν ἡμᾶς ὦ φίλτατε πάντων ἐμοὶ σταγείριε καὶ παρεῖναί σοι νῦν καὶ συνδιαταλαιπωρεῖσθαι καὶ λόγῳ παρακαλοῦντα καὶ ἔργῳ διακονούμενον καὶ τὰ ἄλλα πάντα συνανλαμβάνοντα μέρος τι τῆς ἀθυμίας ἐπικουφίζειν",
+    "witnesses": [
+        {
+            "id": "Bas",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἔδει",
+                    "rule_match": [
+                        "ἔδει"
+                    ],
+                    "t": "ἔδει"
+                },
+                {
+                    "index": "4",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μὲν",
+                    "rule_match": [
+                        "μὲν"
+                    ],
+                    "t": "μὲν"
+                },
+                {
+                    "index": "6",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἡμᾶς",
+                    "rule_match": [
+                        "ἡμᾶς"
+                    ],
+                    "t": "ἡμᾶς"
+                },
+                {
+                    "index": "8",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὦ",
+                    "rule_match": [
+                        "ὦ"
+                    ],
+                    "t": "ὦ"
+                },
+                {
+                    "index": "10",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "φίλτατε",
+                    "rule_match": [
+                        "φίλτατε"
+                    ],
+                    "t": "φίλτατε"
+                },
+                {
+                    "index": "12",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πάντων",
+                    "rule_match": [
+                        "πάντων"
+                    ],
+                    "t": "πάντων"
+                },
+                {
+                    "index": "14",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἐμοὶ",
+                    "rule_match": [
+                        "ἐμοὶ"
+                    ],
+                    "t": "ἐμοὶ"
+                },
+                {
+                    "index": "16",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "σταγείριε",
+                    "rule_match": [
+                        "σταγείριε"
+                    ],
+                    "t": "σταγείριε"
+                },
+                {
+                    "index": "18",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "20",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παρεῖναί",
+                    "rule_match": [
+                        "παρεῖναί"
+                    ],
+                    "t": "παρεῖναί"
+                },
+                {
+                    "index": "22",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "σοι",
+                    "rule_match": [
+                        "σοι"
+                    ],
+                    "t": "σοι"
+                },
+                {
+                    "index": "24",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "νῦν",
+                    "rule_match": [
+                        "νῦν"
+                    ],
+                    "t": "νῦν"
+                },
+                {
+                    "index": "26",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "συνδιαταλαιπωρεῖσθαι",
+                    "rule_match": [
+                        "συνδιαταλαιπωρεῖσθαι"
+                    ],
+                    "t": "συνδιαταλαιπωρεῖσθαι"
+                },
+                {
+                    "index": "30",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "32",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "λόγῳ",
+                    "rule_match": [
+                        "λόγῳ"
+                    ],
+                    "t": "λόγῳ"
+                },
+                {
+                    "index": "34",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παρακαλοῦντα",
+                    "rule_match": [
+                        "παρακαλοῦντα"
+                    ],
+                    "t": "παρακαλοῦντα"
+                },
+                {
+                    "index": "36",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "38",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἔργῳ",
+                    "rule_match": [
+                        "ἔργῳ"
+                    ],
+                    "t": "ἔργῳ"
+                },
+                {
+                    "index": "40",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "διακονούμενον",
+                    "rule_match": [
+                        "διακονούμενον"
+                    ],
+                    "t": "διακονούμενον"
+                },
+                {
+                    "index": "42",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "44",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τὰ",
+                    "rule_match": [
+                        "τὰ"
+                    ],
+                    "t": "τὰ"
+                },
+                {
+                    "index": "46",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἄλλα",
+                    "rule_match": [
+                        "ἄλλα"
+                    ],
+                    "t": "ἄλλα"
+                },
+                {
+                    "index": "48",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πάντα",
+                    "rule_match": [
+                        "πάντα"
+                    ],
+                    "t": "πάντα"
+                },
+                {
+                    "index": "50",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "συνανλαμβάνοντα",
+                    "rule_match": [
+                        "συνανλαμβάνοντα"
+                    ],
+                    "t": "συνανλαμβάνοντα"
+                },
+                {
+                    "index": "52",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μέρος",
+                    "rule_match": [
+                        "μέρος"
+                    ],
+                    "t": "μέρος"
+                },
+                {
+                    "index": "54",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τι",
+                    "rule_match": [
+                        "τι"
+                    ],
+                    "t": "τι"
+                },
+                {
+                    "index": "56",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "58",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἀθυμίας",
+                    "rule_match": [
+                        "ἀθυμίας"
+                    ],
+                    "t": "ἀθυμίας"
+                },
+                {
+                    "index": "60",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἐπικουφίζειν",
+                    "rule_match": [
+                        "ἐπικουφίζειν"
+                    ],
+                    "t": "ἐπικουφίζειν"
+                }
+            ]
+        }
+    ]
+}

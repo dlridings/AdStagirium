@@ -1,0 +1,226 @@
+{
+    "id": "A25_adStag1.1.24",
+    "transcription": "A25",
+    "transcription_siglum": "A25",
+    "siglum": "A25",
+    "context": "adStag1.1.24",
+    "n": "adStag1.1.24",
+    "plain_text": "ἡμεῖς δὲ ἢν ἐθελήσωμεν διαβλέψαι μικρὸν καὶ λογισμοὺς ἀνακινῆσαι τοὺς εὐσεβεῖς ὥσπερ τινὰ κόνιν λεπτὴν ταύτας ἀποτιναξόμεθα τῆς ἀθυμίας τὰς ὑποθέσεις",
+    "witnesses": [
+        {
+            "id": "A25",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἡμεῖς",
+                    "rule_match": [
+                        "ἡμεῖς"
+                    ],
+                    "t": "ἡμεῖς"
+                },
+                {
+                    "index": "4",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "δὲ",
+                    "rule_match": [
+                        "δὲ"
+                    ],
+                    "t": "δὲ"
+                },
+                {
+                    "index": "6",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἢν",
+                    "rule_match": [
+                        "ἢν"
+                    ],
+                    "t": "ἢν"
+                },
+                {
+                    "index": "8",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἐθελήσωμεν",
+                    "rule_match": [
+                        "ἐθελήσωμεν"
+                    ],
+                    "t": "ἐθελήσωμεν"
+                },
+                {
+                    "index": "10",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "διαβλέψαι",
+                    "rule_match": [
+                        "διαβλέψαι"
+                    ],
+                    "t": "διαβλέψαι"
+                },
+                {
+                    "index": "12",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "μικρὸν",
+                    "rule_match": [
+                        "μικρὸν"
+                    ],
+                    "t": "μικρὸν"
+                },
+                {
+                    "index": "14",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "16",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "λογισμοὺς",
+                    "rule_match": [
+                        "λογισμοὺς"
+                    ],
+                    "t": "λογισμοὺς"
+                },
+                {
+                    "index": "18",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἀνακινῆσαι",
+                    "rule_match": [
+                        "ἀνακινῆσαι"
+                    ],
+                    "t": "ἀνακινῆσαι"
+                },
+                {
+                    "index": "20",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "τοὺς",
+                    "rule_match": [
+                        "τοὺς"
+                    ],
+                    "t": "τοὺς"
+                },
+                {
+                    "index": "22",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "εὐσεβεῖς",
+                    "rule_match": [
+                        "εὐσεβεῖς"
+                    ],
+                    "t": "εὐσεβεῖς"
+                },
+                {
+                    "index": "24",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ὥσπερ",
+                    "rule_match": [
+                        "ὥσπερ"
+                    ],
+                    "t": "ὥσπερ"
+                },
+                {
+                    "index": "26",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "τινὰ",
+                    "rule_match": [
+                        "τινὰ"
+                    ],
+                    "t": "τινὰ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "κόνιν",
+                    "rule_match": [
+                        "κόνιν"
+                    ],
+                    "t": "κόνιν"
+                },
+                {
+                    "index": "30",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "λεπτὴν",
+                    "rule_match": [
+                        "λεπτὴν"
+                    ],
+                    "t": "λεπτὴν"
+                },
+                {
+                    "index": "32",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ταύτας",
+                    "rule_match": [
+                        "ταύτας"
+                    ],
+                    "t": "ταύτας"
+                },
+                {
+                    "index": "34",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἀποτιναξόμεθα",
+                    "rule_match": [
+                        "ἀποτιναξόμεθα"
+                    ],
+                    "t": "ἀποτιναξόμεθα"
+                },
+                {
+                    "index": "36",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "38",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἀθυμίας",
+                    "rule_match": [
+                        "ἀθυμίας"
+                    ],
+                    "t": "ἀθυμίας"
+                },
+                {
+                    "index": "40",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "τὰς",
+                    "rule_match": [
+                        "τὰς"
+                    ],
+                    "t": "τὰς"
+                },
+                {
+                    "index": "42",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ὑποθέσεις",
+                    "rule_match": [
+                        "ὑποθέσεις"
+                    ],
+                    "t": "ὑποθέσεις"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "id": "A116_adStag1.1.9",
+    "transcription": "A116",
+    "transcription_siglum": "A116",
+    "siglum": "A116",
+    "context": "adStag1.1.9",
+    "n": "adStag1.1.9",
+    "plain_text": "ἂν μὲν γάρ τι λεχθῇ παρ’ ἡμῶν τὸ δυνάμενον σβέσαι τὴν ἄμετρον ταύτην ὀδύνην ἅπερ εὐχόμεθα γέγονεν ἂν δὲ μηδὲν εὕρωμεν φθέγξαι τοιοῦτον τῆς γοῦν προθυμίας ἡμᾶς ἀποδέξεται πάντως ὁ κελεύσας διὰ τοῦ μακαρίου παύλου κλαίειν μετὰ κλαιόντων καὶ συναπάγεσθαι τοῖς ταπεινοῖς",
+    "witnesses": [
+        {
+            "id": "A116",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ἂν",
+                    "rule_match": [
+                        "ἂν"
+                    ],
+                    "t": "ἂν"
+                },
+                {
+                    "index": "4",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "μὲν",
+                    "rule_match": [
+                        "μὲν"
+                    ],
+                    "t": "μὲν"
+                },
+                {
+                    "index": "6",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "γάρ",
+                    "rule_match": [
+                        "γάρ"
+                    ],
+                    "t": "γάρ"
+                },
+                {
+                    "index": "8",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "τι",
+                    "rule_match": [
+                        "τι"
+                    ],
+                    "t": "τι"
+                },
+                {
+                    "index": "10",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "λεχθῇ",
+                    "rule_match": [
+                        "λεχθῇ"
+                    ],
+                    "t": "λεχθῇ"
+                },
+                {
+                    "index": "12",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "παρ’",
+                    "rule_match": [
+                        "παρ’"
+                    ],
+                    "t": "παρ’"
+                },
+                {
+                    "index": "14",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ἡμῶν",
+                    "rule_match": [
+                        "ἡμῶν"
+                    ],
+                    "t": "ἡμῶν"
+                },
+                {
+                    "index": "16",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "τὸ",
+                    "rule_match": [
+                        "τὸ"
+                    ],
+                    "t": "τὸ"
+                },
+                {
+                    "index": "18",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "δυνάμενον",
+                    "rule_match": [
+                        "δυνάμενον"
+                    ],
+                    "t": "δυνάμενον"
+                },
+                {
+                    "index": "20",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "σβέσαι",
+                    "rule_match": [
+                        "σβέσαι"
+                    ],
+                    "t": "σβέσαι"
+                },
+                {
+                    "index": "22",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "τὴν",
+                    "rule_match": [
+                        "τὴν"
+                    ],
+                    "t": "τὴν"
+                },
+                {
+                    "index": "24",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ἄμετρον",
+                    "rule_match": [
+                        "ἄμετρον"
+                    ],
+                    "t": "ἄμετρον"
+                },
+                {
+                    "index": "26",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ταύτην",
+                    "rule_match": [
+                        "ταύτην"
+                    ],
+                    "t": "ταύτην"
+                },
+                {
+                    "index": "28",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ὀδύνην",
+                    "rule_match": [
+                        "ὀδύνην"
+                    ],
+                    "t": "ὀδύνην"
+                },
+                {
+                    "index": "30",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ἅπερ",
+                    "rule_match": [
+                        "ἅπερ"
+                    ],
+                    "t": "ἅπερ"
+                },
+                {
+                    "index": "32",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "εὐχόμεθα",
+                    "rule_match": [
+                        "εὐχόμεθα"
+                    ],
+                    "t": "εὐχόμεθα"
+                },
+                {
+                    "index": "34",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "γέγονεν",
+                    "rule_match": [
+                        "γέγονεν"
+                    ],
+                    "t": "γέγονεν"
+                },
+                {
+                    "index": "36",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ἂν",
+                    "rule_match": [
+                        "ἂν"
+                    ],
+                    "t": "ἂν"
+                },
+                {
+                    "index": "38",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "δὲ",
+                    "rule_match": [
+                        "δὲ"
+                    ],
+                    "t": "δὲ"
+                },
+                {
+                    "index": "40",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "μηδὲν",
+                    "rule_match": [
+                        "μηδὲν"
+                    ],
+                    "t": "μηδὲν"
+                },
+                {
+                    "index": "42",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "εὕρωμεν",
+                    "rule_match": [
+                        "εὕρωμεν"
+                    ],
+                    "t": "εὕρωμεν"
+                },
+                {
+                    "index": "44",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "φθέγξαι",
+                    "rule_match": [
+                        "φθέγξαι"
+                    ],
+                    "t": "φθέγξαι"
+                },
+                {
+                    "index": "46",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "τοιοῦτον",
+                    "rule_match": [
+                        "τοιοῦτον"
+                    ],
+                    "t": "τοιοῦτον"
+                },
+                {
+                    "index": "48",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "50",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "γοῦν",
+                    "rule_match": [
+                        "γοῦν"
+                    ],
+                    "t": "γοῦν"
+                },
+                {
+                    "index": "52",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "προθυμίας",
+                    "rule_match": [
+                        "προθυμίας"
+                    ],
+                    "t": "προθυμίας"
+                },
+                {
+                    "index": "54",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ἡμᾶς",
+                    "rule_match": [
+                        "ἡμᾶς"
+                    ],
+                    "t": "ἡμᾶς"
+                },
+                {
+                    "index": "56",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ἀποδέξεται",
+                    "rule_match": [
+                        "ἀποδέξεται"
+                    ],
+                    "t": "ἀποδέξεται"
+                },
+                {
+                    "index": "58",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "πάντως",
+                    "rule_match": [
+                        "πάντως"
+                    ],
+                    "t": "πάντως"
+                },
+                {
+                    "index": "60",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ὁ",
+                    "rule_match": [
+                        "ὁ"
+                    ],
+                    "t": "ὁ"
+                },
+                {
+                    "index": "62",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "κελεύσας",
+                    "rule_match": [
+                        "κελεύσας"
+                    ],
+                    "t": "κελεύσας"
+                },
+                {
+                    "index": "64",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "διὰ",
+                    "rule_match": [
+                        "διὰ"
+                    ],
+                    "t": "διὰ"
+                },
+                {
+                    "index": "66",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "τοῦ",
+                    "rule_match": [
+                        "τοῦ"
+                    ],
+                    "t": "τοῦ"
+                },
+                {
+                    "index": "68",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "μακαρίου",
+                    "rule_match": [
+                        "μακαρίου"
+                    ],
+                    "t": "μακαρίου"
+                },
+                {
+                    "index": "70",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "παύλου",
+                    "rule_match": [
+                        "παύλου"
+                    ],
+                    "t": "παύλου"
+                },
+                {
+                    "index": "72",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "κλαίειν",
+                    "rule_match": [
+                        "κλαίειν"
+                    ],
+                    "t": "κλαίειν"
+                },
+                {
+                    "index": "74",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "μετὰ",
+                    "rule_match": [
+                        "μετὰ"
+                    ],
+                    "t": "μετὰ"
+                },
+                {
+                    "index": "76",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "κλαιόντων",
+                    "rule_match": [
+                        "κλαιόντων"
+                    ],
+                    "t": "κλαιόντων"
+                },
+                {
+                    "index": "78",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "80",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "συναπάγεσθαι",
+                    "rule_match": [
+                        "συναπάγεσθαι"
+                    ],
+                    "t": "συναπάγεσθαι"
+                },
+                {
+                    "index": "82",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "τοῖς",
+                    "rule_match": [
+                        "τοῖς"
+                    ],
+                    "t": "τοῖς"
+                },
+                {
+                    "index": "84",
+                    "siglum": "A116",
+                    "reading": "A116",
+                    "original": "ταπεινοῖς",
+                    "rule_match": [
+                        "ταπεινοῖς"
+                    ],
+                    "t": "ταπεινοῖς"
+                }
+            ]
+        }
+    ]
+}
