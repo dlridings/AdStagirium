@@ -7,3 +7,6 @@ TLGC stands for the TLG canon
 
 This should help in avoiding conflict of names in the event
 this work is ever merged with others.
+
+Outdated now. I will be using criticus and it has its own
+set of defaults for file and directory naming.
