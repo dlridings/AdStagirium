@@ -1,0 +1,316 @@
+{
+    "id": "S249_adStag1.1.15",
+    "transcription": "S249",
+    "transcription_siglum": "S249",
+    "siglum": "S249",
+    "context": "adStag1.1.15",
+    "n": "adStag1.1.15",
+    "plain_text": "μετὰ δὲ τούτων καὶ ἑτέρως σφόδρα ἔφης ἀλγεῖν ὅτι οὕτως σου τῆς ψυχῆς ἡ τῆς ἀθυμίας περιεγένετο δύναμις ὡς μικροῦ πολλάκις ἐπὶ βρόχον ἐλθεῖν καὶ ἐπὶ ποταμὸν καὶ ἐπὶ κρημνόν",
+    "witnesses": [
+        {
+            "id": "S249",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "μετὰ",
+                    "rule_match": [
+                        "μετὰ"
+                    ],
+                    "t": "μετὰ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "δὲ",
+                    "rule_match": [
+                        "δὲ"
+                    ],
+                    "t": "δὲ"
+                },
+                {
+                    "index": "6",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τούτων",
+                    "rule_match": [
+                        "τούτων"
+                    ],
+                    "t": "τούτων"
+                },
+                {
+                    "index": "8",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "10",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἑτέρως",
+                    "rule_match": [
+                        "ἑτέρως"
+                    ],
+                    "t": "ἑτέρως"
+                },
+                {
+                    "index": "12",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "σφόδρα",
+                    "rule_match": [
+                        "σφόδρα"
+                    ],
+                    "t": "σφόδρα"
+                },
+                {
+                    "index": "14",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἔφης",
+                    "rule_match": [
+                        "ἔφης"
+                    ],
+                    "t": "ἔφης"
+                },
+                {
+                    "index": "16",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἀλγεῖν",
+                    "rule_match": [
+                        "ἀλγεῖν"
+                    ],
+                    "t": "ἀλγεῖν"
+                },
+                {
+                    "index": "18",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ὅτι",
+                    "rule_match": [
+                        "ὅτι"
+                    ],
+                    "t": "ὅτι"
+                },
+                {
+                    "index": "20",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "οὕτως",
+                    "rule_match": [
+                        "οὕτως"
+                    ],
+                    "t": "οὕτως"
+                },
+                {
+                    "index": "22",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "σου",
+                    "rule_match": [
+                        "σου"
+                    ],
+                    "t": "σου"
+                },
+                {
+                    "index": "24",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "26",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ψυχῆς",
+                    "rule_match": [
+                        "ψυχῆς"
+                    ],
+                    "t": "ψυχῆς"
+                },
+                {
+                    "index": "28",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἡ",
+                    "rule_match": [
+                        "ἡ"
+                    ],
+                    "t": "ἡ"
+                },
+                {
+                    "index": "30",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "32",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἀθυμίας",
+                    "rule_match": [
+                        "ἀθυμίας"
+                    ],
+                    "t": "ἀθυμίας"
+                },
+                {
+                    "index": "34",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "περιεγένετο",
+                    "rule_match": [
+                        "περιεγένετο"
+                    ],
+                    "t": "περιεγένετο"
+                },
+                {
+                    "index": "36",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "δύναμις",
+                    "rule_match": [
+                        "δύναμις"
+                    ],
+                    "t": "δύναμις"
+                },
+                {
+                    "index": "38",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ὡς",
+                    "rule_match": [
+                        "ὡς"
+                    ],
+                    "t": "ὡς"
+                },
+                {
+                    "index": "40",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "μικροῦ",
+                    "rule_match": [
+                        "μικροῦ"
+                    ],
+                    "t": "μικροῦ"
+                },
+                {
+                    "index": "42",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "πολλάκις",
+                    "rule_match": [
+                        "πολλάκις"
+                    ],
+                    "t": "πολλάκις"
+                },
+                {
+                    "index": "44",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἐπὶ",
+                    "rule_match": [
+                        "ἐπὶ"
+                    ],
+                    "t": "ἐπὶ"
+                },
+                {
+                    "index": "46",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "βρόχον",
+                    "rule_match": [
+                        "βρόχον"
+                    ],
+                    "t": "βρόχον"
+                },
+                {
+                    "index": "48",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἐλθεῖν",
+                    "rule_match": [
+                        "ἐλθεῖν"
+                    ],
+                    "t": "ἐλθεῖν"
+                },
+                {
+                    "index": "50",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "52",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἐπὶ",
+                    "rule_match": [
+                        "ἐπὶ"
+                    ],
+                    "t": "ἐπὶ"
+                },
+                {
+                    "index": "54",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ποταμὸν",
+                    "rule_match": [
+                        "ποταμὸν"
+                    ],
+                    "t": "ποταμὸν"
+                },
+                {
+                    "index": "56",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "58",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἐπὶ",
+                    "rule_match": [
+                        "ἐπὶ"
+                    ],
+                    "t": "ἐπὶ"
+                },
+                {
+                    "index": "60",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "κρημνόν",
+                    "rule_match": [
+                        "κρημνόν"
+                    ],
+                    "t": "κρημνόν"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "id": "S249_adStag1.1.20",
+    "transcription": "S249",
+    "transcription_siglum": "S249",
+    "siglum": "S249",
+    "context": "adStag1.1.20",
+    "n": "adStag1.1.20",
+    "plain_text": "καὶ μέχρι μὲν τοῦ παρόντος δυνηθῆναι τὴν μητέρα καὶ συγκαλύψαι τὸ γεγονὸς καὶ ἐπιζητοῦντά σε παρακρούσασθαι πολλάκις αὐτόν",
+    "witnesses": [
+        {
+            "id": "S249",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "μέχρι",
+                    "rule_match": [
+                        "μέχρι"
+                    ],
+                    "t": "μέχρι"
+                },
+                {
+                    "index": "6",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "μὲν",
+                    "rule_match": [
+                        "μὲν"
+                    ],
+                    "t": "μὲν"
+                },
+                {
+                    "index": "8",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τοῦ",
+                    "rule_match": [
+                        "τοῦ"
+                    ],
+                    "t": "τοῦ"
+                },
+                {
+                    "index": "10",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "παρόντος",
+                    "rule_match": [
+                        "παρόντος"
+                    ],
+                    "t": "παρόντος"
+                },
+                {
+                    "index": "12",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "δυνηθῆναι",
+                    "rule_match": [
+                        "δυνηθῆναι"
+                    ],
+                    "t": "δυνηθῆναι"
+                },
+                {
+                    "index": "14",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τὴν",
+                    "rule_match": [
+                        "τὴν"
+                    ],
+                    "t": "τὴν"
+                },
+                {
+                    "index": "16",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "μητέρα",
+                    "rule_match": [
+                        "μητέρα"
+                    ],
+                    "t": "μητέρα"
+                },
+                {
+                    "index": "18",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "20",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "συγκαλύψαι",
+                    "rule_match": [
+                        "συγκαλύψαι"
+                    ],
+                    "t": "συγκαλύψαι"
+                },
+                {
+                    "index": "22",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τὸ",
+                    "rule_match": [
+                        "τὸ"
+                    ],
+                    "t": "τὸ"
+                },
+                {
+                    "index": "24",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "γεγονὸς",
+                    "rule_match": [
+                        "γεγονὸς"
+                    ],
+                    "t": "γεγονὸς"
+                },
+                {
+                    "index": "26",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἐπιζητοῦντά",
+                    "rule_match": [
+                        "ἐπιζητοῦντά"
+                    ],
+                    "t": "ἐπιζητοῦντά"
+                },
+                {
+                    "index": "30",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "σε",
+                    "rule_match": [
+                        "σε"
+                    ],
+                    "t": "σε"
+                },
+                {
+                    "index": "32",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "παρακρούσασθαι",
+                    "rule_match": [
+                        "παρακρούσασθαι"
+                    ],
+                    "t": "παρακρούσασθαι"
+                },
+                {
+                    "index": "34",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "πολλάκις",
+                    "rule_match": [
+                        "πολλάκις"
+                    ],
+                    "t": "πολλάκις"
+                },
+                {
+                    "index": "36",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "αὐτόν",
+                    "rule_match": [
+                        "αὐτόν"
+                    ],
+                    "t": "αὐτόν"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "id": "S249_adStag1.1.13",
+    "transcription": "S249",
+    "transcription_siglum": "S249",
+    "siglum": "S249",
+    "context": "adStag1.1.13",
+    "n": "adStag1.1.13",
+    "plain_text": "σὲ δὲ τοσοῦτον ἕλκοντα χρόνον ἐν νηστείαις καὶ παννυχίσι καὶ τῇ λοιπῇ σκληραγωγίᾳ μηδεμίαν λύσιν εὑρέσθαι τῶν κατεχόντων δεινῶν",
+    "witnesses": [
+        {
+            "id": "S249",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "σὲ",
+                    "rule_match": [
+                        "σὲ"
+                    ],
+                    "t": "σὲ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "δὲ",
+                    "rule_match": [
+                        "δὲ"
+                    ],
+                    "t": "δὲ"
+                },
+                {
+                    "index": "6",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τοσοῦτον",
+                    "rule_match": [
+                        "τοσοῦτον"
+                    ],
+                    "t": "τοσοῦτον"
+                },
+                {
+                    "index": "8",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἕλκοντα",
+                    "rule_match": [
+                        "ἕλκοντα"
+                    ],
+                    "t": "ἕλκοντα"
+                },
+                {
+                    "index": "10",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "χρόνον",
+                    "rule_match": [
+                        "χρόνον"
+                    ],
+                    "t": "χρόνον"
+                },
+                {
+                    "index": "12",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "ἐν",
+                    "rule_match": [
+                        "ἐν"
+                    ],
+                    "t": "ἐν"
+                },
+                {
+                    "index": "14",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "νηστείαις",
+                    "rule_match": [
+                        "νηστείαις"
+                    ],
+                    "t": "νηστείαις"
+                },
+                {
+                    "index": "16",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "18",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "παννυχίσι",
+                    "rule_match": [
+                        "παννυχίσι"
+                    ],
+                    "t": "παννυχίσι"
+                },
+                {
+                    "index": "20",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "22",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τῇ",
+                    "rule_match": [
+                        "τῇ"
+                    ],
+                    "t": "τῇ"
+                },
+                {
+                    "index": "24",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "λοιπῇ",
+                    "rule_match": [
+                        "λοιπῇ"
+                    ],
+                    "t": "λοιπῇ"
+                },
+                {
+                    "index": "26",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "σκληραγωγίᾳ",
+                    "rule_match": [
+                        "σκληραγωγίᾳ"
+                    ],
+                    "t": "σκληραγωγίᾳ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "μηδεμίαν",
+                    "rule_match": [
+                        "μηδεμίαν"
+                    ],
+                    "t": "μηδεμίαν"
+                },
+                {
+                    "index": "30",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "λύσιν",
+                    "rule_match": [
+                        "λύσιν"
+                    ],
+                    "t": "λύσιν"
+                },
+                {
+                    "index": "32",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "εὑρέσθαι",
+                    "rule_match": [
+                        "εὑρέσθαι"
+                    ],
+                    "t": "εὑρέσθαι"
+                },
+                {
+                    "index": "34",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "τῶν",
+                    "rule_match": [
+                        "τῶν"
+                    ],
+                    "t": "τῶν"
+                },
+                {
+                    "index": "36",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "κατεχόντων",
+                    "rule_match": [
+                        "κατεχόντων"
+                    ],
+                    "t": "κατεχόντων"
+                },
+                {
+                    "index": "38",
+                    "siglum": "S249",
+                    "reading": "S249",
+                    "original": "δεινῶν",
+                    "rule_match": [
+                        "δεινῶν"
+                    ],
+                    "t": "δεινῶν"
+                }
+            ]
+        }
+    ]
+}
