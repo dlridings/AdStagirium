@@ -1,0 +1,186 @@
+{
+    "id": "Bas_adStag1.1.30",
+    "transcription": "Bas",
+    "transcription_siglum": "Bas",
+    "siglum": "Bas",
+    "context": "adStag1.1.30",
+    "n": "adStag1.1.30",
+    "plain_text": "εἶτα τὸν παρακαθεύδοντα ὑπὸ τῆς ὄψεως ταραχθέντα διεγερθῆναί τε καὶ πάλιν σε κινούμενον εὑρεῖν ὑπὸ τοῦ δαίμονος",
+    "witnesses": [
+        {
+            "id": "Bas",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "εἶτα",
+                    "rule_match": [
+                        "εἶτα"
+                    ],
+                    "t": "εἶτα"
+                },
+                {
+                    "index": "4",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τὸν",
+                    "rule_match": [
+                        "τὸν"
+                    ],
+                    "t": "τὸν"
+                },
+                {
+                    "index": "6",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παρακαθεύδοντα",
+                    "rule_match": [
+                        "παρακαθεύδοντα"
+                    ],
+                    "t": "παρακαθεύδοντα"
+                },
+                {
+                    "index": "8",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὑπὸ",
+                    "rule_match": [
+                        "ὑπὸ"
+                    ],
+                    "t": "ὑπὸ"
+                },
+                {
+                    "index": "10",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "12",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὄψεως",
+                    "rule_match": [
+                        "ὄψεως"
+                    ],
+                    "t": "ὄψεως"
+                },
+                {
+                    "index": "14",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ταραχθέντα",
+                    "rule_match": [
+                        "ταραχθέντα"
+                    ],
+                    "t": "ταραχθέντα"
+                },
+                {
+                    "index": "16",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "διεγερθῆναί",
+                    "rule_match": [
+                        "διεγερθῆναί"
+                    ],
+                    "t": "διεγερθῆναί"
+                },
+                {
+                    "index": "18",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τε",
+                    "rule_match": [
+                        "τε"
+                    ],
+                    "t": "τε"
+                },
+                {
+                    "index": "20",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "22",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πάλιν",
+                    "rule_match": [
+                        "πάλιν"
+                    ],
+                    "t": "πάλιν"
+                },
+                {
+                    "index": "24",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "σε",
+                    "rule_match": [
+                        "σε"
+                    ],
+                    "t": "σε"
+                },
+                {
+                    "index": "26",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "κινούμενον",
+                    "rule_match": [
+                        "κινούμενον"
+                    ],
+                    "t": "κινούμενον"
+                },
+                {
+                    "index": "28",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "εὑρεῖν",
+                    "rule_match": [
+                        "εὑρεῖν"
+                    ],
+                    "t": "εὑρεῖν"
+                },
+                {
+                    "index": "30",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὑπὸ",
+                    "rule_match": [
+                        "ὑπὸ"
+                    ],
+                    "t": "ὑπὸ"
+                },
+                {
+                    "index": "32",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τοῦ",
+                    "rule_match": [
+                        "τοῦ"
+                    ],
+                    "t": "τοῦ"
+                },
+                {
+                    "index": "34",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "δαίμονος",
+                    "rule_match": [
+                        "δαίμονος"
+                    ],
+                    "t": "δαίμονος"
+                }
+            ]
+        }
+    ]
+}

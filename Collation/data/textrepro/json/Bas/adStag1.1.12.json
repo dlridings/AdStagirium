@@ -1,0 +1,476 @@
+{
+    "id": "Bas_adStag1.1.12",
+    "transcription": "Bas",
+    "transcription_siglum": "Bas",
+    "siglum": "Bas",
+    "context": "adStag1.1.12",
+    "n": "adStag1.1.12",
+    "plain_text": "δεύτερον δὲ τὸ πολλοὺς μὲν καὶ τρυφῶντας τῶν τὰ τοιαῦτα σοὶ συννενοσηκότων μικρὸν καρτερήσαντας χρόνον ταύτης ἀπαλλαγῆναι τῆς ἀρρωστίας καὶ οὕτως εἰς τελείαν ὑγίειαν ἐπανελθεῖν ὡς καὶ ὁμιλῆσαι γάμοις καὶ πατέρας γενέσθαι παίδων πολλῶν καὶ τῶν ἡδέων τοῦ παρόντος ἀπολαῦσαι βίου καὶ μηδὲν τοιοῦτο πάλιν παθεῖν",
+    "witnesses": [
+        {
+            "id": "Bas",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "δεύτερον",
+                    "rule_match": [
+                        "δεύτερον"
+                    ],
+                    "t": "δεύτερον"
+                },
+                {
+                    "index": "4",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "δὲ",
+                    "rule_match": [
+                        "δὲ"
+                    ],
+                    "t": "δὲ"
+                },
+                {
+                    "index": "6",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τὸ",
+                    "rule_match": [
+                        "τὸ"
+                    ],
+                    "t": "τὸ"
+                },
+                {
+                    "index": "8",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πολλοὺς",
+                    "rule_match": [
+                        "πολλοὺς"
+                    ],
+                    "t": "πολλοὺς"
+                },
+                {
+                    "index": "10",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μὲν",
+                    "rule_match": [
+                        "μὲν"
+                    ],
+                    "t": "μὲν"
+                },
+                {
+                    "index": "12",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "14",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τρυφῶντας",
+                    "rule_match": [
+                        "τρυφῶντας"
+                    ],
+                    "t": "τρυφῶντας"
+                },
+                {
+                    "index": "16",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τῶν",
+                    "rule_match": [
+                        "τῶν"
+                    ],
+                    "t": "τῶν"
+                },
+                {
+                    "index": "18",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τὰ",
+                    "rule_match": [
+                        "τὰ"
+                    ],
+                    "t": "τὰ"
+                },
+                {
+                    "index": "20",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τοιαῦτα",
+                    "rule_match": [
+                        "τοιαῦτα"
+                    ],
+                    "t": "τοιαῦτα"
+                },
+                {
+                    "index": "22",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "σοὶ",
+                    "rule_match": [
+                        "σοὶ"
+                    ],
+                    "t": "σοὶ"
+                },
+                {
+                    "index": "24",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "συννενοσηκότων",
+                    "rule_match": [
+                        "συννενοσηκότων"
+                    ],
+                    "t": "συννενοσηκότων"
+                },
+                {
+                    "index": "26",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μικρὸν",
+                    "rule_match": [
+                        "μικρὸν"
+                    ],
+                    "t": "μικρὸν"
+                },
+                {
+                    "index": "28",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καρτερήσαντας",
+                    "rule_match": [
+                        "καρτερήσαντας"
+                    ],
+                    "t": "καρτερήσαντας"
+                },
+                {
+                    "index": "30",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "χρόνον",
+                    "rule_match": [
+                        "χρόνον"
+                    ],
+                    "t": "χρόνον"
+                },
+                {
+                    "index": "32",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ταύτης",
+                    "rule_match": [
+                        "ταύτης"
+                    ],
+                    "t": "ταύτης"
+                },
+                {
+                    "index": "34",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἀπαλλαγῆναι",
+                    "rule_match": [
+                        "ἀπαλλαγῆναι"
+                    ],
+                    "t": "ἀπαλλαγῆναι"
+                },
+                {
+                    "index": "36",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "38",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἀρρωστίας",
+                    "rule_match": [
+                        "ἀρρωστίας"
+                    ],
+                    "t": "ἀρρωστίας"
+                },
+                {
+                    "index": "40",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "42",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "οὕτως",
+                    "rule_match": [
+                        "οὕτως"
+                    ],
+                    "t": "οὕτως"
+                },
+                {
+                    "index": "44",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "εἰς",
+                    "rule_match": [
+                        "εἰς"
+                    ],
+                    "t": "εἰς"
+                },
+                {
+                    "index": "46",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τελείαν",
+                    "rule_match": [
+                        "τελείαν"
+                    ],
+                    "t": "τελείαν"
+                },
+                {
+                    "index": "48",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὑγίειαν",
+                    "rule_match": [
+                        "ὑγίειαν"
+                    ],
+                    "t": "ὑγίειαν"
+                },
+                {
+                    "index": "50",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἐπανελθεῖν",
+                    "rule_match": [
+                        "ἐπανελθεῖν"
+                    ],
+                    "t": "ἐπανελθεῖν"
+                },
+                {
+                    "index": "52",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὡς",
+                    "rule_match": [
+                        "ὡς"
+                    ],
+                    "t": "ὡς"
+                },
+                {
+                    "index": "54",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "56",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὁμιλῆσαι",
+                    "rule_match": [
+                        "ὁμιλῆσαι"
+                    ],
+                    "t": "ὁμιλῆσαι"
+                },
+                {
+                    "index": "58",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "γάμοις",
+                    "rule_match": [
+                        "γάμοις"
+                    ],
+                    "t": "γάμοις"
+                },
+                {
+                    "index": "60",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "62",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πατέρας",
+                    "rule_match": [
+                        "πατέρας"
+                    ],
+                    "t": "πατέρας"
+                },
+                {
+                    "index": "64",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "γενέσθαι",
+                    "rule_match": [
+                        "γενέσθαι"
+                    ],
+                    "t": "γενέσθαι"
+                },
+                {
+                    "index": "66",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παίδων",
+                    "rule_match": [
+                        "παίδων"
+                    ],
+                    "t": "παίδων"
+                },
+                {
+                    "index": "68",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πολλῶν",
+                    "rule_match": [
+                        "πολλῶν"
+                    ],
+                    "t": "πολλῶν"
+                },
+                {
+                    "index": "70",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "72",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τῶν",
+                    "rule_match": [
+                        "τῶν"
+                    ],
+                    "t": "τῶν"
+                },
+                {
+                    "index": "74",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἡδέων",
+                    "rule_match": [
+                        "ἡδέων"
+                    ],
+                    "t": "ἡδέων"
+                },
+                {
+                    "index": "76",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τοῦ",
+                    "rule_match": [
+                        "τοῦ"
+                    ],
+                    "t": "τοῦ"
+                },
+                {
+                    "index": "78",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παρόντος",
+                    "rule_match": [
+                        "παρόντος"
+                    ],
+                    "t": "παρόντος"
+                },
+                {
+                    "index": "80",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἀπολαῦσαι",
+                    "rule_match": [
+                        "ἀπολαῦσαι"
+                    ],
+                    "t": "ἀπολαῦσαι"
+                },
+                {
+                    "index": "82",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "βίου",
+                    "rule_match": [
+                        "βίου"
+                    ],
+                    "t": "βίου"
+                },
+                {
+                    "index": "84",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "86",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "μηδὲν",
+                    "rule_match": [
+                        "μηδὲν"
+                    ],
+                    "t": "μηδὲν"
+                },
+                {
+                    "index": "88",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τοιοῦτο",
+                    "rule_match": [
+                        "τοιοῦτο"
+                    ],
+                    "t": "τοιοῦτο"
+                },
+                {
+                    "index": "90",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πάλιν",
+                    "rule_match": [
+                        "πάλιν"
+                    ],
+                    "t": "πάλιν"
+                },
+                {
+                    "index": "92",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παθεῖν",
+                    "rule_match": [
+                        "παθεῖν"
+                    ],
+                    "t": "παθεῖν"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "id": "A336_adStag1.1.6",
+    "transcription": "A336",
+    "transcription_siglum": "A336",
+    "siglum": "A336",
+    "context": "adStag1.1.6",
+    "n": "adStag1.1.6",
+    "plain_text": "εἰ μὲν οὖν τῶν εὐδοκιμούντων παρὰ Θεῷ καὶ μεγάλα δυναμένων ἐτύγχανον ὢν οὐκ ἂν διέλιπον δεόμενος καὶ ἱκετεύων ὑπὲρ τῆς τιμίας ἐμοὶ κεφαλῆς",
+    "witnesses": [
+        {
+            "id": "A336",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "εἰ",
+                    "rule_match": [
+                        "εἰ"
+                    ],
+                    "t": "εἰ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "μὲν",
+                    "rule_match": [
+                        "μὲν"
+                    ],
+                    "t": "μὲν"
+                },
+                {
+                    "index": "6",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "οὖν",
+                    "rule_match": [
+                        "οὖν"
+                    ],
+                    "t": "οὖν"
+                },
+                {
+                    "index": "8",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "τῶν",
+                    "rule_match": [
+                        "τῶν"
+                    ],
+                    "t": "τῶν"
+                },
+                {
+                    "index": "10",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "εὐδοκιμούντων",
+                    "rule_match": [
+                        "εὐδοκιμούντων"
+                    ],
+                    "t": "εὐδοκιμούντων"
+                },
+                {
+                    "index": "12",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "παρὰ",
+                    "rule_match": [
+                        "παρὰ"
+                    ],
+                    "t": "παρὰ"
+                },
+                {
+                    "index": "14",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "Θεῷ",
+                    "rule_match": [
+                        "Θεῷ"
+                    ],
+                    "t": "Θεῷ"
+                },
+                {
+                    "index": "16",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "18",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "μεγάλα",
+                    "rule_match": [
+                        "μεγάλα"
+                    ],
+                    "t": "μεγάλα"
+                },
+                {
+                    "index": "20",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "δυναμένων",
+                    "rule_match": [
+                        "δυναμένων"
+                    ],
+                    "t": "δυναμένων"
+                },
+                {
+                    "index": "22",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ἐτύγχανον",
+                    "rule_match": [
+                        "ἐτύγχανον"
+                    ],
+                    "t": "ἐτύγχανον"
+                },
+                {
+                    "index": "24",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ὢν",
+                    "rule_match": [
+                        "ὢν"
+                    ],
+                    "t": "ὢν"
+                },
+                {
+                    "index": "26",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "οὐκ",
+                    "rule_match": [
+                        "οὐκ"
+                    ],
+                    "t": "οὐκ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ἂν",
+                    "rule_match": [
+                        "ἂν"
+                    ],
+                    "t": "ἂν"
+                },
+                {
+                    "index": "30",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "διέλιπον",
+                    "rule_match": [
+                        "διέλιπον"
+                    ],
+                    "t": "διέλιπον"
+                },
+                {
+                    "index": "32",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "δεόμενος",
+                    "rule_match": [
+                        "δεόμενος"
+                    ],
+                    "t": "δεόμενος"
+                },
+                {
+                    "index": "34",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "36",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ἱκετεύων",
+                    "rule_match": [
+                        "ἱκετεύων"
+                    ],
+                    "t": "ἱκετεύων"
+                },
+                {
+                    "index": "38",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ὑπὲρ",
+                    "rule_match": [
+                        "ὑπὲρ"
+                    ],
+                    "t": "ὑπὲρ"
+                },
+                {
+                    "index": "40",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "42",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "τιμίας",
+                    "rule_match": [
+                        "τιμίας"
+                    ],
+                    "t": "τιμίας"
+                },
+                {
+                    "index": "44",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ἐμοὶ",
+                    "rule_match": [
+                        "ἐμοὶ"
+                    ],
+                    "t": "ἐμοὶ"
+                },
+                {
+                    "index": "46",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "κεφαλῆς",
+                    "rule_match": [
+                        "κεφαλῆς"
+                    ],
+                    "t": "κεφαλῆς"
+                }
+            ]
+        }
+    ]
+}

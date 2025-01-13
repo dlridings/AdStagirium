@@ -1,0 +1,56 @@
+{
+    "id": "A336_adStag1.1.2",
+    "transcription": "A336",
+    "transcription_siglum": "A336",
+    "siglum": "A336",
+    "context": "adStag1.1.2",
+    "n": "adStag1.1.2",
+    "plain_text": "ὅσον ἡμῖν δυνατὸν ἦν",
+    "witnesses": [
+        {
+            "id": "A336",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ὅσον",
+                    "rule_match": [
+                        "ὅσον"
+                    ],
+                    "t": "ὅσον"
+                },
+                {
+                    "index": "4",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ἡμῖν",
+                    "rule_match": [
+                        "ἡμῖν"
+                    ],
+                    "t": "ἡμῖν"
+                },
+                {
+                    "index": "6",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "δυνατὸν",
+                    "rule_match": [
+                        "δυνατὸν"
+                    ],
+                    "t": "δυνατὸν"
+                },
+                {
+                    "index": "8",
+                    "siglum": "A336",
+                    "reading": "A336",
+                    "original": "ἦν",
+                    "rule_match": [
+                        "ἦν"
+                    ],
+                    "t": "ἦν"
+                }
+            ]
+        }
+    ]
+}

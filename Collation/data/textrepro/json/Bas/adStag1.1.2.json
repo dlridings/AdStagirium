@@ -1,0 +1,56 @@
+{
+    "id": "Bas_adStag1.1.2",
+    "transcription": "Bas",
+    "transcription_siglum": "Bas",
+    "siglum": "Bas",
+    "context": "adStag1.1.2",
+    "n": "adStag1.1.2",
+    "plain_text": "ὅσον ἡμῖν δυνατὸν ἦν",
+    "witnesses": [
+        {
+            "id": "Bas",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ὅσον",
+                    "rule_match": [
+                        "ὅσον"
+                    ],
+                    "t": "ὅσον"
+                },
+                {
+                    "index": "4",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἡμῖν",
+                    "rule_match": [
+                        "ἡμῖν"
+                    ],
+                    "t": "ἡμῖν"
+                },
+                {
+                    "index": "6",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "δυνατὸν",
+                    "rule_match": [
+                        "δυνατὸν"
+                    ],
+                    "t": "δυνατὸν"
+                },
+                {
+                    "index": "8",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἦν",
+                    "rule_match": [
+                        "ἦν"
+                    ],
+                    "t": "ἦν"
+                }
+            ]
+        }
+    ]
+}

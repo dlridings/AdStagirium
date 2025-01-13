@@ -1,0 +1,176 @@
+{
+    "id": "Bas_adStag1.1.23",
+    "transcription": "Bas",
+    "transcription_siglum": "Bas",
+    "siglum": "Bas",
+    "context": "adStag1.1.23",
+    "n": "adStag1.1.23",
+    "plain_text": "ἱκανὰ ταῦτα θορυβῆσαι ψυχὴν καὶ πολλῆς ἐμπλῆσαι ταραχῆς ἀλλὰ ψυχὴν τὴν παρειμένην καὶ ἀπαίδευτον καὶ νωθράν",
+    "witnesses": [
+        {
+            "id": "Bas",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἱκανὰ",
+                    "rule_match": [
+                        "ἱκανὰ"
+                    ],
+                    "t": "ἱκανὰ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ταῦτα",
+                    "rule_match": [
+                        "ταῦτα"
+                    ],
+                    "t": "ταῦτα"
+                },
+                {
+                    "index": "6",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "θορυβῆσαι",
+                    "rule_match": [
+                        "θορυβῆσαι"
+                    ],
+                    "t": "θορυβῆσαι"
+                },
+                {
+                    "index": "8",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ψυχὴν",
+                    "rule_match": [
+                        "ψυχὴν"
+                    ],
+                    "t": "ψυχὴν"
+                },
+                {
+                    "index": "10",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "12",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "πολλῆς",
+                    "rule_match": [
+                        "πολλῆς"
+                    ],
+                    "t": "πολλῆς"
+                },
+                {
+                    "index": "14",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἐμπλῆσαι",
+                    "rule_match": [
+                        "ἐμπλῆσαι"
+                    ],
+                    "t": "ἐμπλῆσαι"
+                },
+                {
+                    "index": "16",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ταραχῆς",
+                    "rule_match": [
+                        "ταραχῆς"
+                    ],
+                    "t": "ταραχῆς"
+                },
+                {
+                    "index": "18",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἀλλὰ",
+                    "rule_match": [
+                        "ἀλλὰ"
+                    ],
+                    "t": "ἀλλὰ"
+                },
+                {
+                    "index": "20",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ψυχὴν",
+                    "rule_match": [
+                        "ψυχὴν"
+                    ],
+                    "t": "ψυχὴν"
+                },
+                {
+                    "index": "22",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "τὴν",
+                    "rule_match": [
+                        "τὴν"
+                    ],
+                    "t": "τὴν"
+                },
+                {
+                    "index": "24",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "παρειμένην",
+                    "rule_match": [
+                        "παρειμένην"
+                    ],
+                    "t": "παρειμένην"
+                },
+                {
+                    "index": "26",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "28",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "ἀπαίδευτον",
+                    "rule_match": [
+                        "ἀπαίδευτον"
+                    ],
+                    "t": "ἀπαίδευτον"
+                },
+                {
+                    "index": "30",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "32",
+                    "siglum": "Bas",
+                    "reading": "Bas",
+                    "original": "νωθράν",
+                    "rule_match": [
+                        "νωθράν"
+                    ],
+                    "t": "νωθράν"
+                }
+            ]
+        }
+    ]
+}

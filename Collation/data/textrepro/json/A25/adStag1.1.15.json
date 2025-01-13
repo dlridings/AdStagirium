@@ -1,0 +1,326 @@
+{
+    "id": "A25_adStag1.1.15",
+    "transcription": "A25",
+    "transcription_siglum": "A25",
+    "siglum": "A25",
+    "context": "adStag1.1.15",
+    "n": "adStag1.1.15",
+    "plain_text": "μετὰ δὲ τούτων καὶ ἑτέρως σφόδρα ἔφης ἀλγεῖν ὅτι οὕτω σου τῆς ψυχῆς ἡ τῆς ἀθυμίας περιεγένετο δύναμις ὡς μικροῦ πολλάκις ἐπὶ βρόχον ὁρμῆσαι ἐλθεῖν καὶ ἐπὶ ποταμὸν καὶ ἐπὶ κρημνόν",
+    "witnesses": [
+        {
+            "id": "A25",
+            "tokens": [
+                {
+                    "index": "2",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "μετὰ",
+                    "rule_match": [
+                        "μετὰ"
+                    ],
+                    "t": "μετὰ"
+                },
+                {
+                    "index": "4",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "δὲ",
+                    "rule_match": [
+                        "δὲ"
+                    ],
+                    "t": "δὲ"
+                },
+                {
+                    "index": "6",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "τούτων",
+                    "rule_match": [
+                        "τούτων"
+                    ],
+                    "t": "τούτων"
+                },
+                {
+                    "index": "8",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "10",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἑτέρως",
+                    "rule_match": [
+                        "ἑτέρως"
+                    ],
+                    "t": "ἑτέρως"
+                },
+                {
+                    "index": "12",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "σφόδρα",
+                    "rule_match": [
+                        "σφόδρα"
+                    ],
+                    "t": "σφόδρα"
+                },
+                {
+                    "index": "14",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἔφης",
+                    "rule_match": [
+                        "ἔφης"
+                    ],
+                    "t": "ἔφης"
+                },
+                {
+                    "index": "16",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἀλγεῖν",
+                    "rule_match": [
+                        "ἀλγεῖν"
+                    ],
+                    "t": "ἀλγεῖν"
+                },
+                {
+                    "index": "18",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ὅτι",
+                    "rule_match": [
+                        "ὅτι"
+                    ],
+                    "t": "ὅτι"
+                },
+                {
+                    "index": "20",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "οὕτω",
+                    "rule_match": [
+                        "οὕτω"
+                    ],
+                    "t": "οὕτω"
+                },
+                {
+                    "index": "22",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "σου",
+                    "rule_match": [
+                        "σου"
+                    ],
+                    "t": "σου"
+                },
+                {
+                    "index": "24",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "26",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ψυχῆς",
+                    "rule_match": [
+                        "ψυχῆς"
+                    ],
+                    "t": "ψυχῆς"
+                },
+                {
+                    "index": "28",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἡ",
+                    "rule_match": [
+                        "ἡ"
+                    ],
+                    "t": "ἡ"
+                },
+                {
+                    "index": "30",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "τῆς",
+                    "rule_match": [
+                        "τῆς"
+                    ],
+                    "t": "τῆς"
+                },
+                {
+                    "index": "32",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἀθυμίας",
+                    "rule_match": [
+                        "ἀθυμίας"
+                    ],
+                    "t": "ἀθυμίας"
+                },
+                {
+                    "index": "34",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "περιεγένετο",
+                    "rule_match": [
+                        "περιεγένετο"
+                    ],
+                    "t": "περιεγένετο"
+                },
+                {
+                    "index": "36",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "δύναμις",
+                    "rule_match": [
+                        "δύναμις"
+                    ],
+                    "t": "δύναμις"
+                },
+                {
+                    "index": "38",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ὡς",
+                    "rule_match": [
+                        "ὡς"
+                    ],
+                    "t": "ὡς"
+                },
+                {
+                    "index": "40",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "μικροῦ",
+                    "rule_match": [
+                        "μικροῦ"
+                    ],
+                    "t": "μικροῦ"
+                },
+                {
+                    "index": "42",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "πολλάκις",
+                    "rule_match": [
+                        "πολλάκις"
+                    ],
+                    "t": "πολλάκις"
+                },
+                {
+                    "index": "44",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἐπὶ",
+                    "rule_match": [
+                        "ἐπὶ"
+                    ],
+                    "t": "ἐπὶ"
+                },
+                {
+                    "index": "46",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "βρόχον",
+                    "rule_match": [
+                        "βρόχον"
+                    ],
+                    "t": "βρόχον"
+                },
+                {
+                    "index": "48",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ὁρμῆσαι",
+                    "rule_match": [
+                        "ὁρμῆσαι"
+                    ],
+                    "t": "ὁρμῆσαι"
+                },
+                {
+                    "index": "50",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἐλθεῖν",
+                    "rule_match": [
+                        "ἐλθεῖν"
+                    ],
+                    "t": "ἐλθεῖν"
+                },
+                {
+                    "index": "52",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "54",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἐπὶ",
+                    "rule_match": [
+                        "ἐπὶ"
+                    ],
+                    "t": "ἐπὶ"
+                },
+                {
+                    "index": "56",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ποταμὸν",
+                    "rule_match": [
+                        "ποταμὸν"
+                    ],
+                    "t": "ποταμὸν"
+                },
+                {
+                    "index": "58",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "καὶ",
+                    "rule_match": [
+                        "καὶ"
+                    ],
+                    "t": "καὶ"
+                },
+                {
+                    "index": "60",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "ἐπὶ",
+                    "rule_match": [
+                        "ἐπὶ"
+                    ],
+                    "t": "ἐπὶ"
+                },
+                {
+                    "index": "62",
+                    "siglum": "A25",
+                    "reading": "A25",
+                    "original": "κρημνόν",
+                    "rule_match": [
+                        "κρημνόν"
+                    ],
+                    "t": "κρημνόν"
+                }
+            ]
+        }
+    ]
+}
