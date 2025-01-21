@@ -23,8 +23,8 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-4 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
-| Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c | Whole text | Nan | Prepared | | | https://data.biblissima.fr/entity/Q199268 |
-| Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | scan film | | | |
+| Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.1 in progress | | | https://data.biblissima.fr/entity/Q199268 |
+| Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | to do: scan film | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
 | Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
 | Neapolitanus gr. 31 (11 A 31) | 123v-210v | 1400- | Whole text | Neap | 1.1-4 | | | |
