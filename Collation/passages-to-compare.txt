@@ -10,7 +10,7 @@
 1.2.10
 1.2.12 add ὄντα
 1.2.14 omit ἢ
-1.2.18 ὢν instead of ἦν and an omitted εἰ, participle instead of clause
+1.2.18 ὢν instead of ἦν and an omitted εἰ, participle instead of finite clause
 1.2.20
 1.2.23-24
 1.2.24-25
@@ -25,8 +25,9 @@
 1.3.18
 1.3.21 κατὰ μόνας καὶ σιωπήσεται omit Nan
 1.3.25 ἵνα ἀποστῆ ἀπ’ ἐμοῦ add Nan (From 2 Cor. 12:8)
+1.3.40 ἦν might have been moved in Nan and then erased where others have it.
 1.3.41
-1.3.46
+1.3.46 τοὺς μετὰ ταῦτα omitted Nan and others
 1.3.47
 1.3.50
 1.4.1-2
