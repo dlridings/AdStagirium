@@ -1,0 +1,6 @@
+Using Criticus and the Standalone Collation Editor from Birmingham
+https://digitalorientalist.com/2024/10/11/collating-greek-manuscripts/
+
+Word-order etc
+Adventures in Correcting XML Collation Problems with Python and XSLT
+https://balisage.net/Proceedings/vol27/html/Beshero-Bondar01/BalisageVol27-Beshero-Bondar01.html
