@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -14,7 +15,7 @@
 </sourceDesc>
 </fileDesc>
 </teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.1"><ab n="adStag1.1.1"><w>ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλτατε</w>
-<lb n="PCL-La35"/><w>πάντων</w><w>ἐμοὶ</w><w>sταγείριε</w><w>καὶ</w>
+<lb n="PCL-La35"/><w>πάντων</w><w>ἐμοὶ</w><w>σταγείριε</w><w>καὶ</w>
 <lb n="PCL-La35"/><w>παρεῖναί</w><w>σοι</w><w>νῦν</w><w>καὶ</w><w>συν
 <lb n="PCL-La35" break="no"/>διαταλαιπωρεῖσθαι</w><w>καὶ</w>
 <lb n="PCL-La35"/><w>λόγῳ</w><w>παρακαλοῦντα</w><w>καὶ</w>
