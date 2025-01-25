@@ -10,3 +10,20 @@ Word-order etc
 
 Adventures in Correcting XML Collation Problems with Python and XSLT
 https://balisage.net/Proceedings/vol27/html/Beshero-Bondar01/BalisageVol27-Beshero-Bondar01.html
+
+From Copilot
+Editing word order in the Standalone Collation Editor when using CollateX can be a bit tricky, but here are some steps to help you manage it:
+
+1. **Load Your Collation**: Open the Standalone Collation Editor and load your collation data.
+
+2. **Identify Word Order Variations**: Use the editor to identify where the word order variations occur. CollateX will mark these as deletions and insertions.
+
+3. **Manual Adjustments**: You may need to manually adjust the collation to reflect the correct word order. This can involve moving tokens around within the editor to match the intended sequence.
+
+4. **Use Custom Token Comparators**: If word order variations are common in your texts, consider defining custom token comparators in CollateX. This can help the tool better handle these variations during the collation process.
+
+5. **Post-Processing**: After making adjustments in the editor, you can use post-processing scripts to refine the output. This can help ensure that the final collation accurately reflects the intended word order.
+
+For more detailed instructions, you can refer to the [GitHub repository](https://github.com/itsee-birmingham/standalone_collation_editor) or the [documentation](https://www.roger-pearse.com/weblog/2022/05/20/getting-started-with-collatex/).
+
+If you have any other questions or need further assistance, feel free to ask!
