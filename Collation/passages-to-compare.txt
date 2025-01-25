@@ -7,11 +7,15 @@
 1.1.25
 1.1.27 ἐπεδήμησέν V560
 1.1.28 τὸν τοῦ σατανᾶ τρόμον / τὸν τοῦ σώματος τρόμον
-1.2.3 Nan
+1.2.3 Nan V560 πόθος εἰσήει ἡ τῆς εὐλαβείας τῆς σῆς / others omit ἡ 
 1.2.3 ἔμαθον ἔπαθον
+1.2.6 ὃς after ὁρῶν, creating another gram. construction V560
+1.2.7 ὑπομείναντας / ὑπομείναντες
+1.2.9 καὶ καταβάλλεσθαι omit V560
 1.2.10
-1.2.12 add ὄντα
+1.2.12 add ὄντα // ἵν instead of εἰ V560 probably meant ἢν cf 2.10 (iotacism)
 1.2.14 omit ἢ
+1.2.15 V560
 1.2.18 ὢν instead of ἦν and an omitted εἰ, participle instead of finite clause
 1.2.20
 1.2.23-24
