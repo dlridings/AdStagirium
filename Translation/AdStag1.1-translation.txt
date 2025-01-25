@@ -185,3 +185,6 @@ Ad Stagirium 1.1.30
 
 Ad Stagirium 1.1.30 translation
 
+Ad Stagirium 1.2.13
+Pick yourself up and don't make the enemy worse/make things worse by
+following the opionion of hoi polloi.
