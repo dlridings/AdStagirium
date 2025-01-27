@@ -27,3 +27,9 @@ Editing word order in the Standalone Collation Editor when using CollateX can be
 For more detailed instructions, you can refer to the [GitHub repository](https://github.com/itsee-birmingham/standalone_collation_editor) or the [documentation](https://www.roger-pearse.com/weblog/2022/05/20/getting-started-with-collatex/).
 
 If you have any other questions or need further assistance, feel free to ask!
+
+Classical Text Editor
+Tutorial
+https://alexpoulos.com/2014/06/12/cte-tutorial/
+
+https://andrewdunning.ca/critical-edition-software
