@@ -14,7 +14,7 @@
 1.2.9 καὶ καταβάλλεσθαι omit V560
 1.2.10
 1.2.12 add ὄντα // ἵν instead of εἰ V560 probably meant ἢν cf 2.10 (iotacism)
-1.2.14 omit ἢ
+1.2.14 omit ἢ makes a big difference
 1.2.15 V560
 1.2.18 ὢν instead of ἦν and an omitted εἰ, participle instead of finite clause
 1.2.20
