@@ -36,4 +36,4 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Vaticanus gr. 560 | 23-80v | 10th c | Whole text | V560 | 1.4 | | | |
 | Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-4 | | | |
 | Vaticanus gr. 1920 | 19r-81r | 976-1025 | Whole text?| V1920 | 1.1-4 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1920 |
-| Vaticanus gr. 2036 | Somewhat jumbled | 11th c | Whole text | V2036 | 1.1 In progress | | | https://pinakes.irht.cnrs.fr/notices/cote/68665/ |
+| Vaticanus gr. 2036 | Somewhat jumbled | 11th c | Whole text | V2036 | 1.1-4 | | | https://pinakes.irht.cnrs.fr/notices/cote/68665/ |
