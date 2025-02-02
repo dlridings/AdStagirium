@@ -31,8 +31,8 @@
 <cb n="P18rC2-P18"/>
 <lb n="P18rC2L-P18"/><w>βίῳ</w><w>ματαιότητ<supplied source="transcriber" reason="lacuna">α</supplied></w><w><supplied source="transcriber" reason="lacuna">κατε</supplied>
 <lb n="P18rC2L-P18" break="no"/>γνωκὼς</w><w>πολλῷ</w><w>πλ<supplied source="transcriber" reason="lacuna">έον</supplied></w><w><supplied source="transcriber" reason="lacuna">τοῦ</supplied></w>
-<lb n="P18rC2L-P18"/><w>το</w><w>ἔπαθον</w><w>τότε</w><w>καὶ</w><w><supplied source="na28" reason="lacuna">μεί</supplied></w>
-<lb n="P18rC2L-P18"/><w>ζων</w><w>με</w><w>πόθος</w><w>εἰσῄει</w><w>τῆς</w>
+<lb n="P18rC2L-P18"/><w>το</w><w>ἔπαθον</w><w>τότε</w><w>καὶ</w>
+<lb n="P18rC2L-P18"/><w><supplied source="transcriber" reason="lacuna">μεί</supplied>ζων</w><w>με</w><w>πόθος</w><w>εἰσῄει</w><w>τῆς</w>
 <lb n="P18rC2L-P18"/><w>εὐλαβείας</w><w>τῆς</w><w>σῆς</w></ab><ab n="adStag1.2.4"><w>τοιαύ
 <lb n="P18rC2L-P18" break="no"/>τη</w><w>γὰρ</w><w>ἡ</w><w>φύσις</w><w>τῶν</w><w>ἀνια
 <lb n="P18rC2L-P18" break="no"/>ρῶν</w></ab><ab n="adStag1.2.5"><w>ἐπιτείνειν</w><w>εἴωθε</w>
@@ -142,4 +142,4 @@
 <lb n="P18vC2L-P18" break="no"/>μάτων</w><w>οὐσίας</w><w>ἐποίη
 <pb n="19r" type="folio" xml:id="P19r-P18" break="no"/>
 <cb n="P19rC1-P18"/>
-<lb n="P19rC1L-P18"/></w><gap reason="lacuna"/></ab></div></div></body></text></TEI>
+<lb n="P19rC1L-P18"/><gap reason="lacuna"/></w></ab></div></div></body></text></TEI>

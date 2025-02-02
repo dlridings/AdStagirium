@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -40,7 +41,7 @@
 <lb n="P19rC2L-V1920"/><w>εἰσενεγκεῖν</w><w>οὐκ</w><w>ὀκνήσομεν</w>
 <lb n="P19rC2L-V1920"/></ab><ab n="adStag1.1.4"><w>ἴσως</w><w>μὲν</w><w>γὰρ</w><w>ἔσται</w><w>τι</w><w>πλέον</w>
 <lb n="P19rC2L-V1920"/><w>πρὸς</w><w>τὸ</w><w>τὰ</w><w>παρόντα</w><w>σε</w><w>φέ
-<lb n="P19rC2L-V1920" break="no"/>ρειν</w><w>γενναίως</w><w>ἂν</w><w>δ</w><w>᾽</w><w>ἄρα</w>
+<lb n="P19rC2L-V1920" break="no"/>ρειν</w><w>γενναίως</w><w>ἂν</w><w>δ’</w><w>ἄρα</w>
 <lb n="P19rC2L-V1920"/><w>μηδέν</w><w>τί</w><w>τοιοῦτον</w><w>ἀνύσω
 <lb n="P19rC2L-V1920" break="no"/>μεν</w><w>τὸ</w><w>γοῦν</w><w>τῶν</w><w>εἰς</w><w>ἡμᾶς</w>
 <lb n="P19rC2L-V1920"/><w>ἡκόντων</w><w>ἐλλειφθῆναι</w>
