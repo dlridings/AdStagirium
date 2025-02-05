@@ -1,4 +1,3 @@
-
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -36,7 +35,7 @@
 <lb n="PCL-V568"/><w>μείζων</w><w>με</w><w>πόθος</w>
 <lb n="PCL-V568"/><w>τῆς</w><w>εὐλαβείας</w><w>ἐπῄ
 <cb n="PC2-V568" break="no"/>
-<lb n="PC2L-V568"/></w><w>ει</w><w>τῆς</w><w>σῆς</w></ab><ab n="adStag1.2.4"><w>τοιαύ
+<lb n="PC2L-V568"/>ει</w><w>τῆς</w><w>σῆς</w></ab><ab n="adStag1.2.4"><w>τοιαύ
 <lb n="PC2L-V568" break="no"/>τη</w><w>γὰρ</w><w>ἡ</w><w>φύσις</w><w>τῶν</w>
 <lb n="PC2L-V568"/><w>ἀνιαρῶν</w></ab><ab n="adStag1.2.5"><w>ἐπιτεί
 <lb n="PC2L-V568" break="no"/>νειν</w><w>εἴωθε</w><w>τὰς</w><w>φι
@@ -97,7 +96,7 @@
 <lb n="P83rC1L-V568"/><w>ἂν</w><w>μὴ</w><w>ἐγχωρήσω
 <lb n="P83rC1L-V568" break="no"/>μεν</w><w>ἁπλῶς</w><w>ἐκδόν
 <cb n="P83rC2-V568" break="no"/>
-<lb n="P83rC2L-V568"/></w><w>τες</w><w>ἑαυτοὺς</w><w>τῷ</w>
+<lb n="P83rC2L-V568"/>τες</w><w>ἑαυτοὺς</w><w>τῷ</w>
 <lb n="P83rC2L-V568"/><w>πάθει</w><w>φέρεσθαι</w>
 <lb n="P83rC2L-V568"/><w>κατὰ</w><w>κρημνῶν</w>
 <lb n="P83rC2L-V568"/><w>ἀλλὰ</w><w>καὶ</w><w>ἀνανῆψαι</w>
@@ -280,7 +279,7 @@
 <lb n="P2vC1L-V568" break="no"/>το</w><w>οὐδενὸς</w><w>προϋ
 <lb n="P2vC1L-V568" break="no"/>πηργμένου</w><w>κατορ
 <cb n="P2vC2-V568" break="no"/>
-<lb n="P2vC2L-V568"/></w><w>θώματος</w><w>παρ’</w><w>αὐ
+<lb n="P2vC2L-V568"/>θώματος</w><w>παρ’</w><w>αὐ
 <lb n="P2vC2L-V568" break="no"/>τοῦ</w></ab><ab n="adStag1.2.30"><w>τί</w><w>οὖν</w><w>ἐκεῖ
 <lb n="P2vC2L-V568" break="no"/>νος</w><w>μετὰ</w><w>τὰ</w><w>τοσαῦ
 <lb n="P2vC2L-V568" break="no"/>τα</w><w>καὶ</w><w>τηλικαῦτα</w>
@@ -372,7 +371,7 @@
 <lb n="P85rC2L-V568"/><w>δὴ</w><w>τὰ</w><w>ἐξ</w><w>ἐκείνων</w><w>καὶ</w><w>μέ
 <pb n="85v" type="folio" xml:id="P85v-V568" break="no"/>
 <cb n="P85vC1-V568"/>
-<lb n="P85vC1L-V568"/></w><w>χρι</w><w>τοῦ</w><w>νῦν</w><w>ὑπὲρ</w>
+<lb n="P85vC1L-V568"/>χρι</w><w>τοῦ</w><w>νῦν</w><w>ὑπὲρ</w>
 <lb n="P85vC1L-V568"/><w>τῆς</w><w>τούτου</w><w>σωτη
 <lb n="P85vC1L-V568" break="no"/>ρίας</w><w>ἐγένετο</w><w>καὶ</w><w>τι
 <lb n="P85vC1L-V568" break="no"/>μῆς</w><w>καὶ</w><w>ὑπὲρ</w><w>μὲν</w>
