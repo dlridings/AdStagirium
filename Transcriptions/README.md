@@ -37,7 +37,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Vaticanus gr. 560 | 23-80v | 10th c | Whole text | V560 | 1.4 | | | |
 | Vaticanus gr. 565 | 283-304v | 11th c | Logos 1 | V565 | 1.1-4 | | | |
 | Vaticanus gr. 566 | 58v-113v | 11th c | Whole text | V566 | Scanned | | | |
-| Vaticanus gr. 568 | 79v-109v | 11th c | Logos 1 | V568 | 1.1-3 In progress | | | |
+| Vaticanus gr. 568 | 79v-109v | 11th c | Logos 1 | V568 | 1.1-4 | | | |
 | Vaticanus gr. 571 | 123v-183 | 14th c | Whole text | V571 | Out of Focus | | | |
 | Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-4 | | | |
 | Vaticanus gr. 1920 | 19r-81r | 976-1025 | Whole text?| V1920 | 1.1-4 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1920 |
