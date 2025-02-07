@@ -1,4 +1,3 @@
-
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -162,7 +161,7 @@
 <lb n="P129vC2L-M111"/><w>γὰρ</w><w>ὑπὲρ</w><w>τοῦ</w><w>πατρὸς</w><w>καὶ</w><w>τρέ
 <pb n="130r" type="folio" xml:id="P130r-M111" break="no"/>
 <cb n="P130rC1-M111"/>
-<lb n="P130rC1L-M111"/></w><w>μειν</w><w>μήποτε</w><w>αἰσθόμενος</w>
+<lb n="P130rC1L-M111"/>μειν</w><w>μήποτε</w><w>αἰσθόμενος</w>
 <lb n="P130rC1L-M111"/><w>μεγάλα</w><w>τοὺς</w><w>ὑποδεξαμένους</w>
 <lb n="P130rC1L-M111"/><w>σε</w><w>τὴν</w><w>ἀρχὴν</w><w>ἁγίους</w><w>ἐργά
 <lb n="P130rC1L-M111" break="no"/>σηται</w><w>δεινά</w></ab><ab n="adStag1.1.19"><w>τῇ</w><w>τε</w><w>γὰρ</w><w>δυνά
