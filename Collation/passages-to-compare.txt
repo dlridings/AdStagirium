@@ -12,7 +12,7 @@
 1.1.29 προσετίθεις δὲ add V568
 1.2.3 Nan V560 πόθος εἰσήει ἡ τῆς εὐλαβείας τῆς σῆς / others omit ἡ 
 1.2.3 ἔμαθον ἔπαθον
-1.2.6 ὃς after ὁρῶν, creating another gram. construction V560
+1.2.6 ὃς after ὁρῶν, creating another gram. construction V560 V566
 1.2.7 ὑπομείναντας / ὑπομείναντες
 1.2.9 καὶ καταβάλλεσθαι omit V560
 1.2.10 ἐγχωρήσωμεν V568 ἐθελήσωμεν others
