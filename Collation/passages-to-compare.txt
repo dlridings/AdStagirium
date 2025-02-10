@@ -24,6 +24,7 @@
 1.2.18 ὢν instead of ἦν and an omitted εἰ, participle instead of finite clause
 1.2.20 βραχὺν V568, others εὐτελῆ
 1.2.23-25 needs a lot of work in the transcriptions. Verse divisions. check
+1.2.24 οὐδὲν ἐξ αὐτῶν / οὐδὲ ἓν ἐξ αὐτῶν 
 1.2.24-25
 1.2.26 καὶ φανερὸν ποιῶν omit V568
 1.2.27-28 *** V568
