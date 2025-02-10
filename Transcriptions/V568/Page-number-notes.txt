@@ -1,0 +1,9 @@
+# V568
+
+From 85r on there is a double sequence of numbers. One next to the text (85) and one up in the upper right corner, 83
+
+85r (text) = 83r (corner)
+86r (text) = 84r (corner)
+87r (text) = 85r (corner)
+88r (text) = 86r (corner)
+89r (text) = 87r (corner)
