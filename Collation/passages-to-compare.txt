@@ -44,7 +44,7 @@
 1.3.26-28 V568
 1.3.40 ἦν might have been moved in Nan and then erased where others have it.
 1.3.41 word order
-1.3.46 ***πρὸς δὲ καὶ erased V560 omitted V2036 omitted M111
+1.3.46 ***πρὸς δὲ καὶ erased V560 omitted V2036 omitted M111 : δὲ καὶ εἰς omitted V566
 1.3.46 τοὺς μετὰ ταῦτα omitted Nan and others
 1.3.47 κακόν / δεινόν // word order
 1.3.50 μετὰ τὸ συγγνώμης τυχεῖν μετὰ τὸ συγγνώμης τυχεῖν omit V560
