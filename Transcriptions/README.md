@@ -36,7 +36,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Sinaiticus gr. 1607 | 124-179v | a. 1431 | Whole text | Sin | 1.1-4 | | | https://www.loc.gov/item/00271070172-ms, https://www.loc.gov/manuscripts/?fa=segmentof:amedmonastery.00271070172-ms/&q=1607&st=gallery |
 | Vaticanus gr. 560 | 23-80v | 10th c | Whole text | V560 | 1.4 | | | |
 | Vaticanus gr. 565 | 283-304v | 11th c | Logos 1 | V565 | 1.1-4 | | | |
-| Vaticanus gr. 566 | 58v-113v | 11th c | Whole text | V566 | 1.1-3 in progress | | | |
+| Vaticanus gr. 566 | 58v-113v | 11th c | Whole text | V566 | 1.1-4 | | | |
 | Vaticanus gr. 568 | 79v-109v | 11th c | Logos 1 | V568 | 1.1-4 | | | |
 | Vaticanus gr. 571 | 123v-183 | 14th c | Whole text | V571 | Out of Focus | | | |
 | Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-4 | | | |
