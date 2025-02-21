@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -67,8 +68,8 @@
 <lb n="P90rC2L-V568"/><w>πάσης</w><w>αὐτῷ</w><w>κολάσεως</w>
 <lb n="P90rC2L-V568"/><w>μεῖζον</w><w>καὶ</w><w>πρὸς</w><w>ἐσχάτην</w>
 <lb n="P90rC2L-V568"/><w>κατάκρισιν</w><w>ἀγαγεῖν</w><w>ἱκα
-<lb n="P90rC2L-V568" break="no"/>νόν</w></ab><ab n="adStag1.4.10"><w>ἀλλ’</w><w>οὐ</w><w>πάντες</w><w>αὐ
-<lb n="P90rC2L-V568" break="no"/>τοῦ</w><w>περιέσονται</w><w>φησί</w>
+<lb n="P90rC2L-V568" break="no"/>νόν</w></ab><ab n="adStag1.4.10"><app><rdg type="orig" hand="firsthand"><w>ἀλλ’</w><w>οὐ</w><w>πάντες</w><w>αὐ​
+<lb n="P90rC2L-V568" break="no"/>τοῦ</w><w>περιέσονται</w><w>φησί</w></rdg><rdg type="corr" hand="corrector1" rend="deletion_hooks"><seg type="margin" subtype="lineleft" n="@P90rC2L-V568"/></rdg></app>
 <lb n="P90rC2L-V568"/></ab><ab n="adStag1.4.11"><w>καὶ</w><w>τί</w><w>τοῦτο</w><w>πρὸς</w><w>τὸ</w><w>λεγό
 <lb n="P90rC2L-V568" break="no"/>μενον</w></ab><ab n="adStag1.4.12"><w>πολλῷ</w><w>γὰρ</w><w>δι
 <lb n="P90rC2L-V568" break="no"/>καιότερον</w><w>τοὺς</w><w>μὲν</w><w>δι
