@@ -21,13 +21,14 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Athous Stavronikita 25 | 237-300 | 930-980 Dumortier | Whole text | A25 | 1.1-4 | | | |
 | Athous Vatopedinus 116 | 314-344 | 14th c | Logos 1-2 | A116 | 1.1-4 | | | |
 | Athous Vatopedinus 336 | 187v-237 | 14th c | Whole text | A336 | 1.1-4 | | | |
+| Bodleianus Laud. 17 | 161-216v | 15th c | Whole text | Bodl | in progress | | | |
 | Hierosolymitanus Sabbaiticus 32 | 3-76 | 1000/1100 | Whole text | S32 | 1.1-4 | | | |
 | Hierosolymitanus Sabbaiticus 249 | 130v-174 | 1000 | Whole text, missing pages | S249 | 1.1-4 (gaps) | | | |
 | Laurentianus (plut.) 9, (cod.) 22 | 119-180v | a. 974 | Whole text | La22 | 1.1-4 | | | |
 | Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-4 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
-| Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.4 | | | https://data.biblissima.fr/entity/Q199268 |
+| Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.1-4 | | | https://data.biblissima.fr/entity/Q199268 |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-4 | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
 | Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
