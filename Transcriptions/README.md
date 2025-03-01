@@ -11,7 +11,7 @@ https://itsee-wce.birmingham.ac.uk/ote/transcriptiontool
 
 https://pinakes.irht.cnrs.fr/notices/bibliographie/7ZT3UC43/
 
-## Manuscripts
+## Manuscripts	
 
 https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51e378e0759
 
@@ -29,6 +29,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
 | Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.1-4 | | | https://data.biblissima.fr/entity/Q199268 |
+| Monacensis gr. 31 | 61v-121v | 1546 | Whole text | Mon | Prepared | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-4 | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
 | Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
@@ -44,7 +45,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Vaticanus gr. 565 | 283-304v | 11th c | Logos 1 | V565 | 1.1-4 | | | |
 | Vaticanus gr. 566 | 58v-113v | 11th c | Whole text | V566 | 1.1-4 | | | |
 | Vaticanus gr. 568 | 79v-109v | 11th c | Logos 1 | V568 | 1.1-4 | | | |
-| Vaticanus gr. 571 | 123v-183 | 14th c | Whole text | V571 | Out of Focus | | | |
+| Vaticanus gr. 571 | 123v-183 | 14th c | Whole text | V571 | Prepared | | | |
 | Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-4 | | | |
 | Vaticanus gr. 1897 | 73r- | 14th c | Whole text | V1897 | 1.1-4 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1897 |
 | Vaticanus gr. 1920 | 19r-81r | 976-1025 | Whole text?| V1920 | 1.1-4 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1920 |
