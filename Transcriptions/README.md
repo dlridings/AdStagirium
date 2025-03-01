@@ -1,11 +1,10 @@
 # Transcriptions
 
-Use the Online Transcription Editor at Birmingham to edit transcriptions. No exceptions.
+Using Online Transcription Editor at Birmingham to edit transcriptions
 
 
 https://itsee-wce.birmingham.ac.uk/ote/transcriptiontool
 
-(Unless you really, really know what you are doing and make minor adjustments to the XML by hand. Murphy's Law reigns.)
 
 ## Notes
 
