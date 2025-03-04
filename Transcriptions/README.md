@@ -20,7 +20,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Athous Stavronikita 25 | 237-300 | 930-980 Dumortier | Whole text | A25 | 1.1-4 | | | |
 | Athous Vatopedinus 116 | 314-344 | 14th c | Logos 1-2 | A116 | 1.1-4 | | | |
 | Athous Vatopedinus 336 | 187v-237 | 14th c | Whole text | A336 | 1.1-4 | | | |
-| Berolinensis gr. 39 | 199v-267 |  | Whole text | B39 | Prepared | | | |
+| Berolinensis gr. 39 | 199v-267 | 12th c | Whole text | B39 | Prepared | | | |
 | Bodleianus Laud. 17 | 161-216v | 15th c | Whole text | Bodl | 1.1-4 | | | |
 | Hierosolymitanus Sabbaiticus 32 | 3-76 | 1000/1100 | Whole text | S32 | 1.1-4 | | | |
 | Hierosolymitanus Sabbaiticus 249 | 130v-174 | 1000 | Whole text, missing pages | S249 | 1.1-4 (gaps) | | | |
