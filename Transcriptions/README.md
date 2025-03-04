@@ -20,6 +20,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Athous Stavronikita 25 | 237-300 | 930-980 Dumortier | Whole text | A25 | 1.1-4 | | | |
 | Athous Vatopedinus 116 | 314-344 | 14th c | Logos 1-2 | A116 | 1.1-4 | | | |
 | Athous Vatopedinus 336 | 187v-237 | 14th c | Whole text | A336 | 1.1-4 | | | |
+| Berolinensis gr. 39 | 199v-267 |  | Whole text | B39 | Prepared | | | |
 | Bodleianus Laud. 17 | 161-216v | 15th c | Whole text | Bodl | 1.1-4 | | | |
 | Hierosolymitanus Sabbaiticus 32 | 3-76 | 1000/1100 | Whole text | S32 | 1.1-4 | | | |
 | Hierosolymitanus Sabbaiticus 249 | 130v-174 | 1000 | Whole text, missing pages | S249 | 1.1-4 (gaps) | | | |
@@ -28,7 +29,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
 | Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.1-4 | | | https://data.biblissima.fr/entity/Q199268 |
-| Monacensis gr. 31 | 61v-121v | 1546 | Whole text | Mon | Prepared | | | |
+| Monacensis gr. 31 | 61v-121v | 1546 | Whole text | Mon | 1.1-5 | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-4 | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
 | Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
