@@ -47,7 +47,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Vaticanus gr. 565 | 283-304v | 11th c | Logos 1 | V565 | 1.1-4 | | | |
 | Vaticanus gr. 566 | 58v-113v | 11th c | Whole text | V566 | 1.1-4 | | | |
 | Vaticanus gr. 568 | 79v-109v | 11th c | Logos 1 | V568 | 1.1-4 | | | |
-| Vaticanus gr. 569 | 159-166v | 1350 ca | First part of Logos (1.1-3) 1 | V569 | 1.1 in progress | | | |
+| Vaticanus gr. 569 | 159-166v | 1350 ca | First part of Logos (1.1-3) 1 | V569 | 1.1-3 | | | |
 | Vaticanus gr. 571 | 123v-183 | 14th c | Whole text | V571 | 1.1-4 | | | |
 | Vaticanus gr. 1629 | 217v-284 | 11th c | Whole text | V1629 | Prepared | | | |
 | Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-4 | | | |
