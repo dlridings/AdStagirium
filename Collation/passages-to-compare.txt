@@ -16,7 +16,7 @@
 1.2.3 Nan V560 πόθος εἰσήει ἡ τῆς εὐλαβείας τῆς σῆς / others omit ἡ // ἔμαθον ἔπαθον
 1.2.3 *ἔμαθον ἔπαθον puts V1897 together with Nan
 1.2.6 ὃς after ὁρῶν, creating another gram. construction V560 V566
-1.2.7 ὑπομείναντας / ὑπομείναντες
+1.2.7 ὑπομείναντας / ὑπομείναντες Vast majority has the former
 1.2.9 καὶ καταβάλλεσθαι omit V560 // φερόμενος instead of φέρω μέρος B39
 1.2.10 *** ἐγχωρήσωμεν V568 M118 P18 Sin Mon (group) ἐθελήσωμεν others // συρεσθαι φερεσθαι look at the group
 1.2.12 add ὄντα // ἵν instead of εἰ V560 probably meant ἢν cf 2.10 (iotacism)
@@ -25,7 +25,7 @@
 1.2.18 καὶ / τὸ with the infinitive
 1.2.18 ἐπιστρέφεσθαι / κάμπεσθαι V568
 1.2.18 *ὢν instead of ἦν and an omitted εἰ, participle instead of finite clause
-1.2.20 βραχὺν V568, others εὐτελῆ
+1.2.20 *βραχὺν V568, others εὐτελῆ
 1.2.23-25 needs a lot of work in the transcriptions. Verse divisions. check
 1.2.24 οὐδὲν ἐξ αὐτῶν / οὐδὲ ἓν ἐξ αὐτῶν 
 1.2.24-25
