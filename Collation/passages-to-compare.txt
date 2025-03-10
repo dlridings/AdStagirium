@@ -2,14 +2,16 @@
 1.1.6 εὐχόμενος etc LaSM B39
 1.1.7 δυνησόμεθα πειρασόμεθα -- παρῃρηται ἀφῃρηται M111
 1.1.8 V565 reads in several words from 1.1.11, where they also appear.
-1.1.9 καὶ συναπάγεσθαι τοῖς ταπεινοῖς omitted V566 Mon P18 V536 Sin M118 // συνεπάγεσθαι LaSM B39
+1.1.9 καὶ συναπάγεσθαι τοῖς ταπεινοῖς omitted V566 Mon P18 V536 Sin M118 V1629 // συνεπάγεσθαι LaSM B39
 1.1.10-11
 1.1.12	τὰ ἀυτά σοι νενοσηκότων // τὰ τοιαῦτα συννενοσηκότων 
 1.1.15 ὁρμῆσαι ἐλθεῖν or omit ὁρμῆσαι / τυραννὶς ***
 1.1.17 M118 and V536 alone, where they belong to another larger group otherwise ***
 1.1.20 προσετίθεις δὲ add V568 V536
-1.1.23 homoioteleuton (ψυχὴν) καὶ πολλῆς ἐμπλῆσαι ταραχῆς ἀλλὰ ψυχὴν omit Bodl La2 M136 Neap other combinations
-1.1.25 τοῦ πόνου καὶ omit V568 V536
+1.1.22 * clear grouping προσδοκήσαντας προσδοκήσαντα but V560 is here now too
+1.1.23 **homoioteleuton (ψυχὴν) καὶ πολλῆς ἐμπλῆσαι ταραχῆς ἀλλὰ ψυχὴν omit Bodl La2 M136 Neap other combinations
+1.1.24 *** ταύτη ταύτην ταύτης
+1.1.25 *τοῦ πόνου καὶ omit V568 V536
 1.1.27 ἐπεδήμησέν V560 V568
 1.1.28 τὸν τοῦ σατανᾶ τρόμον / τὸν τοῦ σώματος τρόμον
 1.1.29 προσετίθεις δὲ add V568 ??? erroneous note probably should be 1.1.20
