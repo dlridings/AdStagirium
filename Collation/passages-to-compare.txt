@@ -7,11 +7,11 @@
 1.1.12	τὰ ἀυτά σοι νενοσηκότων // τὰ τοιαῦτα συννενοσηκότων 
 1.1.15 ὁρμῆσαι ἐλθεῖν or omit ὁρμῆσαι / τυραννὶς ***
 1.1.17 M118 and V536 alone, where they belong to another larger group otherwise ***
-1.1.20 προσετίθεις δὲ add V568 V536
+1.1.20 ***προσετίθεις δὲ add V568 V536 and the whole group of Taur, Sin, M118, M136 etc
 1.1.22 * clear grouping προσδοκήσαντας προσδοκήσαντα but V560 is here now too
 1.1.23 **homoioteleuton (ψυχὴν) καὶ πολλῆς ἐμπλῆσαι ταραχῆς ἀλλὰ ψυχὴν omit Bodl La2 M136 Neap other combinations
 1.1.24 *** ταύτη ταύτην ταύτης
-1.1.25 *τοῦ πόνου καὶ omit V568 V536
+1.1.25 *τοῦ πόνου καὶ omit V568 V536 and the others in the Taur group
 1.1.27 ἐπεδήμησέν V560 V568
 1.1.28 τὸν τοῦ σατανᾶ τρόμον / τὸν τοῦ σώματος τρόμον
 1.1.29 προσετίθεις δὲ add V568 ??? erroneous note probably should be 1.1.20
@@ -20,26 +20,26 @@
 1.2.6 ὃς after ὁρῶν, creating another gram. construction V560 V566
 1.2.7 ὑπομείναντας / ὑπομείναντες Vast majority has the former
 1.2.9 καὶ καταβάλλεσθαι omit V560 // φερόμενος instead of φέρω μέρος B39
-1.2.10 *** ἐγχωρήσωμεν V568 M118 P18 Sin Mon (group) ἐθελήσωμεν others // συρεσθαι φερεσθαι look at the group
+1.2.10 *** συγχωρήσωμεν V568 M118 P18 Sin Mon (group) ἐθελήσωμεν others // συρεσθαι φερεσθαι look at the group
 1.2.12 add ὄντα // ἵν instead of εἰ V560 probably meant ἢν cf 2.10 (iotacism)
 1.2.14 omit ἢ makes a big difference
 1.2.15 V560
 1.2.18 καὶ / τὸ with the infinitive
 1.2.18 ἐπιστρέφεσθαι / κάμπεσθαι V568
 1.2.18 *ὢν instead of ἦν and an omitted εἰ, participle instead of finite clause
-1.2.20 *βραχὺν V568, others εὐτελῆ
+1.2.20 **βραχὺν V568, Taur group others εὐτελῆ
 1.2.23-25 needs a lot of work in the transcriptions. Verse divisions. check
 1.2.24 οὐδὲν ἐξ αὐτῶν / οὐδὲ ἓν ἐξ αὐτῶν 
 1.2.24-25
-1.2.26 καὶ φανερὸν ποιῶν omit V568
+1.2.26 καὶ φανερὸν ποιῶν omit V568 and Taur group
 1.2.27-28 *** V568
 1.2.30 omit ἐκεῖνος
-1.2.31 *** V568
+1.2.31 *** παντελῶς αὐτὸν ἀφανίσαι omitted V568 Taur group
 1.2.32 εἶδος LaSM B39
 1.2.33
 1.2.35 αὐτόν word order V560
 1.2.40
-1.3.3 τί οὖν ἂν ἔπαθεν omit V560 V568
+1.3.3 ***τί οὖν ἂν ἔπαθεν omit V560 V568 and many others, from across groups
 1.3.4 τῆς αὐτῆς αὐτῆς τιμῆς duplicated, ἔμενεν omitted V568 homeoteleuteton mistake + one more 
 1.3.6 ἀληθῶς ἀπατεῶνα καὶ omit V560
 1.3.8 *** V568 significant reordering
