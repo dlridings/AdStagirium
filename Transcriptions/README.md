@@ -41,7 +41,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Parisinus gr. 874 (Colbertinus 4) | 253-305 | 13th c | Whole text, water damage (top) | P74 | Prepared | | | |
 | Patmiacus 183 | 291v-334v | 11th c | Logos 1, part of Logos 2 (-461,55) | Patm | 1.1-4 | | | |
 | Sinaiticus gr. 1607 | 124-179v | a. 1431 | Whole text | Sin | 1.1-4 | | | https://www.loc.gov/item/00271070172-ms, https://www.loc.gov/manuscripts/?fa=segmentof:amedmonastery.00271070172-ms/&q=1607&st=gallery |
-| Taurinensis B I II | 93-187v | 13th c | Whole text | Taur | 1.1-3 In progress | | | 89 Cosentini, 13 Pasini |
+| Taurinensis B I II | 93-187v | 13th c | Whole text | Taur | 1.1-4 | | | 89 Cosentini, 13 Pasini |
 | Vaticanus gr. 536 | 216r-262 | 13-14th c | Whole text | V536 | 1.1-4 | | | |
 | Vaticanus gr. 560 | 23-80v | 10th c | Whole text | V560 | 1.1-4 | | | |
 | Vaticanus gr. 565 | 283-304v | 11th c | Logos 1 | V565 | 1.1-4 | | | |
