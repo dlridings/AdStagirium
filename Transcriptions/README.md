@@ -22,12 +22,14 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Athous Vatopedinus 336 | 187v-237 | 14th c | Whole text | A336 | 1.1-4 | | | |
 | Berolinensis gr. 39 | 199v-267 | 12th c | Whole text | B39 | 1.4 | | | |
 | Bodleianus Laud. 17 | 161-216v | 15th c | Whole text | Bodl | 1.1-4 | | | |
+| Estense Modena gr. 249 = α.T.8.18 | 26-82 | 15/16th c | Whole text | Est | Prepared | | | |
 | Hierosolymitanus Sabbaiticus 32 | 3-76 | 1000/1100 | Whole text | S32 | 1.1-4 | | | |
 | Hierosolymitanus Sabbaiticus 249 | 130v-174 | 1000 | Whole text, missing pages | S249 | 1.1-4 (gaps) | | | |
 | Laurentianus (plut.) 9, (cod.) 22 | 119-180v | a. 974 | Whole text | La22 | 1.1-4 | | | |
 | Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-4 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
+| Marcianus gr. 108  | 36-70 | 14th c | Whole text | Marc | Prepared | | | Provenienza Bessarione |
 | Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.1-4 | | | https://data.biblissima.fr/entity/Q199268 |
 | Monacensis gr. 31 | 61v-121v | 1546 | Whole text | Mon | 1.1-4 | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-4 | | | |
