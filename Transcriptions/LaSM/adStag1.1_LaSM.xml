@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -56,7 +57,7 @@
 <lb n="PC2L-LaSM"/></ab><ab n="adStag1.1.6"><w>εἰ</w><w>μὲν</w><w>οὖν</w><w>τῶν</w><w>εὐδοκιμούν
 <lb n="PC2L-LaSM" break="no"/>των</w><w>παρὰ</w><w>Θεῷ</w><w>καὶ</w><w>μεγάλα</w>
 <lb n="PC2L-LaSM"/><w>δυναμένων</w><w>ἐτύγχανον</w><w>ὢν</w>
-<lb n="PC2L-LaSM"/><w>οὐκ</w><w>ἂν</w><w>διέλιπον</w><w>ἐυχόμενος</w>
+<lb n="PC2L-LaSM"/><w>οὐκ</w><w>ἂν</w><w>διέλιπον</w><w>εὐχόμενος</w>
 <lb n="PC2L-LaSM"/><w>δεόμενος</w><w>ἱκετεύων</w><w>ὑπὲρ</w>
 <lb n="PC2L-LaSM"/><w>τῆς</w><w>τιμίας</w><w>ἐμοὶ</w><w>κεφαλῆς</w>
 <lb n="PC2L-LaSM"/></ab><ab n="adStag1.1.7"><w>ἐπειδὴ</w><w>δέ</w><w>με</w><w>τὴν</w><w>παρρησί
