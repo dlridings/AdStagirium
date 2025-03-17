@@ -39,7 +39,7 @@
 1.2.33
 1.2.35 αὐτόν word order V560
 1.2.40
-1.3.3 ***τί οὖν ἂν ἔπαθεν omit V560 V568 and many others, from across groups
+1.3.3 ***τί οὖν ἂν ἔπαθεν omit V560 V568 and many others, from across groups *** 1.3.2 Est*
 1.3.4 τῆς αὐτῆς αὐτῆς τιμῆς duplicated, ἔμενεν omitted V568 homeoteleuteton mistake + one more 
 1.3.6 ἀληθῶς ἀπατεῶνα καὶ omit V560
 1.3.8 *** V568 significant reordering
@@ -62,7 +62,7 @@
 1.3.56-57 κέρδος P01 cf. M136
 1.3.65 ἐλάττονα / μείζονα V560
 1.3.56 V560
-1.3.57 βελτιώνους Mon and Marc
+1.3.57 βελτιώνους Mon and Marc, in Marc it is probably a correction
 1.3.61 λογισμῶν instead of λόγων M111 A336
 1.3.70 ** νῦν δὲ οὗτος ὧδε 
 1.4.1 εἰ δὲ καὶ λέγοι only V1897 has καὶ
