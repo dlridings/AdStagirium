@@ -79,6 +79,7 @@
 1.4.19 τὴν πρόνοιαν omit probably an error of homoeoteleuton in the tradition
 1.4.23 V568 // καὶ τοὺς πόδας omit M118, Taur (corrected Taur)
 1.4.25 καὶ φῶς omit
+1.4.27 La22 has ὁ διάβολος οὐ μόνον οὐ βλάπτει ... a "title" others have, some in the text, but I can't figure out how to transcribe this. I am not getting "marginal comments" to work.
 1.4.28-29 ***
 1.4.31 *διηνεκῶς Neap V1629 / διαπαντος
 1.4.37 τοῦτο δὲ εἶπε (added/omitted) cf. Dumortier
