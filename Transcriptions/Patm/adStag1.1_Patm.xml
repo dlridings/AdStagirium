@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -126,8 +127,8 @@
 <lb n="P293vC1L-Patm"/><w>τῇ</w><w>ψυχῇ</w><w>παρὰ</w><w>τὴν</w><w>ἀρχὴν</w><w>ὁ</w><w>μιαρὸς</w><w>δαίμων</w><w>ἐκεῖνος</w>
 <lb n="P293vC1L-Patm"/><w>καὶ</w><w>μεταξὺ</w><w>πάντων</w><w>εὐχoμένων</w><w>κατέβαλεν</w><w>οὐκ</w><w>ἔ
 <lb n="P293vC1L-Patm" break="no"/>τυχον</w><w>μὲν</w><w>παρὼν</w><w>καὶ</w><w>χάριν</w><w>ἔχω</w><w>τῷ</w><w>φιλανθρώπῳ</w><w>Θεῷ</w>
-<lb n="P293vC1L-Patm"/><w>ἔμαθον</w><w>δὲ</w><w>ἅπαντα</w><w>μετὰ</w><w>ἀκριβείας</w><w>ὡσπεραν
-<lb n="P293vC1L-Patm" break="no"/>εὶ</w><w>παρών</w></ab><ab n="adStag1.1.28"><w>ὁ</w><w>γὰρ</w><w>ἐμὸς</w><w>φίλος</w><w>καὶ</w><w>σὸς</w><w>θεόφιλος</w><w>ὁ</w><w>ἐ
+<lb n="P293vC1L-Patm"/><w>ἔμαθον</w><w>δὲ</w><w>ἅπαντα</w><w>μετὰ</w><w>ἀκριβείας</w><w>ὥσπερ</w><w>ἂν</w>
+<lb n="P293vC1L-Patm"/><w>εἰ</w><w>παρών</w></ab><ab n="adStag1.1.28"><w>ὁ</w><w>γὰρ</w><w>ἐμὸς</w><w>φίλος</w><w>καὶ</w><w>σὸς</w><w>θεόφιλος</w><w>ὁ</w><w>ἐ
 <lb n="P293vC1L-Patm" break="no"/>φέσιος</w><w>ἐλθὼν</w><w>ἅπαντά</w><w>μοι</w><w>σαφῶς</w><w>διηγήσατο</w><w>τὴν</w>
 <lb n="P293vC1L-Patm"/><w>στρέβλωσιν</w><w>τῶν</w><w>χειρῶν</w><w>τὴν</w><w>διαστροφὴν</w><w>τῶν</w><w>ὀφθαλ
 <lb n="P293vC1L-Patm" break="no"/>μῶν</w><w>τὸν</w><w>ἀπὸ</w><w>τοῦ</w><w>στόματος</w><w>ἀφρὸν</w><w>τὴν</w><w>ἀποτρόπαι

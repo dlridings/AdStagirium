@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -136,7 +137,7 @@
 <lb n="P118rC1L-Pal"/><w>δαίμων</w><w>ἐκεῖνος</w><w>καὶ</w><w>μεταξὺ</w><w>πάντων</w><w>εὐχομένων</w>
 <lb n="P118rC1L-Pal"/><w>κατέβαλεν</w><w>οὐκ</w><w>ἔτυχον</w><w>μὲν</w><w>παρὼν</w><w>καὶ</w><w>χάριν</w>
 <lb n="P118rC1L-Pal"/><w>ἔχω</w><w>τῷ</w><w>φιλανθρώπῳ</w><w>Θεῷ</w><w>ἔμαθον</w><w>δὲ</w><w>ἅπαντα</w><w>μετὰ</w>
-<lb n="P118rC1L-Pal"/><w>ἀκριβείας</w><w>ὡσπερανεὶ</w><w>παρών</w></ab><ab n="adStag1.1.28"><w>ὁ</w><w>γὰρ</w><w>ἐμὸς</w>
+<lb n="P118rC1L-Pal"/><w>ἀκριβείας</w><w>ὥσπερ</w><w>ἂν</w><w>εἰ</w><w>παρών</w></ab><ab n="adStag1.1.28"><w>ὁ</w><w>γὰρ</w><w>ἐμὸς</w>
 <pb n="118v" type="folio" xml:id="P118v-Pal"/>
 <cb n="P118vC1-Pal"/>
 <lb n="P118vC1L-Pal"/><w>φίλος</w><w>καὶ</w><w>σὸς</w><w>θεόφιλος</w><w>ὁ</w><w>ἐφέσιος</w><w>ἐλθὼν</w><w>ἅπαντά</w>

@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -16,7 +17,7 @@
 </teiHeader><text><body><div type="book" n="adStag1">
 <pb n="16r" type="folio" xml:id="P16r-P18" break="no"/>
 <cb n="P16rC1-P18"/>
-<lb n="P16rC1L-P18"/><div type="chapter" n="adStag1.1"><ab n="adStag1.1.1" part="F"><w part="F">ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλ
+<lb n="P16rC1L-P18"/><div type="chapter" n="adStag1.1"><ab n="adStag1.1.1" part="F"><w>ἔδει</w><w>μὲν</w><w>ἡμᾶς</w><w>ὦ</w><w>φίλ
 <lb n="P16rC1L-P18" break="no"/>τατε</w><w>πάντων</w><w>ἐμοὶ</w>
 <lb n="P16rC1L-P18"/><w>σταγείριε</w><w>καὶ</w><w>παρεῖναί</w>
 <pb n="16v" type="folio" xml:id="P16v-P18"/>
@@ -246,8 +247,8 @@
 <lb n="P17vC2L-P18"/><w>Θεῷ</w><w>ἔμαθον</w><w>δὲ</w><w>πάντα</w>
 <pb n="18r" type="folio" xml:id="P18r-P18"/>
 <cb n="P18rC1-P18"/>
-<lb n="P18rC1L-P18"/><w>μετὰ</w><w>ἀκριβείας</w><w>ὡσπερ
-<lb n="P18rC1L-P18" break="no"/>ανεὶ</w><w>παρών</w></ab><ab n="adStag1.1.28"><w>ὁ</w><w>γὰρ</w><w>ἐμὸς</w>
+<lb n="P18rC1L-P18"/><w>μετὰ</w><w>ἀκριβείας</w><w>ὥσπερ</w>
+<lb n="P18rC1L-P18"/><w>ἂν</w><w>εἰ</w><w>παρών</w></ab><ab n="adStag1.1.28"><w>ὁ</w><w>γὰρ</w><w>ἐμὸς</w>
 <lb n="P18rC1L-P18"/><w>φίλος</w><w>καὶ</w><w>σὸς</w><w>θεόφιλος</w>
 <lb n="P18rC1L-P18"/><w>ὁ</w><w>ἐφέσιος</w><w>ἐλθὼν</w><w>ἅπαν
 <lb n="P18rC1L-P18" break="no"/>τά</w><w>μοι</w><w>σαφῶς</w><w>διηγήσα
