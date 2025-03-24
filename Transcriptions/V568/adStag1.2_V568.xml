@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -116,7 +117,7 @@
 <lb n="P83rC2L-V568" break="no"/>ρα</w><w>ὅπερ</w><w>καὶ</w><w>νῦν</w>
 <lb n="P83rC2L-V568"/><w>ἐλπίζω</w><w>γενήσε
 <lb n="P83rC2L-V568" break="no"/>σθαι</w></ab><ab n="adStag1.2.13"><w>ἀλλὰ</w><w>διανά
-<lb n="P83rC2L-V568" break="no"/>στησον</w><w>ταυτὸν</w><w>καὶ</w>
+<lb n="P83rC2L-V568" break="no"/>στησον</w><w>σαὐτὸν</w><w>καὶ</w>
 <lb n="P83rC2L-V568"/><w>μὴ</w><w>τῇ</w><w>ματαίᾳ</w><w>καὶ</w>
 <lb n="P83rC2L-V568"/><w>ἀλόγῳ</w><w>τῶν</w><w>πολλῶν</w>
 <lb n="P83rC2L-V568"/><w>ἑπόμενος</w><w>δόξῃ</w>

@@ -28,6 +28,7 @@
 1.2.18 ἐπιστρέφεσθαι / κάμπεσθαι V568
 1.2.18 *ὢν instead of ἦν and an omitted εἰ, participle instead of finite clause
 1.2.20 **βραχὺν V568, Taur group others εὐτελῆ
+1.2.22 La2 a correction that only agrees with B39 ἐπέταξεν -> ὑπέταξεν
 1.2.23-25 needs a lot of work in the transcriptions. Verse divisions. check
 1.2.24 οὐδὲν ἐξ αὐτῶν / οὐδὲ ἓν ἐξ αὐτῶν 
 1.2.24-25
@@ -79,8 +80,7 @@
 1.4.19 τὴν πρόνοιαν omit probably an error of homoeoteleuton in the tradition
 1.4.23 V568 // καὶ τοὺς πόδας omit M118, Taur (corrected Taur)
 1.4.25 καὶ φῶς omit
-1.4.27 La22 has ὁ διάβολος οὐ μόνον οὐ βλάπτει ... a "title" others have, some in the text, but I can't figure out how to transcribe this. I am not getting "marginal comments" to work.
-1.4.28-29 ***
+1.4.27 La22 has ὁ διάβολος οὐ μόνον οὐ βλάπτει ... a "title" others have, some in the text, but I can't figure out how to transcribe this. I am not getting "marginal comments" to work.1.4.28-29 ***
 1.4.31 *διηνεκῶς Neap V1629 / διαπαντος
 1.4.37 τοῦτο δὲ εἶπε (added/omitted) cf. Dumortier
 1.4.38 *οὐ πρὸς αὐτὸν παραγενέσθαι ἐπείγεται ἀλλὰ add LaSM B39

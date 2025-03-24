@@ -1,3 +1,4 @@
+
 <!DOCTYPE TEI>
 <?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -270,7 +271,7 @@
 <lb n="P235rC1L-P01"/><w>καὶ</w><w>χάριν</w><w>ἔχω</w><w>τῷ</w><w>φι
 <lb n="P235rC1L-P01" break="no"/>λανθρώπῳ</w><w>ἔμαθον</w>
 <lb n="P235rC1L-P01"/><w>δὲ</w><w>ἅπαντα</w><w>μετὰ</w><w>ἀκρι
-<lb n="P235rC1L-P01" break="no"/>βείας</w><w>ὡσπερανεὶ</w><w>πα
+<lb n="P235rC1L-P01" break="no"/>βείας</w><w>ὥσπερ</w><w>ἂν</w><w>εἰ</w><w>πα
 <lb n="P235rC1L-P01" break="no"/>ρών</w></ab><ab n="adStag1.1.28"><w>ὁ</w><w>γὰρ</w><w>ἐμὸς</w><w>φίλος</w>
 <lb n="P235rC1L-P01"/><w>καὶ</w><w>σὸς</w><w>θεόφιλος</w>
 <lb n="P235rC1L-P01"/><w>ὁ</w><w>ἐφέσιος</w><w>ἐλθὼν</w>
