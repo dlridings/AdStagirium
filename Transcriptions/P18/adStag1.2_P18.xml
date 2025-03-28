@@ -29,10 +29,10 @@
 <lb n="P18rC1L-P18"/><w>οὔτε</w><w>τῶν</w><w>ἡδέων</w><w>ἡδύ</w>
 <lb n="P18rC1L-P18"/></ab><ab n="adStag1.2.3"><w>ἀλλὰ</w><w>καὶ</w><w>πολλὴν</w><w>πάλαι</w><w>τῷ</w>
 <cb n="P18rC2-P18"/>
-<lb n="P18rC2L-P18"/><w>βίῳ</w><w>ματαιότητ<supplied source="transcriber" reason="lacuna">α</supplied></w><w><supplied source="transcriber" reason="lacuna">κατε</supplied>
-<lb n="P18rC2L-P18" break="no"/>γνωκὼς</w><w>πολλῷ</w><w>πλ<supplied source="transcriber" reason="lacuna">έον</supplied></w><w><supplied source="transcriber" reason="lacuna">τοῦ</supplied></w>
-<lb n="P18rC2L-P18"/><w>το</w><w>ἔπαθον</w><w>τότε</w><w>καὶ</w>
-<lb n="P18rC2L-P18"/><w><supplied source="transcriber" reason="lacuna">μεί</supplied>ζων</w><w>με</w><w>πόθος</w><w>εἰσῄει</w><w>τῆς</w>
+<lb n="P18rC2L-P18"/><w>βίῳ</w><w>ματαιότητ<gap reason="lacuna"/>
+<lb n="P18rC2L-P18" break="no"/>γνωκὼς</w><w>πολλῷ</w><gap reason="lacuna"/>
+<lb n="P18rC2L-P18"/><w>ἔμαθον</w><w>τότε</w><w>καὶ</w>
+<lb n="P18rC2L-P18"/><w><gap reason="lacuna"/>ζων</w><w>με</w><w>πόθος</w><w>εἰσῄει</w><w>τῆς</w>
 <lb n="P18rC2L-P18"/><w>εὐλαβείας</w><w>τῆς</w><w>σῆς</w></ab><ab n="adStag1.2.4"><w>τοιαύ
 <lb n="P18rC2L-P18" break="no"/>τη</w><w>γὰρ</w><w>ἡ</w><w>φύσις</w><w>τῶν</w><w>ἀνια
 <lb n="P18rC2L-P18" break="no"/>ρῶν</w></ab><ab n="adStag1.2.5"><w>ἐπιτείνειν</w><w>εἴωθε</w>
@@ -67,9 +67,9 @@
 <lb n="P18rC2L-P18"/><w>Θεοῦ</w><w>χάριν</w><w>ἀπήλλαγμαι</w><w>τῆς</w>
 <pb n="18v" type="folio" xml:id="P18v-P18"/>
 <cb n="P18vC1-P18"/>
-<lb n="P18vC1L-P18"/><w><supplied source="transcriber" reason="lacuna">γοῦν</supplied></w><w><supplied source="transcriber" reason="lacuna">ἀθυ</supplied>μίας</w><w>τῆς</w><w>διὰ</w><w>ταῦ
-<lb n="P18vC1L-P18" break="no"/><supplied source="transcriber" reason="lacuna">τα</supplied></w><w><supplied source="transcriber" reason="lacuna">καὶ</supplied></w><w>τῆς</w><w>ὀδύνης</w><w>τὸ</w><w>ἴ
-<lb n="P18vC1L-P18" break="no"/><supplied source="transcriber" reason="lacuna">σον</supplied></w><w>σοι</w><w>φέρω</w><w>μέρος</w><w>καὶ</w>
+<lb n="P18vC1L-P18"/><w><gap reason="lacuna"/>μίας</w><w>τῆς</w><w>διὰ</w><w>ταῦ
+<lb n="P18vC1L-P18" break="no"/><gap reason="lacuna"/></w><w>τῆς</w><w>ὀδύνης</w><w>τὸ</w><w>ἴ
+<lb n="P18vC1L-P18" break="no"/><gap reason="lacuna"/></w><w>σοι</w><w>φέρω</w><w>μέρος</w><w>καὶ</w>
 <lb n="P18vC1L-P18"/><w>οὐδεὶς</w><w>ἂν</w><w>ἀπιστήσειέ</w><w>μοι</w>
 <lb n="P18vC1L-P18"/><w>τῶν</w><w>εἰδότων</w><w>φιλεῖν</w><w>ὡς</w>
 <lb n="P18vC1L-P18"/><w>χρὴ</w><w>φιλεῖν</w></ab><ab n="adStag1.2.10"><w>φέρε</w><w>οὖν</w>
