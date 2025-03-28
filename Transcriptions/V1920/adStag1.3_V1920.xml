@@ -88,7 +88,7 @@
 <lb n="P23vC1L-V1920" break="no"/>σθαι</w><w>καὶ</w><w>κάμπτεσθαι</w><w>πρὸς</w>
 <lb n="P23vC1L-V1920"/><w>σωτηρίαν</w><w>ἐστὶν</w></ab><ab n="adStag1.3.19"><w>πάλιν</w><w>ὁ</w><w>προ
 <lb n="P23vC1L-V1920" break="no"/>φήτης</w><w>φησίν</w><w>ἀγαθόν</w>
-<lb n="P23vC1L-V1920"/><w>μοι</w><w>ὅτι</w><w>ἐταπείνως</w><w>με</w><w>ὅ
+<lb n="P23vC1L-V1920"/><w>μοι</w><w>ὅτι</w><app><rdg type="orig" hand="firsthand"><w>ἐταπείνωσ</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P23vC1L-V1920"><w>ἐταπείνωσας</w></seg></rdg></app><w>με</w><w>ὅ
 <lb n="P23vC1L-V1920" break="no"/>πως</w><w>ἂν</w><w>μάθω</w><w>τὰ</w><w>δικαι
 <lb n="P23vC1L-V1920" break="no"/>ώματά</w><w>σου</w></ab><ab n="adStag1.3.20"><w>καὶ</w><w>μετὰ</w><w>τοῦ
 <lb n="P23vC1L-V1920" break="no"/>τον</w><w>δὲ</w><w>ὁ</w><w>ἱερεμίας</w><w>τὰ</w><w>αὐτὰ</w>
@@ -128,7 +128,7 @@
 <lb n="P23vC2L-V1920" break="no"/>θέλησεν</w><w>ὁ</w><w>Χριστὸς</w><w>τῶν</w><w>κηρυτ
 <lb n="P23vC2L-V1920" break="no"/>τόντων</w><w>φειδόμενος</w>
 <lb n="P23vC2L-V1920"/></ab><ab n="adStag1.3.27"><w>διὰ</w><w>τοῦτό</w><w>φησιν</w><w>αὐτοῖς</w>
-<lb n="P23vC2L-V1920"/><w>ἐν</w><app><rdg type="orig" hand="firsthand"><w>κόσμῳ</w></rdg><rdg type="corr" hand="firsthand"><seg type="line" subtype="above" n="@P23vC2L-V1920"><w>τῷ</w><w>κόσμῳ</w></seg></rdg></app><w>θλῖψιν</w><w>ἕξετε</w>
+<lb n="P23vC2L-V1920"/><w>ἐν</w><app><rdg type="orig" hand="firsthand"/><rdg type="corr" hand="firsthand"><seg type="line" subtype="above" n="@P23vC2L-V1920"><w>τῷ</w></seg></rdg></app><w>κόσμῳ</w><w>θλῖψιν</w><w>ἕξετε</w>
 <lb n="P23vC2L-V1920"/></ab><ab n="adStag1.3.28"><w>Καὶ</w><w>τοῖς</w><w>βουλομένοις</w><w>δὲ</w>
 <lb n="P23vC2L-V1920"/><w>εἰς</w><w>τὴν</w><w>βασιλείαν</w><w>βαδί
 <lb n="P23vC2L-V1920" break="no"/>ζειν</w><w>διὰ</w><w>τῆς</w><w>ἐστενοχω
