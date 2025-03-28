@@ -93,7 +93,7 @@
 <lb n="P285vC1L-V565"/><w>εἰδέναι</w><w>τὴν</w><w>ἀληθῆ</w><w>τοῦ</w><w>παντὸς</w>
 <pb n="1v" type="folio" xml:id="P1v-V565"/>
 <cb n="P1vC1-V565"/>
-<lb n="P1vC1L-V565"/><w>πρόνοιαν</w><app part="I"><rdg part="I" type="orig" hand="firsthand"><w>οὕτω</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P1vC1L-V565"><w>οὕτως</w></seg></rdg></app><w>ἐπὶ</w><w>τὸ</w><w>παρα
+<lb n="P1vC1L-V565"/><w>πρόνοιαν</w><app><rdg type="orig" hand="firsthand"><w>οὕτω</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P1vC1L-V565"><w>οὕτως</w></seg></rdg></app><w>ἐπὶ</w><w>τὸ</w><w>παρα
 <lb n="P1vC1L-V565" break="no"/>καλεῖν</w><w>τρέψω</w><w>τὸν</w><w>λόγον</w></ab><ab n="adStag1.2.15"><w>ἐπει
 <lb n="P1vC1L-V565" break="no"/>δὴ</w><w>δὲ</w><w>τῇ</w><w>τοῦ</w><w>Θεοῦ</w><w>χάριτι</w><w>ἀπὸ</w>
 <lb n="P1vC1L-V565"/><w>βρέφους</w><w>τὰ</w><w>ἱερὰ</w><w>γράμματα</w>
@@ -217,7 +217,7 @@
 <lb n="P286vC2L-V565" break="no"/>νεται</w></ab><ab n="adStag1.2.37"><w>δοκεῖ</w><w>μὲν</w><w>οὖν</w><w>τὸ</w><w>ἐκβα
 <lb n="P286vC2L-V565" break="no"/>λεῖν</w><w>τοῦ</w><w>παραδείσου</w><w>καὶ</w><w>τὸ</w><w>κω
 <lb n="P286vC2L-V565" break="no"/>λῦσαι</w><w>τοῦ</w><w>ξύλου</w><w>τῆς</w><w>ζωῆς</w><w>καὶ</w>
-<lb n="P286vC2L-V565"/><w>τῷ</w><w>παραδοῦναι</w><w>τῷ</w><w>θανάτῳ</w>
+<lb n="P286vC2L-V565"/><w>τῶ</w><w>παραδοῦναι</w><w>τῷ</w><w>θανάτῳ</w>
 <lb n="P286vC2L-V565"/><w>κολάζοντος</w><w>εἶναι</w><w>καὶ</w><w>τιμωρου
 <lb n="P286vC2L-V565" break="no"/>μένου</w></ab><ab n="adStag1.2.38"><w>τὸ</w><w>δὲ</w><w>προνοοῦντος</w><w>ἐστὶν</w>
 <lb n="P286vC2L-V565"/><w>οὐχ</w><w>ἧττον</w><w>ἢ</w><w>καὶ</w><w>πρότερον</w></ab><ab n="adStag1.2.39"><w>εἰ</w><w>γὰρ</w>
