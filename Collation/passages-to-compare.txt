@@ -76,17 +76,18 @@
 1.4.6 ἀλλ’ ἑκόντας ὑποκλινομένους homoeoteleuton V560
 1.4.10 Marked as spurious in V568 (90rC2)
 1.4.12* δικαίους V568 Nan Sin V536 M118 V1897 / γενναίους
-1.3.13 ἀδικῆται // ἠδίκηται
-1.4.15 ἐπηρεάσθησαν / ἐπεβουλεύθησαν // δι'ἐκείνους - διηνεκῶς V571 A336 cf. 1.4.31
+1.3.13 *** ἀδικῆται // ἠδίκηται pres. subjunctive might be the best instead of perf.
+1.4.15 *** come back to ἐπηρεάσθησαν / * A for now ἐπεβουλεύθησαν // δι'ἐκείνους - διηνεκῶς V571 A336 cf. 1.4.31
 1.4.16
 1.4.19 τὴν πρόνοιαν omit probably an error of homoeoteleuton in the tradition
 1.4.23 V568 // καὶ τοὺς πόδας omit M118, Taur (corrected Taur)
-1.4.25 καὶ φῶς omit
-1.4.27 La22 has ὁ διάβολος οὐ μόνον οὐ βλάπτει ... a "title" others have, some in the text, but I can't figure out how to transcribe this. I am not getting "marginal comments" to work.1.4.28-29 ***
+1.4.25 καὶ φῶς omit // πάντα or πάντων come back to ***
+1.4.27 La22 has ὁ διάβολος οὐ μόνον οὐ βλάπτει ... a "title" others have, some in the text, but I can't figure out how to transcribe this. I am not getting "marginal comments" to work.1.4.28-29 *** come back to ἣν ἢν
+1.4.29 *** come back to
 1.4.31 *διηνεκῶς Neap V1629 / διαπαντος
 1.4.37 τοῦτο δὲ εἶπε (added/omitted) cf. Dumortier
 1.4.38 *οὐ πρὸς αὐτὸν παραγενέσθαι ἐπείγεται ἀλλὰ add LaSM B39
-1.4.39 οὐκ ἀφίσταται omit V560
+1.4.39 οὐκ ἀφίσταται omit V560 // come back to 1.4.39.56 (καὶ καίτοι)
 1.4.40 καὶ omitted M111 and several others
 1.4.43
 1.4.48 οὐ B39 ποῦ many others
@@ -95,7 +96,7 @@
 1.4.54 omit τῶν ἀνθρώπων 
 1.4.55 προσκαλούμενοι / προκαλούμενοι
 1.4.56
-1.4.57
+1.4.57 *** Good passage for the Neap/Marc/Taur group
 1.4.60 τὴν τοῦ διαβόλου φυγεῖν ὁδὸν / τὴν τοῦ διαφυγεῖν ὁδὸν / V568, Taur and the group *** omit: καὶ τὴν τοῦ διαβόλου φυγεῖν ὁδὸν ὑποδεικνύς
 1.4.62 ὑπῆρξεν most omit
 1.4.63 ἐξαρθείσης

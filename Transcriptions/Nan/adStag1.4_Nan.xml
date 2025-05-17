@@ -14,7 +14,7 @@
 <p>Temporary sourceDesc for validation</p>
 </sourceDesc>
 </fileDesc>
-</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.4"><seg type="margin" subtype="coltop" n="@PC-Nan"><fw type="chapTitle"><w>ὅτι</w><w>ὁ</w><w>διάβολος</w><w>οὐ</w><w>μόνον</w><w>οὐ​</w><lb/><w>δὲν</w><w>βλάπτει</w><w>τοὺς</w><w>νήφοντας​</w><lb/><w>ἀλλὰ</w><w>καὶ</w><w>αἴτιος</w><w>πολλῶν​</w><lb/><w>αὐτοῖς</w><w>εὐεργετιῶν</w><w>γίνεται​</w><lb/></fw></seg><ab n="adStag1.4.1"><w>εἰ</w><w>δὲ</w><w>λέγοι</w><w>τις</w><w>τίνος</w><w>οὖν</w>
+</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.4"><seg type="margin" subtype="coltop" n="@PC-Nan"><fw type="chapTitle"><w>ὅτι</w><w>ὁ</w><w>διάβολος</w><w>οὐ</w><w>μόνον</w><w>οὐ​</w><w>​</w><lb/><w>δὲν</w><w>βλάπτει</w><w>τοὺς</w><w>νήφοντας​</w><w>​</w><lb/><w>ἀλλὰ</w><w>καὶ</w><w>αἴτιος</w><w>πολλῶν​</w><w>​</w><lb/><w>αὐτοῖς</w><w>εὐεργετιῶν</w><w>γίνεται​</w><w>​</w><lb/></fw></seg><ab n="adStag1.4.1"><w>εἰ</w><w>δὲ</w><w>λέγοι</w><w>τις</w><w>τίνος</w><w>οὖν</w>
 <lb n="PCL-Nan"/><w>ἕνεκεν</w><w>οὐ</w><w>τὸν</w><w>ἐξ</w><w>ἀρχῆς</w><w>ἀ
 <lb n="PCL-Nan" break="no"/>πατήσαντα</w><w>ἠφάνισε</w>
 <lb n="PCL-Nan"/></ab><ab n="adStag1.4.2"><w>καὶ</w><w>τοῦτο</w><w>σφόδρα</w><w>κηδό
@@ -205,7 +205,7 @@
 <lb n="P46vC1L-Nan" break="no"/>λεῖν</w><w>αὐτοὺς</w><w>ἀλλὰ</w><w>διανα
 <lb n="P46vC1L-Nan" break="no"/>στῆσαι</w><w>βουλόμενος</w>
 <lb n="P46vC1L-Nan"/></ab><ab n="adStag1.4.36"><w>καὶ</w><w>ὁ</w><w>πέτρος</w><w>δὲ</w><w>φησὶ</w><w>νήψα
-<lb n="P46vC1L-Nan" break="no"/>τε</w><w>φησὶ</w><w>γρηγορήσατε</w><w>ὅτι</w>
+<lb n="P46vC1L-Nan" break="no"/>τε</w><w>γρηγορήσατε</w><w>ὅτι</w>
 <lb n="P46vC1L-Nan"/><w>ὁ</w><w>ἀντίδικος</w><w>ἡμῶν</w><w>διά
 <lb n="P46vC1L-Nan" break="no"/>βολος</w><w>ὡς</w><w>λέων</w><w>ὠρυόμε
 <lb n="P46vC1L-Nan" break="no"/>νος</w><w>περιπατεῖ</w><w>ζητῶν</w>

@@ -16,9 +16,8 @@
 </fileDesc>
 </teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.4"><ab n="adStag1.4.1"><w>εἰ</w><w>δὲ</w><w>λέγοι</w><w>τις</w><w>τίνος</w>
 <lb n="PCL-La2"/><w>οὖν</w><w>ἕνεκεν</w><w>οὐ</w><w>τὸν</w><w>ἐξ</w><w>ἀρχῆς</w><w>ἀπατήσαν
-<lb n="PCL-La2" break="no"/>τα</w><w>ἠφάνισεν</w><w>ὅτι</w><w>ὁ</w><w>διάβολος</w><w>οὐ</w><w>μόνον</w>
-<lb n="PCL-La2"/><w>οὐ</w><w>βλάπτει</w><w>τοὺς</w><w>νήφοντας</w><w>αλλὰ</w><w>καὶ</w><w>αἴ
-<lb n="PCL-La2" break="no"/>τιος</w><w>πολλῶν</w><w>αὐτοῖς</w><w>εὐεργεσιῶν</w><w>γἰνεται</w>
+<lb n="PCL-La2" break="no"/>τα</w><w>ἠφάνισεν</w><seg type="line" subtype="here" n="@PCL-La2"><fw type="chapTitle"><w>ὅτι</w><w>ὁ</w><w>διάβολος</w><w>οὐ</w><w>μόνον</w><w>​</w><lb/><w>οὐ</w><w>βλάπτει</w><w>τοὺς</w><w>νήφοντας</w><w>αλλὰ</w><w>καὶ</w><w>αἴ​
+<lb break="no"/>τιος</w><w>πολλῶν</w><w>αὐτοῖς</w><w>εὐεργεσιῶν</w><w>γἰνεται</w></fw></seg>
 <lb n="PCL-La2"/></ab><ab n="adStag1.4.2"><w>καὶ</w><w>τοῦτο</w><w>σφόδρα</w><w>κηδόμενος</w><w>ἡμῶν</w>
 <lb n="PCL-La2"/></ab><ab n="adStag1.4.3"><w>εἰ</w><w>μὲν</w><w>γὰρ</w><w>πρὸς</w><w>βίαν</w><w>ὁ</w><w>μιαρὸς</w><w>ἐκεῖνος</w>
 <lb n="PCL-La2"/><w>ἐκράτει</w><w>εἶχεν</w><w>ἄν</w><w>τινα</w><w>λόγον</w><w>τὸ</w><w>ζητού
