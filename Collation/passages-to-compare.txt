@@ -101,5 +101,8 @@
 1.4.62 ὑπῆρξεν most omit
 1.4.63 ἐξαρθείσης
 1.4.64
+1.5.5 Check διε(ι)λέχθαι in A116 and A336
+1.5.20 B39 seems to have skipped at least one line in copying τί δὲ [οὐκ ἂν ἐξήμαρτε πότε δὲ ἂν ὑπήκουσε τοῦ Θεοῦ 21 σὺ δὲ] παρόμοιον ποιεῖς from τί δὲ to σὺ δὲ
+1.5.29 Α116 321v1 definitely starts with π but I can't make out the rest
 1.5.57 "and through the prophet ..." (to distinguish from Jesus' words) not in A25
 
