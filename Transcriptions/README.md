@@ -28,7 +28,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Laurentianus (plut.) 9, (cod.) 22 | 119-180v | a. 974 | Whole text | La22 | 1.1-4 | | |https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/434064/rec/1 |
 | Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-4 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-4 | | | |
-| Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-4 | | | |
+| Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-5 | | | |
 | Marcianus gr. 108  | 36-70 | 14th c | Whole text | Marc | 1.1-4 | | | Provenienza Bessarione |
 | Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.1-4 | | | https://data.biblissima.fr/entity/Q199268 |
 | Monacensis gr. 31 | 61v-121v | 1546 | Whole text | Mon | 1.1-4 | | | |
@@ -51,8 +51,8 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Vaticanus gr. 568 | 79v-109v | 11th c | Logos 1 | V568 | 1.1-4 | | | |
 | Vaticanus gr. 569 | 159-166v | 1350 ca | First part of Logos (1.1-3) 1 | V569 | 1.1-3 | | | |
 | Vaticanus gr. 571 | 123v-183 | 14th c | Whole text | V571 | 1.1-4 | | | |
-| Vaticanus gr. 1629 | 217v-284 | 11th c | Whole text | V1629 | 1.1-4 | | | |
+| Vaticanus gr. 1629 | 217v-284 | 11th c | Whole text | V1629 | 1.1-4 In progress | | | |
 | Vaticanus gr. 1639 | 262-319 | 11th c | Whole text | V1639 | 1.1-4 | | | |
 | Vaticanus gr. 1897 | 73r- | 14th c | Whole text | V1897 | 1.1-4 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1897 |
 | Vaticanus gr. 1920 | 19r-81r | 976-1025 | Whole text?| V1920 | 1.1-4 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1920 |
-| Vaticanus gr. 2036 | Somewhat jumbled | 11th c | Whole text | V2036 | 1.1-4 | | | https://pinakes.irht.cnrs.fr/notices/cote/68665/ |
+| Vaticanus gr. 2036 | Somewhat jumbled | 11th c | Whole text | V2036 | 1.1-5 | | | https://pinakes.irht.cnrs.fr/notices/cote/68665/ |

@@ -102,7 +102,13 @@
 1.4.63 ἐξαρθείσης
 1.4.64
 1.5.5 Check διε(ι)λέχθαι in A116 and A336
-1.5.20 B39 seems to have skipped at least one line in copying τί δὲ [οὐκ ἂν ἐξήμαρτε πότε δὲ ἂν ὑπήκουσε τοῦ Θεοῦ 21 σὺ δὲ] παρόμοιον ποιεῖς from τί δὲ to σὺ δὲ
+1.5.20 B39 seems to have skipped at least one line in copying τί δὲ [οὐκ ἂν ἐξήμαρτε πότε δὲ ἂν ὑπήκουσε τοῦ Θεοῦ 21 σὺ δὲ] παρόμοιον ποιεῖς from τί δὲ to σὺ δὲ It is possible that LaSM could provide the source for this, with the eye skipping from one δὲ to the next. They are approximately at the same position, with one intervening line on the column.
 1.5.29 Α116 321v1 definitely starts with π but I can't make out the rest
+1.4.38-39 V2036
+1.5.39 LaSM κεκτημένην
+1.5.42 ὁ Χριστός not in V2036
+1.5.48 V2036 word order
+1.5.54 ἄκουσον instead of infinitive ἀκούειν
+1.5.56 ὅτι / ὃς
 1.5.57 "and through the prophet ..." (to distinguish from Jesus' words) not in A25
 
