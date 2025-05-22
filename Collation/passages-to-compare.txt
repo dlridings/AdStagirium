@@ -105,10 +105,23 @@
 1.5.20 B39 seems to have skipped at least one line in copying τί δὲ [οὐκ ἂν ἐξήμαρτε πότε δὲ ἂν ὑπήκουσε τοῦ Θεοῦ 21 σὺ δὲ] παρόμοιον ποιεῖς from τί δὲ to σὺ δὲ It is possible that LaSM could provide the source for this, with the eye skipping from one δὲ to the next. They are approximately at the same position, with one intervening line on the column.
 1.5.29 Α116 321v1 definitely starts with π but I can't make out the rest
 1.4.38-39 V2036
+1.5.3 omit ἀλλ’ V1629
+1.5.3 προνοίας V1629 // ἀπονοίας
+1.5.3 Long inserted text V1629. Added to v3 and not v4 Or, it could very well be an matter of eye-skip in the other branches. ***
+1.5.17 οὐκ ἂν V1629
+1.5.18 omit ἀλλ’ V1629 more variants
+1.5.19 προέβη V1629
+1.5.23 V1629 addition
+1.5.28 correction in the margin for an omission between ἐπὶ ... ἐπὶ ***
+1.5.29 μεταπεσεῖν V1629
+1.5.33 δοὺς τὸν ἑαυτοῦ instead of καταφράξας τὸν ἑαυτοῦ V1629
+1.5.35 addition V1629
 1.5.39 LaSM κεκτημένην
 1.5.42 ὁ Χριστός not in V2036
+1.5.46 V1629
 1.5.48 V2036 word order
 1.5.54 ἄκουσον instead of infinitive ἀκούειν
 1.5.56 ὅτι / ὃς
 1.5.57 "and through the prophet ..." (to distinguish from Jesus' words) not in A25
+1.5.60 addition V1629
 
