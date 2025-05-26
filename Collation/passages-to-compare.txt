@@ -107,6 +107,7 @@
 1.5.3 omit ἀλλ’ V1629
 1.5.3 προνοίας V1629 // ἀπονοίας
 1.5.3 Long inserted text V1629. Added to v3 and not v4 Or, it could very well be an matter of eye-skip in the other branches. ***
+1.5.4 προσδοκᾳν / προσδοκῶν
 1.5.17 οὐκ ἂν V1629
 1.5.18 omit ἀλλ’ V1629 more variants
 1.5.19 προέβη V1629

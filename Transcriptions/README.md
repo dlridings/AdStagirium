@@ -46,7 +46,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Taurinensis B I II | 93-187v | 13th c | Whole text | Taur | 1.1-4 | | | 89 Cosentini, 13 Pasini |
 | Vaticanus gr. 536 | 216r-262 | 13-14th c | Whole text | V536 | 1.1-4 | | | |
 | Vaticanus gr. 560 | 23-80v | 10th c | Whole text | V560 | 1.1-5 | | | |
-| Vaticanus gr. 565 | 283-304v | 11th c | Logos 1 | V565 | 1.1-4 | | | |
+| Vaticanus gr. 565 | 283-304v | 11th c | Logos 1 | V565 | 1.1-5 | | | |
 | Vaticanus gr. 566 | 58v-113v | 11th c | Whole text | V566 | 1.1-4 | | | |
 | Vaticanus gr. 568 | 79v-109v | 11th c | Logos 1 | V568 | 1.1-4 | | | |
 | Vaticanus gr. 569 | 159-166v | 1350 ca | First part of Logos (1.1-3) 1 | V569 | 1.1-3 | | | |
