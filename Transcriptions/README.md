@@ -32,7 +32,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Marcianus gr. 108  | 36-70 | 14th c | Whole text | Marc | 1.1-4 | | | Provenienza Bessarione |
 | Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.1-4 | | | https://data.biblissima.fr/entity/Q199268 |
 | Monacensis gr. 31 | 61v-121v | 1546 | Whole text | Mon | 1.1-4 | | | |
-| Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-4 | | | |
+| Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-5 | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-4 | | | |
 | Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
 | Neapolitanus gr. 31 (11 A 31) | 123v-210v | 1400- | Whole text | Neap | 1.1-4 | | | |
