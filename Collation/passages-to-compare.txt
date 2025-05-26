@@ -122,7 +122,7 @@
 1.5.33 La22 129v14 added in margin by same hand. Not marked in XML (bug in -> json) ***
 1.5.35 addition V1629  // μου/ὑμῶν or ὑμῶν/μου
 1.5.38 omit μείζων many
-1.5.39 LaSM κεκτημένην word order in others *** M111 seems to have changed πολυν to πολλῶ
+1.5.39 LaSM κεκτημένην word order in others *** M111 seems to have changed πολὺ to πολλῶ
 1.5.42 ὁ Χριστός not in V2036 etc
 1.5.46 V1629
 1.5.48 τῆς σωτηρίας οἰκονομεῖται τῆς ἡμετέρας / τῆς σωτηρίας τῆς ἡμετέρας οἰκονομεῖται 
