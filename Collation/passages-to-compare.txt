@@ -108,28 +108,39 @@
 1.5.3 προνοίας V1629 // ἀπονοίας
 1.5.3 Long inserted text V1629. Added to v3 and not v4 Or, it could very well be an matter of eye-skip in the other branches. ***
 1.5.4 προσδοκᾳν / προσδοκῶν
-1.5.17 οὐκ ἂν V1629
-1.5.18 omit ἀλλ’ V1629 more variants
-1.5.19 προέβη V1629
+1.5.9 V568 deviates from the V1629/Taur branch ***
+1.5.12 V568 ὁ γ' οὖν τὴν ... others ὁ γὰρ τὴν ... ***
+1.5.12 εὔδηλον ὅτι add V568 but not Taur
+1.5.13 ἀφίστανται V568
+1.5.17 οὐκ ἂν V1629 V568 with other variants ***
+1.5.18 omit ἀλλ’ V1629 more variants ***
+1.5.19 προέβη V1629 make sure Taur gets transformed to json correctly ***
 1.5.20 B39 seems to have skipped at least one line in copying τί δὲ [οὐκ ἂν ἐξήμαρτε πότε δὲ ἂν ὑπήκουσε τοῦ Θεοῦ 21 σὺ δὲ] παρόμοιον ποιεῖς from τί δὲ to σὺ δὲ It is possible that LaSM could provide the source for this, with the eye skipping from one δὲ to the next. They are approximately at the same position, with one intervening line on the column.
-1.4(5?).38-39 V2036
+1.5.21 ἀπαγορεύοντα / ἐπαγορεύοντα
+1.5.23 Correction in Taur ***
+1.5.28 Two marginal corrections in V568 and tagged as such. Check the collation. ***
+1.5.29 μεταπεσεῖν V568 ***
+1.5.38-39 V2036
 1.5.23 V1629 addition // transposed ἂν M111 (vowel clash)
 1.5.26 Μ111 139v,C1,22-23 obelos x 2 (on for each line)
 1.5.28 correction in the margin for an omission between ἐπὶ ... ἐπὶ ***
 1.5.29 Α116 321v1 definitely starts with π but I can't make out the rest
 1.5.29 μεταπεσεῖν V1629
 1.5.30 συνεστέλλετο / συνεβάλλετο *** Pl. Lys.
-1.5.33 δοὺς τὸν ἑαυτοῦ instead of κατασφάξας τὸν ἑαυτοῦ V1629
+1.5.33 Good passage for V1629 group ***
+1.5.33 δοὺς τὸν ἑαυτοῦ instead of κατασφάξας τὸν ἑαυτοῦ V1629, 
 1.5.33 La22 129v14 added in margin by same hand. Not marked in XML (bug in -> json) ***
 1.5.35 addition V1629  // μου/ὑμῶν or ὑμῶν/μου
 1.5.38 omit μείζων many
 1.5.39 LaSM κεκτημένην word order in others *** M111 seems to have changed πολὺ to πολλῶ
 1.5.42 ὁ Χριστός not in V2036 etc
-1.5.46 V1629
-1.5.48 τῆς σωτηρίας οἰκονομεῖται τῆς ἡμετέρας / τῆς σωτηρίας τῆς ἡμετέρας οἰκονομεῖται 
+1.5.46 V1629, V568
+1.5.48 τῆς σωτηρίας οἰκονομεῖται τῆς ἡμετέρας / τῆς σωτηρίας τῆς ἡμετέρας οἰκονομεῖται
+1.5.48 Correction (xml) in Taur ... check collation *** 
 1.5.54 ἄκουσον instead of infinitive ἀκούειν
+1.5.54 ἀκούειν ἐστὶ Taur ... check json ***
 1.5.56 ὅτι / ὃς
 1.5.57 "and through the prophet ..." (to distinguish from Jesus' words) not in A25 etc
 1.5.58 marginal correction from ἁμαρτωλοὺς to ἀδίκους Patm ***
-1.5.60 addition V1629
+1.5.60 addition V1629 V568 ***
 
