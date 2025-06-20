@@ -9,3 +9,4 @@ From 85r on there is a double sequence of numbers. One next to the text (85) and
 89r (text) = 87r (corner)
 93r (text) = 91r (corner)
 95r (text) = 93r (corner)
+96r (text) = 94r (corner)

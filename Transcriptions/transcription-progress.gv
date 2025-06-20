@@ -1,0 +1,157 @@
+digraph {
+
+    #Top [color="black", label="ω"]
+    aBase [color="black", label="Initial text"]
+    # Top [color="black", label="Initial text"]
+	A116 [label="A116 XIV", color="green"]
+	A25 [label="A25 X", color="green"]
+	A336 [label="A336 XIV", color="green"]
+	B39 [label="B39 XII", color="green"]
+	Bas [label="Bas IX", color="grey"]
+	Bodl [label="Bodl XV", color="grey"]
+	Est [label="Est XV", color="grey"]
+	La2 [label="La2 XI", color="grey"]
+	La22 [label="La22 > 974", color="green"]
+	La35 [label="La35 XI", color="grey"]
+	LaSM [label="LaSM XI", color="green"]
+	M111 [label="M111 XI", color="green"]
+    M118 [label="M118 XI", color="grey"]
+    M136 [label="M136 > 1345", color="grey"]
+    Marc [label="Marc XIV", color="grey"]
+    Mon [label="Mon > 1546", color="grey"]
+	Nan [label="Nan X", color="green"]
+    Neap [label="Neap XV", color="grey"]
+    P01 [label="P01 XI", color="grey"]
+    P18 [label="P18 XII", color="grey"]
+	Pal [label="Pal XIII", color="grey"]
+	Patm [label="Patm XI", color="green"]
+    Sin [label="Sin > 1431", color="grey"]
+	S32 [label="S32 XI-XII", color="grey"]
+    S249 [label="S249 XII", color="grey"]
+    Taur [label="Taur XIII", color="green"]
+    V536 [label="V536 XIV-XV", color="grey"]
+	V560 [label="V560 IX", color="green"]
+	V565 [label="V565 XI", color="green"]
+	V566 [label="V566 XI", color="grey"]
+	V568 [label="V568 XI", color="green"]
+	V571 [label="V571 XIV", color="grey"]
+    V1629 [label="V1629 XI", color="green"]
+	V1639 [label="V1639 XI", color="green"]
+	V1897 [label="V1897 XIV", color="grey"]
+	V1920 [label="V1920 X-XI", color="grey"]
+    V2036 [label="V2036 XII", color="green"]
+
+	
+	
+  
+    #Top -> aBase
+    aBase -> A25 [label="94.81"]
+    aBase -> M136 [label="86.19"]
+    aBase -> V2036 [label="91.37"]
+    # V2036 -> Patm [label="91.14", color="blue"]
+    aBase -> V1629 [label="86.88"]
+    aBase -> V560[label="79.02"]
+    aBase -> La2 [label="82.25"]
+    aBase -> S249 [label="91.88"]
+    aBase -> LaSM [label="89.91"]
+	aBase -> La22 [label="94.71"]
+    aBase -> Nan [label="90.89"]
+
+	# A25 -> M136 [label="85.50"]
+    # M136 -> A25 [label="85.50" color="blue"]
+	A25 -> Pal [label="92.46"]
+	A25 -> P01 [label="93.93"]
+    A25 -> V1639 [label="93.34"]
+    A25 -> S32 [label="93.83"]
+    A25 -> Patm [label="94.22"]
+
+    #A25 -> La2 [color="red"]
+    #A25 -> V566[color="red"]
+    #A25 -> LaSM[color="red"]
+    #A25 -> La22[color="red"]
+    #A25 -> M136[color="red"]
+    #A25 -> Nan[color="red"]
+    #A25 -> S249[color="red"]
+    #A25 -> V2036[color="red"]
+
+    #aBase -> P01 [color="red"]
+    #aBase -> Pal [color="red"]
+    #aBase -> Patm [color="red"]
+    #aBase -> La35[color="red"]
+    #aBase -> B39[color="red"]
+    #aBase -> V1920[color="red"]
+    aBase -> V1897[color="red"]
+    #aBase -> Neap[color="red"]
+   
+    #Bodl -> V1639[color="red"]
+    #Patm -> S32[color="red"]
+    #Patm -> V560[color="red"]
+
+    #La22 -> A116[color="red"]
+    #La22 -> V565[color="red"]
+    #La22 -> A336[color="red"]
+
+    Taur -> Mon[color="red"]
+    Taur -> Marc[color="red"]
+
+    Sin -> V568[label="89.80" color="red"]
+
+    V568 -> V536[color="red"]
+    V568 -> M118[color="red"]
+
+    #V571 -> Bodl[color="red"]
+    #M111 -> V571[color="red"]
+    #La35 -> M111[color="red"]
+    V1897 -> V1629[label="85.31" color="red"]
+    #Nan -> Bas[color="red"]
+    #Nan -> Est[color="red"]
+    #Neap -> Taur[color="red"]
+    #Neap -> Sin[color="red"]
+   #Neap -> P18[color="red"]
+ 
+ 
+ 
+ 
+	V1639 -> V566 [label="95.49"]
+
+	La22 -> La35 [label= "94.90"]
+	La22 -> M111 [label="95.79"]
+	La22 -> Bodl [label="94.03"]
+    La22 -> V571 [label="95.98"]
+
+	La35 -> A116 [label="93.54"]
+
+	M111 -> V565 [label="93.05"]
+	M111 -> A336 [label="92.95"]
+	
+	
+	
+	Sin -> Marc [label="92.45"]
+
+	V1629 -> Neap [label="93.83"]
+	V1629 -> Sin [label="84.51"]
+	V1629 -> Taur [label="86.37"]
+    V1629 -> P18 [label="76.90"]
+
+	Taur -> V568 [label="91.86"]
+	Taur -> M118 [label="91.67"]
+	Taur -> V536 [label="90.39"]
+    # Taur -> Marc [color="blue" label="91.96"]
+    # Marc -> Mon [color="blue" label="94.12"]
+	Sin -> Mon [label="94.84"]
+
+	V560 -> V1920 [label="90.38"]
+
+	V1897 -> Est [label="92.75"]
+    V1897 -> Bas [label="82.76"]
+
+    Nan -> V1897 [label="95.59"]
+
+
+
+    LaSM -> B39 [label="92.07"]
+    
+	
+	
+}
+
