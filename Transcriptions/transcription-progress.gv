@@ -1,5 +1,6 @@
 digraph {
-
+	# Green = transcribed for 1.5
+	# Blue = next in line
     #Top [color="black", label="ω"]
     aBase [color="black", label="Initial text"]
     # Top [color="black", label="Initial text"]
@@ -12,7 +13,7 @@ digraph {
 	Est [label="Est XV", color="grey"]
 	La2 [label="La2 XI", color="grey"]
 	La22 [label="La22 > 974", color="green"]
-	La35 [label="La35 XI", color="grey"]
+	La35 [label="La35 XI", color="blue"]
 	LaSM [label="LaSM XI", color="green"]
 	M111 [label="M111 XI", color="green"]
     M118 [label="M118 XI", color="grey"]
