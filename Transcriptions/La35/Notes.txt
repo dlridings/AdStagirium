@@ -1,2 +1,18 @@
-Start with 5v12
+Online:
+https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/286144/rec/1
 
+Identificativo	IT:FI0100_Plutei_09.35
+Titolo	Ioannis Chrysostomi Varia . Ioannou tou Chrysostomou Diaphora . Quibus adde. Aliquot SS. vitas, ac martyria
+Autore	Ioannis Chrysostomi
+Ioannes Chrysostomus
+Datazione	1001-1100
+Tipo	testo manoscritto
+Formato	membr. ; 235 x 300 mm ; 530 cc.
+Scheda di catalogo	Catalogus codicum manuscriptorum Bibliothecae Mediceae Laurentianae varia continens opera Graecorum patrum sub auspiciis Francisci imp. semper augusti Ang. Mar. Bandinius i.v.d. eiusdem bibliothecae regius praefectus recensuit, illustravit, edidit. In eo cujusvis codicis accurata descriptio & operum singulorum notitia datur, vetustiorum specimina exhibentur, edita supplentur & emendantur. Plura adcedunt anecdota, pleraque Latine reddita.  [Tomus primus] {IT\ICCU\RAVE\006298} {{505}}                   
+Segnatura	Plut.9.35
+Diritti di accesso	Pubblico
+IIIF Manifest	  
+ 
+ https://tecabml.contentdm.oclc.org/iiif/info/plutei/286532/manifest.json
+IIIF Manifest	  
+  https://tecabml.contentdm.oclc.org/iiif/info/plutei/286532/manifest.json

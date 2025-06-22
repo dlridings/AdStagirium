@@ -1,6 +1,5 @@
 digraph {
-	# Green = transcribed for 1.5
-	# Blue = next in line
+
     #Top [color="black", label="ω"]
     aBase [color="black", label="Initial text"]
     # Top [color="black", label="Initial text"]
@@ -13,7 +12,7 @@ digraph {
 	Est [label="Est XV", color="grey"]
 	La2 [label="La2 XI", color="grey"]
 	La22 [label="La22 > 974", color="green"]
-	La35 [label="La35 XI", color="blue"]
+	La35 [label="La35 XI", color="green"]
 	LaSM [label="LaSM XI", color="green"]
 	M111 [label="M111 XI", color="green"]
     M118 [label="M118 XI", color="grey"]
@@ -38,7 +37,7 @@ digraph {
 	V571 [label="V571 XIV", color="grey"]
     V1629 [label="V1629 XI", color="green"]
 	V1639 [label="V1639 XI", color="green"]
-	V1897 [label="V1897 XIV", color="grey"]
+	V1897 [label="V1897 XIV", color="blue"]
 	V1920 [label="V1920 X-XI", color="grey"]
     V2036 [label="V2036 XII", color="green"]
 
