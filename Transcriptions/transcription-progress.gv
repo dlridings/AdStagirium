@@ -10,7 +10,7 @@ digraph {
 	Bas [label="Bas IX", color="grey"]
 	Bodl [label="Bodl XV", color="grey"]
 	Est [label="Est XV", color="grey"]
-	La2 [label="La2 XI", color="grey"]
+	La2 [label="La2 XI", color="blue"]
 	La22 [label="La22 > 974", color="green"]
 	La35 [label="La35 XI", color="green"]
 	LaSM [label="LaSM XI", color="green"]
@@ -37,7 +37,7 @@ digraph {
 	V571 [label="V571 XIV", color="grey"]
     V1629 [label="V1629 XI", color="green"]
 	V1639 [label="V1639 XI", color="green"]
-	V1897 [label="V1897 XIV", color="blue"]
+	V1897 [label="V1897 XIV", color="green"]
 	V1920 [label="V1920 X-XI", color="grey"]
     V2036 [label="V2036 XII", color="green"]
 
