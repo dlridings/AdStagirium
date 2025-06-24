@@ -16,3 +16,4 @@ IIIF Manifest
  https://tecabml.contentdm.oclc.org/iiif/info/plutei/286532/manifest.json
 IIIF Manifest	  
   https://tecabml.contentdm.oclc.org/iiif/info/plutei/286532/manifest.json
+
