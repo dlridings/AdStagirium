@@ -27,7 +27,7 @@ digraph {
 	Patm [label="Patm XI", color="green"]
     Sin [label="Sin > 1431", color="grey"]
 	S32 [label="S32 XI-XII", color="grey"]
-    S249 [label="S249 XII", color="blue"]
+    S249 [label="S249 XII", color="green"]
     Taur [label="Taur XIII", color="green"]
     V536 [label="V536 XIV-XV", color="grey"]
 	V560 [label="V560 IX", color="green"]
