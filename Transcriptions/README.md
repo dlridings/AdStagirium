@@ -37,7 +37,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
 | Neapolitanus gr. 31 (11 A 31) | 123v-210v | 1400- | Whole text | Neap | 1.1-4 | | | |
 | Palatinus gr. 228 | 116-201 | 13th-14th c | Whole text | Pal | 1.1-4 | | | https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_228/0243/image,info |
-| Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-4 | | | |
+| Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-5 | | | |
 | Parisinus gr. 814 (Colbertinus 3056) | 1-64 | 11th c | Last half of Logos 1, all of Logos 2-3 | P14 | Prepared | | | |
 | Parisinus gr. 818 (Colbertinus 3145) | 16-40 | 12th c | Whole text, missing many pages | P18 | 1.1-2-lacuna 1.3 lacuna, 1.4-lacuna | | | https://portail.biblissima.fr/fr/ark:/43093/mdatab9e5acd79e31d36c96adf3c939d53b6f1d66db8f |
 | Parisinus gr. 874 (Colbertinus 4) | 253-305 | 13th c | Whole text, water damage (top) | P74 | Prepared | | | |
