@@ -23,7 +23,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Berolinensis gr. 39 | 199v-267 | 12th c | Whole text | B39 | 1.5 | | | |
 | Bodleianus Laud. 17 | 161-216v | 15th c | Whole text | Bodl | 1.1-4 | | | |
 | Estense Modena gr. 249 = α.T.8.18 | 26-82 | 15/16th c | Whole text | Est | 1.1-4 | | | |
-| Hierosolymitanus Sabbaiticus 32 | 3-76 | 1000/1100 | Whole text | S32 | 1.1-4 | | | |
+| Hierosolymitanus Sabbaiticus 32 | 3-76 | 1000/1100 | Whole text | S32 | 1.1-5 | | | |
 | Hierosolymitanus Sabbaiticus 249 | 130v-174 | 1000 | Whole text, missing pages | S249 | 1.1-5 (gaps) | | | |
 | Laurentianus (plut.) 9, (cod.) 22 | 119-180v | a. 974 | Whole text | La22 | 1.1-5 | | |https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/434064/rec/1 |
 | Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-5 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
