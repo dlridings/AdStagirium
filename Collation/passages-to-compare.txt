@@ -109,6 +109,7 @@
 1.5.3 Long inserted text V1629. Added to v3 and not v4 Or, it could very well be an matter of eye-skip in the other branches. ***
 1.5.4 προσδοκᾳν / προσδοκῶν
 1.5.9 V568 deviates from the V1629/Taur branch ***
+1.5.10 τῆς σωτηρίας οἰκονομεῖται τῆς ἡμετέρας or τῆς σωτηρίας τῆς ἡμετέρας οἰκονομεῖται
 1.5.12 V568 ὁ γ' οὖν τὴν ... others ὁ γὰρ τὴν ... ***
 1.5.12 εὔδηλον ὅτι add V568 but not Taur
 1.5.13 ἀφίστανται V568
