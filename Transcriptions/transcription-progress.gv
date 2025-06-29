@@ -22,7 +22,7 @@ digraph {
 	Nan [label="Nan X", color="green"]
     Neap [label="Neap XV", color="grey"]
     P01 [label="P01 XI", color="green"]
-    P18 [label="P18 XII", color="blue"]
+    P18 [label="P18 XII", color="green"]
 	Pal [label="Pal XIII", color="green"]
 	Patm [label="Patm XI", color="green"]
     Sin [label="Sin > 1431", color="grey"]
