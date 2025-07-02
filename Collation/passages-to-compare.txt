@@ -102,14 +102,13 @@
 1.4.63 ἐξαρθείσης
 1.4.64
 1.5.2 V560 correction to οὐκ ἂν with large kappa, can't read the original, οὐδὲν ?? omitted text ***
-1.5.2 M111 138vC1, 24-25 in the margin ÷ 
+1.5.2 M111 138vC1, 24-25 in the margin ÷ // V1920 as well ***
 1.5.5 Check διε(ι)λέχθαι in A116 and A336
 1.5.3 omit ἀλλ’ V1629
 1.5.3 προνοίας V1629 // ἀπονοίας
 1.5.3 Long inserted text V1629. Added to v3 and not v4 Or, it could very well be an matter of eye-skip in the other branches. ***
 1.5.4 προσδοκᾳν / προσδοκῶν
 1.5.9 V568 deviates from the V1629/Taur branch ***
-1.5.10 τῆς σωτηρίας οἰκονομεῖται τῆς ἡμετέρας or τῆς σωτηρίας τῆς ἡμετέρας οἰκονομεῖται
 1.5.12 V568 ὁ γ' οὖν τὴν ... others ὁ γὰρ τὴν ... ***
 1.5.12 εὔδηλον ὅτι add V568 but not Taur
 1.5.13 ἀφίστανται V568
@@ -124,7 +123,7 @@
 1.5.29 μεταπεσεῖν V568 ***
 1.5.38-39 V2036
 1.5.23 V1629 addition // transposed ἂν M111 (vowel clash)
-1.5.26 Μ111 139v,C1,22-23 obelos x 2 (one for each line) // 2 lines omitted La35 (26-27)
+1.5.26 Μ111 139v,C1,22-23 obelos x 2 (one for each line) // 2 lines omitted La35 (26-27) // V1920 marked with obelos x 2
 1.5.28 correction in the margin for an omission between ἐπὶ ... ἐπὶ ***
 1.5.29 Α116 321v1 definitely starts with π but I can't make out the rest
 1.5.29 μεταπεσεῖν V1629
