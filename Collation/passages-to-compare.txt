@@ -128,6 +128,7 @@
 1.5.29 Α116 321v1 definitely starts with π but I can't make out the rest
 1.5.29 μεταπεσεῖν V1629
 1.5.30 συνεστέλλετο / συνεβάλλετο *** Pl. Lys.
+1.5.31 ὑπογράφουσα Taur group // 
 1.5.33 Good passage for V1629 group ***
 1.5.33 δοὺς τὸν ἑαυτοῦ instead of κατασφάξας τὸν ἑαυτοῦ V1629, 
 1.5.33 La22 129v14 added in margin by same hand. Not marked in XML (bug in -> json) ***
@@ -143,6 +144,6 @@
 1.5.54 ἀκούειν ἐστὶ Taur ... check json ***
 1.5.56 ὅτι / ὃς
 1.5.57 "and through the prophet ..." (to distinguish from Jesus' words) not in A25 etc
-1.5.58 marginal correction from ἁμαρτωλοὺς to ἀδίκους Patm ***
+1.5.58 marginal correction from ἁμαρτωλοὺς to ἀδίκους Patm *** word order at the end can be used to show accidental since M118 does not follow any other text here.
 1.5.60 addition V1629 V568 ***
 

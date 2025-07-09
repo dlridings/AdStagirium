@@ -15,7 +15,7 @@ digraph {
 	La35 [label="La35 XI", color="green"]
 	LaSM [label="LaSM XI", color="green"]
 	M111 [label="M111 XI", color="green"]
-    M118 [label="M118 XI", color="blue"]
+    M118 [label="M118 XI", color="green"]
     M136 [label="M136 > 1345", color="grey"]
     Marc [label="Marc XIV", color="grey"]
     Mon [label="Mon > 1546", color="grey"]
