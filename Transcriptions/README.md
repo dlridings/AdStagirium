@@ -35,7 +35,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-5 | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-5 | | | |
 | Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
-| Neapolitanus gr. 31 (11 A 31) | 123v-210v | 1400- | Whole text | Neap | 1.1-4 | | | |
+| Neapolitanus gr. 31 (11 A 31) | 123v-210v | 1400- | Whole text | Neap | 1.1-5 | | | |
 | Palatinus gr. 228 | 116-201 | 13th-14th c | Whole text | Pal | 1.1-5 | | | https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_228/0243/image,info |
 | Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-5 | | | |
 | Parisinus gr. 814 (Colbertinus 3056) | 1-64 | 11th c | Last half of Logos 1, all of Logos 2-3 | P14 | Prepared | | | |
