@@ -20,7 +20,7 @@ digraph {
     Marc [label="Marc XIV", color="grey"]
     Mon [label="Mon > 1546", color="grey"]
 	Nan [label="Nan X", color="green"]
-    Neap [label="Neap XV", color="grey"]
+    Neap [label="Neap XV", color="green"]
     P01 [label="P01 XI", color="green"]
     P18 [label="P18 XII", color="green"]
 	Pal [label="Pal XIII", color="green"]
