@@ -32,7 +32,7 @@ digraph {
     V536 [label="V536 XIV-XV", color="grey"]
 	V560 [label="V560 IX", color="green"]
 	V565 [label="V565 XI", color="green"]
-	V566 [label="V566 XI", color="grey"]
+	V566 [label="V566 XI", color="blue"]
 	V568 [label="V568 XI", color="green"]
 	V571 [label="V571 XIV", color="grey"]
     V1629 [label="V1629 XI", color="green"]
