@@ -29,7 +29,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Laurentianus 8,2 | 308-353 | 11th c | Whole text | La2 | 1.1-5 | | | https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/158260 |
 | Laurentianus 9,35 | 350-411 | 11th c | Whole text | La35 | 1.1-5 | | | See notes w transcr |
 | Laurentianus San Marco gr. 679  | 2-64 | 11th c | Whole text | LaSM | 1.1-5 | | | |
-| Marcianus gr. 108  | 36-70 | 14th c | Whole text | Marc | 1.1-4 | | | Provenienza Bessarione |
+| Marcianus gr. 108  | 36-70 | 14th c | Whole text | Marc | 1.1-4 In progress | | | Provenienza Bessarione |
 | Marciana gr. II. 27 (coll. 931) | 38-99v | 11th c Dumortier | Whole text | Nan | 1.1-5 | | | https://data.biblissima.fr/entity/Q199268 |
 | Monacensis gr. 31 | 61v-121v | 1546 | Whole text | Mon | 1.1-4 | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-5 | | | |
@@ -42,7 +42,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Parisinus gr. 818 (Colbertinus 3145) | 16-40 | 12th c | Whole text, missing many pages | P18 | 1.1-2-lacuna 1.3 lacuna, 1.5-lacuna | | | https://portail.biblissima.fr/fr/ark:/43093/mdatab9e5acd79e31d36c96adf3c939d53b6f1d66db8f |
 | Parisinus gr. 874 (Colbertinus 4) | 253-305 | 13th c | Whole text, water damage (top) | P74 | Prepared | | | |
 | Patmiacus 183 | 291v-334v | 11th c | Logos 1, part of Logos 2 (-461,55) | Patm | 1.1-5 missing scan (and film frame) of 304v | | | |
-| Sinaiticus gr. 1607 | 124-179v | a. 1431 | Whole text | Sin | 1.1-4 In progress | | | https://www.loc.gov/item/00271070172-ms, https://www.loc.gov/manuscripts/?fa=segmentof:amedmonastery.00271070172-ms/&q=1607&st=gallery |
+| Sinaiticus gr. 1607 | 124-179v | a. 1431 | Whole text | Sin | 1.1-5 | | | https://www.loc.gov/item/00271070172-ms, https://www.loc.gov/manuscripts/?fa=segmentof:amedmonastery.00271070172-ms/&q=1607&st=gallery |
 | Taurinensis B I II | 93-187v | 13th c | Whole text | Taur | 1.1-5 | | | 89 Cosentini, 13 Pasini |
 | Vaticanus gr. 536 | 216r-262 | 13-14th c | Whole text | V536 | 1.1-4 | | | |
 | Vaticanus gr. 560 | 23-80v | 10th c | Whole text | V560 | 1.1-5 | | | |
