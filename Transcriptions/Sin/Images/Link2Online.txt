@@ -1,2 +1,3 @@
 https://www.loc.gov/resource/amedmonastery.00271070172-ms/?q=1607&sp=128&st=image&r=-0.05,-0.124,1.1,0.959,0
 
+1.6 starts: https://www.loc.gov/resource/amedmonastery.00271070172-ms/?q=1607&sp=138&st=image&r=0.115,0.048,0.372,0.347,0
