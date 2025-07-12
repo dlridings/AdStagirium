@@ -1,4 +1,7 @@
-<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
 <fileDesc>
 <titleStmt>
 <title>A transcription of in Marc</title>
@@ -78,9 +81,9 @@
 <lb n="P41vC2L-Marc"/><w>ποιεῖς</w><w>ἐγκαλῶν</w><w>ὥσπερ</w><w>ἂν</w><w>εἴ</w><w>τις</w><w>καὶ</w><w>τὸν</w><w>πορνεύειν</w>
 <lb n="P41vC2L-Marc"/><w>ἀπαγορεύοντα</w><w>μέμφοιτο</w><w>ἐπειδὴ</w><w>οἱ</w><w>ταῦτα</w>
 <lb n="P41vC2L-Marc"/><w>ἀκουσόμενοι</w><w>πορνεύειν</w><w>ἔμελλον</w></ab><ab n="adStag1.5.22"><w>καὶ</w><w>πῶς</w>
-<lb n="P41vC2L-Marc"/><w>οὐκ</w><w>ἐσχάτης</w><w>ταῦτα</w><w>μανίας</w><w>τὰ</w><w>ῥήματα</w><w>ἐγὼ</w>
+<lb n="P41vC2L-Marc"/><w>οὐκ</w><w>ἐσχάτης</w><w>ταῦτα</w><w>μανίας</w><w>τὰ</w><w>ῥήματα</w></ab><ab n="adStag1.5.23"><w>ἐγὼ</w>
 <lb n="P41vC2L-Marc"/><w>δὲ</w><w>καὶ</w><w>τοιοῦτον</w><w>στοχαζόμενος</w><w>ἀπο</w><w>τοῦ</w><w>τέλους</w><w>ἐρῶ</w>
-<lb n="P41vC2L-Marc"/><w>ὅτι</w></ab><ab n="adStag1.5.23"><w>εἰ</w><w>καὶ</w><w>μὴ</w><w>δεξαμένῳ</w><w>τὴν</w><w>ἐντολὴν</w><w>προσελθὼν</w>
+<lb n="P41vC2L-Marc"/><w>ὅτι</w><w>εἰ</w><w>καὶ</w><w>μὴ</w><w>δεξαμένῳ</w><w>τὴν</w><w>ἐντολὴν</w><w>προσελθὼν</w>
 <lb n="P41vC2L-Marc"/><w>ὁ</w><w>διάβολος</w><w>καὶ</w><w>ἀποστῆναι</w><w>τοῦ</w><w>Θεοῦ</w><w>συνεβού
 <lb n="P41vC2L-Marc" break="no"/>λευσε</w><w>καὶ</w><w>εἰς</w><w>τοῦτο</w><w>εὐκόλως</w><w>ἂν</w><w>ἔπεισεν</w></ab><ab n="adStag1.5.24"><w>ὁ</w><w>γὰρ</w>
 <lb n="P41vC2L-Marc"/><w>μετὰ</w><w>τὴν</w><w>τοῦ</w><w>προστάγματος</w><w>δόσιν</w><w>καταφρονήσας</w>
