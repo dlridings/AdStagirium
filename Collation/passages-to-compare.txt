@@ -132,6 +132,7 @@
 1.5.30 συνεστέλλετο / συνεβάλλετο *** Pl. Lys.
 1.5.31 ὑπογράφουσα Taur group // 
 1.5.33 Good passage for V1629 group ***
+1.5.33 ὑπερ τῶν μισούντων others καὶ μισούντων Marc and others, but outside the group? ***
 1.5.33 δοὺς τὸν ἑαυτοῦ instead of κατασφράξας τὸν ἑαυτοῦ V1629 and Taur-group
 1.5.33 La22 129v14 added in margin by same hand. Not marked in XML (bug in -> json) ***
 1.5.35 addition V1629  // μου/ὑμῶν or ὑμῶν/μου
