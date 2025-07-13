@@ -34,7 +34,7 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Monacensis gr. 31 | 61v-121v | 1546 | Whole text | Mon | 1.1-5 | | | |
 | Mosquensis gr. 111 | 128v-197 | 11th c | Whole text | M111 | 1.1-5 | | | |
 | Mosquensis gr. 118 | 222-278v | 11th c | Logos 1-2 | M118 | 1.1-5 | | | |
-| Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-4 | | | |
+| Mosquensis gr. 136 | 381-431 | a. 1345 | Whole text | M136 | 1.1-5 | | | |
 | Neapolitanus gr. 31 (11 A 31) | 123v-210v | 1400- | Whole text | Neap | 1.1-5 | | | |
 | Palatinus gr. 228 | 116-201 | 13th-14th c | Whole text | Pal | 1.1-5 | | | https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_228/0243/image,info |
 | Parisinus gr. 801 (Colbertinus 974) | 233-307 | 11th c | Whole text | P01 | 1.1-5 | | | |
@@ -57,7 +57,3 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Vaticanus gr. 1920 | 19r-81r | 976-1025 | Whole text?| V1920 | 1.1-5 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1920 |
 | Vaticanus gr. 2036 | Somewhat jumbled | 11th c | Whole text | V2036 | 1.1-5 | | | https://pinakes.irht.cnrs.fr/notices/cote/68665/ |
 
-Progress
-The green nodes have been transcribed for Ad Stag. 1.5
-
-https://shorturl.at/ukIto
