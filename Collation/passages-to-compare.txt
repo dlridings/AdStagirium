@@ -103,11 +103,12 @@
 1.4.64
 1.5.2 V560 correction to οὐκ ἂν with large kappa, can't read the original, οὐδὲν ?? omitted text ***
 1.5.2 M111 138vC1, 24-25 in the margin ÷ // V1920 as well ***
-1.5.5 Check διε(ι)λέχθαι in A116 and A336
+1.5.2-3 M136 jumps from ουδ ἂν in 2 to ουδ ἂν in 3
 1.5.3 omit ἀλλ’ V1629
 1.5.3 προνοίας V1629 // ἀπονοίας
 1.5.3 Long inserted text V1629. Added to v3 and not v4 Or, it could very well be an matter of eye-skip in the other branches. ***
 1.5.4 προσδοκᾳν / προσδοκῶν
+1.5.5 Check διε(ι)λέχθαι in A116 and A336
 1.5.9 V568 deviates from the V1629/Taur branch ***
 1.5.12 V568 ὁ γ' οὖν τὴν ... others ὁ γὰρ τὴν ... ***
 1.5.12 εὔδηλον ὅτι add V568 but not Taur
@@ -123,7 +124,6 @@
 1.5.23 Correction in Taur ***
 1.5.28 Two marginal corrections in V568 and tagged as such. Check the collation. ***
 1.5.29 μεταπεσεῖν and others in the Taur-group V568 ***
-1.5.38-39 V2036
 1.5.23 V1629 addition // transposed ἂν M111 (vowel clash)
 1.5.26 Μ111 139v,C1,22-23 obelos x 2 (one for each line) // 2 lines omitted La35 (26-27) // V1920 marked with obelos x 2
 1.5.28 correction in the margin for an omission between ἐπὶ ... ἐπὶ ***
@@ -136,17 +136,21 @@
 1.5.33 δοὺς τὸν ἑαυτοῦ instead of κατασφράξας τὸν ἑαυτοῦ V1629 and Taur-group
 1.5.33 La22 129v14 added in margin by same hand. Not marked in XML (bug in -> json) ***
 1.5.35 addition V1629  // μου/ὑμῶν or ὑμῶν/μου
+1.5.38 M136 skipped between καθ οσον and καθως
 1.5.38 omit μείζων many
+1.5.38-39 V2036
+1.5.39 Mostly Taur-group has the word order as we find in Migne. *** 
 1.5.39 LaSM κεκτημένην word order in others *** M111 seems to have changed πολὺ to πολλῶ
 1.5.42 ὁ Χριστός not in V2036 etc
 1.5.46 V1629, V568 // Nan, V1897 θεοῦ instead of οὗ ***
-1.5.48 τῆς σωτηρίας οἰκονομεῖται τῆς ἡμετέρας / τῆς σωτηρίας τῆς ἡμετέρας οἰκονομεῖται
+1.5.48 τῆς σωτηρίας οἰκονομεῖται τῆς ἡμετέρας / τῆς σωτηρίας τῆς ἡμετέρας οἰκονομεῖται latter is rare (only Migne and S249) ***
 1.5.48 Correction (xml) in Taur ... check collation *** 
 1.5.53 LaSM an erasure between εἰδὼς and πάντοτε and I can't make out what it was
-1.5.54 ἄκουσον instead of infinitive ἀκούειν
+1.5.54 ἄκουσον instead of infinitive ἀκούειν ***
 1.5.54 ἀκούειν ἐστὶ Taur ... check json ***
 1.5.56 ὅτι / ὃς
 1.5.57 "and through the prophet ..." (to distinguish from Jesus' words) not in A25 etc
 1.5.58 marginal correction from ἁμαρτωλοὺς to ἀδίκους Patm *** word order at the end can be used to show accidental since M118 does not follow any other text here.
+1.5.58 M136 eye jump again ἅπαντα ... ἅπαντα
 1.5.60 addition V1629 V568 ***
 
