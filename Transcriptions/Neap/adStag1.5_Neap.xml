@@ -1,4 +1,7 @@
-<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
 <fileDesc>
 <titleStmt>
 <title>A transcription of in Neap</title>
@@ -74,8 +77,8 @@
 <cb n="P137vC1-Neap"/>
 <lb n="P137vC1L-Neap"/><w>εἴ</w><w>τις</w><w>καὶ</w><w>τὸν</w><w>πορνεύειν</w><w>ἀπαγορεύοντα</w><w>μέμφοιτο</w><w>ἐπειδὴ</w>
 <lb n="P137vC1L-Neap"/><w>οἱ</w><w>ταῦτα</w><w>ἀκουσόμενοι</w><w>πορνεύειν</w><w>ἔμελλον</w></ab><ab n="adStag1.5.22"><w>καὶ</w><w>πῶς</w>
-<lb n="P137vC1L-Neap"/><w>οὐκ</w><w>ἐσχάτης</w><w>ταῦτα</w><w>μανίας</w><w>τὰ</w><w>ῥήματα</w><w>ἐγὼ</w><w>δὲ</w><w>στοχα
-<lb n="P137vC1L-Neap" break="no"/>ζόμενος</w><w>καὶ</w><w>τοιοῦτον</w><w>ἀπὸ</w><w>τοῦ</w><w>τέλους</w><w>ὁρῶ</w><w>ὅτι</w></ab><ab n="adStag1.5.23"><w>εἰ</w><w>καὶ</w>
+<lb n="P137vC1L-Neap"/><w>οὐκ</w><w>ἐσχάτης</w><w>ταῦτα</w><w>μανίας</w><w>τὰ</w><w>ῥήματα</w></ab><ab n="adStag1.5.23"><w>ἐγὼ</w><w>δὲ</w><w>στοχα
+<lb n="P137vC1L-Neap" break="no"/>ζόμενος</w><w>καὶ</w><w>τοιοῦτον</w><w>ἀπὸ</w><w>τοῦ</w><w>τέλους</w><w>ὁρῶ</w><w>ὅτι</w><w>εἰ</w><w>καὶ</w>
 <lb n="P137vC1L-Neap"/><w>μὴ</w><w>δεξαμένῳ</w><w>τὴν</w><w>ἐντολὴν</w><w>προσελθὼν</w><w>ὁ</w><w>διάβολος</w>
 <lb n="P137vC1L-Neap"/><w>ἀποστῆναι</w><w>τοῦ</w><w>Θεοῦ</w><w>συνεβούλευσε</w><w>καὶ</w><w>τοῦτο</w><w>εὐκόλως</w><w>ἂν</w>
 <lb n="P137vC1L-Neap"/><w>ἔπεισεν</w></ab><ab n="adStag1.5.24"><w>ὁ</w><w>γὰρ</w><w>μετὰ</w><w>τὴν</w><w>τοῦ</w><w>προστάγματος</w><w>δόσιν</w><w>κατα
