@@ -1,3 +1,10 @@
+Portail biblissima
+https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51e378e0759
+
+All manuscripts
+https://pinakes.irht.cnrs.fr/notices/oeuvre/239/ *** all manuscripts
+But for some reason, not Athos Stavronikita 25
+
 Marcel Richard
 https://archive.org/details/rpertoiredesbibl0000rich/mode/2up
 M136 page 165 only a reference to Vladimir's catalogue
@@ -9,3 +16,14 @@ Page 191 (ms) and page 193 Ad Stagirium
 Title page: https://www.prlib.ru/en/item/1610395#v=d&z=2&n=5&i=17128826_doc1.tiff&y=411&x=320
 191 https://www.prlib.ru/en/item/1610395#v=d&z=2&n=5&i=17128826_doc1.tiff&y=411&x=320
 193 https://www.prlib.ru/en/item/1610395#v=d&z=2&n=5&i=17128828_doc1.tiff&y=398&x=320
+
+Vaticanus gr. 571
+Devreesse, Jean
+Les manuscrits grecs de la Bibliothèque Vaticane, Paris 1955
+page 398ff Vaticanus gr. 571
+https://pinakes.irht.cnrs.fr/notices/bibliographie/37DGWW9M/ (Devreesse)
+https://pinakes.irht.cnrs.fr/notices/cote/67202/ (Vaticanus gr. 571)
+https://pinakes.irht.cnrs.fr/notices/oeuvre/239/ *** all manuscripts
+https://portail.biblissima.fr/fr/ark:/43093/mdatad2f27f52caa9ad38714a566d9073711281158169
+https://pinakes.irht.cnrs.fr//notices/cote/67202/
+
