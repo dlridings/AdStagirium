@@ -129,17 +129,17 @@
 1.5.28 correction in the margin for an omission between ἐπὶ ... ἐπὶ ***
 1.5.29 Α116 321v1 definitely starts with π but I can't make out the rest
 1.5.29 μεταπεσεῖν V1629
-1.5.30 συνεστέλλετο / συνεβάλλετο *** Pl. Lys.
+1.5.30 συνεστέλλετο / συνεβάλλετο La22, A336, V571 *** Pl. Lys.
 1.5.31 ὑπογράφουσα Taur group // 
 1.5.33 Good passage for V1629 group ***
 1.5.33 ὑπερ τῶν μισούντων others καὶ μισούντων Marc and others, but outside the group? ***
 1.5.33 δοὺς τὸν ἑαυτοῦ instead of κατασφράξας τὸν ἑαυτοῦ V1629 and Taur-group
 1.5.33 La22 129v14 added in margin by same hand. Not marked in XML (bug in -> json) ***
-1.5.35 addition V1629  // μου/ὑμῶν or ὑμῶν/μου
+1.5.35 addition V1629  // μου/ὑμῶν or ὑμῶν/μου ***
 1.5.38 M136 skipped between καθ οσον and καθως
-1.5.38 omit μείζων many
+1.5.38 omit μείζων many *** a divider ***
 1.5.38-39 V2036
-1.5.39 Mostly Taur-group has the word order as we find in Migne. *** 
+1.5.39 Mostly Taur-group and V572 have the word order as we find in Migne. *** 
 1.5.39 LaSM κεκτημένην word order in others *** M111 seems to have changed πολὺ to πολλῶ
 1.5.42 ὁ Χριστός not in V2036 etc
 1.5.46 V1629, V568 // Nan, V1897 θεοῦ instead of οὗ ***
