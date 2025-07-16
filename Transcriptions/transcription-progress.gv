@@ -29,7 +29,7 @@ digraph {
 	S32 [label="S32 XI-XII", color="green"]
     S249 [label="S249 XII", color="green"]
     Taur [label="Taur XIII", color="green"]
-    V536 [label="V536 XIV-XV", color="blue"]
+    V536 [label="V536 XIV-XV", color="green"]
 	V560 [label="V560 IX", color="green"]
 	V565 [label="V565 XI", color="green"]
 	V566 [label="V566 XI", color="green"]
