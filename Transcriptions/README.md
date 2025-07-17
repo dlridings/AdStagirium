@@ -56,4 +56,4 @@ https://portail.biblissima.fr/fr/ark:/43093/tdata0265547fa995efed9e548ba20499e51
 | Vaticanus gr. 1897 | 73r- | 14th c | Whole text | V1897 | 1.1-5 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1897 |
 | Vaticanus gr. 1920 | 19r-81r | 976-1025 | Whole text?| V1920 | 1.1-5 | | | https://digi.vatlib.it/view/MSS_Vat.gr.1920 |
 | Vaticanus gr. 2036 | Somewhat jumbled | 11th c | Whole text | V2036 | 1.1-5 | | | https://pinakes.irht.cnrs.fr/notices/cote/68665/ |
-| Vaticanus gr. 2250 | 3r-42v | 11th c? | Logos 1 (whole text is there) | V2250 | 1.1-5 prepared | | | https://portail.biblissima.fr/fr/ark:/43093/mdataabd91180a32e7502459f75232727c69a7e6ae2b3 |
+| Vaticanus gr. 2250 | 3r-42v | 11th c? | Logos 1 (whole text is there) | V2250 | 1.5 transcribed | | | https://portail.biblissima.fr/fr/ark:/43093/mdataabd91180a32e7502459f75232727c69a7e6ae2b3 |
