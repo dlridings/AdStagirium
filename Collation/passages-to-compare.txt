@@ -46,6 +46,7 @@
 1.2.33
 1.2.35 αὐτόν word order V560 come back to ***
 1.2.40 Is a mess in V2250 ***
+1.3.2 V2250 is found with Bas Nan V1897 and Est in a messy variant ***
 1.3.3 ***τί οὖν ἂν ἔπαθεν omit V560 V568 and many others, from across groups *** 1.3.2 Est*
 1.3.4 τῆς αὐτῆς αὐτῆς τιμῆς duplicated, ἔμενεν omitted V568 homeoteleuteton mistake + one more 
 1.3.6 ἀληθῶς ἀπατεῶνα καὶ omit V560
@@ -57,20 +58,31 @@
 1.3.25 ἵνα ἀποστῆ ἀπ’ ἐμοῦ add Nan and many others (From 2 Cor. 12:8)
 1.3.26-28 V568
 1.3.27 ἀλλὰ θαρσεῖ add LaSM B39
-1.3.32 LaSM and B39 against others
+1.3.28 V2250 together with Bas LaSM Nan V1897 and B39
+1.3.29 V2250 with Bas La2 V560 M136 and V1920
+1.3.32 LaSM and B39 against others (30 an omission)
+1.3.32 (v 20) V2250 with Bas M136 Sin Nan V568 V1897 Mon Est Marc Taur
+1.3.33 32 V2250 with Nan and 1897
 1.3.40 ἦν might have been moved in Nan and then erased where others have it.
 1.3.41 word order
 1.3.42 add ἥμαρτες LaSM B39
 1.3.46 ***πρὸς δὲ καὶ erased V560 omitted V2036 omitted M111 : δὲ καὶ εἰς omitted V566 V571
 1.3.46 *τοὺς μετὰ ταῦτα omitted Nan and others
 1.3.47 κακόν / δεινόν // word order // κατὰ/διὰ τὴν σκληρότητα // omit τὸ ***
+1.3.48 (30-32) Bas and V2250 agree against others ***
+1.3.49 Bas and V2250 against others, cannot be happenchance ***
 1.3.50 μετὰ τὸ συγγνώμης τυχεῖν μετὰ τὸ συγγνώμης τυχεῖν omit V560
+1.3.50 V2250 multiword omission at the end of the verse
 1.3.54 ὅτε / ὅρᾳ
 1.3.56-57 κέρδος P01 cf. M136
 1.3.65 ἐλάττονα / μείζονα V560
 1.3.56 V560
 1.3.57 βελτιώνους Mon and Marc, in Marc it is probably a correction
+1.3.59 10 V2250 agress with Bas V560 V1920 Nan V1897 but has a reading with others in the margin ***
 1.3.61 λογισμῶν instead of λόγων M111 A336
+1.3.62 12-16 V2250 and Bas agree ***
+1.3.63 14-16 omit ὁ θεὸς V2250 along with Bas, La2, Nan and other oldest mss
+1.3.66 26-28 V2250 with Bas, La2, V560, A336, V1920, V569 ***
 1.3.70 ** νῦν δὲ οὗτος ὧδε 
 1.4.1 εἰ δὲ καὶ λέγοι only V1897 has καὶ
 1.4.1-2 V568 addition
