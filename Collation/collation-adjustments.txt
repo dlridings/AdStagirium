@@ -1,0 +1,3 @@
+1.3.12 Fix variant unit from 2 variants to 1 : ὅτι δὲ, variant nr 1
+1.3.33 recollate changed aBase
+1.3.66 26-28 combine
