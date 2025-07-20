@@ -87,25 +87,32 @@
 1.4.1 εἰ δὲ καὶ λέγοι only V1897 has καὶ
 1.4.1-2 V568 addition
 1.4.3 πονηρός only B39 μιαρός all the others
+1.4.4 V2250 is very different, whole phrases in a different order ***
 1.4.4 ἀναιρεῖς Nan / περιαιρεῖς
 1.4.5
 1.4.6 ἀλλ’ ἑκόντας ὑποκλινομένους homoeoteleuton V560
 1.4.10 Marked as spurious in V568 (90rC2)
 1.4.12* δικαίους V568 Nan Sin V536 M118 V1897 / γενναίους
 1.3.13 *** ἀδικῆται // ἠδίκηται pres. subjunctive might be the best instead of perf.
+1.4.14 14 γενναίους // δικαίους V2250 and others (Nan V1897 but not Bas)
 1.4.15 *** come back to ἐπηρεάσθησαν / * A for now ἐπεβουλεύθησαν // δι'ἐκείνους - διηνεκῶς V571 A336 cf. 1.4.31
 1.4.16
 1.4.19 τὴν πρόνοιαν omit probably an error of homoeoteleuton in the tradition
+1.4.21 10 ἐπιθυμοῦμεν instead of ἐπιθυμοῦσιν V2250 V560 V1920 ***
 1.4.23 V568 // καὶ τοὺς πόδας omit M118, Taur (corrected Taur)
 1.4.25 καὶ φῶς omit // πάντα or πάντων come back to ***
 1.4.27 La22 has ὁ διάβολος οὐ μόνον οὐ βλάπτει ... a "title" others have, some in the text, but I can't figure out how to transcribe this. I am not getting "marginal comments" to work.1.4.28-29 *** come back to ἣν ἢν
 1.4.29 *** come back to
+1.4.29 V2250 Nan V1897 καὶ αὐτὸ καὶ καθ ἑαυτὸ ***
 1.4.31 *διηνεκῶς Neap V1629 / διαπαντος
 1.4.37 τοῦτο δὲ εἶπε (added/omitted) cf. Dumortier
+1.4.38 16 Bas and V2250 τρέχει instead of προστρέχει ***
 1.4.38 *οὐ πρὸς αὐτὸν παραγενέσθαι ἐπείγεται ἀλλὰ add LaSM B39
 1.4.39 οὐκ ἀφίσταται omit V560 // come back to 1.4.39.56 (καὶ καίτοι)
 1.4.40 καὶ omitted M111 and several others
+1.4.41 42-44 Bas and V2250 have the same wordorder ***
 1.4.43
+1.4.46 24 ἐπίδειξιν Bas La2 V560 V1920 V2250 // ἀπόδειξιν others *** 
 1.4.48 οὐ B39 ποῦ many others
 1.4.49 καταδεξάμενον / δεξάμενον Nan / word order M111
 1.4.53
