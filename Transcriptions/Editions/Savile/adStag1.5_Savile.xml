@@ -1,4 +1,7 @@
-<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
 <fileDesc>
 <titleStmt>
 <title>A transcription of in Savile</title>
@@ -29,7 +32,7 @@
 <lb n="PCL-Savile" break="no"/>δεὶς</w><w>ἂν</w><w>αὐτοὺς</w><w>κατέβαλεν</w></ab><ab n="adStag1.5.12"><w>ὁ</w><w>γὰρ</w><w>τὴν</w><w>παρ’</w><w>ἑτέρου</w><w>δεξάμενος</w><w>ἀπάτην</w><w>οὕτως</w><w>εὐκόλως</w><app><rdg type="orig" hand="firsthand"/><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@PCL-Savile"><w>εὔδηλονότι</w></seg></rdg></app><w>οὗ
 <lb n="PCL-Savile" break="no"/>τος</w><w>καὶ</w><w>πρὸ</w><w>τῆς</w><w>ἀπάτης</w><w>ῥᾳθύμως</w><w>καὶ</w><w>χαύνως</w><w>διέκειτο</w><w>οὐδὲ</w><w>γὰρ</w><w>ἂν</w><w>ἴσχυσε</w><w>τοσοῦτον</w><w>ἐκεῖνος</w><w>εἰ</w>
 <lb n="PCL-Savile"/><w>νηφούσῃ</w><w>καὶ</w><w>ἐγρηγορυίᾳ</w><w>διελέγετο</w><w>ψυχῇ</w></ab><ab n="adStag1.5.13"><w>ἀλλ’</w><w>εἰσί</w><w>τινες</w><w>οἳ</w><w>ἐπειδὰν</w><w>κατὰ</w><w>τοῦτο</w><w>διελεγχθῶσι</w><w>τὸ</w>
-<lb n="PCL-Savile"/><w>μέρος</w><w>τὸν</w><w>διάβολον</w><w>ἀφέντες</w><w>ἐπὶ</w><w>τὴν</w><w>ἐντολὴν</w><w>μεταβαίνουσι</w><w>καὶ</w><w>τοῦ</w><w>μὲν</w><w>ἡμαρτηκότος</w><app><rdg type="orig" hand="firsthand"><w>ἀπέχονται</w></rdg><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@PCL-Savile"><w>ἀφίσανται</w></seg></rdg></app>
+<lb n="PCL-Savile"/><w>μέρος</w><w>τὸν</w><w>διάβολον</w><w>ἀφέντες</w><w>ἐπὶ</w><w>τὴν</w><w>ἐντολὴν</w><w>μεταβαίνουσι</w><w>καὶ</w><w>τοῦ</w><w>μὲν</w><w>ἡμαρτηκότος</w><app><rdg type="orig" hand="firsthand"><w>ἀπέχονται</w></rdg><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@PCL-Savile"><w>ἀφίστανται</w></seg></rdg></app>
 <lb n="PCL-Savile"/><w>ἐγκαλοῦσι</w><w>δὲ</w><w>τῷ</w><w>Θεῷ</w><w>λέγοντες</w></ab><ab n="adStag1.5.14"><w>τί</w><w>γὰρ</w><w>ἐδίδου</w><w>πρόσταγμα</w><w>ἁμαρτήσοντας</w><w>αὐτοὺς</w><w>εἰ
 <pb n="93" type="page" xml:id="P93-Savile" break="no"/>
 <cb n="P93C1-Savile"/>
