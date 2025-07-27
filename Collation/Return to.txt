@@ -13,3 +13,6 @@
 1.5.27 Recollate. It works, but one large omission by La35 is presented as several small ones.
 1.5.33 I didn't dare to regularize past place 150. I think it is εἶδεν that is causing trouble. It simply won't collate if I go further and everything before is lost.
 1.5.39 40-46 review the word order
+1.5.51 This number, 51, got skipped in all transcriptions. It went from 50 to 52. No text is missing, the numbering is just off.
+1.5.55 Return to: τῶν πιστευόντων εἰς αὐτὸν or τῶν πιστευόντων αὐτῳ There is early evidence for the latter
+1.5.60 is corrupt in the Taur-group
