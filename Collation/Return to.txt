@@ -11,7 +11,8 @@
 1.5.23 This is an example where it feels unnatural to build a local stemma putting the Taur-group as a branch off from the initial text. There is a nagging feeling that we might have two parallel traditions, each deserving an initial text. Just a nagging feeling, not a dogmatic position.
 1.5.25 The choice between the genitive αὐτοῦ and the dative αὐτῳ needs to be studied more closely.
 1.5.27 Recollate. It works, but one large omission by La35 is presented as several small ones.
-1.5.33 I didn't dare to regularize past place 150. I think it is εἶδεν that is causing trouble. It simply won't collate if I go further and everything before is lost.
+1.5.29 Is another passage where it is uncomfortable adding the Taur-group as a branch off of the initial text. There could very well be 2 "initial texts" way back.
+1.5.33 I didn't dare to regularize past place 150. I think it is εἶδεν that is causing trouble. It simply won't collate if I go further and everything before is lost. I split these up inte 33a and 33b and then it went ok. Evidently it hit some kind of limit. The editor is not meant to be used with long texts, not even long verses.
 1.5.39 40-46 review the word order
 1.5.51 This number, 51, got skipped in all transcriptions. It went from 50 to 52. No text is missing, the numbering is just off.
 1.5.55 Return to: τῶν πιστευόντων εἰς αὐτὸν or τῶν πιστευόντων αὐτῳ There is early evidence for the latter
