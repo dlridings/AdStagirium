@@ -19,4 +19,5 @@
 1.5.52 26 and 32 should be regularized and recollated.
 1.5.54.30-34 review the local stemma
 1.5.55 Return to: τῶν πιστευόντων εἰς αὐτὸν or τῶν πιστευόντων αὐτῳ There is early evidence for the latter
+1.5.56.38 ὅτι or ὃς starting to consider the latter. It affects the subject of θήλει
 1.5.60 is corrupt in the Taur-group
