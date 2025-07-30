@@ -1,4 +1,7 @@
-<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
 <fileDesc>
 <titleStmt>
 <title>A transcription of in Savile</title>
@@ -60,7 +63,7 @@
 <lb n="P85C1L-Savile"/><w>ἁγίους</w><w>ἐργάσηται</w><w>δεινά</w></ab><ab n="adStag1.1.19"><w>τῇ</w><w>τε</w><w>γὰρ</w><w>δυνάμει</w><w>καὶ</w><w>τῷ</w><w>πλούτῳ</w><w>θαρροῦντα</w><w>καὶ</w><w>ὑπὸ</w><w>τῆς</w><w>ἀθυ
 <lb n="P85C1L-Savile" break="no"/>μίας</w><w>κρατούμενον</w><w>πάντα</w><w>τολμήσειν</w><w>εἰς</w><w>αὐτοὺς</w><w>καὶ</w><w>οὐδενὸς</w><w>ἀφέξεσθαι</w><w>τῶν</w><w>ἐμπιπτόντων</w>
 <lb n="P85C1L-Savile"/><w>αὐτῷ</w></ab><ab n="adStag1.1.20"><w>καὶ</w><w>μέχρι</w><w>μὲν</w><w>τοῦ</w><w>παρόντος</w><w>δυνηθῆναι</w><w>τὴν</w><w>μητέρα</w><w>καὶ</w><w>συγκαλύψαι</w><w>τὸ</w><w>γεγονὸς</w><w>καὶ</w>
-<lb n="P85C1L-Savile"/><w>ἐπιζητοῦντά</w><w>σε</w><w>παρακρούσασθαι</w><w>πολλάκις</w><w>αὐτόν</w></ab><ab n="adStag1.1.21"><w>εἰ</w><w>δὲ</w><w>χρόνος</w><w>ἐγγέιηται</w><w>πλείων</w><w>φωραθή
+<lb n="P85C1L-Savile"/><w>ἐπιζητοῦντά</w><w>σε</w><w>παρακρούσασθαι</w><w>πολλάκις</w><w>αὐτόν</w></ab><ab n="adStag1.1.21"><w>εἰ</w><w>δὲ</w><w>χρόνος</w><w>ἐγγένηται</w><w>πλείων</w><w>φωραθή
 <lb n="P85C1L-Savile" break="no"/>σεσθαι</w><w>τῆς</w><w>μητρὸς</w><w>τὴν</w><w>ὑπόκρισιν</w><w>καὶ</w><w>ἀφόρητον</w><w>αὐτὸν</w><w>ἐκείνῃ</w><w>τε</w><w>ἔσεσθαι</w><w>καὶ</w><w>τοῖς</w><w>μοναχοῖς</w>
 <lb n="P85C1L-Savile"/></ab><ab n="adStag1.1.22"><w>ὁ</w><w>δὲ</w><w>τῶν</w><w>κακῶν</w><w>κολοφὼν</w><w>τὸ</w><w>μηδὲ</w><w>ὑπὲρ</w><w>τῶν</w><w>μελλόντων</w><w>ἔχειν</w><w>θαρρεῖν</w><w>μηδὲ</w><w>εἰδέναι</w><w>σαφῶς</w><w>εἴ</w>
 <lb n="P85C1L-Savile"/><w>ποτε</w><w>ἔσται</w><w>λύσις</w><w>τῆς</w><w>νόσου</w><w>ταύτης</w><w>καὶ</w><w>ἀπαλλαγὴ</w><w>διὰ</w><w>τὸ</w><w>πολλάκις</w><w>τοῦτο</w><w>προσδοκήσαντα</w>
