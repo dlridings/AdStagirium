@@ -1,7 +1,15 @@
 1.1.15.44- (καὶ and ὁρμῆσαι ἐλθειν και ἐπὶ ...)
 1.1.16.4 δέ and δὲ couldn't be regularized in the first step
 1.1.14.2 won't fully regularize (καὶ) in M118, V1639 ...
+1.1.26, 1.1.28, 1.1.30, 1.2.1, 1.2.13 Just examples of how CollateX does not handle word order
+1.2.7 Is pretty wild (S249)
+1.2.9 P18 is damaged and turns out erratic in the collation. Fix manually. ***
 1.2.18
+1.2.21 ἀνῃρῆσθαι or ἀνῃρτῆσθαι : deserves a review
+1.2.22 τῆς γῆς or simply γῆς 
+1.2.23.46 αὐτόν or αὐτοῖς ? // changed from τῶν λοιπῶν ζωῶν to τὰ λοιπὰ ζῶα
+1.2.32 Difficult εἶδος Bas LaSM and B39 display a reading unknown to others ***
+1.2.40.18, 1.2.40.50 Full of iotacisms that are ambiguous and potentially significant *** The verse is a mess. 18: κατοικίσαι / κατοικῆσαι
 1.3.12 in V2250 5v ἀνσία ??? 
 1.5.9 Local stemma: when the Taur-group simply has another text, it is uncomfortable to say that it stems from the chosen text. It could simply be that there are two versions, two versions going back to the day. If works were delivered orally, there could have been two deliveries. I am leaving it without a local stemma for the time being. This means that the whole text should be reviewed with the same principle in order for the text flow to be consistent.
 1.5.12.4 is then problematic. It does seem that the A-text was the original, and perhaps it was above in 1.5.9 as well.
