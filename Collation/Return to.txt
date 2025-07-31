@@ -24,6 +24,7 @@
 1.5.27 Recollate. It works, but one large omission by La35 is presented as several small ones.
 1.5.29 Is another passage where it is uncomfortable adding the Taur-group as a branch off of the initial text. There could very well be 2 "initial texts" way back.
 1.5.33 I didn't dare to regularize past place 150. I think it is εἶδεν that is causing trouble. It simply won't collate if I go further and everything before is lost. I split these up inte 33a and 33b and then it went ok. Evidently it hit some kind of limit. The editor is not meant to be used with long texts, not even long verses.
+1.5.36-1.5.37 Do not appear to have been collated. Instead 1.3.36-37 was collated ***
 1.5.39 40-46 review the word order *** Chose possibly "b" as the initial text.
 1.5.47 18 is another example of a Taur-group not really explained by the initial text unless it just happened in parallel. I am going to draw it that way in the local stemma. Perhaps some realationship with some others in the "a" text will turn up.
 1.5.51 This number, 51, got skipped in all transcriptions. It went from 50 to 52. No text is missing, the numbering is just off.
