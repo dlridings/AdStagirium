@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <p>Temporary titleStmt for validation</p>
+      </titleStmt>
+      <titleStmt>
+        <p>Temporary publicationStmt for validation</p>
+      </titleStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="V2036"/>
+          <witness n="V566"/>
+          <witness n="Mon"/>
+          <witness n="A25"/>
+          <witness n="M136"/>
+          <witness n="Bodl"/>
+          <witness n="A336"/>
+          <witness n="La22"/>
+          <witness n="Savile"/>
+          <witness n="V1897"/>
+          <witness n="V571"/>
+          <witness n="V536"/>
+          <witness n="Taur"/>
+          <witness n="La35"/>
+          <witness n="Nan"/>
+          <witness n="P01"/>
+          <witness n="S32"/>
+          <witness n="B39"/>
+          <witness n="M111"/>
+          <witness n="Est"/>
+          <witness n="V568"/>
+          <witness n="aBase"/>
+          <witness n="M118"/>
+          <witness n="V565"/>
+          <witness n="V1639"/>
+          <witness n="Marc"/>
+          <witness n="V2250"/>
+          <witness n="Bas"/>
+          <witness n="A116"/>
+          <witness n="V1629"/>
+          <witness n="V560"/>
+          <witness n="La2"/>
+          <witness n="LaSM"/>
+          <witness n="V1920"/>
+          <witness n="Base"/>
+          <witness n="S249"/>
+          <witness n="Pal"/>
+          <witness n="Sin"/>
+          <witness n="Patm"/>
+          <witness n="Neap"/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <ab xml:id="adstag1.5.37">κατὰ τὸ ὕψος τοῦ οὐρανοῦ ἀπὸ τῆς γῆς ἐκραταίωσε κύριος τὸ ἔλεος αὐτοῦ ἐπὶ τοὺς φοβουμένους αὐτόν<app n="adstag1.5.37" type="main" from="1" to="1"><rdg wit="Savile V2250 A25 Bas La35 La2 Patm S249 V1639 M118 P01 V565 V560 S32 Pal M136 Sin Neap A336 A116 V1920 Base V2036 Nan M111 V566 V568 aBase V1897 V536 Bodl V571 Mon V1629 Est Marc Taur La22" varSeq="1" n="a" type="om"></rdg><rdg wit="LaSM B39" varSeq="2" n="b" type="-">ὅτι</rdg><note><fs><f><numeric value="10"/></f></fs><graph type="directed"><node n="a"/><node n="b"/><arc from="a" to="b"/></graph></note></app><app n="adstag1.5.37" type="main" from="30" to="32"><rdg wit="Savile V2250 A25 Bas La35 LaSM La2 Patm S249 V1639 M118 P01 V565 V560 S32 Pal M136 Sin Neap A336 A116 V1920 Base V2036 Nan M111 V566 V568 aBase V1897 V536 Bodl V571 Mon V1629 B39 Marc Taur La22" varSeq="1" n="a" type="-">τοὺς φοβουμένους</rdg><rdg wit="Est" varSeq="2" n="b" type="-">τοῖς φοβουμένοις</rdg><note><fs><f><numeric value="10"/></f></fs><graph type="directed"><node n="a"/><node n="b"/><arc from="a" to="b"/></graph></note></app></ab>
+</TEI>
