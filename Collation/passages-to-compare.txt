@@ -13,7 +13,7 @@
 1.1.24 *** ταύτη ταύτην ταύτης
 1.1.25 *τοῦ πόνου καὶ omit V568 V536 and the others in the Taur group
 1.1.27 ἐπεδήμησέν V560 V568
-1.1.28 τὸν τοῦ σατανᾶ τρόμον / τὸν τοῦ σώματος τρόμον
+1.1.28 τὸν τοῦ σατανᾶ τρόμον / τὸν τοῦ σώματος τρόμον (σατανᾶ, Bas, La2, V560) *** The oldest mss. They do not belong to a clear tradition in the groups. This could be significant for getting a peek into earlier forms than those that became more frequent.
 1.1.29 προσετίθεις δὲ add V568 ??? erroneous note probably should be 1.1.20
 1.2.3 Nan V560 πόθος εἰσήει ἡ τῆς εὐλαβείας τῆς σῆς / others omit ἡ // ἔμαθον ἔπαθον
 1.2.3 *ἔμαθον ἔπαθον puts V1897 together with Nan
@@ -22,6 +22,7 @@
 1.2.9 καὶ καταβάλλεσθαι omit V560 // φερόμενος instead of φέρω μέρος B39
 1.2.9 παρὰ τοῦ πονηροῦ δαίμονος wordorder Vat. gr. 2250 (alone) ***
 1.2.10 *** συγχωρήσωμεν V568 M118 P18 Sin Mon (group) ἐθελήσωμεν others // συρεσθαι φερεσθαι look at the group
+1.2.11 18-22 M136, Neap, P18 and V1629 set off from Taur and others in the Taur-group
 1.2.12 add ὄντα // ἵν instead of εἰ V560 probably meant ἢν cf 2.10 (iotacism)
 1.2.14 omit ἢ makes a big difference *** Collation needs to be re-ordered for this (22)
 1.2.15 V560
@@ -44,7 +45,7 @@
 1.2.31 *** παντελῶς αὐτὸν ἀφανίσαι omitted V568 Taur group
 1.2.32 εἶδος LaSM B39
 1.2.33
-1.2.35 αὐτόν word order V560 come back to ***
+1.2.35 αὐτόν word order V560 come back to *** Note that 1.2.35.16 displays a text that even Bas, the oldest manuscript has. The "Taur-group" is old, even if the physical manuscripts are more recent. But it could be a per chance agreement.
 1.2.40 Is a mess in V2250 ***
 1.3.2 V2250 is found with Bas Nan V1897 and Est in a messy variant ***
 1.3.3 ***τί οὖν ἂν ἔπαθεν omit V560 V568 and many others, from across groups *** 1.3.2 Est*
