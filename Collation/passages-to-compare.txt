@@ -61,6 +61,7 @@
 1.3.27 ἀλλὰ θαρσεῖ add LaSM B39
 1.3.28 V2250 together with Bas LaSM Nan V1897 and B39
 1.3.29 V2250 with Bas La2 V560 M136 and V1920
+1.3.31 La2 is all on its own. ***
 1.3.32 LaSM and B39 against others (30 an omission)
 1.3.32 (v 20) V2250 with Bas M136 Sin Nan V568 V1897 Mon Est Marc Taur
 1.3.33 32 V2250 with Nan and 1897
