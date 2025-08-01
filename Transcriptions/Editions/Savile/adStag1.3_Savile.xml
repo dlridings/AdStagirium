@@ -1,4 +1,7 @@
-<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
 <fileDesc>
 <titleStmt>
 <title>A transcription of in Savile</title>
@@ -43,7 +46,7 @@
 <lb n="P88C1L-Savile"/><w>ἀσθενείᾳ</w><w>τελειοῦται</w></ab><ab n="adStag1.3.26"><w>καίτοι</w><w>γε</w><w>ἐνῆν</w><w>καὶ</w><w>χωρὶς</w><w>διωγμῶν</w><w>καὶ</w><w>θλίψεων</w><w>καὶ</w><w>πόνων</w><w>καὶ</w><w>ἱδρώτων</w><w>κα
 <lb n="P88C1L-Savile" break="no"/>τορθωθῆναι</w><w>τὸ</w><w>κήρυγμα</w><w>ἀλλ’</w><w>ὅμως</w><w>οὐκ</w><w>ἠθέλησεν</w><w>ὁ</w><w>Χριστὸς</w><w>τῶν</w><w>κηρυττόντων</w><w>φειδόμενος</w></ab><ab n="adStag1.3.27"><w>διὰ</w>
 <lb n="P88C1L-Savile"/><w>τοῦτό</w><w>φησιν</w><w>αὐτοῖς</w><w>ἐν</w><w>τῷ</w><w>κόσμῳ</w><w>θλῖψιν</w><w>ἕξετε</w></ab><ab n="adStag1.3.28"><w>καὶ</w><w>τοῖς</w><w>βουλομένοις</w><w>δὲ</w><w>εἰς</w><w>τὴν</w><w>βασιλείαν</w>
-<lb n="P88C1L-Savile"/><app><rdg type="orig" hand="firsthand"><w>εἰσελθειν</w></rdg><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@P88C1L-Savile"><w>βαδίζειν</w></seg></rdg></app><w>διὰ</w><w>τῆς</w><w>ἐστενοχωρημένης</w><w>κελεύει</w><w>τοῦτο</w><w>ποιεῖν</w><w>ὁδοῦ</w><w>ὡς</w><w>οὐκ</w><w>ἐνὸν</w><w>ἑτέρωθεν</w><w>ἐκεῖσε</w><app><rdg type="orig" hand="firsthand"><w>ἐλθεῖν</w></rdg><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@P88C1L-Savile"><w>εἰσλθεῖν</w></seg></rdg></app>
+<lb n="P88C1L-Savile"/><app><rdg type="orig" hand="firsthand"><w>εἰσελθειν</w></rdg><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@P88C1L-Savile"><w>βαδίζειν</w></seg></rdg></app><w>διὰ</w><w>τῆς</w><w>ἐστενοχωρημένης</w><w>κελεύει</w><w>τοῦτο</w><w>ποιεῖν</w><w>ὁδοῦ</w><w>ὡς</w><w>οὐκ</w><w>ἐνὸν</w><w>ἑτέρωθεν</w><w>ἐκεῖσε</w><app><rdg type="orig" hand="firsthand"><w>ἐλθεῖν</w></rdg><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@P88C1L-Savile"><w>εἰσελθεῖν</w></seg></rdg></app>
 <lb n="P88C1L-Savile"/></ab><ab n="adStag1.3.29"><w>οὕτως</w><w>αἱ</w><w>θλίψεις</w><w>καὶ</w><w>οἱ</w><w>πειρασμοὶ</w><w>καὶ</w><w>τὰ</w><w>συμβαίνοντα</w><w>ἡμῖν</w><w>ἀνιαρὰ</w><w>τῶν</w><w>χρηστῶν</w><w>οὐχ</w>
 <lb n="P88C1L-Savile"/><w>ἧττον</w><w>τὴν</w><w>κηδεμονίαν</w><w>τοῦ</w><w>Θεοῦ</w><w>ἡμῖν</w><w>ἐνδείκνυνται</w></ab><ab n="adStag1.3.30"><w>καὶ</w><w>τί</w><w>λέγω</w><w>τὰς</w><w>θλίψεις</w><w>τὰς</w><w>ἐνθάδε</w><w>τῆς</w>
 <lb n="P88C1L-Savile"/><w>γὰρ</w><w>βασιλείας</w><w>τῶν</w><w>οὐρανῶν</w><w>οὐκ</w><w>ἔλαττον</w><w>ἡ</w><w>τῆς</w><w>γεέννης</w><w>ἀπειλὴ</w><w>παρίστησι</w><w>τὴν</w><w>φιλανθρωπί
