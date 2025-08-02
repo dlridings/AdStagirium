@@ -86,6 +86,7 @@
 1.3.63 14-16 omit ὁ θεὸς V2250 along with Bas, La2, Nan and other oldest mss
 1.3.66 26-28 V2250 with Bas, La2, V560, A336, V1920, V569 ***
 1.3.70 ** νῦν δὲ οὗτος ὧδε 
+1.3.72.44 V560, V1920 and V569 have a common error based on pronunciation (κεκοιμῶνται instead of καὶ κομῶνται)
 1.4.1 εἰ δὲ καὶ λέγοι only V1897 has καὶ
 1.4.1-2 V568 addition
 1.4.3 πονηρός only B39 μιαρός all the others
