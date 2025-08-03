@@ -16,7 +16,7 @@
 </fileDesc>
 </teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.4"><ab n="adStag1.4.1"><w>εἰ</w><w>δὲ</w><w>λέγοι</w><w>τις</w><w>τίνος</w>
 <lb n="PCL-La2"/><w>οὖν</w><w>ἕνεκεν</w><w>οὐ</w><w>τὸν</w><w>ἐξ</w><w>ἀρχῆς</w><w>ἀπατήσαν
-<lb n="PCL-La2" break="no"/>τα</w><w>ἠφάνισεν</w><seg type="line" subtype="here" n="@PCL-La2"><fw type="chapTitle"><w>ὅτι</w><w>ὁ</w><w>διάβολος</w><w>οὐ</w><w>μόνον</w><w>​</w><lb/><w>οὐ</w><w>βλάπτει</w><w>τοὺς</w><w>νήφοντας</w><w>αλλὰ</w><w>καὶ</w><w>αἴ​
+<lb n="PCL-La2" break="no"/>τα</w><w>ἠφάνισεν</w><seg type="line" subtype="here" n="@PCL-La2"><fw type="chapTitle"><w>ὅτι</w><w>ὁ</w><w>διάβολος</w><w>οὐ</w><w>μόνον</w><w>​</w><w>​</w><lb/><w>οὐ</w><w>βλάπτει</w><w>τοὺς</w><w>νήφοντας</w><w>αλλὰ</w><w>καὶ</w><w>αἴ​​
 <lb break="no"/>τιος</w><w>πολλῶν</w><w>αὐτοῖς</w><w>εὐεργεσιῶν</w><w>γἰνεται</w></fw></seg>
 <lb n="PCL-La2"/></ab><ab n="adStag1.4.2"><w>καὶ</w><w>τοῦτο</w><w>σφόδρα</w><w>κηδόμενος</w><w>ἡμῶν</w>
 <lb n="PCL-La2"/></ab><ab n="adStag1.4.3"><w>εἰ</w><w>μὲν</w><w>γὰρ</w><w>πρὸς</w><w>βίαν</w><w>ὁ</w><w>μιαρὸς</w><w>ἐκεῖνος</w>
@@ -86,7 +86,7 @@
 <lb n="P312vC1L-La2" break="no"/>σει</w><w>διαπλάσεως</w></ab><ab n="adStag1.4.21"><w>διὰ</w><w>τούτων</w><w>μὲν</w><w>γὰρ</w>
 <lb n="P312vC1L-La2"/><w>ἐπιθυμοῦσιν</w><w>ὧν</w><w>οὐ</w><w>δεῖ</w><w>καὶ</w><w>εἰς</w><w>μοι
 <lb n="P312vC1L-La2" break="no"/>χίαν</w><w>ἐκπίπτουσειν</w><w>οἱ</w><w>πολλοί</w><w>δι’</w><w>ἐκεί
-<lb n="P312vC1L-La2" break="no"/>νου</w><w>δὲ</w><app><rdg type="orig" hand="firsthand"><w>φλασφημοῦσειν</w></rdg><rdg type="corr" hand="corrector2"><seg type="line" subtype="overwritten" n="@P312vC1L-La2"><w>βλασφημοῦσιν</w></seg></rdg></app><w>καὶ</w><w>τὰ</w><w>ὀλέθρι
+<lb n="P312vC1L-La2" break="no"/>νου</w><w>δὲ</w><app><rdg type="orig" hand="firsthand"><w>φλασφημοῦσειν</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P312vC1L-La2"><w>βλασφημοῦσειν</w></seg></rdg></app><w>καὶ</w><w>τὰ</w><w>ὀλέθρι
 <lb n="P312vC1L-La2" break="no"/>α</w><w>τῶν</w><w>δογμάτων</w><w>προφέρουσιν</w><w>ἕτεροι</w>
 <lb n="P312vC1L-La2"/></ab><ab n="adStag1.4.22"><w>ἆρ’</w><w>οὖν</w><w>διὰ</w><w>τοῦτο</w><w>χωρὶς</w><w>γλώττης</w><w>καὶ</w>
 <lb n="P312vC1L-La2"/><w>ὀφθαλμῶν</w><w>γενέσθαι</w><w>τοὺς</w><w>ἀνθρώπους</w>
