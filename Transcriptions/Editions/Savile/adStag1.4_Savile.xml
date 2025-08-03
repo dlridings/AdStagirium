@@ -1,4 +1,7 @@
-<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
 <fileDesc>
 <titleStmt>
 <title>A transcription of in Savile</title>
@@ -34,7 +37,7 @@
 <lb n="PCL-Savile" break="no"/>χων</w><w>δύο</w><w>τὸν</w><w>μὲν</w><w>καὶ</w><w>συμπλακῆναι</w><w>ἕτοιμον</w><w>τῷ</w><w>ἀνταγωνιστῇ</w><w>καὶ</w><w>καρτερίαν</w><w>ἐπιδείξασθαι</w><w>πολλὴν</w>
 <lb n="PCL-Savile"/><w>καὶ</w><w>στέφανον</w><w>ἀναδήσασθαι</w><w>τὸν</w><w>δὲ</w><w>τῆς</w><w>ταλαιπωρίας</w><w>ἐκείνης</w><w>ἀργίαν</w><w>προτιμῶντα</w><w>καὶ</w><w>τρυφὴν</w>
 <lb n="PCL-Savile"/><w>λαβὼν</w><w>ἐκ</w><w>μέσου</w><w>τὸν</w><w>ἀνταγωνιστὴν</w><w>ἀμφοτέρους</w><w>ἀπράκτους</w><w>ἐκπέμψειε</w><w>παρ’</w><w>αὐτοῦ</w></ab><ab n="adStag1.4.17"><w>οὕτω</w>
-<lb n="PCL-Savile"/><w>μὲν</w><w>γὰρ</w><w>ὁ</w><w>σπουδαῖος</w><w>διὰ</w><w>τὸν</w><w>φαῦλον</w><app><rdg type="orig" hand="firsthand"><w>ἐπηρεάσθη</w></rdg><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@PCL-Savile"><w>ἐπηρεάζεσθαι</w></seg></rdg></app><w>ἐκεῖνος</w><w>δὲ</w><w>οὐκέτι</w><w>διὰ</w><w>τὸν</w><w>γενναῖον</w><w>[</w><w>ὁ</w><w>]</w><w>κακὸς</w>
+<lb n="PCL-Savile"/><w>μὲν</w><w>γὰρ</w><w>ὁ</w><w>σπουδαῖος</w><w>διὰ</w><w>τὸν</w><w>φαῦλον</w><app><rdg type="orig" hand="firsthand"><w>ἐπηρεάσθη</w></rdg><rdg type="corr" hand="Η"><seg type="margin" subtype="lineright" n="@PCL-Savile"><w>ἐπηρεάζεσθαι</w></seg></rdg></app><w>ἐκεῖνος</w><w>δὲ</w><w>οὐκέτι</w><w>διὰ</w><w>τὸν</w><w>γενναῖον</w><w>ὁ</w><w>κακὸς</w>
 <lb n="PCL-Savile"/><w>ἀλλὰ</w><w>διὰ</w><w>τὴν</w><w>κακίαν</w><w>τὴν</w><w>αὑτοῦ</w>
 <lb n="PCL-Savile"/></ab><ab n="adStag1.4.18"><w>καὶ</w><w>νῦν</w><w>μὲν</w><w>δοκεῖ</w><w>τὸ</w><w>ζητούμενον</w><w>αὐτοῖς</w><w>εἶναι</w><w>περὶ</w><w>τοῦ</w><w>διαβόλου</w></ab><ab n="adStag1.4.19"><w>κατὰ</w><w>δὲ</w><w>τὴν</w><w>ἀκολουθίαν</w><w>ὁ</w>
 <lb n="PCL-Savile"/><w>λόγος</w><w>οὗτος</w><w>προϊὼν</w><w>τὴν</w><w>αὐτοῦ</w><w>πολλοῖς</w><w>ἐγκαλέσει</w><w>καὶ</w><w>μέμψεται</w><w>τὴν</w><w>πρόνοιαν</w><w>καὶ</w><w>τὴν</w><w>δη
