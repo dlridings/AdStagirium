@@ -19,6 +19,7 @@
 1.3.64.14 V1639's iotacism gives a false reading: εἰμι instead of εἰ μὴ
 1.3.66.4 omit μὲν ???
 1.4.12 Criticus is encoding the correction at last word erroneously. ***
+1.4.13.14 ἀδικῆται or ἠδίκηται ? The ἄν implies the subjunctive, but there are variants without
 1.5.9 Local stemma: when the Taur-group simply has another text, it is uncomfortable to say that it stems from the chosen text. It could simply be that there are two versions, two versions going back to the day. If works were delivered orally, there could have been two deliveries. I am leaving it without a local stemma for the time being. This means that the whole text should be reviewed with the same principle in order for the text flow to be consistent.
 1.5.12.4 is then problematic. It does seem that the A-text was the original, and perhaps it was above in 1.5.9 as well.
 1.5.12.48 Not 100% sure about the A-text. B is possible.
