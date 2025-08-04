@@ -35,6 +35,7 @@ Robinson, could use and presented the status at Oxford.
 
 https://pinakes.irht.cnrs.fr/notices/bibliographie/7ZT3UC43/
 
+https://clavis.brepols.net/clacla/OA/Details.aspx?id=EE4CD4BB57874AF8989B9DEF311FA968
 
 2024-11-29
 
