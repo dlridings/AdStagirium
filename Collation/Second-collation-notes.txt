@@ -1,11 +1,21 @@
+# Notes from the second collation
+
+## Quirks
+
+Quirks in the xml-2-json that need looking it. It seems that if you use Corrector2 when you have seen at least two hands in a manuscript, that it will even count on a Corrector1 in a passage, and if it isn't present, it ends up as an omission.
+1.2.8 La2-c "omission", since La2-c1 was used.
+
+## Individual passages
+
 1.1.15.44- (καὶ and ὁρμῆσαι ἐλθειν και ἐπὶ ...)
 1.1.16.4 δέ and δὲ couldn't be regularized in the first step
 1.1.14.2 won't fully regularize (καὶ) in M118, V1639 ...
 1.1.26, 1.1.28, 1.1.30, 1.2.1, 1.2.13 Just examples of how CollateX does not handle word order
+1.2.6.18-28 Review ... groups show up here
 1.2.7 Is pretty wild (S249)
 1.2.9 P18 is damaged and turns out erratic in the collation. Fix manually. ***
-1.2.18
-1.2.21 ἀνῃρῆσθαι or ἀνῃρτῆσθαι : deserves a review
+1.2.18.24-30 return to. Not at all sure about my reading for the initial text
+1.2.21 ἀνῃρῆσθαι or ἀνῃρτῆσθαι : deserves a review (note: should be ἀνηρτῆσθαι not ἀνῃρ-) aBase changed, but not recollated.
 1.2.22 τῆς γῆς or simply γῆς 
 1.2.23.46 αὐτόν or αὐτοῖς ? // changed from τῶν λοιπῶν ζωῶν to τὰ λοιπὰ ζῶα
 1.2.32 Difficult εἶδος Bas LaSM and B39 display a reading unknown to others ***
