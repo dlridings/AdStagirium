@@ -15,13 +15,21 @@ Quirks in the xml-2-json that need looking it. It seems that if you use Correcto
 1.2.7 Is pretty wild (S249)
 1.2.9 P18 is damaged and turns out erratic in the collation. Fix manually. ***
 1.2.18.24-30 return to. Not at all sure about my reading for the initial text
-1.2.21 ἀνῃρῆσθαι or ἀνῃρτῆσθαι : deserves a review (note: should be ἀνηρτῆσθαι not ἀνῃρ-) aBase changed, but not recollated.
+1.2.21 ἀνῃρῆσθαι or ἀνῃρτῆσθαι : deserves a review (note: should be ἀνηρτῆσθαι not ἀνῃρ-) aBase changed, but not recollated. Still not sure about it either.
 1.2.22 τῆς γῆς or simply γῆς 
 1.2.23.46 αὐτόν or αὐτοῖς ? // changed from τῶν λοιπῶν ζωῶν to τὰ λοιπὰ ζῶα
+1.2.24.20-24 A good example of how the Taur group clarifies
+1.2.26.88-92 another example of the Taur group clarifying
+1.2.28.8 μόνοις or μόνον not simple. aBase might be wrong.
 1.2.32 Difficult εἶδος Bas LaSM and B39 display a reading unknown to others ***
+1.2.35.20-36 An example of regularized variant readings ar1 ar2
+1.2.40.44-50 Definitely return to this for study
+1.2.40.84 ἐγίνετο or ἐγένετο ? return to
 1.2.40.18, 1.2.40.50 Full of iotacisms that are ambiguous and potentially significant *** The verse is a mess. 18: κατοικίσαι / κατοικῆσαι
 1.3.12 in V2250 5v ἀνσία ??? 
+1.3.22.2-8 Set out explicit reasons for deciding the local stemma. What are the arguments against the shortest, Bas, being the correct reading. ***
 1.3.28.36 ἐνὸν or ἐνῆν ?
+1.3.38.24 the optative or subjunctive. ὅταν points to the subjunctive
 1.3.39 V2036 and P18 both have missing sections, but for different reasons. V2036 was bound wrong
 1.3.54.62-64 V2250 ... think about it.
 1.3.62.32 Another small example where Bas, an early manuscript, aligns with the Taur group. So many readings from the Taur group go back to an earlier text form.
