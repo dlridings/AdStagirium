@@ -57,8 +57,15 @@ Quirks in the xml-2-json that need looking it. It seems that if you use Correcto
 1.4.36 example of how Taur groupe tends to expand (but not actually Taur)
 1.4.37.1 Taur expands with an explicit εἶπε
 1.4.39.56 An example where I do not follow A25, but the reading I do follow has many witnesses that usually fall under A25. They are coherent, but A25 steps off. *** 
+1.4.43.6-10 A25 splits off and LaSM B39 as well. Check for coherence ***
+1.4.44.56 LaSM can have an omission without B39 following
+1.4.46.24 ἀπόδειξιν (most) ἐπίδειξιν (V2250, Bas, La2, V560, V1920), this is, older mss.
+1.4.48 is a strange collation, fix ... correction, it isn't strange. Patm just duplicated a text.
+1.4.49.22 δεξάμενον καταδεξάμενον return to *** 
+1.4.56.48 Taur group totally different reading of one word: συνιδὼν / αἰνιττόμενος
+1.4.57.20 Gathers the Taur-group ***
 1.4.59 revisit
-1.4.60.22-26 revisit
+1.4.60.22-26 revisit *** 
 1.5.9 Local stemma: when the Taur-group simply has another text, it is uncomfortable to say that it stems from the chosen text. It could simply be that there are two versions, two versions going back to the day. If works were delivered orally, there could have been two deliveries. I am leaving it without a local stemma for the time being. This means that the whole text should be reviewed with the same principle in order for the text flow to be consistent.
 1.5.12.4 is then problematic. It does seem that the A-text was the original, and perhaps it was above in 1.5.9 as well.
 1.5.12.48 Not 100% sure about the A-text. B is possible.
