@@ -11,6 +11,7 @@ Quirks in the xml-2-json that need looking it. It seems that if you use Correcto
 1.1.16.4 δέ and δὲ couldn't be regularized in the first step
 1.1.14.2 won't fully regularize (καὶ) in M118, V1639 ...
 1.1.26, 1.1.28, 1.1.30, 1.2.1, 1.2.13 Just examples of how CollateX does not handle word order
+1.1.27 εὐχόμενον or εὐχομένων justify
 1.2.6.18-28 Review ... groups show up here
 1.2.7 Is pretty wild (S249)
 1.2.9 P18 is damaged and turns out erratic in the collation. Fix manually. ***
