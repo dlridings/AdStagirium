@@ -1,7 +1,4 @@
-
-<!DOCTYPE TEI>
-<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
 <fileDesc>
 <titleStmt>
 <title>A transcription of in V1920</title>
@@ -98,7 +95,7 @@
 <lb n="P23vC1L-V1920"/><w>ζυγὸν</w><w>βαρὺν</w><w>ἐκ</w><w>νεότητος</w>
 <lb n="P23vC1L-V1920"/><w>αὐτοῦ</w><w>καθίσεται</w><w>κατὰ</w>
 <lb n="P23vC1L-V1920"/><w>μόνας</w><w>καὶ</w><w>σιωπήσεται</w>
-<lb n="P23vC1L-V1920"/></ab><ab n="adStag1.3.22"><w>Καὶ</w><w>περὶ</w><app><rdg type="orig" hand="firsthand"><w>αὐτοῦ</w></rdg><rdg type="corr" hand="firsthand"><seg type="line" subtype="above" n="@P23vC1L-V1920"><w>ἑαυτοῦ</w></seg></rdg></app><w>δὲ</w><w>τοῦ</w><w>Θεοῦ</w>
+<lb n="P23vC1L-V1920"/></ab><ab n="adStag1.3.22"><w>Καὶ</w><w>περὶ</w><app><rdg type="orig" hand="firsthand"><w>αὐτοῦ</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P23vC1L-V1920"><w>ἑαυτοῦ</w></seg></rdg></app><w>δὲ</w><w>τοῦ</w><w>Θεοῦ</w>
 <lb n="P23vC1L-V1920"/><w>δεῖται</w><w>λέγων</w><w>μὴ</w><w>γένῃ</w>
 <lb n="P23vC1L-V1920"/><w>φειδόμενός</w><w>μου</w><w>εἰς</w><w>ἀλλοτρί
 <lb n="P23vC1L-V1920" break="no"/>ωσιν</w><w>ἐν</w><w>ἡμέρᾳ</w><w>πονηρᾷ</w>
