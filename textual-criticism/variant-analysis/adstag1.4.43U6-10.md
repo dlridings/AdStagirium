@@ -10,7 +10,7 @@
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | V1897. V2250. Pal. A25. Bas. La35. La2. S249. V1639. M118. P01. V565. V560. M136. Sin. A336. A116. V1920. M111. V566. V568. aBase. V536. Bodl. Mon. V1629. B39. Est. Marc. Taur. | A25 and LaSM leave their closes |
+| A      | V1897. V2250. Pal. A25. Bas. La35. La2. S249. V1639. M118. P01. V565. V560. M136. Sin. A336. A116. V1920. M111. V566. V568. aBase. V536. Bodl. Mon. V1629. B39. Est. Marc. Taur. | A25 and LaSM leave their closest |
 | B      | Savile. LaSM. Patm. S32. Neap. Base. V2036. Nan. V571. La22.    | editions |
 
 ## 🧠 Internal Evidence
