@@ -1,18 +1,16 @@
-# Variant Analysis: [Passage Reference]
+# Variant Analysis: AdStag1.5.30/18
 
 ## 📌 Variant Description
-- **Location**: [AdStag1.x.x]
+- **Location**: adstag1.5.30/18
 - **Variant Units**: 
-  - Reading A: [Text]
-  - Reading B: [Text]
-  - Reading C: [Text]
+  - Reading A: συνεστέλλετο
+  - Reading B: συνεβάλλετο
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | [e.g., A, B, D] | [group description?] |
-| B      | [e.g., C, E]    | [charactarization] |
-| C      | [e.g., F]       | [lone] |
+| A      | All but those below | [group description?] |
+| B      | A336 V571 La22 P74    | P74 in a small group, with La22 |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
