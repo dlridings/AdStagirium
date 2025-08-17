@@ -7,7 +7,6 @@ Might be a case where Bas has the correct reading against most others.
 - **Variant Units**: 
   - Reading A: στρεφόμενος
   - Reading B: τρεφόμενος
-  - Reading C: [Text]
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
@@ -17,7 +16,7 @@ Might be a case where Bas has the correct reading against most others.
 
 
 ## 🧠 Internal Evidence
-- **Transcriptional Probability**: Reading a is what might be more logical in the narrative
+- **Transcriptional Probability**: Reading a is what might have felt more logical in the narrative
 - **Stylistic/Contextual Fit**: Reading b fits with the preposition ἐν παραδείσῳ
 
 
