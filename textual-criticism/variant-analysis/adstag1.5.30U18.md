@@ -13,7 +13,7 @@
 | B      | A336 V571 La22 P74    | P74 in a small group, with La22 |
 
 ## 🧠 Internal Evidence
-- **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
+- **Transcriptional Probability**: B is possibly a transcription error from uncial to minuscule
 - **Stylistic/Contextual Fit**: [e.g., Reading B aligns with second sophistic style]
 
 ## 🧭 External Evidence
