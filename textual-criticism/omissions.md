@@ -1,1 +1,3 @@
+|Location|Text|MSS|
+|:-------|:---|:---|
 |AdStag1.1.9/78-84|καὶ συναπάγεσθαι τοῖς ταπεινοῖς|M118 Marc Mon Neap P18 Sin Taur V1629 V536|
