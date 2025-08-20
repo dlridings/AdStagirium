@@ -1,3 +1,4 @@
 |Extent|MSS|
 |:-----|:---|
 |AdStag1.1.1-AdStag1.1.10/28|V2036|
+|AdStag1.2.17/36-|P18|
