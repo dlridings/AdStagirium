@@ -1,6 +1,6 @@
 # Variant Analysis: AdStag1.2.40
 
-The whole passages is a mess
+The whole passages is a mess. In the end, I just went with the text of Bas and collated all the others against it.
 
 ## 📌 Variant Description
 - **Location**: [AdStag1.x.x]
