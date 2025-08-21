@@ -1,4 +1,7 @@
-<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
 <fileDesc>
 <titleStmt>
 <title>A transcription of in aBase</title>
@@ -14,7 +17,7 @@
 </teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.3"><ab n="adStag1.3.1"><w>πῶς</w><w>οὖν</w><w>εἰσόμεθα</w><w>ὅτι</w><w>καὶ</w><w>τὰ</w><w>δεύτερα</w><w>ὑπὲρ</w><w>τῶν</w><w>ἐκείνῳ</w><w>συμφερόντων</w><w>ἦν</w></ab><ab n="adStag1.3.2"><w>ἂν</w><w>ἐννοήσωμεν</w><w>τί</w><w>τούτων</w><w>μὴ</w><w>γενομένων</w><w>ἄν</w><w>ἔπαθεν</w>
 <lb n="PCL-aBase"/></ab><ab n="adStag1.3.3"><w>τί</w><w>οὖν</w><w>ἂν</w><w>ἔπαθεν</w>
 <lb n="PCL-aBase"/></ab><ab n="adStag1.3.4"><w>εἰ</w><w>τοῦ</w><w>διαβόλου</w><w>μετὰ</w><w>τὴν</w><w>παράβασιν</w><w>ἐπαγγειλαμένου</w><w>δείξειν</w><w>αὐτοὺς</w><w>ἰσοθέους</w><w>ἐπὶ</w><w>τῆς</w><w>αὐτῆς</w><w>ἔμεινε</w><w>τιμῆς</w><w>τρισὶν</w><w>ἂν</w><w>περιέπεσε</w><w>τοῖς</w><w>ἐσχάτοις</w><w>κακοῖς</w>
-<lb n="PCL-aBase"/></ab><ab n="adStag1.3.5"><w>πρῶτον</w><w>μὲν</w><w>γὰρ</w><w>τὸν</w><w>Θεὸν</w><w>ἂν</w><w>ἐνόμισεν</w><w>εἶναι</w><w>βάσκανον</w><w>καὶ</w><w>ἀπατεῶνα</w><w>καὶ</w><w>ψεύστην</w>
+<lb n="PCL-aBase"/></ab><ab n="adStag1.3.5"><w>πρῶτον</w><w>μὲν</w><w>γὰρ</w><w>τὸν</w><w>Θεὸν</w><w>ἐνόμισεν</w><w>ἂν</w><w>εἶναι</w><w>βάσκανον</w><w>καὶ</w><w>ἀπατεῶνα</w><w>καὶ</w><w>ψεύστην</w>
 <lb n="PCL-aBase"/></ab><ab n="adStag1.3.6"><w>δεύτερον</w><w>δὲ</w><w>τὸν</w><w>ἀληθῶς</w><w>ἀπατεῶνα</w><w>καὶ</w><w>τοῦ</w><w>ψεύδους</w><w>καὶ</w><w>τῆς</w><w>βασκανίας</w><w>πατέρα</w><w>καὶ</w><w>εὐεργέτην</w><w>καὶ</w><w>φίλον</w>
 <lb n="PCL-aBase"/></ab><ab n="adStag1.3.7"><w>καὶ</w><w>πρὸς</w><w>τούτοις</w><w>ἀθάνατα</w><w>ἂν</w><w>διετέλεσεν</w><w>ἁμαρτάνων</w><w>τοῦ</w><w>λοιποῦ</w>
 <lb n="PCL-aBase"/></ab><ab n="adStag1.3.8"><w>τούτων</w><w>δὲ</w><w>ἁπάντων</w><w>αὐτὸν</w><w>ἀπήλλαξεν</w><w>ἐκβαλὼν</w><w>τοῦ</w><w>παραδείσου</w><w>τότε</w>
