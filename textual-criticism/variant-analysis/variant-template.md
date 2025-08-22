@@ -1,7 +1,7 @@
-# Variant Analysis: [Passage Reference]
+# Variant Analysis: AdStag1.x.x
 
 ## 📌 Variant Description
-- **Location**: [AdStag1.x.x]
+- **Location**: adstag1.x.x
 - **Variant Units**: 
   - Reading A: [Text]
   - Reading B: [Text]
