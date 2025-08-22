@@ -1,0 +1,28 @@
+#!/usr/bin/perl
+
+#Takes as input witness_compare with the -f csv flag
+
+$collectingData = 0;
+$lines = 0;
+$total = 0;
+
+while(<>) {
+    
+    
+    if ($collectingData){
+        $lines++;
+        ($ms, $dir, $nr, $passages, $eq, $percentage, $w1prior, $w2prior, $norel, $unclear, $explained, $cost) = split(/,/, $_);
+        #print "Before: $percentage\n";
+        $percentage =~ s/^\(//;
+        $percentage =~ s/%\)$//;
+        $total += $percentage;
+        #print "$total\t$percentage\n";
+
+    } elsif (/,/) {
+        $collectingData = 1;
+
+    }
+    
+}
+$average = $total / $lines;
+print "Lines: $lines\tSum: $total\tAverage: $average\n";
