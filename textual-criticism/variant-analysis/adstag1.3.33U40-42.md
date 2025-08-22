@@ -1,24 +1,21 @@
-# Variant Analysis: AdStag1.3.32/20
+# Variant Analysis: AdStag1.3.33/40-42
 
-Choice of preposition split between the oldest.
 
 ## 📌 Variant Description
-- **Location**: adstag1.3.32/20
+- **Location**: adstag1.3.33/40-42
 - **Variant Units**: 
-  - Reading A: (προτέψαι) πρὸς (ἀρετὴν)
-  - Reading B: (προτέψαι) εἰς (ἀρετὴν)
-  - Reading C: (προτέψαι) τὴν ἀρετὴν
+  - Reading A: εἴπερ ἔμενεν
+  - Reading B: εἴπερ ἔμεινεν
+  - Reading C: εἰ παρέμενεν
+  - Reading D: εἰ ἔμενεν
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | A116 A25 A336 B39 Bodl La2 La22 La35 LaSM M111 M118 Neap P01 P74 Patm S249 S32 V1629 V1639 V1920 V536 V560 V565 V566 V569 V571 | Most, Migne |
-| B      | Bas Est M136 Marc Mon Nan Sin Taur V1897 V2250 V568    | Bas Nan Savile |
-| C      | Pal       | lone |
-
-LSJ II folld. by a Prep., εἰς, ἐπὶ Pl, Isoc. πρὸς Pl. : ἐπ΄ ἀρετὴν Isoc. others.
-
-εἰς ἐπὶ seems to be followed by substantives, πρὸς by τὸ + inf. (Pl.)
+| A      | A116 A25 B39 Bodl Est La2 La22 La35 LaSM M111 M136 P01 P74 Pal Patm S249 S32 V1639 V1897 V1920 V2250 V560 V565 V566 V571 | Many old, Savile, Migne |
+| B      | A336    | lone |
+| C      | Bas Nan | Two of the oldest |
+| D      | M118 Marc Mon Neap Sin Taur V1629 V536 V568 V569 | Taur-group |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
@@ -40,6 +37,6 @@ LSJ II folld. by a Prep., εἰς, ἐπὶ Pl, Isoc. πρὸς Pl. : ἐπ΄ �
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- Decided on εἰς with the substantive. The whole passage is difficult to translate.
+- Very possible that C led to A and B. One could also consider the other way around.
 
 ---
