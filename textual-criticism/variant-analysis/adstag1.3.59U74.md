@@ -22,7 +22,7 @@ I am going to go with Bas and see where things land.
 |--------|-------------|-------|
 | A      | Bas | My default in a mess |
 | B      | A116 Est LaSM M118 Marc Mon Nan Sin Taur V1897 V2250 V536 V565 V568 V569, editions| Most, editions |
-| C      | A25 B39 La2 La22 P74 Pal Patm V566 V571| A25 and La22  |
+| C      | A25 B39 La2 La22 P74 Pal Patm V566 V571| A25 and La22, M136 in 61  |
 | D | A336 ||
 | E | Bodl Neap S32 V1629 ||
 | F | La35 S249 V1639 V2036 ||
