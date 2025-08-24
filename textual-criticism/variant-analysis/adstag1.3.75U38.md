@@ -32,6 +32,6 @@
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- [Any additional observations, uncertainties, or decisions made]
+- Bas and V560 could very well be correct.
 
 ---
