@@ -9,7 +9,7 @@ $total = 0;
 while(<>) {
     
     
-    if ($collectingData){
+    if ($collectingData && (/,/)){
         $lines++;
         ($ms, $dir, $nr, $passages, $eq, $percentage, $w1prior, $w2prior, $norel, $unclear, $explained, $cost) = split(/,/, $_);
         #print "Before: $percentage\n";
