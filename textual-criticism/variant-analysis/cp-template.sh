@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Changed to get CRNL in order
+
 cp variant-template.md $1
 git add $1
 
