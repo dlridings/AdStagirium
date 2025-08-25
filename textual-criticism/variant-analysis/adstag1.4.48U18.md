@@ -4,7 +4,7 @@
 - **Location**: adstag1.4.48/18
 - **Variant Units**: 
   - Reading A: προσεπέλασεν
-  - Reading B: προσήλασεν
+  - Reading B: προσήλασεν (προσελαύνω)
   - Reading C: προσεπάλασεν
 
 ## 🧬 Manuscript Support
@@ -34,6 +34,6 @@
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- Bas and V560 deserve attention, explanation.
+- Bas and V560 deserve attention, explanation. The question is if C was influenced by B.
 
 ---
