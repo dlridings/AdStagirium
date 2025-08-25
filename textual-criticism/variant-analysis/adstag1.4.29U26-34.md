@@ -1,28 +1,20 @@
-# Variant Analysis: adstag1.4.29/18-24
+# Variant Analysis: AdStag1.4.29/26-34
 
-Doesn't match the 3rd collation, but close enough
+Must be seen together with 1.4.29/18-24
 
 ## 📌 Variant Description
-- **Location**: AdStag1.4.29/18-24
+- **Location**: adstag1.4.29/26-34
 - **Variant Units**: 
-  - Reading A: αὐτὸν καὶ καθ' ἑαυτὸ
-  - Reading B: αὐτὸν καὶ καθ' ἑαυτὸν
-  - Reading C: αὐτὸν κα αὐτὸ καθ' ἑαυτὸ
-  - Reading D: αὐτὸ καὶ καθ' ἐαυτὸ 
-  - Reading E: καὶ αὐτὸ καθ' ἑαυτὸ 
-  - Reading F: καὶ αὐτὸ καθ' ἑαυτὸ 
-  - Reading G: αὐτὸν καθ' ἑαυτὸ 
+  - Reading A: καὶ λυπεῖ ὅταν δὲ καὶ
+  - Reading B: καὶ λυπεῖ ὅταν δὲ
+  - Reading C: λυπεῖ ὅταν δὲ καὶ
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | Pal A25 La35 La2 Patm S249 V1639 P01 V565 M136 Neap A336 A116 V2036 V566 Bodl V571 V1629 B39 La22 P74 | A25, La22 ... |
-| B      | S32 | lone, orth? |
-| C      | LaSM (not B39) Savile Base       | editions |
-| D      | Bas | lone |
-| E      | V1897 V2250 Nan | Nan with V2250 |
-| F      | M118 Sin V568 V536 Mon Marc Taur | Taur group |
-| G      | V560 V1920 M111 Est | V560 and company |
+| A      | A116 A25 B39 Bod Est La2 La35 LaSM M118 M136 Marc Mon Nan P01 Pal Patm S249 S32 Sin Taur V1639 V1897 V536 V565 V566 V568 | A25, most (not La22) and editions |
+| B      | A336 La22 M111 P74 V1920 V560 V571    | La22 V560 |
+| C      | Bas Neap V1629 V2036 V2250| Bas |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
