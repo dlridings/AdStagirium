@@ -9,4 +9,5 @@
 |AdStag1.5.2/14-22|οὐδ' ἂν προσῆλθεν ὁ διάβολος|V1920 V560 ||
 |AdStag1.5.2/24-32|οὐδ' ἂν ἠπάτησε τὴν ἀρχήν|M136||
 |AdStag1.5.17/72-80|omit ἐπὶ τὸ κρεῖττον ἐπέδωκεν ἄν|M118 Marc Mon Neap Sin Taur V1629 V536 V568| see even groups-by-variant|
+|AdStag1.5.20/6-22||B39||
 
