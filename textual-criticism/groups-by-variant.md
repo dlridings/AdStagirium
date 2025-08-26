@@ -18,6 +18,7 @@
 |AdStag1.5.7/38-46|πρὸς τὴν ἁμαρτίαν ἀφ' ἑαυτοῦ|B39 LaSM|word order|
 |AdStag1.5.8/18|omit μόνον|Neap P18 V1629|with P18|
 |AdStag1.5.9/6-12|ἀπὸ τῆς γραφῆς ἐστὶ μαθεῖν|M118 Marc Mon P18 Sin Taur V536 V568|variant|
+|AdStag1.5.13/44|ἀφίστανται|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568 Savile-H|Taur-group expanded|
 
 
 
