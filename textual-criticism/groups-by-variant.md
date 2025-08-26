@@ -19,6 +19,12 @@
 |AdStag1.5.8/18|omit μόνον|Neap P18 V1629|with P18|
 |AdStag1.5.9/6-12|ἀπὸ τῆς γραφῆς ἐστὶ μαθεῖν|M118 Marc Mon P18 Sin Taur V536 V568|variant|
 |AdStag1.5.13/44|ἀφίστανται|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568 Savile-H|Taur-group expanded|
+|AdStag1.5.17/28|ἐπέδειξεν|Bas V1920 V560||
+|AdStag1.5.17/46-54|ἡ ἀσθένεια καὶ ἡ ῥᾳθυμία οὐκ ἂν|Neap V1629|together even in a Taur-context|
+|AdStag1.5.17/46-54|ἡ ἀσθένεια οὐκ ἂν|M118|(Taur) M118 alone|
+|AdStag1.5.17/46-54|ἡ ῥᾳθυμία οὐκ ἂν|Marc Mon Sin Taur V536 V568|Taur-group the rest|
+|AdStag1.5.17/70|προἠχθη|M118 Marc Mon Neap Sin Taur V1629 V536 V568|see even omissions|
+|AdStag1.5.18/10-11|καὶ γὰρ (instead of ὅτι)|M118 Marc Mon Neap Sin Taur V1629 V536 V568||
 
 
 
