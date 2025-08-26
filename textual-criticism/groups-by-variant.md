@@ -25,6 +25,13 @@
 |AdStag1.5.17/46-54|ἡ ῥᾳθυμία οὐκ ἂν|Marc Mon Sin Taur V536 V568|Taur-group the rest|
 |AdStag1.5.17/70|προἠχθη|M118 Marc Mon Neap Sin Taur V1629 V536 V568|see even omissions|
 |AdStag1.5.18/10-11|καὶ γὰρ (instead of ὅτι)|M118 Marc Mon Neap Sin Taur V1629 V536 V568||
-
+|AdStag1.5.19/42-46|καὶ ἐννοίας ἀρθεὶς|M118||
+|AdStag1.5.19/42-46|καὶ ἀπονοίας ἀρθεὶς|V1897||
+|AdStag1.5.19/42-46|ἀρθεὶς καὶ ἀνοίας|Marc Mon Sin||
+|AdStag1.5.19/42-46|ἀρθεὶς|Bas||
+|AdStag1.5.19/62-68|τὸν ἐπαγγειλάμενον πιστὸν|Marc Mon Sin Taur-c V536||
+|AdStag1.5.19/62-68|ταῦτα ἐπαγγειλἀμενον πιστὸν|Taur V568||
+|AdStag1.5.19/88-90|ἀπονοίας προέβη|M118 Marc Mon Neap Sin Taur V1629 V536 V568|(A: ἔφθασεν ἀπονοίας)|
+|AdStag1.5.19/88-90|προέβη ἀπονοίας|Savile-H||
 
 
