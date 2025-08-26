@@ -6,3 +6,9 @@
 |AdStag1.4.58/4-6|αὐτὸς δὲ ὁ θεὸς|M118 Marc Mon P18 Sin Taur V536 V568|Taur|
 |AdStag1.4.60/22-26|ἐπάγομεν καθ'ἑαυτῶν|Bas La2 V1920 V560|Oldest|
 |AdStag1.4.60/22-26|αὐτοὶ καθ' ἑαυτῶν ἐπάγομεν|M118 Marc Mon P18 Sin Taur V536 V568|Taur, clarification|
+|AdStag1.4.63/54-58|ἐξαρθείσης ἐκ μέσου καὶ ἀφανισθείσης|M118 Marc P18 Sin Taur V536 cf Mon|Taur-group|
+|AdStag1.4.63/54-58|ἐξαρθείσης ἐκ μέσου|Neap V1629|upper Taur-group|
+|AdStag1.4.63/54-58|εξαρθείσης|V568|upper Taur-group|
+|AdStag1.4.63/30|ἐκέρδαναν|M118 Neap Sin Taur V1629|Taur-group with top, slight but consistent variant|
+|AdStag1.4.64/6-8|χωρὸς καὶ|LaSM B39|word order|
+|AdStag1.4.64/50|omit τὰς|LaSM B39|omission|
