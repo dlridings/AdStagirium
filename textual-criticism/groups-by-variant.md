@@ -12,3 +12,8 @@
 |AdStag1.4.63/30|ἐκέρδαναν|M118 Neap Sin Taur V1629|Taur-group with top, slight but consistent variant|
 |AdStag1.4.64/6-8|χωρὸς καὶ|LaSM B39|word order|
 |AdStag1.4.64/50|omit τὰς|LaSM B39|omission|
+|AdStag1.5.1/24-26|βουλομένων οὐδὲν|Neap V1629|word order, often together|
+|AdStag1.5.3/28|προνοίας|Neap V1629|instead of ἀπονοίας|
+|AdStag1.5.4/10|ἀξιῶν|M118 Marc Mon Neap P18 Sin V1629 V536 V568|instead of καταξιῶν|
+
+
