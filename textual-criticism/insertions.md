@@ -8,5 +8,6 @@
 |AdStag1.4.64/54-58|εξαρθείσης|V568|upper Taur-group|
 |AdStag1.5.3/36-|τί λέγεις εἰ ἤθελεν οὐκ ἂν παρεδέξατο οὐκ ἂν ἤκουσε νῦν δὲ ἀκούσας δικαίως κολάζεται ἂν τοίνυν ἁμαρτῶν μὴ δίκην τῆς παρακοῆς ποτε τῆς ἀπονοίας ἐκείνης ἀπέστη|M118 Marc Mon Neap P18 Sin Taur V1629 (V536 omit ἐκείνης) V568|Taur-group|
 |AdStag1.5.9/13|ἄκουε/ἄκουσε γὰρ τί φησι|M118 Marc Mon P18 Sin Taur V536 V568|expansion|
+|AdStag1.5.12/19|εὔδηλον ὅτι|M118 Marc Mon P18 Sin Taur V536 V569 Savile-H|Taur-group clarification|
 
 
