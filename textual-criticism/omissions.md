@@ -11,4 +11,7 @@
 |AdStag1.5.17/72-80|omit ἐπὶ τὸ κρεῖττον ἐπέδωκεν ἄν|M118 Marc Mon Neap Sin Taur V1629 V536 V568| see even groups-by-variant|
 |AdStag1.5.20/6-22||B39||
 |AdStag1.5.27/2-10|μάλιστα μὲν εἰ καὶ μηδὲν|La35||
+|AdStag1.5.31/12-16|ἀλλ' ἐπιγινώσκειν ταχέως|V2250||
+|AdStag1.5.31/16|omit ταχέως|M118 Marc Mon Neap Sin Taur V1629 V2250 V536 V568||
+|AdStag1.5.38/14-24|omit ἐμάκρυνεν ἀφ' ἡμῶν τὰς ἀνομίας ἡμῶν|Est M136|But Est omits much more|
 
