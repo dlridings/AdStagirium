@@ -14,6 +14,7 @@
 |AdStag1.5.35/9|ὁ χριστὸς (Neap θεὸς) παριστῶν τιὰ τοῦ προφήτου|M118 Marc Mon Neap Sin Taur V1629 V536 V568|Taur-group|
 |AdStag1.5.36/4-10|ὁ δαυὶδ δὲ|M118 Marc Mon Neap Sin Taur V1629 V536 (V568 w/o art.)|Taur-group|
 |AdStag1.5.46/23|ὥσπερ|M118 Marc Mon Neap Sin Taur V1629 V536 V568|inserted|
+|AdStag1.5.57/31|πάλιν διὰ τοῦ προφήτου|M118 Marc Mon Neap S249 Sin Taur V1629 V536 V568|Taur, editions|
 
 
 

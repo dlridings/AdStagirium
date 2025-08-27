@@ -48,6 +48,8 @@
 |AdStag1.5.39/40-46|πρὸς τὰ ἔκγονα συμπἀθειαν κεκτημένην|B39 LaSM||
 |AdStag1.5.46/30|οὕτω|M118 Marc Mon Neap Sin Taur V1629 V536 V568|instead of καὶ|
 |AdStag1.5.49/18-20|καὶ οὔτε|M118 Mon Sin Taur V536 V568|instead of οὔτε δὲ|
+|AdStag1.5.56/36|λέγει|M118 Marc Mon Nep Sin Taur V1629 V536 V568|instead of φησιν|
+|AdStag1.5.60/30-36|καὶ αἱ τρίχες|M118 M136 Marc Mon Neap Sin Taur V1629 V536 V568| w/o φησι|
 
 
 

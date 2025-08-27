@@ -2,6 +2,7 @@
 
 Preposition or dative with πιστεύω
 
+
 ## 📌 Variant Description
 - **Location**: adstag1.5.55/40-42
 - **Variant Units**: 
@@ -34,6 +35,6 @@ Preposition or dative with πιστεύω
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- [Any additional observations, uncertainties, or decisions made]
+- Cf. 1.5.56/16, 1.5.59/16-18 - dative
 
 ---

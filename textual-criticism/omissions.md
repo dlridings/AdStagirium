@@ -14,4 +14,8 @@
 |AdStag1.5.31/12-16|ἀλλ' ἐπιγινώσκειν ταχέως|V2250||
 |AdStag1.5.31/16|omit ταχέως|M118 Marc Mon Neap Sin Taur V1629 V2250 V536 V568||
 |AdStag1.5.38/14-24|omit ἐμάκρυνεν ἀφ' ἡμῶν τὰς ἀνομίας ἡμῶν|Est M136|But Est omits much more|
+|AdStag1.5.56/4|omit μὲν|A336 M118 Marc Mon V536 V568|part of Taur-group|
+|AdStag1.5.56/16|omit αὐτῶ|Bas M118 Marc Mon Sin V536 V568|with Bas|
+|AdStag1.5.56/32|(ὁ) παῦλος|M118 Mon Sin Taur V568||
+
 
