@@ -36,5 +36,15 @@
 |AdStag1.5.28/all||Taur-group|variants within the group, largest in M118|
 |AdStag1.5.29/24|μεταπεσεῖν|M118 Marc Mon Neap Sin Taur V1629 V568 Savile-H||
 |AdStag1.5.30/10|omit οὗτος/αὐτὸς|Neap V1629||
+|AdStag1.5.31/16|omit ταχέως|M118 Marc Mon Neap Sin Taur V1629 V2250 V536 V568||
+|AdStag1.5.31/59|ὑπογράφουσα|M118 Marc Mon Neap Sin Taur V1629 V536 V568|Taur-group|
+|AdStag1.5.33b/26-28|ὑπὲρ τῶν μισούντων|M118 Marc Mon Sin Taur V536 V568|Taur-group|
+|AdStag1.5.33b/63|οὐ μόνον δὲ καταλλαγὴν ἀλλὰ|M118 Marc Mon Neap Sin Taur V1629 V536 V568||
+|AdStag1.5.33b/102|καὶ instead of μήτε|M118 Marc Mon Sin Taur V536 V568|Taur w/o V1629 Neap|
+|AdStag1.5.34/6-8|γένοιτ' ἂν|Neap V1629 V568|Two oldest in Taur-group, the rest in A|
+|AdStag1.5.35/2-4|ταύτην τὴν ἀγαθότητα|M118 Marc Mon Neap Sin Taur V1629 V536 V568|A=διὰ ταῦτα|
+|AdStag1.5.35/9|ὁ χριστὸς (Neap θεὸς) παριστῶν τιὰ τοῦ προφήτου|M118 Marc Mon Neap Sin Taur V1629 V536 V568|Taur-group|
+|AdStag1.5.38/33|οὕτως|Bas M118 Marc Mon Nan Sin Taur V1897 V568|Taur with Bas Nan|
+|AdStag1.5.39/40-46|πρὸς τὰ ἔκγονα συμπἀθειαν κεκτημένην|B39 LaSM||
 
 
