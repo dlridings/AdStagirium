@@ -1,27 +1,18 @@
-# Variant Analysis: AdStag1.5.54/30-35
+# Variant Analysis: AdStag1.5.55/40-42
+
+Preposition or dative with πιστεύω
 
 ## 📌 Variant Description
-- **Location**: adstag1.5.54/30-34
+- **Location**: adstag1.5.55/40-42
 - **Variant Units**: 
-  - Reading A: πἀλιν ἄκουσον λἐγοντος
-  - Reading B: πἀλιν ἄκουσον λἐγοντος ἔστιν
-  - Reading C: πἀλιν ἀκούειν λἐγοντος ἔστιν
-  - Reading D: πἀλιν ἀκούειν λἐγοντος
-  - Reading E: πἀλιν ἀκούειν ἐστὶ λἐγοντος
-  - Reading F: πάλιν ἀκούει λέγοντος
-  - Reading G: ἄκουσον πἀλιν λἐγοντος
-
+  - Reading A: εἰς αὐτὸν
+  - Reading B: αὐτῶ
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | A116 A25 A336 B39 Bodl La22 La35 LaSM M111 M136 Neap P01 P74 Pal Patm S32 V1629 V1639 V1920 V2036 V2250 V560 V566 V571 | Most, Savile |
-| B      | V565 | lone |
-| C      | Bas Est Nan S249 V1897 | Bas Nan, Migne |
-| D      | M118 Taur | Two from Taur-group |
-| E      | Marc Mon Sin, Taur-c  | Taur-group      |
-| F      | V568               |   lone (early Taur)     |
-| G      | La2            |     lone   |
+| A      | All but below | Majority |
+| B      | Bas La2 V1920 V560  | Bas V560 and La2 |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
