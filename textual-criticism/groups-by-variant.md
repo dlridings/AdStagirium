@@ -33,5 +33,8 @@
 |AdStag1.5.19/62-68|ταῦτα ἐπαγγειλἀμενον πιστὸν|Taur V568||
 |AdStag1.5.19/88-90|ἀπονοίας προέβη|M118 Marc Mon Neap Sin Taur V1629 V536 V568|(A: ἔφθασεν ἀπονοίας)|
 |AdStag1.5.19/88-90|προέβη ἀπονοίας|Savile-H||
+|AdStag1.5.28/all||Taur-group|variants within the group, largest in M118|
+|AdStag1.5.29/24|μεταπεσεῖν|M118 Marc Mon Neap Sin Taur V1629 V568 Savile-H||
+|AdStag1.5.30/10|omit οὗτος/αὐτὸς|Neap V1629||
 
 
