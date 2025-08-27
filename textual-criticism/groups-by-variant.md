@@ -46,5 +46,8 @@
 |AdStag1.5.35/9|ὁ χριστὸς (Neap θεὸς) παριστῶν τιὰ τοῦ προφήτου|M118 Marc Mon Neap Sin Taur V1629 V536 V568|Taur-group|
 |AdStag1.5.38/33|οὕτως|Bas M118 Marc Mon Nan Sin Taur V1897 V568|Taur with Bas Nan|
 |AdStag1.5.39/40-46|πρὸς τὰ ἔκγονα συμπἀθειαν κεκτημένην|B39 LaSM||
+|AdStag1.5.46/30|οὕτω|M118 Marc Mon Neap Sin Taur V1629 V536 V568|instead of καὶ|
+|AdStag1.5.49/18-20|καὶ οὔτε|M118 Mon Sin Taur V536 V568|instead of οὔτε δὲ|
+
 
 
