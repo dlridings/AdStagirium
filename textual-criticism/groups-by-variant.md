@@ -1,5 +1,6 @@
 |Location|Text|MSS|Note|
 |:-------|:---|:---|:---|
+|AdStag1.1.6/31|add εὐχόμενος|LaSM B39||
 |AdStag1.4.56/48|αἰνιττόμενος|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.56-57||M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.58/4-6|ὁ θεὸς δὲ αὐτὸς|V1629 Neap||
@@ -50,6 +51,6 @@
 |AdStag1.5.49/18-20|καὶ οὔτε|M118 Mon Sin Taur V536 V568|instead of οὔτε δὲ|
 |AdStag1.5.56/36|λέγει|M118 Marc Mon Nep Sin Taur V1629 V536 V568|instead of φησιν|
 |AdStag1.5.60/30-36|καὶ αἱ τρίχες|M118 M136 Marc Mon Neap Sin Taur V1629 V536 V568| w/o φησι|
-
+|AdStag1.1.5/8|ποιήσας|P18 M118 M136 Sin Neap V568 V536 Mon V1629 V569 Marc Taur|instead of ἀναπληρώσας and variants|
 
 

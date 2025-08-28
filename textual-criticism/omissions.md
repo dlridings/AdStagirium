@@ -1,5 +1,10 @@
-|Location|Text|MSS|
+|Location|Text|MSS|Note|
 |:-------|:---|:---|:---|
+|AdStag1.1.2/4|ἡμῖν|M118 V536 V1629 V569 Taur||
+|AdStag1.1.6/34|omit καὶ|LaSM B39||
+|AdStag1.1.9/78-84|omit καὶ συναπάγεσθαι τοῖς ταπεινοῖς|P18 M118 Sin Neap V568 V536 Mon V1629 V569 Marc Taur (lac M136)|Taur-group|
+|AdStag1.1.10/2-26|omit|V2036||
+|AdStag1.1.5/20|omit φέρειν|P18 M118 M136 Sin Neap V568 Mon V1629 V569 Marc Taur|Taur-group|
 |AdStag1.1.9/78-84|καὶ συναπάγεσθαι τοῖς ταπεινοῖς|M118 Marc Mon Neap P18 Sin Taur V1629 V536||
 |AdStag1.1.11/30-40|πρὸς ἡμᾶς ἡνίκα σὺν ἡμῖν ἦσθα|La2||
 |AdStag1.1.11/88-98|ἱκανὸν θορυβῆσαι καὶ εἰς ἀμηχανίαν ἐμβαλεῖν|Bas||
@@ -17,5 +22,6 @@
 |AdStag1.5.56/4|omit μὲν|A336 M118 Marc Mon V536 V568|part of Taur-group|
 |AdStag1.5.56/16|omit αὐτῶ|Bas M118 Marc Mon Sin V536 V568|with Bas|
 |AdStag1.5.56/32|(ὁ) παῦλος|M118 Mon Sin Taur V568||
+
 
 
