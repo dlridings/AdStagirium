@@ -1,6 +1,9 @@
 | Location | Text | MSS | Notes |
 |:----|:----------|:------|:---|
 AdStag1.1.6/31|add εὐχόμενος|LaSM B39||
+|AdStag1.1.20/1|προσετίθεις δὲ|P18 M118 M136 Neap V568 V536 Mon V1629 V569 Marc Taur (Sin omit δὲ)|Taur-group|
+|AdStag1.2.6/16|add τις|P18 M118 Sin V568 V536 Mon V1629 V569 Marc Taur M136 Neap|cf AdStag1.2.6/8|
+|AdStag1.2.7/25|add αὐτοὺς|M118 M136 Sin Neap V568 Mon V1629 V569 Marc Taur||
 |AdStag1.4.1/25|ἐκ μέσου ἐποίησε καὶ|M118 Marc Mon Savile-H Sin Taur V536 V568||
 |AdStag1.4.1/27|ἐκεῖνο ἂν εἴποιμεν ὅτι|M118 Marc Mon Neap Sin Taur V536 V568||
 |AdStag1.4.62/28-29|γεγενημένοις **ὑπῆρξεν**|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur-group, editions|
