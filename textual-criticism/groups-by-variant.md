@@ -1,6 +1,23 @@
 |Location|Text|MSS|Note|
 |:-------|:---|:---|:---|
 |AdStag1.1.6/31|add εὐχόμενος|LaSM B39||
+|AdStag1.1.12/18-20|τὰ τοιαῦτα|P18 Bas M118 V565 V560 M136 Sin Neap A336 V1920 Nan V568 V536 Mon V1629 V569 Marc Taur|Bas Nan V560 join Taur-group|
+|AdStag1.1.12/22|omit σοι|P18 V1897 M118 Sin A336 Nan V568 V536 Mon V1629 V569 Marc Taur|Nan V568 V1629 Taur-group|
+|AdStag1.1.12/24|συννενοσηκότων|P18 V1897 Bas V565 M136 Sin Nan V568 V536 Mon V1629 V569 Marc Taur|Bas Nan V568 join Taur-group|
+|AdStag1.1.15/36|τυραννὶς|P18 M118 M136 Sin Neap V536 Mon V1629 V569 Marc Taur|instead of δύναμις|
+|AdStag1.1.15/49|ὁρμῆσαι|P18 Pal A25 M118 Sin V568 V536 Mon V569 Marc Taur|Savile, Migne A25|
+|AdStag1.1.16/64|οἰκεῖν|P18 M118 M136 Sin Neap V568 V536 Mon V1629 V569 Marc Taur|instead of οἰκοῦντα Taur-group|
+|AdStag1.1.18/14-16|τι|V560 V1920|for πρὸς τούτοις|
+|AdStag1.1.22/58|προσδοκήσαντας|M118 V560 Sin Neap Mon V1629 Est Taur|V560 and Est join some Taur members|
+|AdStag1.1.24/32|ταύτη|P18 M118 Sin V568 V536 V1629 V569 Marc Taur||
+|AdStag1.2.1|ἡμῶν|V560 V1920|a=ἡμῖν|
+|AdStag1.2.3/10-16|τῶ βίω|P18 V1897 M118 Nan V568 V536 V569 Est Marc Taur||
+|AdStag1.2.3/28|ἔμαθον|P18 V1897 Bas M118 M136 Nan V536 V1629 Est Taur||
+|AdStag1.2.3/40-44|τῆς εὐλαβείας ἐπήει|V1629 V568 Neap|w/o the rest of Taur-group|
+|AdStag1.2.6/8|omit τις|P18 M118 M136 Neap V536 Mon V1629 V569 Marc Taur||
+|AdStag1.2.7/25|add αὐτοὺς|M118 M136 Sin Neap V568 Mon V1629 V569 Marc Taur||
+|AdStag1.2.7/36|omit ἦν|P18 S249 M118 Sin Neap V568 V536 V1629 V569 Marc Taur||
+
 |AdStag1.4.56/48|αἰνιττόμενος|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.56-57||M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.58/4-6|ὁ θεὸς δὲ αὐτὸς|V1629 Neap||
