@@ -1,20 +1,20 @@
-# Variant Analysis: AdStag1.2.14/4-12
+# Variant Analysis: AdStag1.2.10/40
 
 ## 📌 Variant Description
-- **Location**: adstag1.2.14/4-12
+- **Location**: adstag1.2.10/40
 - **Variant Units**: 
-  - Reading A: μὲν οὖν πρός τινά μοι
-  - Reading B: μὲν οὖν μοι πρός τινά
-  - Reading C: μὲν οὖν μοι πρός τι τινά
-  - Reading D: μὲν μοι οὖν πρός τινά
+  - Reading A: θελήσωμεν
+  - Reading B: συνγχωρήσωμεν
+  - Reading C: ἐγχωρήσωμεν
+  - Reading D: omit
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | P74 Pal A25 La35 LaSM La2 Patm S249 V1639 P01 V565 V560 S32 A336 A116 V1920 V2036 M111 V566 Bodl V571 B39 La22 | Most, editions |
-| B      | P18 V2250 Bas M118 M136 Sin Neap Nan V568 V536 Mon V1629 Est Marc Taur | Bas Nan |
-| C      | V569  |  |
-| D      | V1897 |        |
+| A      | P74 V1897 V2250 Pal A25 La35 LaSM La2 Patm S249 V1639 P01 V565 V560 S32 M136 Neap A336 A116 V1920 V2036 Nan M111 V566 Bodl V571 V1629 B39 Est La22 | Majority, editions |
+| B      | P19 M118 Sin V536 Mon V569 Marc Taur Savile-H    | Taur-group |
+| C      |  V568    |  |
+| D      |  Bas               |  |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
@@ -36,6 +36,7 @@
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- [Any additional observations, uncertainties, or decisions made]
+- The only similarity between a and b-c is semantic. There was felt to be a need for something.
+- I am going with Bas
 
 ---
