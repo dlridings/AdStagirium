@@ -1,20 +1,20 @@
-# Variant Analysis: AdStag1.2.14/4-12
+# Variant Analysis: AdStag1.29/60-62
+
+Example of a scribal error
 
 ## 📌 Variant Description
-- **Location**: adstag1.2.14/4-12
+- **Location**: adstag1.2.9/60-63
 - **Variant Units**: 
-  - Reading A: μὲν οὖν πρός τινά μοι
-  - Reading B: μὲν οὖν μοι πρός τινά
-  - Reading C: μὲν οὖν μοι πρός τι τινά
-  - Reading D: μὲν μοι οὖν πρός τινά
+  - Reading A: φέρω μέρος
+  - Reading B: φέρω μόνος
+  - Reading C: φερόμενος
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | P74 Pal A25 La35 LaSM La2 Patm S249 V1639 P01 V565 V560 S32 A336 A116 V1920 V2036 M111 V566 Bodl V571 B39 La22 | Most, editions |
-| B      | P18 V2250 Bas M118 M136 Sin Neap Nan V568 V536 Mon V1629 Est Marc Taur | Bas Nan |
-| C      | V569  |  |
-| D      | V1897 |        |
+| A      |  All but below ||
+| B      | Patm    |  |
+| C      | B39       |  |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]

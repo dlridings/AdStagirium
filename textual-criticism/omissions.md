@@ -13,6 +13,14 @@
 |AdStag1.2.6/8|omit τις|P18 M118 M136 Neap V536 Mon V1629 V569 Marc Taur||
 |AdStag1.2.6/18|omit ὅς|P18 Patm V1639 M118 V560 S32 Sin V1920 V566 V568 V536 Mon V569 Marc Taur|cf V1629 and Neap|
 |AdStag1.2.7/36|omit ἦν|P18 S249 M118 Sin Neap V568 V536 V1629 V569 Marc Taur||
+|AdStag1.2.11/2-8|πολλὰ γὰρ τῶν δοκούντων|A116||
+|AdStag1.2.25/4|omit γὰρ|M118 M136 Sin Neap V568 V536 Mon V1629 V569 Taur||
+|AdStag1.2.26/70|omit καὶ|M118 M136 Sin Neap V568 V536 Mon V1629 V569 Marc Taur|Taur-group|
+|AdStag1.2.26/72-74|omit φανερὸν ποιῶν|M118 M136 Sin Neap V568 V536 Mon V1629 V569 Marc Taur|cf. 1.2.26/83|
+|AdStag1.2.28/22-24|omit τῶν πάντων|M118 M136 Sin Neap V568 Mon V1629 V569 Marc Taur||
+|AdStag1.2.28/48-52|omit ἀπολαύειν ἔδωκεν ὡς|M118 V568 V569 Marc Taur|partial Taur|
+|AdStag1.2.28/74|omit τῆς|M118 M136 Neap Mon Marc Taur||
+|AdStag1.2.31/46-40|omit παντελῶς αὐτὸν ἀφανίσαι|M118 M136 Sin Neap V568 Mon V1629 V569 Marc Taur||
 |AdStag1.4.56/8-12|οὔτε ἀπειλῆσαι κατακλυσμὸν|Bas||
 |AdStag1.4.60/42-52|καὶ τὴν τοῦ διαφυγεῖν ὁδὸν ὑποδεκνύς|M118 Marc Mon P18 Sin Taur V536 V568|Taur-group|
 |AdStag1.4.61/7|καὶ|M118 Marc Mon P18 Taur V568|Taur-group, even small omissions|
