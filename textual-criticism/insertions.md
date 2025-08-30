@@ -6,6 +6,9 @@ AdStag1.1.6/31|add εὐχόμενος|LaSM B39||
 |AdStag1.2.7/25|add αὐτοὺς|M118 M136 Sin Neap V568 Mon V1629 V569 Marc Taur||
 |AdStag1.2.24/3|ὅμως|M118 M136 Sin Neap V568 V536 Mon V1629 V569 Marc Taur|Taur-group|
 |AdStag1.2.33/6|add εἰπέ μοι|(M118) M136 Sin Neap V568 Mon V1629 V569 Marc Taur||
+|AdStag1.3.12/1|insert ὅτι δὲ|M118 Sin V568 V536 Mon V569 Marc Taur||
+|AdStag1.3.22/2|τί λέγω|M118 Sin V568 V536 Mon V569 Marc Taur|instead of καὶ|
+|AdStag1.3.22/11|insert ὁ αὐτὸς|M118 Sin V568 V536 Mon V569 Marc Taur||
 |AdStag1.4.1/25|ἐκ μέσου ἐποίησε καὶ|M118 Marc Mon Savile-H Sin Taur V536 V568||
 |AdStag1.4.1/27|ἐκεῖνο ἂν εἴποιμεν ὅτι|M118 Marc Mon Neap Sin Taur V536 V568||
 |AdStag1.4.62/28-29|γεγενημένοις **ὑπῆρξεν**|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur-group, editions|

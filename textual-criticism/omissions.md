@@ -21,6 +21,9 @@
 |AdStag1.2.28/48-52|omit ἀπολαύειν ἔδωκεν ὡς|M118 V568 V569 Marc Taur|partial Taur|
 |AdStag1.2.28/74|omit τῆς|M118 M136 Neap Mon Marc Taur||
 |AdStag1.2.31/46-40|omit παντελῶς αὐτὸν ἀφανίσαι|M118 M136 Sin Neap V568 Mon V1629 V569 Marc Taur||
+|AdStag1.3.6/8-12|omit ἀληθῶς ἀπατεῶνα καὶ|V560 V1920||
+|AdStag1.3.12/4|omit γὰρ|M118 Sin Mon Marc Taur||
+|AdStag1.3.21/22-28|omit κατὰ μόνας καὶ σιωπήσεται|V1897 Nan||
 |AdStag1.4.56/8-12|οὔτε ἀπειλῆσαι κατακλυσμὸν|Bas||
 |AdStag1.4.60/42-52|καὶ τὴν τοῦ διαφυγεῖν ὁδὸν ὑποδεκνύς|M118 Marc Mon P18 Sin Taur V536 V568|Taur-group|
 |AdStag1.4.61/7|καὶ|M118 Marc Mon P18 Taur V568|Taur-group, even small omissions|
