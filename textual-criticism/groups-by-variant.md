@@ -21,6 +21,15 @@
 |AdStag1.2.24/3|ὅμως|M118 M136 Sin Neap V568 V536 Mon V1629 V569 Marc Taur|Taur-group|
 |AdStag1.2.24/20-22|ἡ αἰτία τοῦ μὴ δοῦναι|M118 M136 Sin Neap v568 V537 Mon V1629 V569 Marc Taur|Taur-group expansion of τὴν αἰτίαν|
 |AdStag1.2.26/92|δείκνυσι λἐγω (for φησι)|M118 Sin V568 Mon V569 Marc Taur|expansion|
+|AdStag1.3.4/32-42|τρία ταῦτα τὰ ἔσχατα κακά|M118 Sin V568 V536 Mon V569 Marc Taur||
+|AdStag1.3.6/8-12|omit ἀληθῶς ἀπατεῶνα καὶ|V560 V1920||
+|AdStag1.3.8|ἐκβαλὼν δὲ (omit V569) αὐτὸν τοῦ παραδείσου τότε πάντων αὐτὸν ἀπήλλαξεν|M118 Sin V568 V536 Mon Marc Taur V569|a messy variant, but not Taur|
+|AdStag1.3.13/2-4|(καὶ V568) μαρτυρεῖ μὲν|M118 Sin V536 Mon V569 Marc||
+|AdStag1.3.13/18|μαρτυρεῖ δὲ|M118 Sin V568 V536 Mon V569 Marc Taur|for καὶ|
+|AdStag1.3.13/30|συμβαίνοντα|M118 V536 Taur|for συμβάντα|
+|AdStag1.3.27/6-8|καὶ πρὸς τοὺς μαθητὰς ἔλεγεν (instead of φησιν αὐτοῖς)|M118 Sin V568 V336 Mon V569 Marc Taur|expansion|
+|AdStag1.3.28/16|εἰσελθεῖν (instead of βαδιζειν)|M118 Sin Neap V568 V536 Mon V1629 V569 Marc Taur||
+|AdStag1.3.28/22|στενῆς instead of ἐστενοχωρημένης|M118 Sin V568 V536 Mon V569 Marc Taur||
 |AdStag1.4.56/48|αἰνιττόμενος|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.56-57||M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.58/4-6|ὁ θεὸς δὲ αὐτὸς|V1629 Neap||
