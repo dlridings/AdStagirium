@@ -24,6 +24,9 @@
 |AdStag1.3.6/8-12|omit ἀληθῶς ἀπατεῶνα καὶ|V560 V1920||
 |AdStag1.3.12/4|omit γὰρ|M118 Sin Mon Marc Taur||
 |AdStag1.3.21/22-28|omit κατὰ μόνας καὶ σιωπήσεται|V1897 Nan||
+|AdStag1.3.31/22-30|τῶν ἐν τοῖς οὐρανοῖς ἀγαθῶν|La2|cf. 19, add βασιλίας|
+|AdStag1.3.32/30|omit φόβου|LaSM B39||
+|AdStag1.3.62/8-16|οὖσαν|V1897 V2250 Bas M118 Sin Neap Nan V568 V536 Mon V1629 V569 Est Marc Taur|Taur largest extent|
 |AdStag1.4.56/8-12|οὔτε ἀπειλῆσαι κατακλυσμὸν|Bas||
 |AdStag1.4.60/42-52|καὶ τὴν τοῦ διαφυγεῖν ὁδὸν ὑποδεκνύς|M118 Marc Mon P18 Sin Taur V536 V568|Taur-group|
 |AdStag1.4.61/7|καὶ|M118 Marc Mon P18 Taur V568|Taur-group, even small omissions|

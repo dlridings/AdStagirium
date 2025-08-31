@@ -1,3 +1,5 @@
+I quit collecting LaSM B39 / V560 V1920 manually. They can be gathered from the XML collation more accurately (and easier) from about 1.3.30 in the third local stemma work.
+
 |Location|Text|MSS|Note|
 |:-------|:---|:---|:---|
 |AdStag1.1.6/31|add εὐχόμενος|LaSM B39||
@@ -30,7 +32,13 @@
 |AdStag1.3.27/6-8|καὶ πρὸς τοὺς μαθητὰς ἔλεγεν (instead of φησιν αὐτοῖς)|M118 Sin V568 V336 Mon V569 Marc Taur|expansion|
 |AdStag1.3.28/16|εἰσελθεῖν (instead of βαδιζειν)|M118 Sin Neap V568 V536 Mon V1629 V569 Marc Taur||
 |AdStag1.3.28/22|στενῆς instead of ἐστενοχωρημένης|M118 Sin V568 V536 Mon V569 Marc Taur||
-|AdStag1.4.56/48|αἰνιττόμενος|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
+|AdStag1.3.32/8|μόνον instead of μόνη|V560 V1920||
+|AdStag1.3.32/30|omit φόβου|LaSM B39||
+|AdStag1.3.33/38-40|εἰ ἔμενεν|M118 Sin Neap V568 V536 Mon V1629 V569 Marc Taur||
+|AdStag1.3.62/8-16|omit οὖσαν|V1897 V2250 Bas M118 Sin Neap Nan V568 V536 Mon V1629 V569 Est Marc Taur|Taur largest extent|
+|AdStag1.3.67/4|τούτων (other τούτου)|Bas M118 Sin V568 V536 Est Taur|with Bas|
+|AdStag1.3.68/28|δείκνυσι (for φησι)|M118 Sin Neap Savile-H V568 V536 Mon V1629 V569 Marc Taur||
+|AdStag1.4.56/48|αἰνιττόμενoς|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.56-57||M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.58/4-6|ὁ θεὸς δὲ αὐτὸς|V1629 Neap||
 |AdStag1.4.58/4-6|αὐτὸς δὲ ὁ θεὸς|M118 Marc Mon P18 Sin Taur V536 V568|Taur|

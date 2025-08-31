@@ -1,22 +1,20 @@
-# Variant Analysis: AdStag1.3.66/18-24
+# Variant Analysis: AdStag1.3.43/16-18
+
+with or without definite article
 
 ## 📌 Variant Description
-- **Location**: adstag1.3.66/18-24
+- **Location**: adstag1.3.43/16-18
 - **Variant Units**: 
-  - Reading A: παρὰ τοῦ θεοῦ κλαστήρια
-  - Reading B: παρὰ θεοῦ κλαστήρια
-  - Reading C: κολαστήρια παρὰ θεοῦ
-  - Reading D: παρὰ τοῦ θεοῦ λυπηρὰ ἢ κολαστήρια
-  - Reading E: παρὰ τοῦ θεοῦ λυπηρὰ κολαστήρια
+  - Reading A: τὸ κακὸν
+  - Reading B: κακὸν
+  - Reading C: κακοῦ
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | A336 Bas V2250 | 79.17 |
-| B      | La2    | lone |
-| C      | V1920 V560  | 91.39 |
-| D      | A116 A25 B39 Bodl Est La22 La35 LaSM M111 M118 M136 Marc Mon Nan Neap P01 P74 Pal Patm S249 S32 Sin Taur V1629 V1639 V1897 V2036 V536 V565 V566 V568 V571 | + editions, 87.86 |
-| E      | V569 | lone |
+| A      | P74 Pal A25 La35 LaSM Patm S249 V1639 P01 V565 S32 M136 Neap A336 A116 Savile-H V2036 M111 V566 Bodl V1629 B39 Est La22 A116-cV | most La22/A25 head|
+| B      | Bas V560 V1920 | Oldest |
+| C      | V1897 V2250 La2 M118 Sin Nan V568 V536 V571 Mon V569 Marc Taur  | editions |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
@@ -38,6 +36,6 @@
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- Because of the high coherence of the largest group, I went with it.
+- [Any additional observations, uncertainties, or decisions made]
 
 ---
