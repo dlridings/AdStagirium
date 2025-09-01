@@ -1,6 +1,6 @@
 # Variant Analysis: AdStag1.4.25/52
 
-Is is not a toss up, but it is a difficult choice to make. Good arguments for both. I initially preferred B. There seems to be a tendency to split up phrases like that.
+Is is not a toss up, but it is a difficult choice to make. Good arguments for both. I initially preferred B. There seems to be a tendency to split up phrases like that, that is word order. Revisiting this, I am still tending in this direction.
 
 ## 📌 Variant Description
 - **Location**: adstag1.4.25/52

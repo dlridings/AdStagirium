@@ -14,8 +14,8 @@
 <p>Temporary sourceDesc for validation</p>
 </sourceDesc>
 </fileDesc>
-</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.4"><fw type="chapTitle"><w>ὅτι</w><w>ὁ</w><w>διάβολος</w><w>οὐ</w><w>μό​​
-<lb break="no"/>νον</w><w>οὐδὲν</w><w>βλάπτει</w><w>τοὺς​</w><lb/><w>​</w><w>νήφοντας</w><w>ἀλλὰ</w><w>καὶ​</w><lb/><w>​</w><w>αἴτιος</w><w>πολλῶν</w><w>αὐτοῖς​</w><lb/><w>​</w><w>εὐεργεσιῶν</w><w>γίνεται</w></fw><ab n="adStag1.4.1"><w>εἰ</w><w>δὲ</w><w>λέγοι</w><w>τις</w><w>τίνος</w><w>οὖν</w><w>ἕ
+</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.4"><fw type="chapTitle"><w>ὅτι</w><w>ὁ</w><w>διάβολος</w><w>οὐ</w><w>μό​​​
+<lb break="no"/>νον</w><w>οὐδὲν</w><w>βλάπτει</w><w>τοὺς​</w><w>​</w><lb/><w>​</w><w>νήφοντας</w><w>ἀλλὰ</w><w>καὶ​</w><w>​</w><lb/><w>​</w><w>αἴτιος</w><w>πολλῶν</w><w>αὐτοῖς​</w><w>​</w><lb/><w>​</w><w>εὐεργεσιῶν</w><w>γίνεται</w></fw><ab n="adStag1.4.1"><w>εἰ</w><w>δὲ</w><w>λέγοι</w><w>τις</w><w>τίνος</w><w>οὖν</w><w>ἕ
 <lb n="PCL-Taur" break="no"/>νεκεν</w><w>οὐ</w><w>τὸν</w><w>ἐξ</w><w>ἀρχῆς</w>
 <lb n="PCL-Taur"/><w>ἀπατήσαντα</w><w>ἐκ</w><w>μέσου</w>
 <lb n="PCL-Taur"/><w>ἐποίησε</w><w>καὶ</w><w>ἠφάνισεν</w>
@@ -213,7 +213,30 @@
 <lb n="P104vC2L-Taur"/><w>κοσμοκράτορας</w><w>τοῦ</w>
 <pb n="105r" type="folio" xml:id="P105r-Taur"/>
 <cb n="P105rC1-Taur"/>
-<lb n="P105rC1L-Taur"/><w>σκότους</w><w>τοῦ</w><w>αἰῶνος</w><w>τούτου</w><w>πρὸς</w><w>τὰ</w><w>πνευματικὰ</w><w>τῆς</w><w>πονηρίας</w><w>ἐν</w><w>τοῖς</w><w>ἐπουρανίοις</w></ab><ab n="adStag1.4.35"><w>ταῦτα</w><w>δὲ</w><w>ἔλεγεν</w><w>οὐ</w><w>καταβαλεῖν</w><w>αὐτοὺς</w><w>ἀλλὰ</w><w>διαναστῆσαι</w><w>βουλόμενος</w></ab><ab n="adStag1.4.36"><w>καὶ</w><w>ὁ</w><w>πέτρος</w><w>δὲ</w><w>νήψατε</w><w>φησὶ</w><w>γρηγορήσατε</w><w>ὅτι</w><w>ὁ</w><w>ἀντίδικος</w><w>ὑμῶν</w><w>διάβολος</w><w>ὡς</w><w>λέων</w><w>ὠρυόμενος</w><w>περιπατεῖ</w><w>ζητῶν</w><w>τίνα</w><w>καταπίῃ</w><w>ᾧ</w><w>ἀντίστητε</w><w>στερεοὶ</w><w>τῇ</w><w>πίστει</w></ab><ab n="adStag1.4.37"><w>τοῦτο</w><w>δὲ</w><w>εἶπε</w><w>σφοδροτέρους</w><w>ἐργάσασθαι</w><w>θέλων</w><w>καὶ</w><w>πεῖσαι</w><w>πλείονα</w><w>πρὸς</w><w>τὸν</w><w>Θεὸν</w><w>τὴν</w><w>οἰκειότητα</w><w>ἔχειν</w></ab><ab n="adStag1.4.38"><w>ὁ</w><w>γὰρ</w><w>ἐφεστῶτα</w><w>τὸν</w><w>ἐχθρὸν</w><w>ὁρῶν</w><w>μᾶλλον</w><w>προστρέχει</w><w>καὶ</w><w>συμπλέκεται</w><w>τῷ</w>
+<lb n="P105rC1L-Taur"/><w>σκότους</w><w>τοῦ</w><w>αἰῶνος</w>
+<lb n="P105rC1L-Taur"/><w>τούτου</w><w>πρὸς</w><w>τὰ</w><w>πνευ
+<lb n="P105rC1L-Taur" break="no"/>ματικὰ</w><w>τῆς</w><w>πονηρίας</w>
+<lb n="P105rC1L-Taur"/><w>ἐν</w><w>τοῖς</w><w>ἐπουρανίοις</w>
+<lb n="P105rC1L-Taur"/></ab><ab n="adStag1.4.35"><w>ταῦτα</w><w>δὲ</w><w>ἔλεγεν</w><w>οὐ</w><w>κα
+<lb n="P105rC1L-Taur" break="no"/>ταβαλεῖν</w><w>αὐτοὺς</w><w>ἀλλὰ</w>
+<lb n="P105rC1L-Taur"/><w>διαναστῆσαι</w><w>βουλόμε
+<lb n="P105rC1L-Taur" break="no"/>νος</w></ab><ab n="adStag1.4.36"><w>καὶ</w><w>ὁ</w><w>πέτρος</w><w>δὲ</w>
+<lb n="P105rC1L-Taur"/><w>νήψατε</w><w>γρηγορήσα
+<lb n="P105rC1L-Taur" break="no"/>τε</w><w>ὅτι</w><w>ὁ</w><w>ἀντίδικος</w>
+<lb n="P105rC1L-Taur"/><w>ἡμῶν</w><w>διάβολος</w><w>ὡς</w>
+<lb n="P105rC1L-Taur"/><w>λέων</w><w>ὠρυόμενος</w><w>πε
+<lb n="P105rC1L-Taur" break="no"/>ριερχεται</w><w>ζητῶν</w><w>τί
+<lb n="P105rC1L-Taur" break="no"/>να</w><w>καταπίῃ</w><w>ᾧ</w><w>ἀν
+<lb n="P105rC1L-Taur" break="no"/>τίστητε</w><w>στερεοὶ</w><w>τῇ</w><w>πί
+<lb n="P105rC1L-Taur" break="no"/>στει</w></ab><ab n="adStag1.4.37"><w>τοῦτο</w><w>δὲ</w><w>εἶπεv</w>
+<lb n="P105rC1L-Taur"/><w>σφοδροτέρους</w><w>ἐργά
+<lb n="P105rC1L-Taur" break="no"/>σασθαι</w><w>θέλων</w><w>καὶ</w><w>πεῖ
+<lb n="P105rC1L-Taur" break="no"/>σαι</w><w>πλείονα</w><w>πρὸς</w>
+<lb n="P105rC1L-Taur"/><w>τὸν</w><w>Θεὸν</w><w>τὴν</w><w>οἰκειότη
+<lb n="P105rC1L-Taur" break="no"/>τα</w><w>ἔχειν</w></ab><ab n="adStag1.4.38"><w>ὁ</w><w>γὰρ</w><w>ἐφεστῶ
+<lb n="P105rC1L-Taur" break="no"/>τα</w><w>τὸν</w><w>ἐχθρὸν</w><w>ὁρῶν</w>
+<lb n="P105rC1L-Taur"/><w>μᾶλλον</w><w>προστρέχει</w>
+<lb n="P105rC1L-Taur"/><w>καὶ</w><w>συμπλέκεται</w><w>τῷ</w>
 <cb n="P105rC2-Taur"/>
 <lb n="P105rC2L-Taur"/><w>δυναμένῳ</w><w>βοηθεῖν</w>
 <lb n="P105rC2L-Taur"/></ab><ab n="adStag1.4.39"><w>οὕτω</w><w>που</w><w>καὶ</w><w>τὰ</w><w>παι
@@ -363,7 +386,7 @@
 <lb n="P106vC1L-Taur" break="no"/>θεν</w></ab><ab n="adStag1.4.57"><w>ὥστε</w><w>θάνατον</w>
 <lb n="P106vC1L-Taur"/><w>ὁ</w><w>θεὸς</w><w>οὐκ</w><w>ἐποίησεν</w><w>οὐ
 <lb n="P106vC1L-Taur" break="no"/>δὲ</w><w>τέρπεται</w><w>ἐπ’</w><w>ἀπω
-<lb n="P106vC1L-Taur" break="no"/>λείᾳ</w><w>ζώντων</w></ab><ab n="adStag1.4.58"><w>καὶ</w><w>αὐτὸς</w>
+<lb n="P106vC1L-Taur" break="no"/>λείᾳ</w><w>ἀνθρώπων</w></ab><ab n="adStag1.4.58"><w>καὶ</w><w>αὐτὸς</w>
 <lb n="P106vC1L-Taur"/><w>δὲ</w><w>ὁ</w><w>θεὸς</w><w>διὰ</w><w>τοῦ</w><w>προφή
 <lb n="P106vC1L-Taur" break="no"/>του</w><w>οὕτω</w><w>φησί</w></ab><ab n="adStag1.4.59"><w>μὴ</w><w>θε
 <lb n="P106vC1L-Taur" break="no"/>λήσει</w><w>θελήσω</w><w>τὸν</w><w>θά

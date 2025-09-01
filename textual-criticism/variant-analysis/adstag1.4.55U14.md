@@ -1,18 +1,17 @@
-# Variant Analysis: AdStag1.4.29/26-34
+# Variant Analysis: AdStag1.4.55/14
 
 ## 📌 Variant Description
-- **Location**: adstag1.4.29/26-34
+- **Location**: adstag1.4.55/14
 - **Variant Units**: 
-  - Reading A: καὶ λυπεῖ ὅταν δὲ καὶ
-  - Reading B: καὶ λυπεῖ ὅταν δὲ
-  - Reading C: λυπεῖ δὲ καὶ
+  - Reading A: προκαλούμενοι
+  - Reading B: προσκαλούμενοι
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | V1897 Pal A25 La35 LaSM La2 Patm S249 V1639 M118 P01 V565 S32 M136 Sin A116 Nan V566 V568 V536 Bodl Mon B39 Est Marc Taur | A25 La2 Patm M118 editions |
-| B      | P74 V560 A336 V1920 M111 V571 La22    | V560 M111 La22 |
-| C      | V2250 Bas Neap V2036 V1629 | Bas V1629 |
+| A      | P74 Pal A25 La35 LaSM La2 Patm S249 P01 V565 V560 S32 M136 A336 A116 V1920 V2036 M111 V571 B39 Marc La22 | Majoirity, A25 La2 V560 La22|
+| B      | P18 V1897 V2250 Bas V1639 M118 Sin Neap Nan V566 V568 V536 Bodl Mon V1629 Est Taur | Oldest, Taur-group |
+
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]

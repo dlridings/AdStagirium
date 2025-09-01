@@ -27,7 +27,9 @@
 |AdStag1.3.31/22-30|τῶν ἐν τοῖς οὐρανοῖς ἀγαθῶν|La2|cf. 19, add βασιλίας|
 |AdStag1.3.32/30|omit φόβου|LaSM B39||
 |AdStag1.3.62/8-16|οὖσαν|V1897 V2250 Bas M118 Sin Neap Nan V568 V536 Mon V1629 V569 Est Marc Taur|Taur largest extent|
+|AdStag1.4.32/34|omit σχέδον|M118 Sin Neap V568 V536 Mon V1629 Marc Taur||
 |AdStag1.4.56/8-12|οὔτε ἀπειλῆσαι κατακλυσμὸν|Bas||
+|AdStag1.4.56/52|omit ὅτι|M118 Sin Neap V568 V536 Mon V1629 Marc Taur||
 |AdStag1.4.60/42-52|καὶ τὴν τοῦ διαφυγεῖν ὁδὸν ὑποδεκνύς|M118 Marc Mon P18 Sin Taur V536 V568|Taur-group|
 |AdStag1.4.61/7|καὶ|M118 Marc Mon P18 Taur V568|Taur-group, even small omissions|
 |AdStag1.5.2/14-22|οὐδ' ἂν προσῆλθεν ὁ διάβολος|V1920 V560 ||

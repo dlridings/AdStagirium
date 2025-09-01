@@ -18,7 +18,7 @@ Word order, verb choice. Not sure about not giving Bas priority.
 | B      | Est Pal    | coherence 91.94 |
 | C      | Bas | oldest |
 | D      | M118 Marc Mon Nan Sin Taur V1897 V536 V568       | coherence 81.75 |
-| E      | V2250 | lone |
+| E      | V2250 | lone, word order with next phrase in 50-58|
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
@@ -40,6 +40,6 @@ Word order, verb choice. Not sure about not giving Bas priority.
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- Bas is oldest but there is a tight coherence in A. One can see a scribe behind Bas adding the demonstrative pronoun for emphasis.
+- Bas is oldest but there is a tight coherence in A. One can see a scribe behind Bas adding the demonstrative pronoun for emphasis. Note that V2250 has switched two phrases around. Note that even in messy situations the Taur-group sticks together coherently.
 
 ---
