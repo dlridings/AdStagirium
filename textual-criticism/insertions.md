@@ -12,6 +12,14 @@ AdStag1.1.6/31|add εὐχόμενος|LaSM B39||
 |AdStag1.3.40/15|add ἦν|V1897 Bas M118 Sin Neap Nan V568 V536 Mon V1629 Est Marc Taur|full Taur-group; cf. 24 really a word order variant|
 |AdStag1.4.1/25|ἐκ μέσου ἐποίησε καὶ|M118 Marc Mon Savile-H Sin Taur V536 V568||
 |AdStag1.4.1/27|ἐκεῖνο ἂν εἴποιμεν ὅτι|M118 Marc Mon Neap Sin Taur V536 V568||
+|AdStag1.4.13/15|ἀλλ'|M118 Sin Neap V568 Mon V1629 Marc Taur|Savile|
+|AdStag1.4.25/5|καὶ|Bas M118 A336 Nan V568 M536 Marc Taur|Savile|
+|AdStag1.4.28/69|καὶ ἐνταῦθα|M118 Sin Neap V568 V536 Mon V1629 Marc Taur||
+|AdStag1.4.36/9|φησὶ|V1897 V2250 Bas Nan Est|cf. Taur|
+|AdStag1.4.36/9|πάλιν ἀλλαχοῦ λέγει|M118 Sin V569 V536 Mon Marc||
+|AdStag1.4.38/13|οὐ πρὸς αὐτὸν παραγενέσθαι ἐπείγεται ἀλλὰ|LaSM B39||
+|AdStag1.4.57.1|insert ὥστε|P18 M118 Sin Neap V568 V536 Mon V1629 Marc Taur|cf. previous verse (omit ὅτι)|
+|1.4.61/7|insert καὶ|P18 M118 V568 Mon Marc Taur||
 |AdStag1.4.62/28-29|γεγενημένοις **ὑπῆρξεν**|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur-group, editions|
 |AdStag1.4.63/54-58|ἐξαρθείσης ἐκ μέσου καὶ ἀφανισθείσης|M118 Marc P18 Sin Taur V536 cf Mon|Taur-group|
 |AdStag1.4.63/54-58|ἐξαρθείσης ἐκ μέσου|Neap V1629|upper Taur-group|

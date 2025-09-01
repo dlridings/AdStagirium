@@ -38,8 +38,21 @@ I quit collecting LaSM B39 / V560 V1920 manually. They can be gathered from the 
 |AdStag1.3.62/8-16|omit οὖσαν|V1897 V2250 Bas M118 Sin Neap Nan V568 V536 Mon V1629 V569 Est Marc Taur|Taur largest extent|
 |AdStag1.3.67/4|τούτων (other τούτου)|Bas M118 Sin V568 V536 Est Taur|with Bas|
 |AdStag1.3.68/28|δείκνυσι (for φησι)|M118 Sin Neap Savile-H V568 V536 Mon V1629 V569 Marc Taur||
+|AdStag1.4.1/25|insert ἐκ μέσου ἐποίησε καὶ|M118 Marc Mon Savile-H Sin Taur V536 V568||
+|AdStag1.4.12/12|δικαίους (others γενναίους)|V1897 V2250 M118 Sin Nan V568 V536 Mon V1629 Marc Taur||
+|AdStag1.4.15/18|ἐπηρεάσθησαν (others ἐπεβουλεύθησαν)|M118 Sin V568 V536 Mon Marc Taur|editions|
+|AdStag1.4.16/86|ἀπ' (others παρ')|V1897 V2250 M118 Sin Neap Nan V568 V536 Mon V1629 Est Marc Taur||
+|AdStag1.4.29/18-24|καὶ αὐτὸ καθ' ἑαυτὸ|M118 Sin V568 V536 Mon Marc Taur|coherent even in a messy variant|
+|AdStag1.4.31/32|διηνεκῶς|Neap V1629||
+|AdStag1.4.32/24|ἄκουε (instead of ἄκουσον)|V1897 V2250 Bas M118 Neap Nan V568 V536 Mon V1629 Est Marc Taur|extended Taur-group|
+|AdStag1.4.53/34|τεκταίνεσθαι|P18 M118 Sin Neap V568 V536 Mon V1629 Marc Taur|Editions|
+|AdStag1.4.54/10-14|ἤδη τῆς τῶν ἀνθρώπων διανοίασ ἐκπεσὼν ἦν|P18 M118 Sin V568 V536 Mon Marc Taur||
+|AdStag1.4.54/40|ἐνῆγεν|P18 M118 Sin Neap V568 V536 Mon V1629 Marc Taur||
+|AdStag1.4.56/40|τοῦτο (instead of ὅπερ)|P18 M118 Neap V568 V536 Mon V1629 Marc Taur||
+|AdStag1.4.56/44|σοφός|P18 Pal M118 Sin Neap V1920 V568 V536 V1629 Marc Taur||
 |AdStag1.4.56/48|αἰνιττόμενoς|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
 |AdStag1.4.56-57||M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568|Taur|
+|AdStag1.4.57.20|ἀνθρώπων (instead of ζώντων)|P18 M118 Sin Neap V568 V536 Mon V1629 Marc Taur||
 |AdStag1.4.58/4-6|ὁ θεὸς δὲ αὐτὸς|V1629 Neap||
 |AdStag1.4.58/4-6|αὐτὸς δὲ ὁ θεὸς|M118 Marc Mon P18 Sin Taur V536 V568|Taur|
 |AdStag1.4.60/22-26|ἐπάγομεν καθ'ἑαυτῶν|Bas La2 V1920 V560|Oldest|
@@ -56,6 +69,7 @@ I quit collecting LaSM B39 / V560 V1920 manually. They can be gathered from the 
 |AdStag1.5.7/38-46|πρὸς τὴν ἁμαρτίαν ἀφ' ἑαυτοῦ|B39 LaSM|word order|
 |AdStag1.5.8/18|omit μόνον|Neap P18 V1629|with P18|
 |AdStag1.5.9/6-12|ἀπὸ τῆς γραφῆς ἐστὶ μαθεῖν|M118 Marc Mon P18 Sin Taur V536 V568|variant|
+|AdStag1.5.12/4|γ'οὖν (for γὰρ)|P18 M118 Sin V568 V536 Mon Marc Taur||
 |AdStag1.5.13/44|ἀφίστανται|M118 Marc Mon Neap P18 Sin Taur V1629 V536 V568 Savile-H|Taur-group expanded|
 |AdStag1.5.17/28|ἐπέδειξεν|Bas V1920 V560||
 |AdStag1.5.17/46-54|ἡ ἀσθένεια καὶ ἡ ῥᾳθυμία οὐκ ἂν|Neap V1629|together even in a Taur-context|
