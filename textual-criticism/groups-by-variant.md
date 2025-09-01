@@ -88,9 +88,11 @@ I quit collecting LaSM B39 / V560 V1920 manually. They can be gathered from the 
 |AdStag1.5.28/all||Taur-group|variants within the group, largest in M118|
 |AdStag1.5.29/24|μεταπεσεῖν|M118 Marc Mon Neap Sin Taur V1629 V568 Savile-H||
 |AdStag1.5.30/10|omit οὗτος/αὐτὸς|Neap V1629||
+|AdStag1.5.30/18|συνεβάλλετο (instead of συνεστέλλετο)|P74 A336 V571 La22|Possible uncial->minuscle error|
 |AdStag1.5.31/16|omit ταχέως|M118 Marc Mon Neap Sin Taur V1629 V2250 V536 V568||
 |AdStag1.5.31/59|ὑπογράφουσα|M118 Marc Mon Neap Sin Taur V1629 V536 V568|Taur-group|
 |AdStag1.5.33b/26-28|ὑπὲρ τῶν μισούντων|M118 Marc Mon Sin Taur V536 V568|Taur-group|
+|AdStag1.5.33b/40|δοὺς (instead of κατασφάξας)|M118 Sin Neap V568 V536 Mon v1629 Marc Taur||
 |AdStag1.5.33b/63|οὐ μόνον δὲ καταλλαγὴν ἀλλὰ|M118 Marc Mon Neap Sin Taur V1629 V536 V568||
 |AdStag1.5.33b/102|καὶ instead of μήτε|M118 Marc Mon Sin Taur V536 V568|Taur w/o V1629 Neap|
 |AdStag1.5.34/6-8|γένοιτ' ἂν|Neap V1629 V568|Two oldest in Taur-group, the rest in A|
@@ -98,7 +100,9 @@ I quit collecting LaSM B39 / V560 V1920 manually. They can be gathered from the 
 |AdStag1.5.35/9|ὁ χριστὸς (Neap θεὸς) παριστῶν τιὰ τοῦ προφήτου|M118 Marc Mon Neap Sin Taur V1629 V536 V568|Taur-group|
 |AdStag1.5.38/33|οὕτως|Bas M118 Marc Mon Nan Sin Taur V1897 V568|Taur with Bas Nan|
 |AdStag1.5.39/40-46|πρὸς τὰ ἔκγονα συμπἀθειαν κεκτημένην|B39 LaSM||
+|AdStag1.5.46/20|θεοῦ for οὗ|V1897 Bas M118 Sin Neap Nan V568 V536 Mon V1629 Est Marc Taur||
 |AdStag1.5.46/30|οὕτω|M118 Marc Mon Neap Sin Taur V1629 V536 V568|instead of καὶ|
+|AdStag1.5.47/28|ταὺτης (others αὐτῆς)|V1897 M118 Nan V568 Mon V1629 Marc||
 |AdStag1.5.49/18-20|καὶ οὔτε|M118 Mon Sin Taur V536 V568|instead of οὔτε δὲ|
 |AdStag1.5.56/36|λέγει|M118 Marc Mon Nep Sin Taur V1629 V536 V568|instead of φησιν|
 |AdStag1.5.60/30-36|καὶ αἱ τρίχες|M118 M136 Marc Mon Neap Sin Taur V1629 V536 V568| w/o φησι|

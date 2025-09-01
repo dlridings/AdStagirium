@@ -31,7 +31,9 @@ AdStag1.1.6/31|add εὐχόμενος|LaSM B39||
 |AdStag1.5.33b/63|οὐ μόνον δὲ καταλλαγὴν ἀλλὰ|M118 Marc Mon Neap Sin Taur V1629 V536 V568||
 |AdStag1.5.35/9|ὁ χριστὸς (Neap θεὸς) παριστῶν τιὰ τοῦ προφήτου|M118 Marc Mon Neap Sin Taur V1629 V536 V568|Taur-group|
 |AdStag1.5.36/4-10|ὁ δαυὶδ δὲ|M118 Marc Mon Neap Sin Taur V1629 V536 (V568 w/o art.)|Taur-group|
+|AdStag1.5.46/11|ἦν|M118 Sin Neap V568 V536 Mon V1629 Marc Taur||
 |AdStag1.5.46/23|ὥσπερ|M118 Marc Mon Neap Sin Taur V1629 V536 V568|inserted|
+|AdStag1.5.57/13|add ὁ σωτὴρ|M118 Sin Neap V568 V536 Mon V1629 Marc Taur||
 |AdStag1.5.57/31|πάλιν διὰ τοῦ προφήτου|M118 Marc Mon Neap S249 Sin Taur V1629 V536 V568|Taur, editions|
 
 
