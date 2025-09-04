@@ -1,19 +1,18 @@
-# Variant Analysis: AdStag1.2.21/40
-
-Return to this. Seriously consider B with τὴν ἀρχὴν as the object. With A it would be an adverb?
-Leaning towards B as the initial text.
+# Variant Analysis: AdStag1.2.26/60-62
 
 ## 📌 Variant Description
-- **Location**: adstag1.2.21/40
+- **Location**: adstag1.2.26/60-62
 - **Variant Units**: 
-  - Reading A: ἀνηρτῆσθαι
-  - Reading B: ἀνῃρῆσθαι
+  - Reading A: κἀν τούτῳ
+  - Reading B: καὶ τoῦτο
+  - Reading C: κἀν τούτῳ
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | A116 A25 A336 B39 M111 P74 Pal S32 V565 V571 | A25, some from La22 but not La22 |
-| B      | Bas Bodl Est La2 La22 La35 LaSM M118 M136 Marc Mon Nan Neap P01 Patm S249 Sin Taur V1629 V1897 V1920 V2036 V2250 V536 V560 V566 V568 V569    | La22, Bas, Nan, Taur-group, Patm, editions |
+| A      | P74 Pal A25 Bas La2 Patm P01 V565 A336 A116 V571 B39 La22 (LaSM)| Bas A25 La22 Patm |
+| B      | V560 | lone, could be orthographic |
+| C      | V1897 V2250 La35 S249 V1639 M118 S32 M136 Sin Neap V1920 V2036 Nan M111 V568 V536 Bodl Mon V1629 V569 Est Marc Taur | Most, Nan M111 ... |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
@@ -35,8 +34,6 @@ Leaning towards B as the initial text.
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- Choice between verbs of the same semantic domain - hanging
-- ἀναρτάω - pass to be hung up, 2. depend upon Med., also with pf. Pass. = Act, hence attach to oneself, make dependent upon one, subdue
-- ἀναιρεω - LSJ B II take upon oneself τὴν ἀρχὴν
+- [Any additional observations, uncertainties, or decisions made]
 
 ---

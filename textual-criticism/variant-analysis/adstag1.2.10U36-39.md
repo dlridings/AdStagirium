@@ -1,6 +1,7 @@
 # Variant Analysis: AdStag1.2.10/36-39
 
 Conditional or final?
+Cf. 1.2.12
 
 ## 📌 Variant Description
 - **Location**: adstag1.2.10/36-39
