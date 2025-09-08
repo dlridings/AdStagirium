@@ -1,7 +1,7 @@
 # Variant Analysis: AdStag1.1.20/12-20
 
 ## 📌 Variant Description
-- **Location**: adstag1.1.20/12-36
+- **Location**: adstag1.1.20/12-20
 - **Variant Units**: 
   - Reading A: δυνηθῆναι τὴν μητέρα καὶ συγκαλύψαι
   - Reading B: δυνθῆναι τὴν μητέρα συγκαλύψαι
