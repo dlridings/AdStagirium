@@ -3,18 +3,20 @@
 ## 📌 Variant Description
 - **Location**: adstag1.2.10/39
 - **Variant Units**: 
-  - Reading A: θελήσωμεν
-  - Reading B: συνγχωρήσωμεν
-  - Reading C: ἐγχωρήσωμεν
-  - Reading D: omit
+  - Reading A: omit
+  - Reading B: θελήσωμεν
+  - Reading C: συνγχωρήσωμεν
+  - Reading D: ἐγχωρήσωμεν
+ 
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | P74 V1897 V2250 Pal A25 La35 LaSM La2 Patm S249 V1639 P01 V565 V560 S32 M136 Neap A336 A116 V1920 V2036 Nan M111 V566 Bodl V571 V1629 B39 Est La22 | Majority, editions |
-| B      | P19 M118 Sin V536 Mon V569 Marc Taur Savile-H    | Taur-group |
-| C      |  V568    |  |
-| D      |  Bas               |  |
+| A      |  Bas               | lone  |
+| B      | P74 V1897 V2250 Pal A25 La35 LaSM La2 Patm S249 V1639 P01 V565 V560 S32 M136 Neap A336 A116 V1920 V2036 Nan M111 V566 Bodl V571 V1629 B39 Est La22 | Majority, editions |
+| C      | P19 M118 Sin V536 Mon V569 Marc Taur Savile-H    | Taur-group |
+| D      |  V568    |  |
+
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
