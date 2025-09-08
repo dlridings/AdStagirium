@@ -31,8 +31,18 @@
 ## 🔄 Directionality & Genealogy
 - **Likely Original Reading**: [e.g., Reading A]
 - **Genealogical Relationships**:
-  - [e.g., B likely derived from A via harmonization]
-  - [e.g., C appears to be a conflation of A and B]
+
+
+- ## open-cbgm textual flow##
+![adstag1.1.5U12-14](flow/adstag1.1.5U12-14-textual-flow.svg "adstag1.1.5U12-14")
+- ## open-cbgm attestations##
+![adstag1.1.5U12-14Ra](attestations/adstag1.1.5U12-14Ra-coherence-attestations.svg "adstag1.1.5U12-14Ra")
+![adstag1.1.5U12-14Rb](attestations/adstag1.1.5U12-14Rb-coherence-attestations.svg "adstag1.1.5U12-14Rb")
+![adstag1.1.5U12-14Rc](attestations/adstag1.1.5U12-14Rc-coherence-attestations.svg "adstag1.1.5U12-14Rc")
+![adstag1.1.5U12-14Rd](attestations/adstag1.1.5U12-14Rd-coherence-attestations.svg "adstag1.1.5U12-14Rd")
+![adstag1.1.5U12-14Re](attestations/adstag1.1.5U12-14Re-coherence-attestations.svg "adstag1.1.5U12-14Re")
+![adstag1.1.5U12-14Rf](attestations/adstag1.1.5U12-14Rf-coherence-attestations.svg "adstag1.1.5U12-14Rf")
+
 
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
