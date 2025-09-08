@@ -27,6 +27,11 @@ Dative or preposition
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+- **Textual flow**:
+![Ad Stag 1.1.3/20-24](flow/adstag1.1.3U20-24-textual-flow.svg "Ad Stag 1.1.3/20-24 textual flow")
+- **Coherence of variants (readings)**
+![Ad Stag 1.1.3U2-24Ra](attestations/adstag1.1.3U20-24Ra-coherence-attestations.svg "Ad Stag 1.1.3U20-24Ra")
+![Ad Stag 1.1.3U20-24Rb](attestations/adstag1.1.3U20-24Rb-coherence-attestations.svg "Ad Stag 1.1.3U20-24Rb")
 
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
