@@ -1,7 +1,7 @@
-# Variant Analysis: AdStag1.2.10/40
+# Variant Analysis: AdStag1.2.10/39
 
 ## 📌 Variant Description
-- **Location**: adstag1.2.10/40
+- **Location**: adstag1.2.10/39
 - **Variant Units**: 
   - Reading A: θελήσωμεν
   - Reading B: συνγχωρήσωμεν
@@ -29,6 +29,13 @@
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+- ## open-cbgm textual flow##
+![adstag1.2.10U39](flow/adstag1.2.10U39-textual-flow.svg "adstag1.2.10U39")
+- ## open-cbgm attestations##
+![adstag1.2.10U39Ra](attestations/adstag1.2.10U39Ra-coherence-attestations.svg "adstag1.2.10U39Ra")
+![adstag1.2.10U39Rb](attestations/adstag1.2.10U39Rb-coherence-attestations.svg "adstag1.2.10U39Rb")
+![adstag1.2.10U39Rc](attestations/adstag1.2.10U39Rc-coherence-attestations.svg "adstag1.2.10U39Rc")
+![adstag1.2.10U39Rd](attestations/adstag1.2.10U39Rd-coherence-attestations.svg "adstag1.2.10U39Rd")
 
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
