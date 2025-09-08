@@ -39,6 +39,6 @@ Dative or preposition
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- The oldest are in B. They also pull the coherence down, since theirs is always low. Still worth reviewing.
+- The oldest are in B. They also pull the coherence down, since theirs is always low. Still worth reviewing. Not sure. Something seems to be between the initial text and those with reading "b". Keep an eye on it. The group under A25 is solid.
 
 ---
