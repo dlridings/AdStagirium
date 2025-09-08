@@ -29,6 +29,15 @@
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+- **Textual flow**:
+![Ad Stag 1.1.20/12-20](flow/adstag1.1.20U12-20-textual-flow.svg "Ad Stag 1.1.20/12-20 textual flow")
+- **Coherence of variants (readings)**
+![Ad Stag 1.1.20/12-20Ra](attestations/adstag1.1.20U12-20Ra-coherence-attestations.svg "Ad Stag 1.1.20U12-20Ra")
+![Ad Stag 1.1.20/12-20Rb](attestations/adstag1.1.20U12-20Rb-coherence-attestations.svg "Ad Stag 1.1.20U12-20Rb")
+![Ad Stag 1.1.20/12-20Rc](attestations/adstag1.1.20U12-20Rc-coherence-attestations.svg "Ad Stag 1.1.20U12-20Rc")
+![Ad Stag 1.1.20/12-20Rd](attestations/adstag1.1.20U12-20Rd-coherence-attestations.svg "Ad Stag 1.1.20U12-20Rd")
+
+
 
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
