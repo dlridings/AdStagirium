@@ -31,6 +31,19 @@ Subjective or optative
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+## 🔄 Directionality & Genealogy
+- **Likely Original Reading**: [e.g., Reading A]
+- **Genealogical Relationships**:
+  - [e.g., B likely derived from A via harmonization]
+  - [e.g., C appears to be a conflation of A and B]
+- **Textual flow**:
+![Ad Stag 1.1.21/8](flow/adstag1.1.21U8-textual-flow.svg "Ad Stag 1.1.21/8 textual flow")
+- **Coherence of variants (readings)**
+![Ad Stag 1.1.21/8Ra](attestations/adstag1.1.21U8Ra-coherence-attestations.svg "Ad Stag 1.1.21U8Ra")
+![Ad Stag 1.1.21/8Rb](attestations/adstag1.1.21U8Rb-coherence-attestations.svg "Ad Stag 1.1.21U8Rb")
+![Ad Stag 1.1.21/8Rc](attestations/adstag1.1.21U8Rc-coherence-attestations.svg "Ad Stag 1.1.21U8Rc")
+![Ad Stag 1.1.21/8Rd](attestations/adstag1.1.21U8Rd-coherence-attestations.svg "Ad Stag 1.1.21U8Rd")
+
 
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
