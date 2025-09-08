@@ -24,9 +24,13 @@
 
 ## 🔄 Directionality & Genealogy
 - **Likely Original Reading**: [e.g., Reading A]
-- **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+- **Textual flow**:
+![Ad Stag 1.x.x](flow/adstag1.x.xUx-textual-flow.svg "Ad Stag 1.x.x textual flow")
+- **Coherence of variants (readings)**
+
+
 
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
