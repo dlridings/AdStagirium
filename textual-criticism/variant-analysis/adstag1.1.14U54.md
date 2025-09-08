@@ -1,7 +1,7 @@
-# Variant Analysis: AdStag1.x.x
+# Variant Analysis: AdStag1.1.14/54
 
 ## 📌 Variant Description
-- **Location**: adstag1.x.x
+- **Location**: adstag1.1.14/54
 - **Variant Units**: 
   - Reading A: εκεῖνον
   - Reading B: ἐκείνου
