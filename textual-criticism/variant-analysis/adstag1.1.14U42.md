@@ -20,7 +20,7 @@
 
 ## 🧭 External Evidence
 - **Textual flow**:
-- **Connectivity**: 10, could go down
+- **Connectivity**: 1
 ![Ad Stag 1.1.14/42](flow/adstag1.1.14U42-textual-flow.png "Ad Stag 1.1.14/42")
 
 ## 🔄 Directionality & Genealogy
