@@ -23,9 +23,9 @@
 ![Ad Stag 1.1.14/42](flow/adstag1.1.14U42-textual-flow.png "Ad Stag 1.1.14/42")
 - **Attestations**
 - Ra
-![Ra](attestations/adstag1.1.14U42Ra-coherence-attestations.png "Ad Stag 1.1.14/42 Ra"]
+![Ra](attestations/adstag1.1.14U42Ra-coherence-attestations.png "Ad Stag 1.1.14/42 Ra")
 - Rb
-![Rb](attestations/adstag1.1.14U42Rb-coherence-attestations.png "Ad Stag1.1.14/42 Rb)
+![Rb](attestations/adstag1.1.14U42Rb-coherence-attestations.png "Ad Stag 1.1.14/42 Rb")
 
 ## 🔄 Directionality & Genealogy
 - **Likely Original Reading**: [e.g., Reading A]
