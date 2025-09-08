@@ -1,7 +1,7 @@
-# Variant Analysis: AdStag1.1.3/30
+# Variant Analysis: AdStag1.1.3/32
 
 ## 📌 Variant Description
-- **Location**: adstag1.1.3/30
+- **Location**: adstag1.1.3/32
 - **Variant Units**: 
   - Reading A: καταναγκάσαν
   - Reading B: κατὰ ἀναγκαίαν
