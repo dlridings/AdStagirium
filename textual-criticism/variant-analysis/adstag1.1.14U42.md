@@ -10,7 +10,7 @@
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A  P74 Pal A25 La35 La2 Patm S249 V1639 P01 V565 V560 S32 M136 Neap A116 V1920 V2036 M111 V566 V568 V536 Bodl V571 V1629 Est Marc La22 |  | Most, editions |
+| A  | P74 Pal A25 La35 La2 Patm S249 V1639 P01 V565 V560 S32 M136 Neap A116 V1920 V2036 M111 V566 V568 V536 Bodl V571 V1629 Est Marc La22 | Most, editions |
 | B      | P18 V1897 V2250 Bas LaSM M118 Sin A336 La2-c1 Nan Mon V569 B39 Taur  | Bas, Nan Taur-group |
 
 
