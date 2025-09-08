@@ -1,7 +1,8 @@
 # Variant Analysis: AdStag1.x.x
 
 ## 📌 Variant Description
-- **Location**: adstag1.x.x
+- **Variant unit**: adstag1.x.x
+
 - **Variant Units**: 
   - Reading A: [Text]
   - Reading B: [Text]
@@ -10,9 +11,9 @@
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | [e.g., A, B, D] | [group description?] |
-| B      | [e.g., C, E]    | [charactarization] |
-| C      | [e.g., F]       | [lone] |
+| A      |  |  |
+| B      | [e.g., C, E]    |  |
+| C      | [e.g., F]       |  |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
@@ -29,7 +30,7 @@
 - **Textual flow**:
 ![Ad Stag 1.x.x](flow/adstag1.x.xUx-textual-flow.svg "Ad Stag 1.x.x textual flow")
 - **Coherence of variants (readings)**
-
+![Ad Stag 1.x.x/xRa](attestations/adstag1.x.xUxRa-coherence-attestations.svg "Ad Stag 1.x.xUxRa")
 
 
 ## 🌿 Local Stemma Placement
