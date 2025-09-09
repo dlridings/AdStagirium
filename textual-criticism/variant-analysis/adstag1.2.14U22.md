@@ -1,7 +1,7 @@
-# Variant Analysis: AdStag1.2.15/22-23
+# Variant Analysis: AdStag1.2.15/22
 
 ## 📌 Variant Description
-- **Location**: adstag1.2.14/22-23
+- **Location**: adstag1.2.14/22
 - **Variant Units**: 
   - Reading A: ἦν
   - Reading B: ἦν ἢ
@@ -25,7 +25,11 @@
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
-
+## open-cbgm textual flow##
+![adstag1.2.14U22](flow/adstag1.2.14U22-textual-flow.svg "adstag1.2.14U22")
+## open-cbgm attestations##
+![adstag1.2.14U22Ra](attestations/adstag1.2.14U22Ra-coherence-attestations.svg "adstag1.2.14U22Ra")
+![adstag1.2.14U22Rb](attestations/adstag1.2.14U22Rb-coherence-attestations.svg "adstag1.2.14U22Rb")
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
   - [Diagram or description, e.g., A → B → C]
