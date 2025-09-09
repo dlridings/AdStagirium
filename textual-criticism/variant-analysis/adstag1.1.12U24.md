@@ -26,15 +26,14 @@
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
 ## open-cbgm textual flow ##
-![adstag1.1.14U54](flow/adstag1.1.14U54-textual-flow.svg "adstag1.1.14U54")
+![adstag1.1.12U24](flow/adstag1.1.12U24-textual-flow.svg "adstag1.1.12U24")
 ## open-cbgm attestations ##
-![adstag1.1.14U54Ra](attestations/adstag1.1.14U54Ra-coherence-attestations.svg "adstag1.1.14U54Ra")
-![adstag1.1.14U54Rb](attestations/adstag1.1.14U54Rb-coherence-attestations.svg "adstag1.1.14U54Rb")
+![adstag1.1.12U24Ra](attestations/adstag1.1.12U24Ra-coherence-attestations.svg "adstag1.1.12U24Ra")
+![adstag1.1.12U24Rb](attestations/adstag1.1.12U24Rb-coherence-attestations.svg "adstag1.1.12U24Rb")
 ## open-cbgm flow limited to variant readings ##
-![adstag1.1.14U54](variants/adstag1.1.14U54-coherence-variants.svg "adstag1.1.14U54")
+![adstag1.1.12U24](variants/adstag1.1.12U24-coherence-variants.svg "adstag1.1.12U24")
 ## Local stemma ##
-![adstag1.1.14U54](local/adstag1.1.14U54-local-stemma.svg "adstag1.1.14U54")
-
+![adstag1.1.12U24](local/adstag1.1.12U24-local-stemma.svg "adstag1.1.12U24")
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
