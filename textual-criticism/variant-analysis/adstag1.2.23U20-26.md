@@ -25,12 +25,20 @@
 ## 🔄 Directionality & Genealogy
 - **Likely Original Reading**: [e.g., Reading A]
 - **Genealogical Relationships**:
-  - [e.g., B likely derived from A via harmonization]
-  - [e.g., C appears to be a conflation of A and B]
+## open-cbgm textual flow ##
+![adstag1.2.23U20-26](flow/adstag1.2.23U20-26-textual-flow.svg "adstag1.2.23U20-26")
+## open-cbgm attestations ##
+![adstag1.2.23U20-26Ra](attestations/adstag1.2.23U20-26Ra-coherence-attestations.svg "adstag1.2.23U20-26Ra")
+![adstag1.2.23U20-26Rar1](attestations/adstag1.2.23U20-26Rar1-coherence-attestations.svg "adstag1.2.23U20-26Rar1")
+![adstag1.2.23U20-26Rar2](attestations/adstag1.2.23U20-26Rar2-coherence-attestations.svg "adstag1.2.23U20-26Rar2")
+![adstag1.2.23U20-26Rar3](attestations/adstag1.2.23U20-26Rar3-coherence-attestations.svg "adstag1.2.23U20-26Rar3")
+![adstag1.2.23U20-26Rb](attestations/adstag1.2.23U20-26Rb-coherence-attestations.svg "adstag1.2.23U20-26Rb")
+![adstag1.2.23U20-26Rc](attestations/adstag1.2.23U20-26Rc-coherence-attestations.svg "adstag1.2.23U20-26Rc")
+## open-cbgm flow limited to variant readings ##
+![adstag1.2.23U20-26](variants/adstag1.2.23U20-26-coherence-variants.svg "adstag1.2.23U20-26")
+## Local stemma ##
+![adstag1.2.23U20-26](local/adstag1.2.23U20-26-local-stemma.svg "adstag1.2.23U20-26")
 
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
