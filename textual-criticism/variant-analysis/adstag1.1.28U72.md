@@ -27,6 +27,12 @@ Euphemism?
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+- **Textual flow**:
+![Ad Stag 1.1.28/72](flow/adstag1.1.28U72-textual-flow.svg "Ad Stag 1.1.28/72 textual flow")
+- **Coherence of variants (readings)**
+![Ad Stag 1.1.28/72Ra](attestations/adstag1.1.28U72Ra-coherence-attestations.svg "Ad Stag 1.1.28/72Ra")
+![Ad Stag 1.1.28/72Rb](attestations/adstag1.1.28U72Rb-coherence-attestations.svg "Ad Stag 1.1.28/72Rb")
+![Ad Stag 1.1.28/72Rc](attestations/adstag1.1.28U72Rbr1-coherence-attestations.svg "Ad Stag 1.1.28/72Rc")
 
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
