@@ -1,10 +1,10 @@
-# Variant Analysis: AdStag1.2.22/30-32
+# Variant Analysis: AdStag1.2.22/31
 
 ## 📌 Variant Description
-- **Location**: adstag1.2.22/30-32
+- **Location**: adstag1.2.22/31
 - **Variant Units**: 
-  - Reading A: γῆς
-  - Reading B: τῆς γῆς
+  - Reading A: omit τῆς
+  - Reading B: τῆς (γῆς)
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
@@ -23,10 +23,15 @@
 ## 🔄 Directionality & Genealogy
 - **Likely Original Reading**: [e.g., Reading A]
 - **Genealogical Relationships**:
-  - [e.g., B likely derived from A via harmonization]
-  - [e.g., C appears to be a conflation of A and B]
-
-## 🌿 Local Stemma Placement
+## open-cbgm textual flow ##
+![adstag1.2.22U31](flow/adstag1.2.22U31-textual-flow.svg "adstag1.2.22U31")
+## open-cbgm attestations ##
+![adstag1.2.22U31Ra](attestations/adstag1.2.22U31Ra-coherence-attestations.svg "adstag1.2.22U31Ra")
+![adstag1.2.22U31Rb](attestations/adstag1.2.22U31Rb-coherence-attestations.svg "adstag1.2.22U31Rb")
+## open-cbgm flow limited to variant readings ##
+![adstag1.2.22U31](variants/adstag1.2.22U31-coherence-variants.svg "adstag1.2.22U31")
+## Local stemma ##
+![adstag1.2.22U31](local/adstag1.2.22U31-local-stemma.svg "adstag1.2.22U31")
 - **Proposed Stemma**:
   - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
