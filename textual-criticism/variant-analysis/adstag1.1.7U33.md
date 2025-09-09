@@ -28,7 +28,11 @@ With or without definite article.
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
-
+- ## open-cbgm textual flow##
+![adstag1.1.7U33](flow/adstag1.1.7U33-textual-flow.svg "adstag1.1.7U33")
+- ## open-cbgm attestations##
+![adstag1.1.7U33Ra](attestations/adstag1.1.7U33Ra-coherence-attestations.svg "adstag1.1.7U33Ra")
+![adstag1.1.7U33Rb](attestations/adstag1.1.7U33Rb-coherence-attestations.svg "adstag1.1.7U33Rb")
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
   - [Diagram or description, e.g., A → B → C]
