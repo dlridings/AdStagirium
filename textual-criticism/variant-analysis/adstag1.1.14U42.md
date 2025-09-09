@@ -22,7 +22,6 @@
 - **Textual flow**: connectivity 1
 ![Ad Stag 1.1.14/42](flow/adstag1.1.14U42-textual-flow.png "Ad Stag 1.1.14/42")
 - **Attestations**
-- **Ra**
 ![Ra](attestations/adstag1.1.14U42Ra-coherence-attestations.png "Ad Stag 1.1.14/42 Ra")
 - **Rb**
 ![Rb](attestations/adstag1.1.14U42Rb-coherence-attestations.png "Ad Stag 1.1.14/42 Rb")
