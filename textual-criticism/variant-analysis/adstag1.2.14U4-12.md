@@ -38,9 +38,8 @@
 ![adstag1.2.14U4-12Rd](attestations/adstag1.2.14U4-12Rd-coherence-attestations.svg "adstag1.2.14U4-12Rd")
 ## open-cbgm flow limited to variant readings ##
 ![adstag1.2.14U4-12](variants/adstag1.2.14U4-12-coherence-variants.svg "adstag1.2.14U4-12")
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
+## Local stemma ##
+![adstag1.2.14U4-12](local/adstag1.2.14U4-12-local-stemma.svg "adstag1.2.14U4-12")
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
