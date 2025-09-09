@@ -29,7 +29,13 @@
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
-
+## open-cbgm textual flow##
+![adstag1.2.14U4-12](flow/adstag1.2.14U4-12-textual-flow.svg "adstag1.2.14U4-12")
+## open-cbgm attestations##
+![adstag1.2.14U4-12Ra](attestations/adstag1.2.14U4-12Ra-coherence-attestations.svg "adstag1.2.14U4-12Ra")
+![adstag1.2.14U4-12Rb](attestations/adstag1.2.14U4-12Rb-coherence-attestations.svg "adstag1.2.14U4-12Rb")
+![adstag1.2.14U4-12Rc](attestations/adstag1.2.14U4-12Rc-coherence-attestations.svg "adstag1.2.14U4-12Rc")
+![adstag1.2.14U4-12Rd](attestations/adstag1.2.14U4-12Rd-coherence-attestations.svg "adstag1.2.14U4-12Rd")
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
   - [Diagram or description, e.g., A → B → C]
