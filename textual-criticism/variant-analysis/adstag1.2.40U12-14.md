@@ -4,8 +4,8 @@
 - **Variant unit**: adstag1.2.40/12
 
 - **Variant Units**: 
-  - Reading A: τοῦ
-  - Reading B: τὸν
+  - Reading A: τοῦ παραδείσου
+  - Reading B: τὸν παράδισον
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
@@ -25,15 +25,16 @@
 - **Likely Original Reading**: [e.g., Reading A]
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
-- **Textual flow**:
-![Ad Stag 1.x.x](flow/adstag1.x.xUx-textual-flow.svg "Ad Stag 1.x.x textual flow")
-- **Coherence of variants (readings)**
-![Ad Stag 1.x.x/xRa](attestations/adstag1.x.xUxRa-coherence-attestations.svg "Ad Stag 1.x.xUxRa")
+## open-cbgm textual flow ##
+![adstag1.2.40U12-14](flow/adstag1.2.40U12-14-textual-flow.svg "adstag1.2.40U12-14")
+## open-cbgm attestations ##
+![adstag1.2.40U12-14Ra](attestations/adstag1.2.40U12-14Ra-coherence-attestations.svg "adstag1.2.40U12-14Ra")
+![adstag1.2.40U12-14Rb](attestations/adstag1.2.40U12-14Rb-coherence-attestations.svg "adstag1.2.40U12-14Rb")
+## open-cbgm flow limited to variant readings ##
+![adstag1.2.40U12-14](variants/adstag1.2.40U12-14-coherence-variants.svg "adstag1.2.40U12-14")
+## Local stemma ##
+![adstag1.2.40U12-14](local/adstag1.2.40U12-14-local-stemma.svg "adstag1.2.40U12-14")
 
-
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
