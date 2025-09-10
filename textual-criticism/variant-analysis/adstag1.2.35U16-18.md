@@ -5,16 +5,16 @@ Come back to. Bas might be correct.
 ## 📌 Variant Description
 - **Location**: adstag1.2.35/16-18
 - **Variant Units**: 
-  - Reading A: εὐεργετῶν αὐτὸν διετέλεσε
-  - Reading B: αὐτὸν εὐεργετῶν διετέλεσε
-  - Reading C: εὐεργετῶν διετέλεσε
+  - Reading A: εὐεργετῶν αὐτὸν (διετέλεσε)
+  - Reading B: αὐτὸν εὐεργετῶν (διετέλεσε)
+  - Reading C: εὐεργετῶν (διετέλεσε)
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | A116 A25 A336 Bodl La22 La35 M111 M136 P74 S32 V1920 V2250 V565 V571 | A25 La22 Migne |
-| B      | B39 LaSM P01 Pal Patm V1639 V2036 V566    |  |
-| C      | Bas Est La2 M118 Marc Mon Nan Neap Sin Taur V1629 V1897 V536 V560 V568 V569       | Bas La2 V560 Nan and Taur-group |
+| A      | P74 V2250 A25 La35 M565 S32 M136 A336 A116 V1920 M111 Bodl V571 La22 | A25 La22 Migne |
+| B      | Pal LaSM Patm V1639 P01 V2036 V566 B39 | Savile  |
+| C      | V1897 Bas La2 M118 V560 Sin Neap Nan V568 V536 Mon V1629 V569 Est Marc Taur | Bas Nan La2|
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
