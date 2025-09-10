@@ -3,7 +3,7 @@
 ## 📌 Variant Description
 - **Location**: adstag1.2.26/60-62
 - **Variant Units**: 
-  - Reading A: κἀν τούτῳ
+  - Reading A: καὶ τούτῳ
   - Reading B: καὶ τoῦτο
   - Reading C: κἀν τούτῳ
 
