@@ -4,14 +4,14 @@
 - **Variant unit**: adstag1.2.40/10
 
 - **Variant Units**: 
-  - Reading A: ἀποκλεῖσαι
-  - Reading B: ἀποικίσαι
+  - Reading A: ἀποικίσαι
+  - Reading B: ἀποκλεῖσαι 
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | V2250 Bas La2 V560 V1920 V536|  |
-| B      | P74 V1897 Pal A25 La35 LaSM Patm V1639 M118 P01 V565 S32 M136 Sin Neap A336 A116 V2036 Nan M111 V566 V568 Bodl V571 Mon V1629 V569 B39 Est Marc Taur La22 |  |
+| A      | P74 V1897 Pal A25 La35 LaSM Patm V1639 M118 P01 V565 S32 M136 Sin Neap A336 A116 V2036 Nan M111 V566 V568 Bodl V571 Mon V1629 V569 B39 Est Marc Taur La22 | Savile |
+| B      | V2250 Bas La2 V560 V1920 V536 | Migne |
 
 
 ## 🧠 Internal Evidence
