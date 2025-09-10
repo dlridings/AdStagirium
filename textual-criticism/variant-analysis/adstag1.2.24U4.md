@@ -37,6 +37,8 @@
 ## open-cbgm flow limited to variant readings ##
 ![adstag1.2.24U4](variants/adstag1.2.24U4-coherence-variants.svg "adstag1.2.24U4")
 ## Local stemma ##
+This will be changed. Already done so in Apatosaurus.
+
 ![adstag1.2.24U4](local/adstag1.2.24U4-local-stemma.svg "adstag1.2.24U4")
 
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
