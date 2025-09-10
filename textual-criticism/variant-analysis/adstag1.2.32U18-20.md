@@ -1,11 +1,11 @@
-# Variant Analysis: AdStag1.2.32/18-10
+# Variant Analysis: AdStag1.2.32/18-20
 
 ## 📌 Variant Description
 - **Location**: adstag1.2.32/18-20
 - **Variant Units**: 
-  - Reading A: οὔτε μικρὸν εὐεργεσίας ἕνεκεν ἐπιδειξαμένου
-  - Reading B: οὔτε μικρὸν εὐεργεσίας ἕνεκεν εἶδος ἐπιδειξαμένου
-  - Reading C: οὔτε μικρὸν εὐεργεσίας εἶδος ἕνεκεν ἐπιδειξαμἐνου
+  - Reading A: (οὔτε μικρὸν εὐεργεσίας) ἕνεκεν ἐπιδειξαμένου
+  - Reading B: (οὔτε μικρὸν εὐεργεσίας) ἕνεκεν εἶδος ἐπιδειξαμένου
+  - Reading C: (οὔτε μικρὸν εὐεργεσίας) εἶδος ἕνεκεν ἐπιδειξαμἐνου
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
