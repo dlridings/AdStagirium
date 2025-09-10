@@ -1,19 +1,17 @@
-# Variant Analysis: AdStag1.x.x
+# Variant Analysis: AdStag1.2.40/12
 
 ## 📌 Variant Description
-- **Variant unit**: adstag1.x.x
+- **Variant unit**: adstag1.2.40/12
 
 - **Variant Units**: 
-  - Reading A: [Text]
-  - Reading B: [Text]
-  - Reading C: [Text]
+  - Reading A: τοῦ
+  - Reading B: τὸν
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      |  |  |
-| B      | [e.g., C, E]    |  |
-| C      | [e.g., F]       |  |
+| A      |  All but B|  |
+| B      | La2  |  |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
