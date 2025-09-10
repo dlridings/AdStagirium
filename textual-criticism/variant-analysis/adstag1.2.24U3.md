@@ -1,19 +1,19 @@
-# Variant Analysis: AdStag1.x.x
+# Variant Analysis: AdStag1.2.24/3
 
 ## 📌 Variant Description
-- **Variant unit**: adstag1.x.x
+- **Variant unit**: adstag1.2.24/3
 
 - **Variant Units**: 
-  - Reading A: [Text]
-  - Reading B: [Text]
-  - Reading C: [Text]
+  - Reading A: omit
+  - Reading B: ὅμως
+
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      |  |  |
-| B      | [e.g., C, E]    |  |
-| C      | [e.g., F]       |  |
+| A      | P74 V1897 V2250 Pal A25 Bas La35 LaSM La2 Patm S249 V1639 P01 V565 V560 S32 A336 A116 V1920 V2036 Nan M111 V566 Bodl V571 B39 Est La22 |  |
+| B      |  M118 M136 Sin Neap V568 V536 Mon V1629 V569 Marc Taur   | Taur-group, editions |
+
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
