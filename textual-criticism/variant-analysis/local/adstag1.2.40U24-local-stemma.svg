@@ -32,7 +32,7 @@
 <text text-anchor="middle" x="207" y="-30.3" font-family="Times,serif" font-size="14.00">b</text>
 </g>
 <!-- 0&#45;&gt;1 -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>0&#45;&gt;1</title>
 <path fill="none" stroke="black" d="M263.29,-98.99C258.08,-93.3 252.26,-86.9 247,-81 240.93,-74.19 234.4,-66.74 228.43,-59.87"/>
 <polygon fill="black" stroke="black" points="230.91,-57.39 221.72,-52.13 225.62,-61.98 230.91,-57.39"/>
@@ -44,7 +44,7 @@
 <text text-anchor="middle" x="279" y="-30.3" font-family="Times,serif" font-size="14.00">c</text>
 </g>
 <!-- 0&#45;&gt;2 -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>0&#45;&gt;2</title>
 <path fill="none" stroke="black" d="M279,-98.82C279,-88.19 279,-74.31 279,-62.2"/>
 <polygon fill="black" stroke="black" points="282.5,-62.15 279,-52.15 275.5,-62.15 282.5,-62.15"/>
@@ -56,7 +56,7 @@
 <text text-anchor="middle" x="351" y="-30.3" font-family="Times,serif" font-size="14.00">d</text>
 </g>
 <!-- 0&#45;&gt;3 -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>0&#45;&gt;3</title>
 <path fill="none" stroke="black" d="M294.71,-98.99C299.92,-93.3 305.74,-86.9 311,-81 317.07,-74.19 323.6,-66.74 329.57,-59.87"/>
 <polygon fill="black" stroke="black" points="332.38,-61.98 336.28,-52.13 327.09,-57.39 332.38,-61.98"/>
