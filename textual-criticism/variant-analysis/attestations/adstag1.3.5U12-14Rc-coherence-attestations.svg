@@ -22,21 +22,21 @@
 <text text-anchor="middle" x="101" y="-110.8" font-family="Times,serif" font-size="14.00">adstag1.3.5U12&#45;14, c</text>
 <text text-anchor="middle" x="101" y="-95.8" font-family="Times,serif" font-size="14.00">Con = 5</text>
 </g>
-<!-- 17 -->
+<!-- 10 -->
 <g id="node2" class="node">
-<title>17</title>
+<title>10</title>
 <ellipse fill="none" stroke="black" cx="264" cy="-34" rx="50.09" ry="18"/>
 <text text-anchor="middle" x="264" y="-30.3" font-family="Times,serif" font-size="14.00">Neap (c)</text>
 </g>
-<!-- 11 -->
+<!-- 40 -->
 <g id="node3" class="node">
-<title>11</title>
+<title>40</title>
 <ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="264" cy="-107" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="264" y="-103.3" font-family="Times,serif" font-size="14.00">aBase (a)</text>
 </g>
-<!-- 11&#45;&gt;17 -->
+<!-- 40&#45;&gt;10 -->
 <g id="edge1" class="edge">
-<title>11&#45;&gt;17</title>
+<title>40&#45;&gt;10</title>
 <path fill="none" stroke="blue" stroke-width="2" d="M264,-88.81C264,-80.79 264,-71.05 264,-62.07"/>
 <polygon fill="blue" stroke="blue" stroke-width="2" points="267.5,-62.03 264,-52.03 260.5,-62.03 267.5,-62.03"/>
 </g>
