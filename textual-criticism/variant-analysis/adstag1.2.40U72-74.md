@@ -1,5 +1,7 @@
 # Variant Analysis: AdStag1.x.x
 
+This should be 70-74 but I would have to recollate, losing all previous work on this verse. Wait.
+
 ## 📌 Variant Description
 - **Variant unit**: adstag1.x.x
 
