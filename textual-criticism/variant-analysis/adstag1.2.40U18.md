@@ -4,15 +4,15 @@
 - **Variant unit**: adstag1.2.40/18
 
 - **Variant Units**: 
-  - Reading A: κατοικήσαι
-  - Reading B: κατοικίσαι
+  - Reading A: κατοικίσαι
+  - Reading B: κατοικήσαι
 
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | Bas V560 Sin V1920 Marc |  |
-| B      | The rest   |  |
+| A      | All but B   | Editions |
+| B      | Bas V560 Sin V1920 Marc |  |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
