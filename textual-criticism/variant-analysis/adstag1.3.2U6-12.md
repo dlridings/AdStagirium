@@ -15,7 +15,7 @@
 | A      | All but below | Editions |
 | B      | A336 M111  |  |
 | C      | P74  | damage |
-| C      | V1897 V2250 Bas Nan Est  |  |
+| D      | V1897 V2250 Bas Nan Est  |  |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
