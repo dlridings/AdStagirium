@@ -22,21 +22,21 @@
 <text text-anchor="middle" x="104" y="-110.8" font-family="Times,serif" font-size="14.00">adstag1.2.40U48&#45;50, j</text>
 <text text-anchor="middle" x="104" y="-95.8" font-family="Times,serif" font-size="14.00">Con = 1</text>
 </g>
-<!-- 24 -->
+<!-- 29 -->
 <g id="node2" class="node">
-<title>24</title>
+<title>29</title>
 <ellipse fill="none" stroke="black" cx="263" cy="-34" rx="47.39" ry="18"/>
 <text text-anchor="middle" x="263" y="-30.3" font-family="Times,serif" font-size="14.00">V569 (j)</text>
 </g>
-<!-- 38 -->
+<!-- 6 -->
 <g id="node3" class="node">
-<title>38</title>
+<title>6</title>
 <ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="263" cy="-107" rx="44.39" ry="18"/>
 <text text-anchor="middle" x="263" y="-103.3" font-family="Times,serif" font-size="14.00">Taur (i)</text>
 </g>
-<!-- 38&#45;&gt;24 -->
+<!-- 6&#45;&gt;29 -->
 <g id="edge1" class="edge">
-<title>38&#45;&gt;24</title>
+<title>6&#45;&gt;29</title>
 <path fill="none" stroke="blue" stroke-dasharray="5,2" d="M263,-88.81C263,-80.79 263,-71.05 263,-62.07"/>
 <polygon fill="blue" stroke="blue" points="266.5,-62.03 263,-52.03 259.5,-62.03 266.5,-62.03"/>
 </g>

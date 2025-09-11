@@ -5,13 +5,13 @@
 
 - **Variant Units**: 
   - Reading A: ἀνώτερον ἀποφῆναι
-  - Reading B: ἀνώτερον ἀφεῖναι
-  - Reading C: ἀφίναι ἀνώτερον
-  - Reading D: ἀνώτερον ἀποφεῖναι
-  - Reading E: ἀνώτερον ἀπφεῖναι
-  - Reading F: ἀνώτερον φανήναι
+  - Reading B: ἀνώτερον ἀποφεῖναι
+  - Reading C: ἀνώτερον ἀφεῖναι
+  - Reading D: ἀνώτερον ἀφῆναι
+  - Reading E: ἀφίναι ἀνώτερον
+  - Reading F: ἀνώτερον ἀπφεῖναι
   - Reading G: ἀνώτερον φανήναι
-  - Reading H: ἀνώτερον ἀφῆναι
+  - Reading H: ἀνώτερον φῆναι
   - Reading I: ἀφεῖναι
   - Reading J: ἀφῆναι
 
@@ -19,13 +19,13 @@
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
 | A      | Pal Bas P01 V536 | Editions |
-| B      |  P74 La35 Patm V565 V560 S32 M136 Sin A336 A116 V1920 V2036 M111 Marc-c Bodl V571 Mon La22 |  |
-| C      | La2 |  |
-| D      | A25 |  |
-| E      | B39 |  |
-| F      | V1897 Nan Est |  |
+| B      | A25 |  |
+| C      |  P74 La35 Patm V565 V560 S32 M136 Sin A336 A116 V1920 V2036 M111 Marc-c Bodl V571 Mon La22 |  |
+| D      | LaSM V1639 Savile-H V566 |  |
+| E      | La2 |  |
+| F      | B39 |  |
 | G      | V2250 |  |
-| H      | LaSM V1639 Savile-H V566 |  |
+| H      | V1897 Nan Est |  |
 | I      | M118 Neap V568 V1629 Marc Taur |  |
 | J      | V569 |  |
 
