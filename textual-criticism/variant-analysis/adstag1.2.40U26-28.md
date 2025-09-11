@@ -4,15 +4,15 @@
 - **Variant unit**: adstag1.2.40/26-28
 
 - **Variant Units**: 
-  - Reading A: τὸ ξύλον
-  - Reading B: τοῦ ξύλου
+  - Reading A: τοῦ ξύλου
+  - Reading B: τὸ ξύλον
   - Reading C: omit
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | Bas La2 V536 |  |
-| B      | P74 V1897 Pal A25 La35 LaSM Patm V1639 M118 P01 V565 V560 S32 M136 Sin Neap A336 A116 V1920 V2036 Nan M111 V566 V568 Bodl V571 Mon V1629 V569 B39 Est Marc Taur La22   | editions  |
+| A      | P74 V1897 Pal A25 La35 LaSM Patm V1639 M118 P01 V565 V560 S32 M136 Sin Neap A336 A116 V1920 V2036 Nan M111 V566 V568 Bodl V571 Mon V1629 V569 B39 Est Marc Taur La22   | editions  |
+| B      | Bas La2 V536 |  |
 | C      | V2250   |  |
 
 ## 🧠 Internal Evidence

@@ -22,21 +22,21 @@
 <text text-anchor="middle" x="106" y="-110.8" font-family="Times,serif" font-size="14.00">adstag1.2.40U26&#45;28, c</text>
 <text text-anchor="middle" x="106" y="-95.8" font-family="Times,serif" font-size="14.00">Con = 5</text>
 </g>
-<!-- 39 -->
+<!-- 30 -->
 <g id="node2" class="node">
-<title>39</title>
+<title>30</title>
 <ellipse fill="none" stroke="black" cx="275" cy="-34" rx="55.49" ry="18"/>
 <text text-anchor="middle" x="275" y="-30.3" font-family="Times,serif" font-size="14.00">V2250 (c)</text>
 </g>
-<!-- 37 -->
+<!-- 36 -->
 <g id="node3" class="node">
-<title>37</title>
-<ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="275" cy="-107" rx="45.49" ry="18"/>
-<text text-anchor="middle" x="275" y="-103.3" font-family="Times,serif" font-size="14.00">Nan (b)</text>
+<title>36</title>
+<ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="275" cy="-107" rx="44.69" ry="18"/>
+<text text-anchor="middle" x="275" y="-103.3" font-family="Times,serif" font-size="14.00">Nan (a)</text>
 </g>
-<!-- 37&#45;&gt;39 -->
+<!-- 36&#45;&gt;30 -->
 <g id="edge1" class="edge">
-<title>37&#45;&gt;39</title>
+<title>36&#45;&gt;30</title>
 <path fill="none" stroke="blue" stroke-dasharray="5,2" d="M275,-88.81C275,-80.79 275,-71.05 275,-62.07"/>
 <polygon fill="blue" stroke="blue" points="278.5,-62.03 275,-52.03 271.5,-62.03 278.5,-62.03"/>
 </g>
