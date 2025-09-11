@@ -20,7 +20,7 @@
 |--------|-------------|-------|
 | A      | Pal Bas P01 V536 | Editions |
 | B      | A25 |  |
-| C      |  P74 La35 Patm V565 V560 S32 M136 Sin A336 A116 V1920 V2036 M111 Marc-c Bodl V571 Mon La22 |  |
+| C      | P74 La35 Patm V565 V560 S32 M136 Sin A336 A116 V1920 V2036 M111 Marc-c Bodl V571 Mon La22 |  |
 | D      | LaSM V1639 Savile-H V566 |  |
 | E      | La2 |  |
 | F      | B39 |  |
@@ -42,6 +42,7 @@
 - **Likely Original Reading**: [e.g., Reading A]
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+## open-cbgm textual flow ##
 ## open-cbgm textual flow ##
 ![adstag1.2.40U48-50](flow/adstag1.2.40U48-50-textual-flow.svg "adstag1.2.40U48-50")
 ## open-cbgm attestations ##
