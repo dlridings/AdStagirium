@@ -4,17 +4,17 @@
 - **Variant unit**: adstag1.2.40/24
 
 - **Variant Units**: 
-  - Reading A: ἐπιστρέψαι
-  - Reading B: ἀποτρέψαι
-  - Reading C: ἀποστρέψαι
-  - Reading C: omit
+  - Reading A: ἀποτρέψαι
+  - Reading B: ἀποστρέψαι
+  - Reading C: ἐπιστρέψαι
+  - Reading D: omit
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | Bas La2 V560 V1920 V536 |  |
-| B      | P74 V1897 Pal A25 La35 Patm V1639 P01 V565 S32 Neap A336 A116 V2036 M111 V566 V568 Bodl V571 Mon V1629 V569 B39 Est Marc Taur La22   |  |
-| C      | LaSM M118 M136 Sin Nan |  |
+| A      | P74 V1897 Pal A25 La35 Patm V1639 P01 V565 S32 Neap A336 A116 V2036 M111 V566 V568 Bodl V571 Mon V1629 V569 B39 Est Marc Taur La22   |  |
+| B      | LaSM M118 M136 Sin Nan |  |
+| C      | Bas La2 V560 V1920 V536 |  |
 | D | V2250 | |
 
 ## 🧠 Internal Evidence
@@ -40,7 +40,6 @@
 ![adstag1.2.40U24](variants/adstag1.2.40U24-coherence-variants.svg "adstag1.2.40U24")
 ## Local stemma ##
 ![adstag1.2.40U24](local/adstag1.2.40U24-local-stemma.svg "adstag1.2.40U24")
-
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
