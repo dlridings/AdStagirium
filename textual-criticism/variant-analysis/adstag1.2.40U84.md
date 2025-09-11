@@ -1,19 +1,17 @@
-# Variant Analysis: AdStag1.x.x
+# Variant Analysis: AdStag1.2.40/84
 
 ## 📌 Variant Description
-- **Variant unit**: adstag1.x.x
+- **Variant unit**: adstag1.2.40/84
 
 - **Variant Units**: 
-  - Reading A: [Text]
-  - Reading B: [Text]
-  - Reading C: [Text]
+  - Reading A: ἐγένετο
+  - Reading B: ἐγίνετο
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      |  |  |
-| B      | [e.g., C, E]    |  |
-| C      | [e.g., F]       |  |
+| A      | V2250 Pal Bas LaSM Patm M118 P01 V560 A116 V1920 V568 Mon V569 B39 | Bas V560 editions |
+| B      | P74 V1897 A25 La35 La2 V1639 V565 S32 M136 Sin Neap A336 V2036 Nan M111 V566 V536 Bodl V571 V1629 Est Marc Taur La22 | A25 La22 Taur-group |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
@@ -27,15 +25,16 @@
 - **Likely Original Reading**: [e.g., Reading A]
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
-- **Textual flow**:
-![Ad Stag 1.x.x](flow/adstag1.x.xUx-textual-flow.svg "Ad Stag 1.x.x textual flow")
-- **Coherence of variants (readings)**
-![Ad Stag 1.x.x/xRa](attestations/adstag1.x.xUxRa-coherence-attestations.svg "Ad Stag 1.x.xUxRa")
+## open-cbgm textual flow ##
+![adstag1.2.40U84](flow/adstag1.2.40U84-textual-flow.svg "adstag1.2.40U84")
+## open-cbgm attestations ##
+![adstag1.2.40U84Ra](attestations/adstag1.2.40U84Ra-coherence-attestations.svg "adstag1.2.40U84Ra")
+![adstag1.2.40U84Rb](attestations/adstag1.2.40U84Rb-coherence-attestations.svg "adstag1.2.40U84Rb")
+## open-cbgm flow limited to variant readings ##
+![adstag1.2.40U84](variants/adstag1.2.40U84-coherence-variants.svg "adstag1.2.40U84")
+## Local stemma ##
+![adstag1.2.40U84](local/adstag1.2.40U84-local-stemma.svg "adstag1.2.40U84")
 
-
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
