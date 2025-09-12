@@ -1,7 +1,7 @@
-# Variant Analysis: AdStag1.x.x
+# Variant Analysis: AdStag1.3.18/22-28
 
 ## 📌 Variant Description
-- **Variant unit**: adstag1.x.x
+- **Variant unit**: adstag1.3.18/22-28
 
 - **Variant Units**: 
   - Reading A: τὸ ταπεινοῦσθαι καὶ κάμπτεσθαι
