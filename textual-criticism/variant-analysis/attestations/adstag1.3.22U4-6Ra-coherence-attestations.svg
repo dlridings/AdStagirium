@@ -20,23 +20,23 @@
 <g id="node1" class="node">
 <title>label</title>
 <text text-anchor="middle" x="97" y="-121.8" font-family="Times,serif" font-size="14.00">adstag1.3.22U4&#45;6, a</text>
-<text text-anchor="middle" x="97" y="-106.8" font-family="Times,serif" font-size="14.00">Con = 5</text>
+<text text-anchor="middle" x="97" y="-106.8" font-family="Times,serif" font-size="14.00">Con = 3</text>
 </g>
-<!-- 9 -->
+<!-- 20 -->
 <g id="node2" class="node">
-<title>9</title>
-<ellipse fill="none" stroke="black" cx="256" cy="-34" rx="42.79" ry="18"/>
-<text text-anchor="middle" x="256" y="-30.3" font-family="Times,serif" font-size="14.00">Bas (a)</text>
-</g>
-<!-- 36 -->
-<g id="node3" class="node">
-<title>36</title>
+<title>20</title>
 <ellipse fill="none" stroke="black" cx="256" cy="-118" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="256" y="-114.3" font-family="Times,serif" font-size="14.00">aBase (a)</text>
 </g>
-<!-- 36&#45;&gt;9 -->
+<!-- 41 -->
+<g id="node3" class="node">
+<title>41</title>
+<ellipse fill="none" stroke="black" cx="256" cy="-34" rx="42.79" ry="18"/>
+<text text-anchor="middle" x="256" y="-30.3" font-family="Times,serif" font-size="14.00">Bas (a)</text>
+</g>
+<!-- 20&#45;&gt;41 -->
 <g id="edge1" class="edge">
-<title>36&#45;&gt;9</title>
+<title>20&#45;&gt;41</title>
 <path fill="none" stroke="black" stroke-width="2" d="M256,-99.61C256,-88.77 256,-74.6 256,-62.29"/>
 <polygon fill="black" stroke="black" stroke-width="2" points="259.5,-62.08 256,-52.08 252.5,-62.08 259.5,-62.08"/>
 <text text-anchor="middle" x="259.5" y="-73" font-family="Times,serif" font-size="10.00">3</text>
