@@ -41,6 +41,6 @@
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- [Any additional observations, uncertainties, or decisions made]
+- Local stemma was revised to b->c, but not reflected in the graphics yet.
 
 ---
