@@ -27,10 +27,17 @@
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+## open-cbgm textual flow ##
+![adstag1.3.28U36](flow/adstag1.3.28U36-textual-flow.svg "adstag1.3.28U36")
+## open-cbgm attestations ##
+![adstag1.3.28U36Ra](attestations/adstag1.3.28U36Ra-coherence-attestations.svg "adstag1.3.28U36Ra")
+![adstag1.3.28U36Rb](attestations/adstag1.3.28U36Rb-coherence-attestations.svg "adstag1.3.28U36Rb")
+![adstag1.3.28U36Rc](attestations/adstag1.3.28U36Rc-coherence-attestations.svg "adstag1.3.28U36Rc")
+## open-cbgm flow limited to variant readings ##
+![adstag1.3.28U36](variants/adstag1.3.28U36-coherence-variants.svg "adstag1.3.28U36")
+## Local stemma ##
+![adstag1.3.28U36](local/adstag1.3.28U36-local-stemma.svg "adstag1.3.28U36")
 
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
