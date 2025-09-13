@@ -39,6 +39,10 @@
   - [e.g., C appears to be a conflation of A and B]
 ## open-cbgm textual flow ##
 ![adstag1.3.22U4-6](flow/adstag1.3.22U4-6-textual-flow.svg "adstag1.3.22U4-6")
+## open-cbgm textual flow ##
+![adstag1.3.22U4-6](flow/adstag1.3.22U4-6-textual-flow.svg "adstag1.3.22U4-6")
+## open-cbgm textual flow ##
+![adstag1.3.22U4-6](flow/adstag1.3.22U4-6-textual-flow.svg "adstag1.3.22U4-6")
 ## open-cbgm attestations ##
 ![adstag1.3.22U4-6Ra](attestations/adstag1.3.22U4-6Ra-coherence-attestations.svg "adstag1.3.22U4-6Ra")
 ![adstag1.3.22U4-6Rb](attestations/adstag1.3.22U4-6Rb-coherence-attestations.svg "adstag1.3.22U4-6Rb")
