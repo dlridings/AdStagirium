@@ -3,14 +3,14 @@
 ## 📌 Variant Description
 - **Location**: adstag1.2.9/10
 - **Variant Units**: 
-  - Reading A: σπαράττεσθαι
-  - Reading B: ταράττεσθαι
+  - Reading B: σπαράττεσθαι
+  - Reading A: ταράττεσθαι
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | All but Bas | All but Bas |
-| B      | Bas  | lone |
+| B| All but Bas | All but Bas |
+| A      | Bas  | lone |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
