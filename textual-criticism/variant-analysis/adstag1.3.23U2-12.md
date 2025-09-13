@@ -32,8 +32,7 @@
 - **Likely Original Reading**: [e.g., Reading A]
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
-## open-cbgm textual flow ##
-![adstag1.3.23U2-12](flow/adstag1.3.23U2-12-textual-flow.svg "adstag1.3.23U2-12")
+
 ## open-cbgm textual flow ##
 ![adstag1.3.23U2-12](flow/adstag1.3.23U2-12-textual-flow.svg "adstag1.3.23U2-12")
 ## open-cbgm attestations ##
