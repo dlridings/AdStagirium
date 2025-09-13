@@ -1,7 +1,7 @@
-# Variant Analysis: AdStag1.3.46/53-58
+# Variant Analysis: AdStag1.3.46/54-58
 
 ## 📌 Variant Description
-- **Location**: adstag1.3.46/53-58
+- **Location**: adstag1.3.46/54-58
 - **Variant Units**: 
   - Reading A: πρὸς μετάνοιαν ἄγων
   - Reading B: εἰς μετάνοιαν ἄγων
