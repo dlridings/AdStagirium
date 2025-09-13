@@ -4,16 +4,16 @@
 - **Variant unit**: adstag1.x.x
 
 - **Variant Units**: 
-  - Reading A: [Text]
-  - Reading B: [Text]
-  - Reading C: [Text]
+  - Reading A: 
+  - Reading B: 
+  - Reading C: 
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
 | A      |  |  |
-| B      | [e.g., C, E]    |  |
-| C      | [e.g., F]       |  |
+| B      |  |  |
+| C      |  |  |
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
@@ -27,11 +27,8 @@
 - **Likely Original Reading**: [e.g., Reading A]
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+  
 - **Textual flow**:
-![Ad Stag 1.x.x](flow/adstag1.x.xUx-textual-flow.svg "Ad Stag 1.x.x textual flow")
-- **Coherence of variants (readings)**
-![Ad Stag 1.x.x/xRa](attestations/adstag1.x.xUxRa-coherence-attestations.svg "Ad Stag 1.x.xUxRa")
-
 
 ## 🌿 Local Stemma Placement
 - **Proposed Stemma**:
