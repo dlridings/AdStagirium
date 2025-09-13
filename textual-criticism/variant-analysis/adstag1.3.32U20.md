@@ -33,10 +33,17 @@ LSJ II folld. by a Prep., εἰς, ἐπὶ Pl, Isoc. πρὸς Pl. : ἐπ΄ �
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+## open-cbgm textual flow ##
+![adstag1.3.32U20](flow/adstag1.3.32U20-textual-flow.svg "adstag1.3.32U20")
+## open-cbgm attestations ##
+![adstag1.3.32U20Ra](attestations/adstag1.3.32U20Ra-coherence-attestations.svg "adstag1.3.32U20Ra")
+![adstag1.3.32U20Rb](attestations/adstag1.3.32U20Rb-coherence-attestations.svg "adstag1.3.32U20Rb")
+![adstag1.3.32U20Rc](attestations/adstag1.3.32U20Rc-coherence-attestations.svg "adstag1.3.32U20Rc")
+## open-cbgm flow limited to variant readings ##
+![adstag1.3.32U20](variants/adstag1.3.32U20-coherence-variants.svg "adstag1.3.32U20")
+## Local stemma ##
+![adstag1.3.32U20](local/adstag1.3.32U20-local-stemma.svg "adstag1.3.32U20")
 
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
