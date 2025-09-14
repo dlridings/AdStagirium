@@ -31,10 +31,18 @@
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
-
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
+## open-cbgm textual flow ##
+![adstag1.3.46U54-58](flow/adstag1.3.46U54-58-textual-flow.svg "adstag1.3.46U54-58")
+## open-cbgm attestations ##
+![adstag1.3.46U54-58Ra](attestations/adstag1.3.46U54-58Ra-coherence-attestations.svg "adstag1.3.46U54-58Ra")   
+![adstag1.3.46U54-58Rb](attestations/adstag1.3.46U54-58Rb-coherence-attestations.svg "adstag1.3.46U54-58Rb")   
+![adstag1.3.46U54-58Rc](attestations/adstag1.3.46U54-58Rc-coherence-attestations.svg "adstag1.3.46U54-58Rc")   
+![adstag1.3.46U54-58Rd](attestations/adstag1.3.46U54-58Rd-coherence-attestations.svg "adstag1.3.46U54-58Rd")   
+![adstag1.3.46U54-58Re](attestations/adstag1.3.46U54-58Re-coherence-attestations.svg "adstag1.3.46U54-58Re")   
+## open-cbgm flow limited to variant readings ##
+![adstag1.3.46U54-58](variants/adstag1.3.46U54-58-coherence-variants.svg "adstag1.3.46U54-58")
+## Local stemma ##
+![adstag1.3.46U54-58](local/adstag1.3.46U54-58-local-stemma.svg "adstag1.3.46U54-58")
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
