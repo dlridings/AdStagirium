@@ -22,39 +22,39 @@
 <text text-anchor="middle" x="94" y="-110.8" font-family="Times,serif" font-size="14.00">adstag1.3.43U12, c</text>
 <text text-anchor="middle" x="94" y="-95.8" font-family="Times,serif" font-size="14.00">Con = 10</text>
 </g>
-<!-- 8 -->
+<!-- 14 -->
 <g id="node2" class="node">
-<title>8</title>
+<title>14</title>
 <ellipse fill="none" stroke="black" cx="252" cy="-34" rx="42.49" ry="18"/>
 <text text-anchor="middle" x="252" y="-30.3" font-family="Times,serif" font-size="14.00">Bas (c)</text>
 </g>
-<!-- 25 -->
+<!-- 35 -->
 <g id="node3" class="node">
-<title>25</title>
+<title>35</title>
 <ellipse fill="none" stroke="black" cx="380" cy="-34" rx="51.99" ry="18"/>
 <text text-anchor="middle" x="380" y="-30.3" font-family="Times,serif" font-size="14.00">LaSM (c)</text>
 </g>
-<!-- 0 -->
+<!-- 11 -->
 <g id="node4" class="node">
-<title>0</title>
+<title>11</title>
 <ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="380" cy="-107" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="380" y="-103.3" font-family="Times,serif" font-size="14.00">aBase (a)</text>
 </g>
-<!-- 0&#45;&gt;25 -->
+<!-- 11&#45;&gt;35 -->
 <g id="edge2" class="edge">
-<title>0&#45;&gt;25</title>
+<title>11&#45;&gt;35</title>
 <path fill="none" stroke="blue" d="M380,-88.81C380,-80.79 380,-71.05 380,-62.07"/>
 <polygon fill="blue" stroke="blue" points="383.5,-62.03 380,-52.03 376.5,-62.03 383.5,-62.03"/>
 </g>
-<!-- 37 -->
+<!-- 12 -->
 <g id="node5" class="node">
-<title>37</title>
+<title>12</title>
 <ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="252" cy="-107" rx="55.79" ry="18"/>
 <text text-anchor="middle" x="252" y="-103.3" font-family="Times,serif" font-size="14.00">V1897 (a)</text>
 </g>
-<!-- 37&#45;&gt;8 -->
+<!-- 12&#45;&gt;14 -->
 <g id="edge1" class="edge">
-<title>37&#45;&gt;8</title>
+<title>12&#45;&gt;14</title>
 <path fill="none" stroke="blue" d="M252,-88.81C252,-80.79 252,-71.05 252,-62.07"/>
 <polygon fill="blue" stroke="blue" points="255.5,-62.03 252,-52.03 248.5,-62.03 255.5,-62.03"/>
 </g>
