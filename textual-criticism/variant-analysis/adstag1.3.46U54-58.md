@@ -4,18 +4,18 @@
 - **Location**: adstag1.3.46/54-58
 - **Variant Units**: 
   - Reading A: πρὸς μετάνοιαν ἄγων
-  - Reading B: εἰς μετάνοιαν ἄγων
-  - Reading C: καὶ πρὸς μετάνοιαν ἄγων
-  - Reading D: πρὸς δὲ καὶ εἰς μετάνοιαν ἄγων
-  - Reading E: πρὀς δὲ τούτοις καὶ εἰς μετάνοιαν ἄγων 
+  - Reading B: πρὀς δὲ τούτοις καὶ εἰς μετάνοιαν ἄγων 
+  - Reading C: εἰς μετάνοιαν ἄγων
+  - Reading D: καὶ πρὸς μετάνοιαν ἄγων
+  - Reading E: πρὸς δὲ καὶ εἰς μετάνοιαν ἄγων
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
 | A      | A116 A25 A336 B39 Bodl La2 La22 La35 LaSM M111 Neap P01 P74 Patm S249 S32 V1629 V1639 V2036 V565 V566 V571| A25 La22  |
-| B      | V1920 | lone |
-| C      | Pal | lone |
-| D      | Bas Est M118 Marc Mon Nan Sin Taur V1897 V2250 V536 V560 V568 V569 | Bas Nan V560 Taur-group, editions|
+| B      | Bas Est M118 Marc Mon Nan Sin Taur V1897 V2250 V536 V560 V568 V569 | Bas Nan V560 Taur-group, editions|
+| C      | V1920 | lone |
+| D      | Pal | lone |
 | E | M136 | lone |
 
 ## 🧠 Internal Evidence
