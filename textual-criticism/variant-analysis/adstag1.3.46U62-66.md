@@ -41,6 +41,7 @@
 ![adstag1.3.46U62-66](variants/adstag1.3.46U62-66-coherence-variants.svg "adstag1.3.46U62-66")
 ## Local stemma ##
 ![adstag1.3.46U62-66](local/adstag1.3.46U62-66-local-stemma.svg "adstag1.3.46U62-66")
+
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
