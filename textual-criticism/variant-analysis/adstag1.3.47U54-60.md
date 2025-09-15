@@ -4,9 +4,7 @@
 - **Location**: adstag1.3.47/54-60
 - **Variant Units**: 
   - Reading A: μεῖζον ἂν προῆλθε δεινόν
-  - Reading Ar1: μεῖζον ἂν προῆλθε δεινόν
-  - Reading Ar2: μεῖζον ἂν προῆλθε δεινόν
-  - Reading Ar3: μεῖζον ἂν προῆλθε δεινόν
+  - Reading Ar1: μεῖζον ἂν προῆλ δεινόν
   - Reading Β: ἂν προῆλθε μεῖζον δεινόν
   - Reading Br1: ἂν προῆλθεν μῖζον δεινόν
   - Reading C: μεῖζον ἂν προῆλθε κακόν
@@ -15,15 +13,13 @@
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
-| A      | P74 V1639 V565 S32 Sin A116 M111 V566 V1920-c V536 Bodl V571 Mon V569 B39 Est Marc Taur La22 | Savile |
-| Ar1 |Pal A25 LaSM Patm S249 M118 V560 A336 V1920 V2036 Nan||
-| Ar2 |La35 ||
-| Ar3 |P01 ||
+| A      | P74 Pal A25 La35 LaSM Patm S249 V1639 M118 V565 V560 S32 Sin A336 A116 V1920 V2036 Nan M111 V566 V536 Bodl V571 Mon V569 B39 Est Marc Taur La22 | Savile |
+| Ar1 |P01 ||
 | B      | V1897 |  |
 | Br1 |La2 ||
 | C      | Bas |  |
 | D      | V2250 M136 Neap V568 V1629       |  |
-| E      | La2 V1897 | only Migne |
+| E      |  | only Migne |
 
 Bas is alone, but 54-58 is in common with B, while 60 agrees with more than B and E.
 
