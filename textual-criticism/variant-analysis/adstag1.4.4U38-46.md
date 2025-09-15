@@ -33,10 +33,19 @@ Word order, verb choice. Not sure about not giving Bas priority.
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+## open-cbgm textual flow ##
+![adstag1.4.4U38-46](flow/adstag1.4.4U38-46-textual-flow.svg "adstag1.4.4U38-46")
+## open-cbgm attestations ##
+![adstag1.4.4U38-46Ra](attestations/adstag1.4.4U38-46Ra-coherence-attestations.svg "adstag1.4.4U38-46Ra")      
+![adstag1.4.4U38-46Rb](attestations/adstag1.4.4U38-46Rb-coherence-attestations.svg "adstag1.4.4U38-46Rb")      
+![adstag1.4.4U38-46Rc](attestations/adstag1.4.4U38-46Rc-coherence-attestations.svg "adstag1.4.4U38-46Rc")      
+![adstag1.4.4U38-46Rd](attestations/adstag1.4.4U38-46Rd-coherence-attestations.svg "adstag1.4.4U38-46Rd")      
+![adstag1.4.4U38-46Re](attestations/adstag1.4.4U38-46Re-coherence-attestations.svg "adstag1.4.4U38-46Re")      
+## open-cbgm flow limited to variant readings ##
+![adstag1.4.4U38-46](variants/adstag1.4.4U38-46-coherence-variants.svg "adstag1.4.4U38-46")
+## Local stemma ##
+![adstag1.4.4U38-46](local/adstag1.4.4U38-46-local-stemma.svg "adstag1.4.4U38-46")
 
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
