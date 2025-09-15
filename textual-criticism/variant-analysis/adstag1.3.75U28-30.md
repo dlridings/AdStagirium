@@ -29,12 +29,18 @@
 - **Likely Original Reading**: [e.g., Reading A]
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
-  
-- **Textual flow**:
+## open-cbgm textual flow ##
+![adstag1.3.75U28-30](flow/adstag1.3.75U28-30-textual-flow.svg "adstag1.3.75U28-30")
+## open-cbgm attestations ##
+![adstag1.3.75U28-30Ra](attestations/adstag1.3.75U28-30Ra-coherence-attestations.svg "adstag1.3.75U28-30Ra")   
+![adstag1.3.75U28-30Rb](attestations/adstag1.3.75U28-30Rb-coherence-attestations.svg "adstag1.3.75U28-30Rb")   
+![adstag1.3.75U28-30Rc](attestations/adstag1.3.75U28-30Rc-coherence-attestations.svg "adstag1.3.75U28-30Rc")   
+![adstag1.3.75U28-30Rd](attestations/adstag1.3.75U28-30Rd-coherence-attestations.svg "adstag1.3.75U28-30Rd")   
+## open-cbgm flow limited to variant readings ##
+![adstag1.3.75U28-30](variants/adstag1.3.75U28-30-coherence-variants.svg "adstag1.3.75U28-30")
+## Local stemma ##
+![adstag1.3.75U28-30](local/adstag1.3.75U28-30-local-stemma.svg "adstag1.3.75U28-30")
 
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
