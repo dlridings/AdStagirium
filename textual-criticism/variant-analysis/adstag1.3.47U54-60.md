@@ -43,6 +43,7 @@ Not sure, of course, but this is a start and forces me to come back to it.
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
 ## open-cbgm textual flow ##
+## open-cbgm textual flow ##
 ![adstag1.3.47U54-60](flow/adstag1.3.47U54-60-textual-flow.svg "adstag1.3.47U54-60")
 ## open-cbgm attestations ##
 ![adstag1.3.47U54-60Ra](attestations/adstag1.3.47U54-60Ra-coherence-attestations.svg "adstag1.3.47U54-60Ra")   
