@@ -14,10 +14,10 @@
 
 ## 🧠 Internal Evidence
 - **Transcriptional Probability**: [e.g., Reading A is shorter and more difficult]
-- **Stylistic/Contextual Fit**: [e.g., Reading B aligns with second sophistic style]
+- **Stylistic/Contextual Fit**: Contextually, B might be the better reading.
 
 ## 🧭 External Evidence
-- **Manuscript Age**: [e.g., Reading A supported by earlier MSS]
+- **Manuscript Age**: B is the oldest manuscript
 - **Geographical Spread**: []
 
 ## 🔄 Directionality & Genealogy
@@ -32,6 +32,6 @@
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
-- [Any additional observations, uncertainties, or decisions made]
+- Come back to this.
 
 ---
