@@ -22,21 +22,21 @@
 <text text-anchor="middle" x="106" y="-110.8" font-family="Times,serif" font-size="14.00">adstag1.3.46U62&#45;66, b</text>
 <text text-anchor="middle" x="106" y="-95.8" font-family="Times,serif" font-size="14.00">Con = 5</text>
 </g>
-<!-- 22 -->
+<!-- 29 -->
 <g id="node2" class="node">
-<title>22</title>
+<title>29</title>
 <ellipse fill="none" stroke="black" cx="274" cy="-34" rx="43.59" ry="18"/>
 <text text-anchor="middle" x="274" y="-30.3" font-family="Times,serif" font-size="14.00">La2 (b)</text>
 </g>
-<!-- 15 -->
+<!-- 20 -->
 <g id="node3" class="node">
-<title>15</title>
+<title>20</title>
 <ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="274" cy="-107" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="274" y="-103.3" font-family="Times,serif" font-size="14.00">aBase (a)</text>
 </g>
-<!-- 15&#45;&gt;22 -->
+<!-- 20&#45;&gt;29 -->
 <g id="edge1" class="edge">
-<title>15&#45;&gt;22</title>
+<title>20&#45;&gt;29</title>
 <path fill="none" stroke="blue" stroke-width="2" d="M274,-88.81C274,-80.79 274,-71.05 274,-62.07"/>
 <polygon fill="blue" stroke="blue" stroke-width="2" points="277.5,-62.03 274,-52.03 270.5,-62.03 277.5,-62.03"/>
 </g>
