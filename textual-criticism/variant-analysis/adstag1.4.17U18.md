@@ -6,16 +6,17 @@ Verb form (-αρεάζω)
 - **Location**: adstag1.4.17/18
 - **Variant Units**: 
   - Reading A: ἐπηρεάσται
-  - Reading B: ἐπηρεάσθη
-  - Reading C: ἐπηρεάσθαι
+  - Reading B: ἐπιρέασται
+  - Reading C: ἐπηρεάσθη
+  - Reading D: ἐπηρεάσθαι
   - Reading E: ἐπηρεάζεσθαι
 
 ## 🧬 Manuscript Support
 | Reading | Manuscripts | Notes |
 |--------|-------------|-------|
 | A      | A116 A25 A336 Bodl La2 La22 La35 M111 M136 P01 Patm S249 S32 V1639 V1920 V2036 V560 V565 V566 V571 |  |
-| B      | B39 Bas Est LaSM M118 Marc Mon Nan Neap Sin Taur V1629 V1897 V2250 V536 V568 | editions |
-| C      | P74 | [lone] |
+| B      | V1639 V566 | |
+| C      | V1897. V2250. Bas. LaSM. M118. Sin. Neap. Nan. V568. V536. Mon. V1629. B39. Est. Marc. Taur. | Editions |
 | D      | Pal | [lone] |
 | E      | Savile-H | [lone] |
 
@@ -32,10 +33,19 @@ Verb form (-αρεάζω)
 - **Genealogical Relationships**:
   - [e.g., B likely derived from A via harmonization]
   - [e.g., C appears to be a conflation of A and B]
+## open-cbgm textual flow ##
+![adstag1.4.17U18](flow/adstag1.4.17U18-textual-flow.svg "adstag1.4.17U18")
+## open-cbgm attestations ##
+![adstag1.4.17U18Ra](attestations/adstag1.4.17U18Ra-coherence-attestations.svg "adstag1.4.17U18Ra")
+![adstag1.4.17U18Rb](attestations/adstag1.4.17U18Rb-coherence-attestations.svg "adstag1.4.17U18Rb")
+![adstag1.4.17U18Rc](attestations/adstag1.4.17U18Rc-coherence-attestations.svg "adstag1.4.17U18Rc")
+![adstag1.4.17U18Rd](attestations/adstag1.4.17U18Rd-coherence-attestations.svg "adstag1.4.17U18Rd")
+![adstag1.4.17U18Re](attestations/adstag1.4.17U18Re-coherence-attestations.svg "adstag1.4.17U18Re")
+## open-cbgm flow limited to variant readings ##
+![adstag1.4.17U18](variants/adstag1.4.17U18-coherence-variants.svg "adstag1.4.17U18")
+## Local stemma ##
+![adstag1.4.17U18](local/adstag1.4.17U18-local-stemma.svg "adstag1.4.17U18")
 
-## 🌿 Local Stemma Placement
-- **Proposed Stemma**:
-  - [Diagram or description, e.g., A → B → C]
 - **Contamination Notes**: [e.g., Manuscript F shows mixture of A and B]
 
 ## 📝 Notes & Decisions
