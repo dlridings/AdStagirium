@@ -20,23 +20,23 @@
 <g id="node1" class="node">
 <title>label</title>
 <text text-anchor="middle" x="106" y="-110.8" font-family="Times,serif" font-size="14.00">adstag1.3.67U12&#45;22, e</text>
-<text text-anchor="middle" x="106" y="-95.8" font-family="Times,serif" font-size="14.00">Con = 5</text>
+<text text-anchor="middle" x="106" y="-95.8" font-family="Times,serif" font-size="14.00">Con = 3</text>
 </g>
-<!-- 34 -->
+<!-- 19 -->
 <g id="node2" class="node">
-<title>34</title>
+<title>19</title>
 <ellipse fill="none" stroke="black" cx="276" cy="-34" rx="50.09" ry="18"/>
 <text text-anchor="middle" x="276" y="-30.3" font-family="Times,serif" font-size="14.00">V536 (e)</text>
 </g>
-<!-- 19 -->
+<!-- 1 -->
 <g id="node3" class="node">
-<title>19</title>
+<title>1</title>
 <ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="276" cy="-107" rx="55.79" ry="18"/>
 <text text-anchor="middle" x="276" y="-103.3" font-family="Times,serif" font-size="14.00">V1629 (d)</text>
 </g>
-<!-- 19&#45;&gt;34 -->
+<!-- 1&#45;&gt;19 -->
 <g id="edge1" class="edge">
-<title>19&#45;&gt;34</title>
+<title>1&#45;&gt;19</title>
 <path fill="none" stroke="blue" stroke-dasharray="5,2" d="M276,-88.81C276,-80.79 276,-71.05 276,-62.07"/>
 <polygon fill="blue" stroke="blue" points="279.5,-62.03 276,-52.03 272.5,-62.03 279.5,-62.03"/>
 </g>
