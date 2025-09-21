@@ -20,35 +20,35 @@
 <g id="node1" class="node">
 <title>label</title>
 <text text-anchor="middle" x="106" y="-182.8" font-family="Times,serif" font-size="14.00">adstag1.3.67U12&#45;22, c</text>
-<text text-anchor="middle" x="106" y="-167.8" font-family="Times,serif" font-size="14.00">Con = 5</text>
+<text text-anchor="middle" x="106" y="-167.8" font-family="Times,serif" font-size="14.00">Con = 3</text>
 </g>
-<!-- 4 -->
+<!-- 12 -->
 <g id="node2" class="node">
-<title>4</title>
-<ellipse fill="none" stroke="black" cx="270" cy="-106" rx="46.29" ry="18"/>
-<text text-anchor="middle" x="270" y="-102.3" font-family="Times,serif" font-size="14.00">Mon (c)</text>
-</g>
-<!-- 23 -->
-<g id="node3" class="node">
-<title>23</title>
+<title>12</title>
 <ellipse fill="none" stroke="black" cx="270" cy="-34" rx="40.09" ry="18"/>
 <text text-anchor="middle" x="270" y="-30.3" font-family="Times,serif" font-size="14.00">Sin (c)</text>
 </g>
-<!-- 4&#45;&gt;23 -->
-<g id="edge2" class="edge">
-<title>4&#45;&gt;23</title>
+<!-- 27 -->
+<g id="node3" class="node">
+<title>27</title>
+<ellipse fill="none" stroke="black" cx="270" cy="-106" rx="46.29" ry="18"/>
+<text text-anchor="middle" x="270" y="-102.3" font-family="Times,serif" font-size="14.00">Mon (c)</text>
+</g>
+<!-- 27&#45;&gt;12 -->
+<g id="edge1" class="edge">
+<title>27&#45;&gt;12</title>
 <path fill="none" stroke="black" stroke-dasharray="1,5" d="M270,-87.7C270,-79.98 270,-70.71 270,-62.11"/>
 <polygon fill="black" stroke="black" points="273.5,-62.1 270,-52.1 266.5,-62.1 273.5,-62.1"/>
 </g>
-<!-- 30 -->
+<!-- 40 -->
 <g id="node4" class="node">
-<title>30</title>
+<title>40</title>
 <ellipse fill="none" stroke="blue" stroke-dasharray="5,2" cx="270" cy="-179" rx="50.09" ry="18"/>
 <text text-anchor="middle" x="270" y="-175.3" font-family="Times,serif" font-size="14.00">Marc (b)</text>
 </g>
-<!-- 30&#45;&gt;4 -->
-<g id="edge1" class="edge">
-<title>30&#45;&gt;4</title>
+<!-- 40&#45;&gt;27 -->
+<g id="edge2" class="edge">
+<title>40&#45;&gt;27</title>
 <path fill="none" stroke="blue" stroke-dasharray="1,5" d="M270,-160.81C270,-152.79 270,-143.05 270,-134.07"/>
 <polygon fill="blue" stroke="blue" points="273.5,-134.03 270,-124.03 266.5,-134.03 273.5,-134.03"/>
 </g>
