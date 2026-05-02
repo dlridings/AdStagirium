@@ -1,0 +1,478 @@
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A transcription of in Taur</title>
+<title type="document" n="Taur">Taur</title>
+</titleStmt>
+<publicationStmt>
+<p>Temporary PublicationStmt for validation</p>
+</publicationStmt>
+<sourceDesc>
+<p>Temporary sourceDesc for validation</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.6"><ab n="adStag1.6.1"><w>ὥσ
+<lb n="PCL-Taur" break="no"/>τε</w><w>ὁπότἂν</w><w>ἐννοήσῃς</w>
+<lb n="PCL-Taur"/><w>ὅτι</w><w>πατέρα</w><w>καὶ</w><w>οἰκίαν</w>
+<lb n="PCL-Taur"/><w>καὶ</w><w>φίλους</w><w>καὶ</w><w>συγγε
+<lb n="PCL-Taur" break="no"/>νεῖς</w><w>καὶ</w><w>πλοῦτον</w><w>καὶ</w>
+<lb n="PCL-Taur"/><w>δόξαν</w><w>ῥίψας</w><w>ἀπὸ</w><w>τῶν</w>
+<lb n="PCL-Taur"/><w>χειρῶν</w><w>διὰ</w><w>τὸν</w><w>Χριστὸν</w><w>εἶ
+<lb n="PCL-Taur" break="no"/>τα</w><w>τοσαύτην</w><app><rdg type="orig" hand="firsthand"/><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@PCL-Taur"><w>θλῖψιν</w></seg></rdg></app><w>ὑπομέ
+<lb n="PCL-Taur" break="no"/>νεις</w><w>νῦν</w><w>μὴ</w><w>καταβά
+<lb n="PCL-Taur" break="no"/>λῃς</w><w>σαυτόν</w></ab><ab n="adStag1.6.2"><w>ἐξ</w><w>ὧν</w>
+<lb n="PCL-Taur"/><w>γὰρ</w><w>ἡ</w><w>ἀπορία</w><w>τίκτε
+<lb n="PCL-Taur" break="no"/>ται</w><w>λογισμῶν</w><w>ἐκ</w><w>τῶν</w>
+<lb n="PCL-Taur"/><w>αὐτῶν</w><w>καὶ</w><w>ἡ</w><w>τῆς</w><w>ἀπο
+<lb n="PCL-Taur" break="no"/>ρίας</w><w>ἡμῖν</w><w>ἔσται</w><w>λύσις</w>
+<lb n="PCL-Taur"/></ab><ab n="adStag1.6.3"><w>πῶς</w><w>ἀδύνατον</w><w>ψεύ
+<lb n="PCL-Taur" break="no"/>σασθαι</w><w>θεόν</w><w>εἰπὲ</w><w>γάρ</w><w>μοι</w>
+<cb n="PC2-Taur"/>
+<lb n="PC2L-Taur"/><w>ἐπηγγείλατο</w><w>τοῖς</w><w>ταῦτα</w>
+<lb n="PC2L-Taur"/><w>καταλιποῦσι</w><w>ζωὴν</w>
+<lb n="PC2L-Taur"/><w>αἰώνιον</w></ab><ab n="adStag1.6.4"><w>εὔδηλον</w><w>ὅτι</w>
+<lb n="PC2L-Taur"/><w>οὐκοῦν</w><w>ἐπεὶ</w><w>κατέλιπες</w>
+<lb n="PC2L-Taur"/><w>καὶ</w><w>σὺ</w><w>πάντα</w><w>καὶ</w><w>διέ
+<lb n="PC2L-Taur" break="no"/>πτυσας</w><w>τὸ</w><w>κωλύον</w><w>οὐδέν</w>
+<lb n="PC2L-Taur"/><w>ἐστι</w><w>λοιπὸν</w><w>θαρρεῖν</w><w>ὑ
+<lb n="PC2L-Taur" break="no"/>πὲρ</w><w>τῆς</w><w>ὑποσχέσεως</w>
+<lb n="PC2L-Taur"/></ab><ab n="adStag1.6.5"><w>τί</w><w>γὰρ</w><w>κωλύσει</w><w>ὁ</w><w>κατέχων</w>
+<lb n="PC2L-Taur"/><w>σε</w><w>πειρασμὸς</w><w>νῦν</w><w>καὶ</w>
+<lb n="PC2L-Taur"/><w>τί</w><w>τοῦτο</w><w>πρὸς</w><w>τὴν</w><w>ὑ
+<lb n="PC2L-Taur" break="no"/>πόσχεσιν</w></ab><ab n="adStag1.6.6"><w>οὐ</w><w>γὰρ</w><w>ἐνταῦ
+<lb n="PC2L-Taur" break="no"/>θα</w><w>τὴν</w><w>αἰώνιον</w><w>ἡμῖν</w>
+<lb n="PC2L-Taur"/><w>ἐπηγγείλατο</w><w>ζωήν</w><w>εἰ</w>
+<lb n="PC2L-Taur"/><w>δὲ</w><w>καὶ</w><w>ἐνταῦθα</w><w>τὰ</w><w>τῆς</w>
+<lb n="PC2L-Taur"/><w>ἐπαγγελίας</w><w>πληροῦσθαι</w>
+<lb n="PC2L-Taur"/><w>ἔμελλεν</w><w>οὐδὲ</w><w>οὕτως</w><w>ἀ
+<lb n="PC2L-Taur" break="no"/>σχάλλειν</w><w>ἐχρῆν</w></ab><ab n="adStag1.6.7"><w>τὸν</w><w>γὰρ</w>
+<lb n="PC2L-Taur"/><w>εὐλαβῆ</w><w>καὶ</w><w>πιστὸν</w><w>ἄν
+<lb n="PC2L-Taur" break="no"/>δρα</w><w>οὕτω</w><w>βεβαίως</w><w>δια
+<lb n="PC2L-Taur" break="no"/>κεῖσθαι</w><w>χρὴ</w><w>πρὸς</w><w>τὰς</w>
+<lb n="PC2L-Taur"/><w>ἐπαγγελίας</w><w>τοῦ</w><w>θεοῦ</w><w>ὥσ
+<lb n="PC2L-Taur" break="no"/>τε</w><w>κἂν</w><w>ἐναντία</w><w>αὐταῖς</w>
+<lb n="PC2L-Taur"/><w>φαίνηται</w><w>τὰ</w><w>γινόμενα</w>
+<lb n="PC2L-Taur"/><w>μηδὲ</w><w>οὕτω</w><w>ταράττε
+<pb n="111v" type="folio" xml:id="P111v-Taur" break="no"/>
+<cb n="P111vC1-Taur"/>
+<lb n="P111vC1L-Taur"/>σθαι</w><w>μηδὲ</w><w>ἀπογινώσκειν</w><w>τὴν</w><w>ἔκβασιν</w></ab><ab n="adStag1.6.8"><w>ὅρα</w><w>γοῦν</w><w>ὁ</w><w>πιστὸς</w><w>ἀβραὰμ</w><w>τίνα</w><w>μὲν</w><w>ὑπόσχεσιν</w><w>ἐδέξατο</w><w>τίνα</w><w>δὲ</w><w>πράττειν</w><w>ἠναγκάζετο</w></ab><ab n="adStag1.6.9"><w>ἡ</w><w>μὲν</w><w>ὑπόσχεσις</w><w>ἦν</w><w>ἀπὸ</w><w>τοῦ</w><w>ἰσαὰκ</w><w>πᾶσαν</w><w>ἐμπλήσειν</w><w>τὴν</w><w>οἰκουμένην</w><w>τὸ</w><w>δὲ</w><w>πρόσταγμα</w><w>αὐτὸν</w><w>τοῦτον</w><w>καταθῦσαι</w><w>τὸν</w><w>ἰσαὰκ</w><w>ἐξ</w><w>οὗ</w><w>ἔμελλε</w><w>πᾶσα</w><w>πληροῦσθαι</w><w>ἡ</w><w>γῆ</w></ab><ab n="adStag1.6.10"><w>τί</w><w>οὖν</w><w>ἐθορύβει</w><w>τοῦτο</w><w>τὸν</w><w>δίκαιον</w></ab><ab n="adStag1.6.11"><w>οὐδαμῶς</w><w>ἀλλὰ</w><w>καὶ</w><w>τοσαύτης</w><w>διαφωνίας</w><w>οὔσης</w><w>καὶ</w><w>μάχης</w><w>τῇ</w><w>κελεύσει</w><w>πρὸς</w><w>τὴν</w><w>ἐπαγγελίαν</w><w>οὐκ</w><w>ἐταράχθη</w><w>οὐδὲ</w><w>ἰλιγγίασεν</w><w>οὐδὲ</w><w>εἶπέ</w><w>τι</w><w>τοιοῦτον</w><w>ἐκεῖνος</w></ab><ab n="adStag1.6.12"><w>ἕτερα</w><w>ἐπηγγείλατο</w><w>καὶ</w><w>ἕτερά</w><w>με</w><w>πράττειν</w><w>ἀναγκάζει</w><w>νῦν</w><w>ὁ</w>
+<cb n="P111vC2-Taur"/>
+<lb n="P111vC2L-Taur"/><w>θεός</w><w>ἀπὸ</w><w>τοῦ</w><w>παιδὸς</w><w>τού
+<lb n="P111vC2L-Taur" break="no"/>του</w><w>τὸ</w><w>πολύ</w><w>μοι</w><w>τῶν</w><w>ἐκ
+<lb n="P111vC2L-Taur" break="no"/>γόνων</w><w>ὑπέσχετο</w><w>πλῆθος</w>
+<lb n="P111vC2L-Taur"/><w>καὶ</w><w>τοῦτον</w><w>κατασφάξαι</w>
+<lb n="P111vC2L-Taur"/><w>κελεύει</w><w>νῦν</w></ab><ab n="adStag1.6.13"><w>πῶς</w><w>οὖν</w>
+<lb n="P111vC2L-Taur"/><w>τοῦτο</w><w>ἔσται</w><w>τῆς</w><w>ῥίζης</w>
+<lb n="P111vC2L-Taur"/><w>ἐκκεκομμένης</w></ab><ab n="adStag1.6.14"><w>ἠπά
+<lb n="P111vC2L-Taur" break="no"/>τησέ</w><w>με</w><w>ἄρα</w><w>καὶ</w><w>διέ
+<lb n="P111vC2L-Taur" break="no"/>παιξεν</w><w>οὐδὲν</w><w>τούτων</w>
+<lb n="P111vC2L-Taur"/><w>εἶπεν</w><w>οὐδὲ</w><w>ἐνενόησε</w>
+<lb n="P111vC2L-Taur"/><w>καὶ</w><w>μάλα</w><w>γε</w><w>εἰκότως</w>
+<lb n="P111vC2L-Taur"/></ab><ab n="adStag1.6.15"><w>ὅταν</w><w>γὰρ</w><w>θεὸς</w><w>ὁ</w><w>ὑπισχνού
+<lb n="P111vC2L-Taur" break="no"/>μενος</w><w>ᾖ</w><w>κἂν</w><w>μυρία</w><w>δο
+<lb n="P111vC2L-Taur" break="no"/>κῇ</w><w>τὴν</w><w>ἐπαγγελίαν</w><w>ἀ
+<lb n="P111vC2L-Taur" break="no"/>ναιρεῖν</w><w>οὐ</w><w>χρὴ</w><w>θορυ
+<lb n="P111vC2L-Taur" break="no"/>βεῖσθαι</w><w>περὶ</w><w>τοῦ</w><w>τέλους</w>
+<lb n="P111vC2L-Taur"/><w>οὐδὲ</w><w>ἀμφισβητεῖν</w>
+<lb n="P111vC2L-Taur"/></ab><ab n="adStag1.6.16"><w>τοῦτο</w><w>γὰρ</w><w>αὐτὸ</w><w>μάλιστα</w>
+<lb n="P111vC2L-Taur"/><w>τῆς</w><w>τοῦ</w><w>θεοῦ</w><w>δυνάμε
+<lb n="P111vC2L-Taur" break="no"/>ως</w><w>ἔργον</w><w>ἐστὶ</w><w>πόρον</w>
+<lb n="P111vC2L-Taur"/><w>ἐκ</w><w>τῶν</w><w>ἀπόρων</w><w>εὑ
+<lb n="P111vC2L-Taur" break="no"/>ρίσκειν</w><w>ὃ</w><w>δὴ</w><w>καὶ</w><w>ὁ</w><w>μα
+<lb n="P111vC2L-Taur" break="no"/>κάριος</w><w>ἐκεῖνος</w><w>λογι
+<lb n="P111vC2L-Taur" break="no"/>ζόμενος</w><w>οὐκ</w><w>ἐτα
+<lb n="P111vC2L-Taur" break="no"/>ράττετο</w><w>οὐδὲ</w><w>ἐθορθβεῖ
+<pb n="112r" type="folio" xml:id="P112r-Taur" break="no"/>
+<cb n="P112rC1-Taur"/>
+<lb n="P112rC1L-Taur"/>το</w></ab><ab n="adStag1.6.17"><w>διόπερ</w><w>αὐτοῦ</w><w>καὶ</w>
+<lb n="P112rC1L-Taur"/><w>κατεπλάγη</w><w>τὴν</w><w>πίστιν</w>
+<lb n="P112rC1L-Taur"/><w>ὁ</w><w>παῦλος</w><w>καὶ</w><w>θαυμά
+<lb n="P112rC1L-Taur" break="no"/>σας</w><w>οὕτω</w><w>δίεξεισι</w><w>λέγων</w>
+<lb n="P112rC1L-Taur"/></ab><ab n="adStag1.6.18"><w>πίστει</w><w>προσενήνοχε</w>
+<lb n="P112rC1L-Taur"/><w>τὸν</w><w>ἰσαὰκ</w><w>πειραζόμε
+<lb n="P112rC1L-Taur" break="no"/>νος</w><w>καὶ</w><w>τὸν</w><w>μονογενῆ</w>
+<lb n="P112rC1L-Taur"/><w>προσέφερεν</w><w>ὁ</w><w>τὰς</w><w>ἐ
+<lb n="P112rC1L-Taur" break="no"/>παγγελίας</w><w>δεξάμενος</w>
+<lb n="P112rC1L-Taur"/><w>αὐτὰ</w><w>δὴ</w><w>ταῦτα</w><w>ἐμφαί
+<lb n="P112rC1L-Taur" break="no"/>νων</w><w>καὶ</w><w>αἰνιττόμενος</w>
+<lb n="P112rC1L-Taur"/><w>ἅπερ</w><w>εἶπον</w><w>ἐγὼ</w><w>νῦν</w>
+<lb n="P112rC1L-Taur"/></ab><ab n="adStag1.6.19"><w>οὐκ</w><w>ἐκεῖνος</w><w>δὲ</w><w>μόνος</w>
+<lb n="P112rC1L-Taur"/><w>ἀλλὰ</w><w>καὶ</w><w>ὁ</w><w>τούτου</w><w>πά
+<lb n="P112rC1L-Taur" break="no"/>λιν</w><w>ἀπόγονος</w><w>ἰωσὴφ</w>
+<lb n="P112rC1L-Taur"/><w>διὰ</w><w>μακροῦ</w><w>χρόνου</w>
+<lb n="P112rC1L-Taur"/><w>καὶ</w><w>πολλῶν</w><w>πραγμά
+<lb n="P112rC1L-Taur" break="no"/>των</w><w>κινδυνεύουσαν</w><w>ὁ
+<lb n="P112rC1L-Taur" break="no"/>ρῶν</w><w>τὴν</w><w>ἐπαγγελίαν</w>
+<lb n="P112rC1L-Taur"/><w>ἔμενεν</w><w>ἀκλινής</w>
+<lb n="P112rC1L-Taur"/><w>πρὸς</w><w>γὰρ</w><w>τὸν</w><w>ἐπαγγειλά
+<lb n="P112rC1L-Taur" break="no"/>μενον</w><w>ἑώρα</w><w>μόνον</w>
+<lb n="P112rC1L-Taur"/><w>εἰ</w><w>δὲ</w><w>εἰς</w><w>ἀνθρωπίνους</w><w>κα
+<lb n="P112rC1L-Taur" break="no"/>τέπεσε</w><w>λογισμοὺς</w>
+<lb n="P112rC1L-Taur"/><w>καὶ</w><w>ἀπέγνω</w><w>τοῦ</w><w>τέλους</w>
+<cb n="P112rC2-Taur"/>
+<lb n="P112rC2L-Taur"/></ab><ab n="adStag1.6.20"><w>ἡ</w><w>μὲν</w><w>γὰρ</w><w>δειχθεῖσα</w><w>ὄ
+<lb n="P112rC2L-Taur" break="no"/>ψις</w><w>αὐτῷ</w><w>καὶ</w><w>τῶν</w><w>ἀδελ
+<lb n="P112rC2L-Taur" break="no"/>φῶν</w><w>καὶ</w><w>τῶν</w><w>γεννησα
+<lb n="P112rC2L-Taur" break="no"/>μένων</w><w>τὴν</w><w>προσκύ
+<lb n="P112rC2L-Taur" break="no"/>νησιν</w><w>προὔλεγε</w><w>τὰ</w><w>δὲ</w>
+<lb n="P112rC2L-Taur"/><w>γινόμενα</w><w>οὐ</w><w>τοιαῦτα</w><w>ἦν</w>
+<lb n="P112rC2L-Taur"/><w>ἀλλὰ</w><w>πολὺ</w><w>τούτων</w><w>ἀ
+<lb n="P112rC2L-Taur" break="no"/>πέχοντα</w></ab><ab n="adStag1.6.21"><w>πρῶτον</w>
+<lb n="P112rC2L-Taur"/><w>μὲν</w><w>γὰρ</w><w>αὐτοὶ</w><w>οἱ</w><w>προσκυ
+<lb n="P112rC2L-Taur" break="no"/>νεῖν</w><w>μέλλοντες</w><w>εἰς</w><w>λάκ
+<lb n="P112rC2L-Taur" break="no"/>κον</w><w>αὐτὸν</w><w>ἐμβάλλουσι</w>
+<lb n="P112rC2L-Taur"/><w>καὶ</w><w>ἀνδράσιν</w><w>ἀποδό
+<lb n="P112rC2L-Taur" break="no"/>μενοι</w><w>βαρβάροις</w><w>εἰς</w>
+<lb n="P112rC2L-Taur"/><w>ἀλλοτρίαν</w><w>καὶ</w><w>πόρρω</w>
+<lb n="P112rC2L-Taur"/><w>κειμένην</w><w>πέμπου
+<lb n="P112rC2L-Taur" break="no"/>σι</w><w>γῆν</w><w>καὶ</w><w>οὕτως</w><w>ἐναν
+<lb n="P112rC2L-Taur" break="no"/>τία</w><w>τοῖς</w><app><rdg type="orig" hand="firsthand"><w>δειχθεῖσι</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P112rC2L-Taur"><w>δειχθεῖσιν</w></seg></rdg></app><w>ἐδό
+<lb n="P112rC2L-Taur" break="no"/>κει</w><w>τὰ</w><w>γινόμενα</w><w>εἶναι</w>
+<lb n="P112rC2L-Taur"/><w>ὡς</w><w>καὶ</w><w>αὐτοὺς</w><w>τοὺς</w><w>ἀ
+<lb n="P112rC2L-Taur" break="no"/>θλίους</w><w>ἐκείνους</w><w>δια
+<lb n="P112rC2L-Taur" break="no"/>χλευάζειν</w><w>αὐτὸν</w><w>καὶ</w>
+<lb n="P112rC2L-Taur"/><w>λέγειν</w></ab><ab n="adStag1.6.22"><w>ἰδοὺ</w><w>ὁ</w><w>ἐνυπνι
+<lb n="P112rC2L-Taur" break="no"/>αστὴς</w><w>ἐκεῖνος</w><w>ἔρχε
+<lb n="P112rC2L-Taur" break="no"/>ται</w><w>νῦν</w><w>οὖν</w><w>δεῦτε</w><w>ἀπο
+<lb n="P112rC2L-Taur" break="no"/>κτείνωμεν</w><w>αὐτὸν</w><w>καὶ</w>
+<pb n="112v" type="folio" xml:id="P112v-Taur"/>
+<cb n="P112vC1-Taur"/>
+<lb n="P112vC1L-Taur"/><w>ῥίψωμεν</w><w>αὐτὸν</w><w>εἰς</w><w>ἕνα</w>
+<lb n="P112vC1L-Taur"/><w>τῶν</w><w>λάκκων</w><w>καὶ</w><w>ἐροῦ
+<lb n="P112vC1L-Taur" break="no"/>μεν</w></ab><ab n="adStag1.6.23"><w>θηρίον</w><w>πονηρὸν</w>
+<lb n="P112vC1L-Taur"/><w>κατέφαγεν</w><w>αὐτόν</w><w>καὶ</w>
+<lb n="P112vC1L-Taur"/><w>ὀψόμεθα</w><w>τί</w><w>ἔσται</w><w>τὰ</w><w>ἐ
+<lb n="P112vC1L-Taur" break="no"/>νύπνια</w><w>αὐτοῦ</w></ab><ab n="adStag1.6.24"><w>μετὰ</w>
+<lb n="P112vC1L-Taur"/><w>δὲ</w><w>ταῦτα</w><w>οἱ</w><w>πριάμενοι</w>
+<lb n="P112vC1L-Taur"/><w>οὐδὲ</w><w>ἐλευθέρῳ</w><w>τινὶ</w>
+<lb n="P112vC1L-Taur"/><w>ἀλλὰ</w><w>δούλῳ</w><w>πάλιν</w><w>αὐ
+<lb n="P112vC1L-Taur" break="no"/>τὸν</w><w>ἀπέδοντο</w><w>βασιλι
+<lb n="P112vC1L-Taur" break="no"/>κῷ</w></ab><ab n="adStag1.6.25"><w>καὶ</w><w>οὐδὲ</w><w>μέχρι</w><w>τού
+<lb n="P112vC1L-Taur" break="no"/>των</w><w>ἔστη</w><w>τὰ</w><w>δεινά</w><w>ἀλλὰ</w>
+<lb n="P112vC1L-Taur"/><w>συκοφαντίᾳ</w><w>δεσποίνης</w>
+<lb n="P112vC1L-Taur"/><w>περιπεσὼν</w><w>καὶ</w><w>κατα
+<lb n="P112vC1L-Taur" break="no"/>κριθεὶς</w><w>ᾤκει</w><w>τὸ</w><w>δεσμω
+<lb n="P112vC1L-Taur" break="no"/>τήριον</w><w>ἔτη</w><w>πολλὰ</w><w>καὶ</w>
+<lb n="P112vC1L-Taur"/><w>διαφυγόντων</w><w>ἑτέρων</w>
+<lb n="P112vC1L-Taur"/><w>αὐτὸς</w><w>πλείονα</w><w>μένει</w>
+<lb n="P112vC1L-Taur"/><w>χρόνον</w><w>ἐκεῖ</w></ab><ab n="adStag1.6.26"><w>καὶ</w><w>τοσού
+<lb n="P112vC1L-Taur" break="no"/>των</w><w>ὄντων</w><w>τῶν</w><w>δυνα
+<lb n="P112vC1L-Taur" break="no"/>μένων</w><w>θορυβῆσαι</w><w>τὴν</w>
+<lb n="P112vC1L-Taur"/><w>ἐκείνου</w><w>ψυχὴν</w><w>ἔμε
+<lb n="P112vC1L-Taur" break="no"/>νε</w><w>τούτοις</w><w>ἅπασιν</w>
+<lb n="P112vC1L-Taur"/><w>ἀπερίτρεπτος</w>
+<lb n="P112vC1L-Taur"/></ab><ab n="adStag1.6.27"><w>τοιαῦτα</w><w>δήπου</w><w>καὶ</w><w>τὰ</w>
+<cb n="P112vC2-Taur"/>
+<lb n="P112vC2L-Taur"/><w>ἡμέτερα</w><w>μᾶλλον</w><w>δὲ</w><w>καὶ</w>
+<lb n="P112vC2L-Taur"/><w>πολλῷ</w><w>τούτων</w><w>ἀπο
+<lb n="P112vC2L-Taur" break="no"/>ρώτερα</w></ab><ab n="adStag1.6.28"><w>ἃ</w><w>μὲν</w><w>γὰρ</w><w>ἐ
+<lb n="P112vC2L-Taur" break="no"/>πηγγείλατο</w><w>βασιλεία</w>
+<lb n="P112vC2L-Taur"/><w>οὐρανῶν</w><w>καὶ</w><w>αἰώνιος</w><w>ζωὴ</w>
+<lb n="P112vC2L-Taur"/><w>καὶ</w><w>ἀφθαρσία</w><w>καὶ</w><w>τὰ</w>
+<lb n="P112vC2L-Taur"/><w>μυρία</w><w>ἀγαθά</w><w>τὰ</w><w>δὲ</w><w>γι
+<lb n="P112vC2L-Taur" break="no"/>νόμενα</w><w>τέως</w><w>καὶ</w><w>συμ
+<lb n="P112vC2L-Taur" break="no"/>βαίνοντα</w><w>πολὺ</w><w>τού
+<lb n="P112vC2L-Taur" break="no"/>των</w><w>ἀφέστηκε</w></ab><ab n="adStag1.6.29"><w>θάνα
+<lb n="P112vC2L-Taur" break="no"/>τος</w><w>γάρ</w><w>ἐστι</w><w>καὶ</w><w>φθορὰ</w>
+<lb n="P112vC2L-Taur"/><w>καὶ</w><w>τιμωρία</w><w>καὶ</w><w>κόλα
+<lb n="P112vC2L-Taur" break="no"/>σις</w><w>καὶ</w><w>θλίψεις</w><w>διάφο
+<lb n="P112vC2L-Taur" break="no"/>ροι</w><w>καὶ</w><w>συνεχεῖς</w></ab><ab n="adStag1.6.30"><w>τίνος</w>
+<lb n="P112vC2L-Taur"/><w>οὖν</w><w>ἕνεκεν</w><w>ὁ</w><w>θεὸς</w><w>τοῦτο</w>
+<lb n="P112vC2L-Taur"/><w>ποιεῖ</w><w>καὶ</w><w>τὰ</w><w>ἐναντία</w>
+<lb n="P112vC2L-Taur"/><w>ταῖς</w><w>ἐπαγγελίαις</w><w>ἐκβῆ
+<lb n="P112vC2L-Taur" break="no"/>ναι</w><w>συγχωρεῖ</w></ab><ab n="adStag1.6.31"><w>δύο</w><w>τὰ</w>
+<lb n="P112vC2L-Taur"/><w>μέγιστα</w><w>κατορθῶν</w><w>ἓν</w><w>μὲν</w>
+<lb n="P112vC2L-Taur"/><w>τῆς</w><w>αὐτοῦ</w><w>δυνάμεως</w>
+<lb n="P112vC2L-Taur"/><w>τεκμήριον</w><w>ἀναμφισβή
+<lb n="P112vC2L-Taur" break="no"/>τητον</w><w>παρέχων</w><w>ἡμῖν</w>
+<lb n="P112vC2L-Taur"/><w>ὅτι</w><w>καὶ</w><w>ἐξ</w><w>ἀπεγνωσμέ
+<lb n="P112vC2L-Taur" break="no"/>νων</w><w>δύναιτ’</w><w>ἂν</w><w>εἰς</w><w>ἑτέ
+<lb n="P112vC2L-Taur" break="no"/>ρας</w><w>τὰς</w><w>ὑποσχέσεις</w>
+<pb n="113r" type="folio" xml:id="P113r-Taur"/>
+<cb n="P113rC1-Taur"/>
+<lb n="P113rC1L-Taur"/><w>ἀγαγεῖν</w><w>ἕτερον</w><w>δὲ</w><w>τὴν</w><w>ἡ
+<lb n="P113rC1L-Taur" break="no"/>μετέραν</w><w>παιδεύων</w><w>ψυ
+<lb n="P113rC1L-Taur" break="no"/>χὴν</w><w>πάντα</w><w>πιστεύ
+<lb n="P113rC1L-Taur" break="no"/>ειν</w><w>αὐτῷ</w><w>κἂν</w><w>ἐναντία</w>
+<lb n="P113rC1L-Taur"/><w>τοῖς</w><w>εἰρημένοις</w><w>τὰ</w>
+<lb n="P113rC1L-Taur"/><w>γινόμενα</w><w>φαίνηται</w>
+<lb n="P113rC1L-Taur"/></ab><ab n="adStag1.6.32"><w>τοιαύτη</w><w>γὰρ</w><w>ἡ</w><w>τῆς</w><w>ἐλ
+<lb n="P113rC1L-Taur" break="no"/>πίδος</w><w>ἰσχύς</w><w>οὐ</w><w>καται
+<lb n="P113rC1L-Taur" break="no"/>σχύνει</w><w>τὸν</w><w>ἀντεχόμε
+<lb n="P113rC1L-Taur" break="no"/>νον</w><w>αὐτῆς</w><w>εἰλικρινῶς</w>
+<lb n="P113rC1L-Taur"/></ab><ab n="adStag1.6.33"><w>εἰ</w><w>γὰρ</w><w>οἱ</w><w>τὰς</w><w>ὑποσχέσεις</w>
+<lb n="P113rC1L-Taur"/><w>ἐνταῦθα</w><w>λαβόντες</w>
+<lb n="P113rC1L-Taur"/><w>οὕτω</w><w>διετέθησαν</w><w>πολ
+<lb n="P113rC1L-Taur" break="no"/>λῷ</w><w>μᾶλλον</w><w>ἡμᾶς</w><w>τοῦ
+<lb n="P113rC1L-Taur" break="no"/>το</w><w>ποιεῖν</w><w>χρὴ</w><w>τοὺς</w>
+<lb n="P113rC1L-Taur"/><w>οὐ</w><w>κατὰ</w><w>τὸν</w><w>παρόν
+<lb n="P113rC1L-Taur" break="no"/>τα</w><w>βίον</w><w>ἀλλ’</w><w>εἰς</w><w>ἑτέρους</w>
+<lb n="P113rC1L-Taur"/><w>αἰῶνας</w><w>προσδοκῶν
+<lb n="P113rC1L-Taur" break="no"/>τας</w><w>τὴν</w><w>ἔκβασιν</w><w>τῶν</w>
+<lb n="P113rC1L-Taur"/><w>χρηστῶν</w></ab><ab n="adStag1.6.34"><w>ἃ</w><w>γὰρ</w><w>ἐνταῦ
+<lb n="P113rC1L-Taur" break="no"/>θα</w><w>προεῖπε</w><w>θλῖ
+<lb n="P113rC1L-Taur" break="no"/>ψίς</w><w>ἐστι</w><w>καὶ</w><w>στενοχωρία</w>
+<lb n="P113rC1L-Taur"/></ab><ab n="adStag1.6.35"><w>τί</w><w>οὖν</w><w>ἐστί</w><w>τὸ</w><w>θορυβοῦν</w>
+<lb n="P113rC1L-Taur"/><w>σε</w><w>πόθεν</w><w>τὴν</w><w>ὑ
+<lb n="P113rC1L-Taur" break="no"/>πόσχεσιν</w><w>ὑποπτεύεις</w>
+<cb n="P113rC2-Taur"/>
+<lb n="P113rC2L-Taur"/><w>τοῦ</w><w>θεοῦ</w></ab><ab n="adStag1.6.36"><w>τὸ</w><w>γὰρ</w><w>καταφρο
+<lb n="P113rC2L-Taur" break="no"/>νῆσαι</w><w>μὲν</w><w>δι’</w><w>αὐτὸν</w><w>τοῦ</w>
+<lb n="P113rC2L-Taur"/><w>κόσμου</w><w>παντὸς</w><w>λέγειν</w>
+<lb n="P113rC2L-Taur"/><w>δὲ</w><w>πάλιν</w><w>ἠμελῆσθαι</w>
+<lb n="P113rC2L-Taur"/><w>παρ’</w><w>αὐτοῦ</w><w>οὐδὲν</w><w>ἕτε
+<lb n="P113rC2L-Taur" break="no"/>ρόν</w><w>ἐστιν</w><w>ἢ</w><w>ἀπιστοῦντος</w>
+<lb n="P113rC2L-Taur"/><w>καὶ</w><w>ὑποπτεύοντος</w>
+<lb n="P113rC2L-Taur"/><w>καὶ</w><w>ἀπάτην</w><w>τὴν</w><w>ἐπαγ
+<lb n="P113rC2L-Taur" break="no"/>γελίαν</w><w>ἐκείνην</w><w>εἶναι</w>
+<lb n="P113rC2L-Taur"/><w>νομίζοντος</w><w>ὅπερ</w>
+<lb n="P113rC2L-Taur"/><w>ἀληθῶς</w><w>ἐστι</w><w>δαιμονᾷν</w>
+<lb n="P113rC2L-Taur"/><w>καὶ</w><w>τὸ</w><w>τῆς</w><w>γεέννης</w><w>προ
+<lb n="P113rC2L-Taur" break="no"/>καλεῖσθαι</w><w>πῦρ</w></ab><ab n="adStag1.6.37"><w>ἀλλ’</w><w>εἰσί</w>
+<lb n="P113rC2L-Taur"/><w>τινες</w><w>οἳ</w><w>βιωτικοῖς</w><w>ἐν
+<lb n="P113rC2L-Taur" break="no"/>στρεφόμενοι</w><w>πράγμασι</w>
+<lb n="P113rC2L-Taur"/><w>καὶ</w><app><rdg type="orig" hand="firsthand"/><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P113rC2L-Taur"><w>ἐν</w></seg></rdg></app><w>ἀνέσει</w><w>διάγοντες</w><w>ἀλ
+<lb n="P113rC2L-Taur" break="no"/>λὰ</w><w>καὶ</w><w>τοῦτο</w><w>προεῖπεν</w>
+<lb n="P113rC2L-Taur"/><w>ὁ</w><w>χριστός</w><w>ὅταν</w><w>πρὸς</w><w>τοὺς</w>
+<lb n="P113rC2L-Taur"/><w>μαθητὰς</w><w>διελέγετο</w><w>πρὸς</w>
+<lb n="P113rC2L-Taur"/><w>τῶ</w><w>καιρῶ</w><w>τοῦ</w><w>πάθους</w>
+<lb n="P113rC2L-Taur"/><w>ἄκουε</w><w>δὲ</w><w>καὶ</w><w>τι</w><w>φησι</w>
+<lb n="P113rC2L-Taur"/></ab><ab n="adStag1.6.38"><w>ἀμὴν</w><w>γὰρ</w><w>λέγω</w><w>ὑμῖν</w><w>ὅ
+<lb n="P113rC2L-Taur" break="no"/>τι</w><w>κλαύσετε</w><w>καὶ</w><w>θρηνή
+<lb n="P113rC2L-Taur" break="no"/>σετε</w><w>ὑμεῖς</w><w>ὁ</w><w>δὲ</w><w>κόσμος</w>
+<lb n="P113rC2L-Taur"/><w>χαρήσεται</w></ab><ab n="adStag1.6.39"><w>καὶ</w><w>ἐπὶ</w><w>τῶν</w>
+<pb n="113v" type="folio" xml:id="P113v-Taur"/>
+<cb n="P113vC1-Taur"/>
+<lb n="P113vC1L-Taur"/><w>προτέρων</w><w>δὲ</w><w>γενεῶν</w>
+<lb n="P113vC1L-Taur"/><w>βαβυλώνιοι</w><w>μὲν</w><w>οἱ</w><w>μη
+<lb n="P113vC1L-Taur" break="no"/>δὲ</w><w>τὸν</w><w>θεὸν</w><w>εἰδότες</w><w>ἐν</w>
+<lb n="P113vC1L-Taur"/><w>πλούτῳ</w><w>καὶ</w><w>δυναστείᾳ</w>
+<lb n="P113vC1L-Taur"/><w>ἦσαν</w><w>καὶ</w><w>τιμῇ</w><w>ἰουδαῖοι</w>
+<lb n="P113vC1L-Taur"/><w>δὲ</w><w>ἐν</w><w>αἰχμαλωσίᾳ</w><w>καὶ</w>
+<lb n="P113vC1L-Taur"/><w>δουλείᾳ</w><w>καὶ</w><w>τοῖς</w><w>ἐσχά
+<lb n="P113vC1L-Taur" break="no"/>τοις</w><w>κακοῖς</w></ab><ab n="adStag1.6.40"><w>καὶ</w><w>λά
+<lb n="P113vC1L-Taur" break="no"/>ζαρος</w><w>μὲν</w><w>ὁ</w><w>τῶν</w><w>οὐρανῶν</w>
+<lb n="P113vC1L-Taur"/><w>ἄξιος</w><w>καὶ</w><w>τῆς</w><w>βασιλείας</w>
+<lb n="P113vC1L-Taur"/><w>τῆς</w><w>ἐκεῖ</w><w>ἡλκωμένος</w>
+<lb n="P113vC1L-Taur"/><w>ταῖς</w><w>τῶν</w><w>κυνῶν</w><w>προ
+<lb n="P113vC1L-Taur" break="no"/>έκειτο</w><w>γλώτταις</w><w>λιμῷ</w>
+<lb n="P113vC1L-Taur"/><w>ἀγχόμενος</w><w>διηνεκεῖ</w>
+<lb n="P113vC1L-Taur"/></ab><ab n="adStag1.6.41"><w>ὁ</w><w>δὲ</w><w>πλούσιος</w><w>ἐν</w><w>τιμῇ</w>
+<lb n="P113vC1L-Taur"/><w>καὶ</w><w>δορυφορίᾳ</w><w>καὶ</w><w>ἀνέ
+<lb n="P113vC1L-Taur" break="no"/>σει</w><w>καὶ</w><w>τρυφῇ</w><w>ἀλλ’</w><w>ὅμως</w>
+<lb n="P113vC1L-Taur"/><w>οὐδὲν</w><w>οὔτε</w><w>οὗτος</w><w>ἐν</w><w>τῇ</w>
+<lb n="P113vC1L-Taur"/><w>γεέννῃ</w><w>ἐκ</w><w>τούτων</w><w>ἀ
+<lb n="P113vC1L-Taur" break="no"/>πώνατο</w><w>οὔτε</w><w>ὁ</w><w>λάζα
+<lb n="P113vC1L-Taur" break="no"/>ρος</w><w>ἀπὸ</w><w>τοῦ</w><w>λιμοῦ</w><w>καὶ</w>
+<lb n="P113vC1L-Taur"/><w>τῶν</w><w>τραυμάτων</w><w>εἰς</w>
+<lb n="P113vC1L-Taur"/><w>τὴν</w><w>ἀκρίβειαν</w><w>τοῦ</w>
+<lb n="P113vC1L-Taur"/><w>παρόντος</w><w>παρεβλά
+<lb n="P113vC1L-Taur" break="no"/>βη</w><w>βίου</w></ab><ab n="adStag1.6.42"><w>ἀλλ’</w><w>ὥσ
+<cb n="P113vC2-Taur" break="no"/>
+<lb n="P113vC2L-Taur"/>περ</w><w>τις</w><w>γενναῖος</w><w>ἀθλητὴς</w>
+<lb n="P113vC2L-Taur"/><w>ἐν</w><w>αὐχμῷ</w><w>καὶ</w><w>πνίγει</w><w>βα
+<lb n="P113vC2L-Taur" break="no"/>ρυτάτῳ</w><w>παλαίων</w><w>καὶ</w>
+<lb n="P113vC2L-Taur"/><w>ἐνίκησε</w><w>καὶ</w><w>ἐστεφανώ
+<lb n="P113vC2L-Taur" break="no"/>θη</w></ab><ab n="adStag1.6.43"><w>διὰ</w><w>τοῦτο</w><w>καί</w><w>τις</w>
+<lb n="P113vC2L-Taur"/><w>σοφὸς</w><w>παραινῶν</w><w>λέγει</w>
+<lb n="P113vC2L-Taur"/><w>τέκνον</w><w>εἰ</w><w>προσέρχῃ</w>
+<lb n="P113vC2L-Taur"/><w>δουλεύειν</w><w>κυρίῳ</w><w>ἑτοίμα
+<lb n="P113vC2L-Taur" break="no"/>σον</w><w>τὴν</w><w>ψυχήν</w><w>σου</w><w>εἰς</w>
+<lb n="P113vC2L-Taur"/><w>πειρασμόν</w><w>εὔθυνον</w>
+<lb n="P113vC2L-Taur"/><w>τὴν</w><w>καρδίαν</w><w>σου</w><w>καὶ</w>
+<lb n="P113vC2L-Taur"/><w>καρτέρησον</w><w>καὶ</w><w>μὴ</w><w>σπεύ
+<lb n="P113vC2L-Taur" break="no"/>σῃς</w><w>ἐν</w><w>καιρῷ</w><w>ἐπαγωγῆς</w>
+<lb n="P113vC2L-Taur"/></ab><ab n="adStag1.6.44"><w>καὶ</w><w>πάλιν</w><w>μετ’</w><w>ὀλίγα</w>
+<lb n="P113vC2L-Taur"/><w>ὅτι</w><w>ἐν</w><w>πυρὶ</w><w>δοκιμάζε
+<lb n="P113vC2L-Taur" break="no"/>ται</w><w>χρυσὸς</w><w>καὶ</w><w>ἄνθρωποι</w><w>δε
+<lb n="P113vC2L-Taur" break="no"/>κτοὶ</w><w>ἐν</w><w>καμίνῳ</w><w>ταπει
+<lb n="P113vC2L-Taur" break="no"/>νώσεως</w></ab><ab n="adStag1.6.45"><w>καὶ</w><w>ὁ</w><w>σολο
+<lb n="P113vC2L-Taur" break="no"/>μῶν</w><w>ἀλλαχοῦ</w><w>συνωδὰ</w><w>τού
+<lb n="P113vC2L-Taur" break="no"/>τω</w><w>φθεγγόμενος</w><w>μὴ</w>
+<lb n="P113vC2L-Taur"/><w>ὀλιγώρει</w><w>φησὶ</w><w>παιδείας</w>
+<lb n="P113vC2L-Taur"/><w>κυρίου</w><w>μηδὲ</w><w>ἐκλύου</w><w>ὑπ’</w><w>αὐ
+<lb n="P113vC2L-Taur" break="no"/>τοῦ</w><w>ἐλεγχόμενος</w>
+<lb n="P113vC2L-Taur"/></ab><ab n="adStag1.6.46"><w>ὁ</w><w>γὰρ</w><w>τὸ</w><w>χρυσίον</w><w>εἰς</w><w>τὴν</w>
+<lb n="P113vC2L-Taur"/><w>κάμινον</w><w>ἐμβαλὼν</w>
+<pb n="114r" type="folio" xml:id="P114r-Taur"/>
+<cb n="P114rC1-Taur"/>
+<lb n="P114rC1L-Taur"/><w>οἶδε</w><w>καὶ</w><w>μέχρι</w><w>τίνος</w><w>αὐ
+<lb n="P114rC1L-Taur" break="no"/>τὸ</w><w>πυρωθῆναι</w><w>δεῖ</w><w>καὶ</w>
+<lb n="P114rC1L-Taur"/><w>πότε</w><w>ἀνασπασθῆναι</w>
+<lb n="P114rC1L-Taur"/></ab><ab n="adStag1.6.47"><w>διὰ</w><w>τοῦτο</w><w>πάλιν</w><w>ὁ</w><w>μέν</w>
+<lb n="P114rC1L-Taur"/><w>μὴ</w><w>σπεύσῃς</w><w>ἐν</w><w>καιρῷ</w>
+<lb n="P114rC1L-Taur"/><w>ἐπαγωγῆς</w><w>προστίθη
+<lb n="P114rC1L-Taur" break="no"/>σιν</w></ab><ab n="adStag1.6.48"><w>ὁ</w><w>δὲ</w><w>τὸ</w><w>αὐτὸ</w><w>τοῦτο</w>
+<lb n="P114rC1L-Taur"/><w>εἰσηγούμενος</w><w>ἐπήγαγεν</w>
+<lb n="P114rC1L-Taur"/><w>ὃν</w><w>γὰρ</w><w>ἀγαπᾶ</w><w>κυριος</w><w>παι
+<lb n="P114rC1L-Taur" break="no"/>δεύει</w><w>μέγα</w><w>γὰρ</w><w>ἡ</w><w>θλί
+<lb n="P114rC1L-Taur" break="no"/>ψις</w><w>μέγα</w><w>πρὸς</w><w>τὸ</w><w>δόκι
+<lb n="P114rC1L-Taur" break="no"/>μον</w><w>ἄνδρα</w><w>ἐργάσασθαι</w>
+<lb n="P114rC1L-Taur"/><w>καὶ</w><w>παιδεῦσαι</w><w>τῆς</w><w>ὑ
+<lb n="P114rC1L-Taur" break="no"/>πομονῆς</w><w>τὴν</w><w>ἀρετήν</w>
+<lb n="P114rC1L-Taur"/></ab><ab n="adStag1.6.49"><w>τί</w><w>οὖν</w><w>φησὶν</w><w>ἂν</w><w>περιτρέ
+<lb n="P114rC1L-Taur" break="no"/>ψῃ</w><w>καὶ</w><w>καταβάλῃ</w><w>διὰ</w>
+<lb n="P114rC1L-Taur"/><w>τῆς</w><w>ὑπερβολῆς</w><w>ἀλ
+<lb n="P114rC1L-Taur" break="no"/>λ’</w><w>οὐκ</w><w>ἀφήσει</w><w>τοῦτο</w><w>πα
+<lb n="P114rC1L-Taur" break="no"/>θεῖν</w><w>ὁ</w><w>θεὸς</w><w>ἂν</w><w>εὐχαρίστως</w>
+<lb n="P114rC1L-Taur"/><w>ἡμᾶς</w><app><rdg type="orig" hand="firsthand"><w>διαφέροντες</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="overwritten" n="@P114rC1L-Taur"><w>ὑποφέροντες</w></seg></rdg></app><w>ἴδη</w>
+<lb n="P114rC1L-Taur"/><w>τὸν</w><w>πειρασμόν</w><w>ὅ
+<lb n="P114rC1L-Taur" break="no"/>τι</w><w>δὲ</w><w>οὐκ</w><w>αφίησι</w><w>μαρ
+<lb n="P114rC1L-Taur" break="no"/>τυρεῖ</w><w>παῦλος</w><w>λέγων</w>
+<lb n="P114rC1L-Taur"/></ab><ab n="adStag1.6.50"><w>πιστὸς</w><w>ὁ</w><w>θεὸς</w><w>ὃς</w><w>οὐκ</w><w>ἐά
+<lb n="P114rC1L-Taur" break="no"/>σει</w><w>ἡμᾶς</w><w>πειρασθῆ
+<cb n="P114rC2-Taur" break="no"/>
+<lb n="P114rC2L-Taur"/>ναι</w><w>ὑπὲρ</w><w>ὃ</w><w>δυνάμεθα</w>
+<lb n="P114rC2L-Taur"/><w>ἀλλὰ</w><w>σὺν</w><w>τῷ</w><w>πειρασμῷ</w>
+<lb n="P114rC2L-Taur"/><w>ποιήσει</w><w>καὶ</w><w>τὴν</w><w>ἔκ
+<lb n="P114rC2L-Taur" break="no"/>βασιν</w><w>τοῦ</w><w>δύνασθαι</w><w>ἡ
+<lb n="P114rC2L-Taur" break="no"/>μᾶς</w><w>ὑπενεγκεῖν</w></ab><ab n="adStag1.6.51"><w>καὶ</w>
+<lb n="P114rC2L-Taur"/><w>μάλα</w><w>εἰκότως</w><w>εἰ</w><w>γὰρ</w>
+<lb n="P114rC2L-Taur"/><w>ἐξ</w><w>ἀγάπης</w><w>μὲν</w><w>ἡ</w><w>παιδεία</w>
+<lb n="P114rC2L-Taur"/><w>ἡ</w><w>δὲ</w><w>ἐγκατάλειψις</w><w>ἀ
+<lb n="P114rC2L-Taur" break="no"/>πὸ</w><w>μίσους</w><w>οὐκ</w><w>ἔστι</w><w>δὲ</w>
+<lb n="P114rC2L-Taur"/><w>τοῦ</w><w>αὐτοῦ</w><w>φιλεῖν</w><w>ὁμοῦ</w>
+<lb n="P114rC2L-Taur"/><w>καὶ</w><w>μισεῖν</w><w>οὐδὲ</w><w>παι
+<lb n="P114rC2L-Taur" break="no"/>δεύειν</w><w>ὁμοῦ</w><w>καὶ</w><w>ἐγκα
+<lb n="P114rC2L-Taur" break="no"/>ταλιμπάνειν</w><w>τὸν</w><w>αὐτὸν</w></ab><ab n="adStag1.6.52"><w>οἷόντε</w><w>πῶς</w><w>οὖν</w>
+<lb n="P114rC2L-Taur"/><w>πολλοὶ</w><w>κατέπεσον</w><w>φησίν</w>
+<lb n="P114rC2L-Taur"/><w>ἑαυτοὺς</w><w>ἀποστερήσαν
+<lb n="P114rC2L-Taur" break="no"/>τες</w><w>τοῦ</w><w>θεοῦ</w><w>οὐ</w><w>κατα
+<lb n="P114rC2L-Taur" break="no"/>λειφθέντες</w><w>ὑπ’</w><w>αὐ
+<lb n="P114rC2L-Taur" break="no"/>τοῦ</w></ab><ab n="adStag1.6.53"><w>ἰδοὺ</w><w>γὰρ</w><w>οἱ</w><w>μακρύ
+<lb n="P114rC2L-Taur" break="no"/>νοντες</w><w>ἑαυτοὺς</w><w>ἀπὸ</w>
+<lb n="P114rC2L-Taur"/><w>σοῦ</w><w>ἀπολοῦνται</w></ab><ab n="adStag1.6.54"><w>μα
+<lb n="P114rC2L-Taur" break="no"/>κρύνουσι</w><w>δὲ</w><w>οἱ</w><w>μὴ</w><w>φέ
+<lb n="P114rC2L-Taur" break="no"/>ροντες</w><w>τὰς</w><w>τοῦ</w><w>θεοῦ</w><w>παι
+<lb n="P114rC2L-Taur" break="no"/>δείας</w><w>ἀλλ’</w><w>ὀργιζόμε
+<lb n="P114rC2L-Taur" break="no"/>νοι</w><w>καὶ</w><w>δυσανασχετοῦν
+<pb n="114v" type="folio" xml:id="P114v-Taur" break="no"/>
+<cb n="P114vC1-Taur"/>
+<lb n="P114vC1L-Taur"/>τες</w></ab><ab n="adStag1.6.55"><w>καὶ</w><w>καθάπερ</w><w>οἱ</w>
+<lb n="P114vC1L-Taur"/><w>μοχθηροὶ</w><w>τῶν</w><w>παίδων</w>
+<lb n="P114vC1L-Taur"/><w>τῶν</w><w>πατέρων</w><w>αὐτοὺς</w><w>πρὸς</w>
+<lb n="P114vC1L-Taur"/><w>διδασκάλους</w><w>πεμπόν
+<lb n="P114vC1L-Taur" break="no"/>των</w><w>ἂν</w><w>τοὺς</w><w>ἐκεῖ</w><w>πό
+<lb n="P114vC1L-Taur" break="no"/>νους</w><w>καὶ</w><w>τὰς</w><w>ὀλίγας</w>
+<lb n="P114vC1L-Taur"/><w>φεύγοντες</w><w>πληγὰς</w>
+<lb n="P114vC1L-Taur"/><w>τῆς</w><w>τῶν</w><w>γονέων</w><w>ἀπο
+<lb n="P114vC1L-Taur" break="no"/>πηδήσωσιν</w><w>ὄψεως</w>
+<lb n="P114vC1L-Taur"/><w>ἐκέρδανάν</w><w>τε</w><w>οὐδὲν</w>
+<lb n="P114vC1L-Taur"/><w>καὶ</w><w>χείροσιν</w><w>ἑαυτοὺς</w>
+<lb n="P114vC1L-Taur"/><w>περιέπειραν</w><w>κακοῖς</w>
+<lb n="P114vC1L-Taur"/><w>ἐν</w><w>ἀλλοτρίᾳ</w><w>λιμώτ
+<lb n="P114vC1L-Taur" break="no"/>τειν</w><w>καὶ</w><w>ἀλᾶσθαι</w><w>καὶ</w>
+<lb n="P114vC1L-Taur"/><w>ἀτιμάζεσθαι</w><w>καὶ</w><w>δου
+<lb n="P114vC1L-Taur" break="no"/>λεύειν</w><w>ἀναγκαζόμε
+<lb n="P114vC1L-Taur" break="no"/>νοι</w></ab><ab n="adStag1.6.56"><w>οὕτω</w><w>καὶ</w><w>οἱ</w><w>τὴν</w><w>τοῦ</w>
+<lb n="P114vC1L-Taur"/><w>θεοῦ</w><w>παιδείαν</w><w>εὐχαρίστως</w>
+<lb n="P114vC1L-Taur"/><w>μὴ</w><w>φέροντες</w><w>ἀλλὰ</w>
+<lb n="P114vC1L-Taur"/><w>δυσανασχετοῦντες</w><w>πρὸς</w>
+<lb n="P114vC1L-Taur"/><w>τὸ</w><w>μηδὲν</w><w>ἐξ</w><w>αὐτῆς</w><w>καρ
+<lb n="P114vC1L-Taur" break="no"/>πώσασθαι</w><w>καὶ</w><w>ταῖς</w>
+<lb n="P114vC1L-Taur"/><w>ἐσχάταις</w><w>ἑαυτοὺς</w><w>πε
+<lb n="P114vC1L-Taur" break="no"/>ριβάλλουσι</w><w>συμφοραῖς</w>
+<lb n="P114vC1L-Taur"/></ab><ab n="adStag1.6.57"><w>διὰ</w><w>τοῦτο</w><w>ὑπὸ</w><w>τοῦ</w><w>σο
+<cb n="P114vC2-Taur" break="no"/>
+<lb n="P114vC2L-Taur"/>φοῦ</w><w>καρτερεῖν</w><w>παρηγ
+<lb n="P114vC2L-Taur" break="no"/>γέλθημεν</w><w>καὶ</w><w>τὴν</w>
+<lb n="P114vC2L-Taur"/><w>καρδίαν</w><w>εὐθύνειν</w><w>τὴν</w>
+<lb n="P114vC2L-Taur"/><w>ἑαυτῶν</w></ab><ab n="adStag1.6.58"><w>ἀλλὰ</w><w>πολλῷ</w>
+<lb n="P114vC2L-Taur"/><w>χαλεπώτερα</w><w>πέπον
+<lb n="P114vC2L-Taur" break="no"/>θας</w><w>καὶ</w><w>τί</w><w>τοῦτο</w><w>ἀλ
+<lb n="P114vC2L-Taur" break="no"/>λὰ</w><w>μείζων</w><w>σοι</w><w>ἔσται</w><w>καὶ</w>
+<lb n="P114vC2L-Taur"/><w>ὁ</w><w>μισθός</w><w>οὕτω</w><w>καὶ</w>
+<lb n="P114vC2L-Taur"/><w>παιδοτρίβαι</w><w>ποιοῦν
+<lb n="P114vC2L-Taur" break="no"/>τες</w><w>οὐ</w><w>πάντας</w><w>ὁμοί
+<lb n="P114vC2L-Taur" break="no"/>ως</w><w>καὶ</w><w>ἑνὶ</w><w>τρόπῳ</w><w>γυ
+<lb n="P114vC2L-Taur" break="no"/>μνάζουσιν</w><w>ἀλλὰ</w><w>τοῖς</w>
+<lb n="P114vC2L-Taur"/><w>μὲν</w><w>ἀσθενεστέροις</w><w>ἀ
+<lb n="P114vC2L-Taur" break="no"/>σθενεῖς</w><w>τοῖς</w><w>δὲ</w><w>γεν
+<lb n="P114vC2L-Taur" break="no"/>ναίοις</w><w>τοιούτους</w><w>πα
+<lb n="P114vC2L-Taur" break="no"/>ρέχουσιν</w><w>ἀνταγωνιστάς</w>
+<lb n="P114vC2L-Taur"/></ab><ab n="adStag1.6.59"><w>ὁ</w><w>γὰρ</w><w>ἐλάττω</w><w>τῆς</w><w>οἰκεί
+<lb n="P114vC2L-Taur" break="no"/>ας</w><w>δυνάμεως</w><w>λαβὼν</w>
+<lb n="P114vC2L-Taur"/><w>ἀνταγωνιστὴν</w><w>κἂν</w><w>δι’</w><w>ὅ
+<lb n="P114vC2L-Taur" break="no"/>λης</w><w>αὐτῷ</w><w>συμπλέκη
+<lb n="P114vC2L-Taur" break="no"/>ται</w><w>τῆς</w><w>ἡμέρας</w><w>ἐ
+<lb n="P114vC2L-Taur" break="no"/>κεῖνος</w><w>ἀγύμναστος</w><w>ἔ
+<lb n="P114vC2L-Taur" break="no"/>μεινε</w></ab><ab n="adStag1.6.60"><w>πῶς</w><w>οὖν</w><w>φησὶ</w>
+<lb n="P114vC2L-Taur"/><w>τοὺς</w><w>τὸν</w><w>αὐτὸν</w><w>ἐπα
+<lb n="P114vC2L-Taur" break="no"/>νῃρημένους</w><w>βίον</w><w>οὐ</w>
+<pb n="115r" type="folio" xml:id="P115r-Taur"/>
+<cb n="P115rC1-Taur"/>
+<lb n="P115rC1L-Taur"/><w>τοῖς</w><w>αὐτοῖς</w><w>διαθλεῖν</w>
+<lb n="P115rC1L-Taur"/><w>ἐποίησε</w><w>πόνοις</w></ab><ab n="adStag1.6.61"><w>ὅ
+<lb n="P115rC1L-Taur" break="no"/>τι</w><w>οὐ</w><w>μία</w><w>παρὰ</w><w>θεῷ</w>
+<lb n="P115rC1L-Taur"/><w>γυμνασίας</w><w>ἰδέα</w><w>οὐ
+<lb n="P115rC1L-Taur" break="no"/>δὲ</w><w>τῶν</w><w>αὐτῶν</w><w>ἅπαν
+<lb n="P115rC1L-Taur" break="no"/>τες</w><w>δέονται</w><w>κἂν</w><w>ἐν</w><w>τοῖς</w>
+<lb n="P115rC1L-Taur"/><w>αὐτοῖς</w><w>ὦσι</w><w>καὶ</w><w>γὰρ</w>
+<lb n="P115rC1L-Taur"/><w>νοσοῦντες</w><w>πολλοὶ</w><w>τὰς</w>
+<lb n="P115rC1L-Taur"/><w>αὐτὰς</w><w>νόσους</w><w>οὐ</w><w>τῶν</w>
+<lb n="P115rC1L-Taur"/><w>αὐτῶν</w><w>ἐδεήθησαν</w><w>φαρ
+<lb n="P115rC1L-Taur" break="no"/>μάκων</w><w>ἀλλ’</w><w>ἑτέρων</w>
+<lb n="P115rC1L-Taur"/><w>μὲν</w><w>οὗτος</w><w>ἑτέρων</w><w>δὲ</w>
+<lb n="P115rC1L-Taur"/><w>ἐκεῖνος</w></ab><ab n="adStag1.6.62"><w>διὰ</w><w>τοῦτο</w><w>ποι
+<lb n="P115rC1L-Taur" break="no"/>κίλοι</w><w>καὶ</w><w>διάφοροι</w><w>τῶν</w>
+<lb n="P115rC1L-Taur"/><w>μαστίγων</w><w>οἱ</w><w>τρόποι</w>
+<lb n="P115rC1L-Taur"/><w>καὶ</w><w>ὁ</w><w>μὲν</w><w>νόσῳ</w><w>δοκιμά
+<lb n="P115rC1L-Taur" break="no"/>ζεται</w><w>μακρᾷ</w><w>ὁ</w><w>δὲ</w>
+<lb n="P115rC1L-Taur"/><w>βαρυτάτῃ</w><w>πενίᾳ</w><w>ἕ
+<lb n="P115rC1L-Taur" break="no"/>τερος</w><w>τῷ</w><w>βιάζεσθαι</w>
+<lb n="P115rC1L-Taur"/><w>καὶ</w><w>ἀδικεῖσθαι</w><w>ἄλλος</w>
+<lb n="P115rC1L-Taur"/><w>τῷ</w><w>συνεχεῖς</w><w>καὶ</w><w>ἐπαλ
+<lb n="P115rC1L-Taur" break="no"/>λήλους</w><w>θανάτους</w><w>καὶ</w>
+<lb n="P115rC1L-Taur"/><w>παίδων</w><w>καὶ</w><w>τῶν</w><w>αὐ
+<lb n="P115rC1L-Taur" break="no"/>τῷ</w><w>προσηκόντων</w>
+<lb n="P115rC1L-Taur"/><w>ἰδεῖν</w></ab><ab n="adStag1.6.63"><w>καὶ</w><w>οὗτος</w><w>μὲν</w><w>τῷ</w>
+<cb n="P115rC2-Taur"/>
+<lb n="P115rC2L-Taur"/><w>παρὰ</w><w>πάντων</w><w>ἀπορ
+<lb n="P115rC2L-Taur" break="no"/>ρίπτεσθαι</w><w>καὶ</w><w>μηδενὸς</w>
+<lb n="P115rC2L-Taur"/><w>ἀξιοῦσθαι</w><w>λόγου</w><w>ἐκεῖ
+<lb n="P115rC2L-Taur" break="no"/>νος</w><w>δὲ</w><w>τῷ</w><w>διαβάλλε
+<lb n="P115rC2L-Taur" break="no"/>σθαι</w><w>ἐφ’</w><w>οἷς</w><w>οὐδὲν</w><w>ἑαυ
+<lb n="P115rC2L-Taur" break="no"/>τῷ</w><w>σύνοιδε</w><w>καὶ</w><w>πονη
+<lb n="P115rC2L-Taur" break="no"/>ρᾶς</w><w>δόξης</w><w>ἀνέχεσθαι</w>
+<lb n="P115rC2L-Taur"/><w>βάρος</w><w>καὶ</w><w>ἄλλος</w><w>ἄλλως</w>
+<lb n="P115rC2L-Taur"/></ab><ab n="adStag1.6.64"><w>οὐ</w><w>γὰρ</w><w>δυνατὸν</w><w>ἅπαντα</w>
+<lb n="P115rC2L-Taur"/><w>μετὰ</w><w>ἀκριβείας</w><w>ἐξα
+<lb n="P115rC2L-Taur" break="no"/>ριθμήσασθαι</w><w>νῦν</w>
+<lb n="P115rC2L-Taur"/></ab><ab n="adStag1.6.65"><w>τούτων</w><w>οὖν</w><w>ἕκαστον</w><w>δο
+<lb n="P115rC2L-Taur" break="no"/>κεῖ</w><w>μὲν</w><w>ὅσον</w><w>πρὸς</w>
+<lb n="P115rC2L-Taur"/><w>τὴν</w><w>τῶν</w><w>σῶν</w><w>παρά
+<lb n="P115rC2L-Taur" break="no"/>θεσιν</w><w>συμφορῶν</w><w>κοῦ
+<lb n="P115rC2L-Taur" break="no"/>φον</w><w>εἶναι</w><w>καὶ</w><w>οὐδέν</w><w>εἰ</w>
+<lb n="P115rC2L-Taur"/><w>δὲ</w><w>ἐν</w><w>πείρᾳ</w><w>κατέστης</w>
+<lb n="P115rC2L-Taur"/><w>αὐτῶν</w><w>ἔμαθες</w><w>ἂν</w><w>ὅτι</w>
+<lb n="P115rC2L-Taur"/><w>τοῦτο</w><w>ἐφ’</w><w>ᾧ</w><w>σὺ</w><w>νῦν</w><w>ἀλύ
+<lb n="P115rC2L-Taur" break="no"/>εις</w><w>ἐκείνων</w><w>πολλῷ</w>
+<lb n="P115rC2L-Taur"/><w>φορητότερον</w></ab><ab n="adStag1.6.66"><w>εἰ</w><w>δὲ</w>
+<lb n="P115rC2L-Taur"/><w>καὶ</w><w>εἰσί</w><w>τινες</w><w>ἔλαττον</w>
+<lb n="P115rC2L-Taur"/><w>ἡμῶν</w><w>παιδευόμενοι</w>
+<lb n="P115rC2L-Taur"/><w>μὴ</w><w>σκανδαλιζώμεθα</w>
+<lb n="P115rC2L-Taur"/><w>ἐπὶ</w><w>τούτῳ</w><w>ἡ</w><w>γὰρ</w><w>τῶν</w>
+<pb n="115v" type="folio" xml:id="P115v-Taur"/>
+<cb n="P115vC1-Taur"/>
+<lb n="P115vC1L-Taur"/><w>πόνων</w><w>ἐπίτασις</w><w>μισθῶν</w>
+<lb n="P115vC1L-Taur"/><w>ἐπίτασίς</w><w>ἐστι</w><w>καὶ</w><w>ἀσφά
+<lb n="P115vC1L-Taur" break="no"/>λεια</w><w>πρὸς</w><w>τὸ</w><w>μήτε</w><w>ἑ
+<lb n="P115vC1L-Taur" break="no"/>κόντας</w><w>μήτε</w><w>ἄκοντας</w>
+<lb n="P115vC1L-Taur"/><w>ἐκπεσεῖν</w></ab><ab n="adStag1.6.67"><w>καὶ</w><w>γὰρ</w><w>καὶ</w>
+<lb n="P115vC1L-Taur"/><w>τῦφον</w><w>καταστέλλει</w>
+<lb n="P115vC1L-Taur"/><w>καὶ</w><w>ῥᾳθυμίαν</w><app><rdg type="orig" hand="firsthand"><w>ἐπιστρέφει</w></rdg><rdg type="corr" hand="corrector"><w>ἀποτρέπει</w></rdg></app><w>καὶ</w>
+<lb n="P115vC1L-Taur"/><w>φρονιμωτέ
+<lb n="P115vC1L-Taur" break="no"/>ρους</w><w>ποιεῖ</w><w>καὶ</w><w>εὐλα
+<lb n="P115vC1L-Taur" break="no"/>βεστέρους</w><w>ἐργάζεται</w>
+<lb n="P115vC1L-Taur"/></ab><ab n="adStag1.6.68"><w>καὶ</w><w>ὅλως</w><w>εἰ</w><w>βούλοιτό</w>
+<lb n="P115vC1L-Taur"/><w>τις</w><w>ἐξαριθμεῖν</w><w>ἅπαν
+<lb n="P115vC1L-Taur" break="no"/>τα</w><w>πολλὰ</w><w>ἂν</w><w>εὕρη</w><w>τὰ</w>
+<lb n="P115vC1L-Taur"/><w>κέρδη</w><w>τῶν</w><w>πειρασμῶν</w>
+<lb n="P115vC1L-Taur"/><w>καὶ</w><w>οὐκ</w><w>ἔστιν</w><w>οὐδεὶς</w><w>ὧν</w>
+<lb n="P115vC1L-Taur"/><w>πολὺς</w><w>παρὰ</w><w>τῷ</w><w>θεῷ</w>
+<lb n="P115vC1L-Taur"/><w>λόγος</w><w>θλίψεως</w><w>ἐκτὸς</w>
+<lb n="P115vC1L-Taur"/><w>κἂν</w><w>ἡμῖν</w><w>οὕτω</w><w>φαίνη
+<lb n="P115vC1L-Taur" break="no"/>ται</w></ab></div></div></body></text></TEI>
