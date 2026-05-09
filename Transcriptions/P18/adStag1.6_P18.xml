@@ -1,0 +1,133 @@
+
+<!DOCTYPE TEI>
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A transcription of in P18</title>
+<title type="document" n="P18">P18</title>
+</titleStmt>
+<publicationStmt>
+<p>Temporary PublicationStmt for validation</p>
+</publicationStmt>
+<sourceDesc>
+<p>Temporary sourceDesc for validation</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader><text><body><div type="book" n="adStag1"><div type="chapter" n="adStag1.6">
+<pb n="20r" type="folio" xml:id="P20r-P18"/>
+<cb n="P20rC1-P18"/>
+<lb n="P20rC1L-P18"/><ab n="adStag1.6.52"><w>πολλοὶ</w><w>κατέπεσον</w>
+<lb n="P20rC1L-P18"/><w>φησίν</w><w>ἑαυτοὺς</w><w>ἀποστερή
+<lb n="P20rC1L-P18" break="no"/>σαντες</w><w>τοῦ</w><w>θεοῦ</w><w>οὐ</w><w>κατα
+<lb n="P20rC1L-P18" break="no"/>λειφθέντες</w><w>ὑπ’</w><w>αὐτοῦ</w></ab><ab n="adStag1.6.53"><w>ἰ
+<lb n="P20rC1L-P18" break="no"/>δοὺ</w><w>γὰρ</w><w>οἱ</w><w>μακρύνοντες</w>
+<lb n="P20rC1L-P18"/><w>ἑαυτοὺς</w><w>ἀπὸ</w><w>σοῦ</w><w>ἀπο
+<lb n="P20rC1L-P18" break="no"/>λοῦνται</w></ab><ab n="adStag1.6.54"><w>μακρύνουσι</w><w>δὲ</w>
+<lb n="P20rC1L-P18"/><w>οἱ</w><w>μὴ</w><w>φέροντες</w><w>τὰς</w><w>τοῦ</w>
+<lb n="P20rC1L-P18"/><w>θεοῦ</w><w>παιδείας</w><w>ἀλλ’</w><w>ὀργιζό
+<lb n="P20rC1L-P18" break="no"/>μενοι</w><w>καὶ</w><w>δυσανασχε
+<lb n="P20rC1L-P18" break="no"/>τοῦντες</w></ab><ab n="adStag1.6.55"><w>καὶ</w><w>καθάπερ</w><w>οἱ</w>
+<lb n="P20rC1L-P18"/><w>μοχθηροὶ</w><w>τῶν</w><w>παίδων</w>
+<lb n="P20rC1L-P18"/><w>τῶν</w><w>πατέρων</w><w>αὐτοὺς</w><w>πρὸς</w>
+<lb n="P20rC1L-P18"/><w>διδασκάλους</w><w>πεμπόν
+<lb n="P20rC1L-P18" break="no"/>των</w><w>ἂν</w><w>τοὺς</w><w>ἐκεῖ</w><w>πόνους</w>
+<lb n="P20rC1L-P18"/><w>καὶ</w><w>τὰς</w><w>ὀλίγας</w><w>φεύγοντες</w>
+<lb n="P20rC1L-P18"/><w>πληγὰς</w><w>τῆς</w><w>τῶν</w><w>γονέ
+<lb n="P20rC1L-P18" break="no"/>ων</w><w>ἀποπηδῶσιν</w><w>ὄψεως</w>
+<lb n="P20rC1L-P18"/><w>ἐκέρδανάν</w><w>τε</w><w>οὐδὲν</w><w>καὶ</w>
+<lb n="P20rC1L-P18"/><w>χείροσιν</w><w>ἑαυτοὺς</w><w>περιέ
+<lb n="P20rC1L-P18" break="no"/>πειραν</w><w>κακοῖς</w><w>ἐν</w><w>ἀλλοτρίᾳ</w>
+<lb n="P20rC1L-P18"/><w>λιμώττειν</w><w>καὶ</w><w>ἀλᾶσθαι</w>
+<lb n="P20rC1L-P18"/><w>καὶ</w><w>ἀτιμάζεσθαι</w><w>καὶ</w><w>δου
+<lb n="P20rC1L-P18" break="no"/>λεύειν</w><w>ἀναγκαζόμενοι</w>
+<lb n="P20rC1L-P18"/></ab><ab n="adStag1.6.56"><w>οὕτω</w><w>καὶ</w><w>οἱ</w><w>τὴν</w><w>τοῦ</w><w>θεοῦ</w><w>παι
+<lb n="P20rC1L-P18" break="no"/>δείαν</w><w>εὐχαρίστως</w><w>μὴ</w><w>φέ
+<lb n="P20rC1L-P18" break="no"/>ροντες</w><w>ἀλλὰ</w><w>δυσανασχε
+<lb n="P20rC1L-P18" break="no"/>τοῦντες</w><w>πρὸς</w><w>τὸ</w><w>μὴδὲν</w>
+<lb n="P20rC1L-P18"/><w>ἐξ</w><w>αὐτῆς</w><w>καρπώσασθαι</w>
+<lb n="P20rC1L-P18"/><w>καὶ</w><w>ταῖς</w><w>ἐσχάταις</w><w>ἑαυτοὺς</w>
+<lb n="P20rC1L-P18"/><w>περιβάλλουσι</w><w>συμφοραῖς</w>
+<lb n="P20rC1L-P18"/></ab><ab n="adStag1.6.57"><w>διὰ</w><w>τοῦτο</w><w>ὑπὸ</w><w>τοῦ</w><w>σοφοῦ</w>
+<lb n="P20rC1L-P18"/><w>καρτερεῖν</w><w>παρηγγέλθη
+<lb n="P20rC1L-P18" break="no"/>μεν</w><w>καὶ</w><w>τὴν</w><w>καρδίαν</w><w>εὐ
+<lb n="P20rC1L-P18" break="no"/>θύνειν</w><w>τὴν</w><w>ἑαυτῶν</w></ab><ab n="adStag1.6.58"><w>ἀλλὰ</w>
+<lb n="P20rC1L-P18"/><w>πολλῷ</w><w>χαλεπώτερα</w><w>πέπον
+<cb n="P20rC2-P18" break="no"/>
+<lb n="P20rC2L-P18"/>θας</w><w>καὶ</w><w>τί</w><w>τοῦτο</w><w>ἀλλὰ</w><w>μεῖζον</w><w>σοι</w><w>ἔσται</w><w>καὶ</w><w>ὁ</w><w>μισθός</w>
+<lb n="P20rC2L-P18"/><w>οὕτω</w><w>καὶ</w><w>παιδοτρίβαι</w><w>ποι
+<lb n="P20rC2L-P18" break="no"/>οῦντες</w><w>οὐ</w><w>πάντας</w><w>ὁμοί
+<lb n="P20rC2L-P18" break="no"/>ως</w><w>καὶ</w><w>ἑνὶ</w><w>τρόπῳ</w><w>γυμνά
+<lb n="P20rC2L-P18" break="no"/>ζουσιν</w><w>ἀλλὰ</w><w>τοῖς</w><w>μὲν</w><w>ἀ
+<lb n="P20rC2L-P18" break="no"/>σθενεστέροις</w><w>ἀσθενεῖς</w>
+<lb n="P20rC2L-P18"/><w>τοῖς</w><w>δὲ</w><w>γενναίοις</w><w>τοιούτους</w>
+<lb n="P20rC2L-P18"/><w>παρέχουσιν</w><w>ἀνταγωνιστάς</w>
+<lb n="P20rC2L-P18"/></ab><ab n="adStag1.6.59"><w>ὁ</w><w>γὰρ</w><w>ἐλάττω</w><w>τῆς</w><w>οἰκείας</w>
+<lb n="P20rC2L-P18"/><w>δυνάμεως</w><w>λαβὼν</w><w>τὸν</w><w>ἀν
+<lb n="P20rC2L-P18" break="no"/>ταγωνιστὴν</w><w>κἂν</w><w>δι’</w><w>ὅλης</w>
+<lb n="P20rC2L-P18"/><w>αὐτῷ</w><w>συμπλέκηται</w><w>τῆς</w>
+<lb n="P20rC2L-P18"/><w>ἡμέρας</w><w>ἐκεῖνος</w><w>ἀγύμνα
+<lb n="P20rC2L-P18" break="no"/>στος</w><w>ἔμεινε</w></ab><ab n="adStag1.6.60"><w>πῶς</w><w>οὖν</w><w>φησὶ</w>
+<lb n="P20rC2L-P18"/><w>τοὺς</w><w>τὸν</w><w>αὐτὸν</w><w>ἐπανῃρη
+<lb n="P20rC2L-P18" break="no"/>μένους</w><w>βίον</w><w>οὐ</w><w>τοῖς</w><w>αὐ
+<lb n="P20rC2L-P18" break="no"/>τοῖς</w><w>ἀθλεῖν</w><w>ἐποίησε</w><w>πό
+<lb n="P20rC2L-P18" break="no"/>νοις</w></ab><ab n="adStag1.6.61"><w>ὅτι</w><w>οὐ</w><w>μία</w><w>παρὰ</w>
+<lb n="P20rC2L-P18"/><w>θεῷ</w><w>γυμνασίας</w><w>ἰδέα</w>
+<lb n="P20rC2L-P18"/><w>οὐδὲ</w><w>τῶν</w><w>αὐτῶν</w><w>ἅπαντες</w>
+<lb n="P20rC2L-P18"/><w>δέονται</w><w>κἂν</w><w>ἐν</w><w>τοῖς</w><w>αὐ
+<lb n="P20rC2L-P18" break="no"/>τοῖς</w><w>ὦσι</w><w>καὶ</w><w>γὰρ</w><w>νοσοῦν
+<lb n="P20rC2L-P18" break="no"/>τες</w><w>πολλοὶ</w><w>τὰς</w><w>αὐτὰς</w><w>νό
+<lb n="P20rC2L-P18" break="no"/>σους</w><w>οὐ</w><w>τῶν</w><w>αὐτῶν</w><w>ἐδεή
+<lb n="P20rC2L-P18" break="no"/>θησαν</w><w>φαρμάκων</w><w>ἀλλ’</w><w>ἑ
+<lb n="P20rC2L-P18" break="no"/>τέρων</w><w>μὲν</w><app><rdg type="orig" hand="firsthand"><w>οὕτως</w></rdg><rdg type="corr" hand="corrector"><seg type="line" subtype="above" n="@P20rC2L-P18"><w>οὕτος</w></seg></rdg></app><w>ἑτέρων</w>
+<lb n="P20rC2L-P18"/><w>δὲ</w><w>ἐκεῖνος</w></ab><ab n="adStag1.6.62"><w>διὰ</w><w>τοῦτο</w><w>ποι
+<lb n="P20rC2L-P18" break="no"/>κίλοι</w><w>καὶ</w><w>διάφοροι</w><w>τῶν</w>
+<lb n="P20rC2L-P18"/><w>μαστίγων</w><w>οἱ</w><w>τρόποι</w><w>καὶ</w>
+<lb n="P20rC2L-P18"/><w>ὁ</w><w>μὲν</w><w>νόσῳ</w><w>δοκιμάζεται</w>
+<lb n="P20rC2L-P18"/><w>μακρᾷ</w><w>ὁ</w><w>δὲ</w><w>βαρυτάτῃ</w>
+<lb n="P20rC2L-P18"/><w>πενίᾳ</w><w>ἕτερος</w><w>τῷ</w><w>βιάζε
+<lb n="P20rC2L-P18" break="no"/>σθαι</w><w>καὶ</w><w>ἀδικεῖσθαι</w><w>ἄλλος</w>
+<lb n="P20rC2L-P18"/><w>τῷ</w><w>συνεχεῖς</w><w>καὶ</w><w>ἐπαλλήλους</w>
+<lb n="P20rC2L-P18"/><w>θανάτους</w><w>καὶ</w><w>παίδων</w><w>καὶ</w>
+<pb n="20v" type="folio" xml:id="P20v-P18"/>
+<cb n="P20vC1-P18"/>
+<lb n="P20vC1L-P18"/><w>τῶν</w><w>αὐτῷ</w><w>προσηκόντων</w><w>ἰ
+<lb n="P20vC1L-P18" break="no"/>δεῖν</w></ab><ab n="adStag1.6.63"><w>καὶ</w><w>οὗτος</w><w>μὲν</w><w>τῷ</w><w>πα
+<lb n="P20vC1L-P18" break="no"/>ρὰ</w><w>πάντων</w><w>ἀπορρίπτε
+<lb n="P20vC1L-P18" break="no"/>σθαι</w><w>καὶ</w><w>μὴδενὸς</w><w>ἀξιοῦ
+<lb n="P20vC1L-P18" break="no"/>σθαι</w><w>λόγου</w><w>ἐκεῖνος</w><w>δὲ</w><w>τῷ</w>
+<lb n="P20vC1L-P18"/><w>διαβάλλεσθαι</w><w>ἐφ’</w><w>οἷς</w><w>οὐ
+<lb n="P20vC1L-P18" break="no"/>δὲν</w><w>ἑαυτῷ</w><w>σύνοιδε</w><w>καὶ</w><w>πο
+<lb n="P20vC1L-P18" break="no"/>νηρᾶς</w><w>δόξης</w><w>ἀνασχεσθαι</w>
+<lb n="P20vC1L-P18"/><w>βάρος</w><w>καὶ</w><w>ἄλλος</w><w>ἄλλως</w>
+<lb n="P20vC1L-P18"/></ab><ab n="adStag1.6.64"><w>οὐ</w><w>γὰρ</w><w>δυνατὸν</w><w>ἅπαντα</w>
+<lb n="P20vC1L-P18"/><w>μετὰ</w><w>ἀκριβείας</w><w>ἐξαριθ
+<lb n="P20vC1L-P18" break="no"/>μήσασθαι</w><w>νῦν</w></ab><ab n="adStag1.6.65"><w>τούτων</w>
+<lb n="P20vC1L-P18"/><w>μὲν</w><w>ἕκαστον</w><w>δοκεῖ</w><w>μὲν</w><w>ὅσον</w>
+<lb n="P20vC1L-P18"/><w>πρὸς</w><w>τὴν</w><w>τῶν</w><w>σῶν</w>
+<lb n="P20vC1L-P18"/><w>παράθεσιν</w><w>συμφορῶν</w><w>κοῦ
+<lb n="P20vC1L-P18" break="no"/>φον</w><w>εἶναι</w><w>καὶ</w><w>οὐδέν</w><w>εἰ</w><w>δὲ</w>
+<lb n="P20vC1L-P18"/><w>ἐν</w><w>πείρᾳ</w><w>κατέστης</w><w>αὐτῶν</w>
+<lb n="P20vC1L-P18"/><w>ἔμαθες</w><w>ἂν</w><w>ὅτι</w><w>τοῦτο</w><w>ἐ
+<lb n="P20vC1L-P18" break="no"/>φ’</w><w>ᾧ</w><w>σὺ</w><w>νῦν</w><w>ἀλύεις</w><w>ἐκείνων</w>
+<lb n="P20vC1L-P18"/><w>πολλῷ</w><w>φορητότερον</w></ab><ab n="adStag1.6.66"><w>εἰ</w>
+<lb n="P20vC1L-P18"/><w>δὲ</w><w>καὶ</w><w>εἰσί</w><w>τινες</w><w>ἔλαττον</w>
+<lb n="P20vC1L-P18"/><w>ἡμῶν</w><w>παιδευόμενοι</w><w>μὴ</w>
+<lb n="P20vC1L-P18"/><w>σκανδαλιζώμεθα</w><w>ἐπὶ</w><w>τού
+<lb n="P20vC1L-P18" break="no"/>τῳ</w><w>ἡ</w><w>γὰρ</w><w>τῶν</w><w>πόνων</w><w>ἐπί
+<lb n="P20vC1L-P18" break="no"/>τασις</w><w>μισθῶν</w><w>ἐπίτασίς</w>
+<lb n="P20vC1L-P18"/><w>ἐστι</w><w>καὶ</w><w>ἀσφάλεια</w><w>πρὸς</w>
+<lb n="P20vC1L-P18"/><w>τὸ</w><w>μήτε</w><w>ἑκόντας</w><w>μήτε</w>
+<lb n="P20vC1L-P18"/><w>ἄκοντας</w><w>ἐκπεσεῖν</w></ab><ab n="adStag1.6.67"><w>καὶ</w><w>γὰρ</w>
+<lb n="P20vC1L-P18"/><w>καὶ</w><w>τῦφον</w><w>καταστέλλει</w>
+<lb n="P20vC1L-P18"/><w>καὶ</w><w>ῥᾳθυμίαν</w><w>ἀποστρέφει</w>
+<lb n="P20vC1L-P18"/><w>καὶ</w><w>φρονιμωτέρους</w><w>ποιεῖ</w>
+<lb n="P20vC1L-P18"/><w>καὶ</w><w>εὐλαβεστέρους</w><w>ἐργάζε
+<lb n="P20vC1L-P18" break="no"/>ται</w></ab><ab n="adStag1.6.68"><w>καὶ</w><w>ὅλως</w><w>εἰ</w><w>βούλοιτό</w>
+<lb n="P20vC1L-P18"/><w>τις</w><w>ἐξαριθμεῖν</w><w>ἅπαντα</w>
+<lb n="P20vC1L-P18"/><w>πολλὰ</w><w>ἂν</w><w>εὕρη</w><w>τὰ</w><w>κέρδη</w><w>τῶν</w>
+<lb n="P20vC1L-P18"/><w>πειρασμῶν</w><w>καὶ</w><w>οὐκ</w><w>ἔστιν</w><w>οὐ
+<cb n="P20vC2-P18" break="no"/>
+<lb n="P20vC2L-P18"/>δεὶς</w><w>ὧν</w><w>πολὺς</w><w>παρὰ</w><w>τῷ</w>
+<lb n="P20vC2L-P18"/><w>θεῷ</w><w>λόγος</w><w>θλίψεων</w><w>ἐκτὸς</w>
+<lb n="P20vC2L-P18"/><w>κἂν</w><w>ἡμῖν</w><w>οὕτω</w><w>φαίνηται</w></ab></div></div></body></text></TEI>
